@@ -2,7 +2,7 @@
 version: '3.7'
 services:
     page:
-        image: jekyll/jekyll:3.8.5
+        image: jekyll/jekyll:pages
         volumes: 
             - ./:/srv/jekyll
         ports: 
