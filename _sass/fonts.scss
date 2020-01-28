@@ -1,0 +1,61 @@
+@font-face {
+    font-family: SEBSansSerif;
+    src: url(../assets/fonts/SEBSansSerif-Light.woff2) format('woff2'),
+      url(../assets/fonts/SEBSansSerif-Light.woff) format('woff');
+    font-weight: 200;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: SEBSansSerif;
+    src: url(../assets/fonts/SEBSansSerif-LightItalic.woff2) format('woff2'),
+      url(../assets/fonts/SEBSansSerif-LightItalic.woff) format('woff');
+    font-weight: 200;
+    font-style: italic;
+  }
+  @font-face {
+    font-family: SEBSansSerif;
+    src: url(../assets/fonts/SEBSansSerif-Regular.woff2) format('woff2'),
+      url(../assets/fonts/SEBSansSerif-Regular.woff) format('woff');
+    font-weight: 400;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: SEBSansSerif;
+    src: url(../assets/fonts/SEBSansSerif-RegularItalic.woff2) format('woff2'),
+      url(../assets/fonts/SEBSansSerif-RegularItalic.woff) format('woff');
+    font-weight: 400;
+    font-style: italic;
+  }
+  @font-face {
+    font-family: SEBSansSerif;
+    src: url(../assets/fonts/SEBSansSerif-Medium.woff2) format('woff2'),
+      url(../assets/fonts/SEBSansSerif-Medium.woff) format('woff');
+    font-weight: 500;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: SEBSansSerif;
+    src: url(../assets/fonts/SEBSansSerif-MediumItalic.woff2) format('woff2'),
+      url(../assets/fonts/SEBSansSerif-MediumItalic.woff) format('woff');
+    font-weight: 500;
+    font-style: italic;
+  }
+  @font-face {
+    font-family: SEBSansSerif;
+    src: url(../assets/fonts/SEBSansSerif-Bold.woff2) format('woff2'),
+      url(../assets/fonts/SEBSansSerif-Bold.woff) format('woff');
+    font-weight: 700;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: SEBSansSerif;
+    src: url(../assets/fonts/SEBSansSerif-BoldItalic.woff2) format('woff2'),
+      url(../assets/fonts/SEBSansSerif-BoldItalic.woff) format('woff');
+    font-weight: 700;
+    font-style: italic;
+  }
+  body {
+    font-family: SEBSansSerif, Arial, sans-serif;
+    color: #333;
+    line-height: 1.4;
+  }

@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="title" content="{{ page.title }}">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>{{ page.title }}</title>
+    <link rel="shortcut icon" type="image/png" href="{{ site.baseurl }}/assets/favicon.ico"/>
+
+    <link rel="stylesheet" href="{{ site.baseurl }}/main-styles.css"/>
+    <script async defer src="../js/main.js"></script>
+  </head>
+  <body>
+
+    <nav>
+        <div id="hamburger-wrapper">
+            <img id="hamburger-icon" src="../assets/hamburger.jpg" alt="">
+        </div>
+        <div class="nav-title">
+            <a class="nav-link" href="{{ site.baseurl }}/">SEB Open Source</a>
+        </div>
+        <ul id="desktop-menu" class="nav-menu">
+            {% include nav-links.html %}
+        </ul>
+        <div class="logo-wrapper">
+            <img id="seb-logo" src="../assets/seb.svg" alt="">
+        </div>
+    </nav>
+    <ul id="mobile-menu" class="nav-menu">
+        {% include nav-links.html %}
+    </ul>
+
+    <div class="site">
+        {{ content }}
+    </div>
+
+    <div class="footer">
+        <div class="Grid container">
+            <div class="Grid-cell footer-cell footer-margin">
+                <button onclick="location.href='{{ site.baseurl }}/projects'" type="button" class="Button Button--large">Explore Projects</button>
+            </div>
+            <div class="Grid-cell footer-cell footer-margin">
+                <h3 class="xsmall-margin">
+                    About
+                </h3>
+                <a class="foot-link" href="https://sebgroup.com/about-seb/who-we-are" target="_blank">About SEB</a>
+                <a class="foot-link" target="_blank" href="https://sebgroup.com/career">Careers</a>
+            </div>
+
+            <div class="Grid-cell footer-cell footer-margin">
+                <h3 class="xsmall-margin">
+                    Follow us
+                </h3>
+                <a class="foot-link" target="_blank" href="https://www.facebook.com/sebsverige/">-</a>
+            </div>
+
+            <div class="Grid-cell footer-cell footer-margin">
+                <h3 class="xsmall-margin">
+                    Developers
+                </h3>
+                <a class="foot-link" target="_blank" href="https://developer.sebgroup.com/">Open Banking</a>
+                <a class="foot-link" target="_blank" href="https://github.com/sebgroup/">GitHub</a>
+            </div>
+
+            <div class="Grid-cell footer-cell">
+                <p class="foot-link">© 2020 SEB Group</p>
+            </div>
+
+        </div>
+    </div>
+  </body>
+
+</html>

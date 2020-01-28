@@ -1,0 +1,88 @@
+/* SEB COLORS */
+$green: #60cd18;
+$darkgreen1: #45b400;
+$darkgreen2: #379d00;
+$yellow: #ffc500;
+$darkyellow1: #ffb400;
+$darkyellow2: #f8a000;
+$purple: #673ab6;
+$darkpurple1: #4f2c99;
+$darkpurple2: #3f2587;
+$red: #f03529;
+$darkred1: #d81a1a;
+$darkred2: #bb000c;
+$blue: #41b0ee;
+$darkblue1: #0092e1;
+$darkblue2: #007ac7;
+$black: #000000;
+$grey1: #1a1a1a;
+$grey2: #333333;
+$grey3: #4d4d4d;
+$grey4: #666666;
+$grey5: #808080;
+$grey6: #999999;
+$grey7: #b3b3b3;
+$grey8: #e6e6e6;
+$grey9: #f6f6f6;
+$spacer-xs: 8px;
+$spacer-s: 12px;
+$spacer-m: 16px;
+$spacer-l: 24px;
+$spacer-xl: 36px;
+$max-width: 1180px;
+// breakpoints
+$bp-s: 767px;
+$bp-m: 900px;
+$bp-l: 1023px;
+@mixin small {
+  @media only screen and (min-width: $bp-s) {
+    @content;
+  }
+}
+@mixin medium {
+  @media only screen and (min-width: $bp-m) {
+    @content;
+  }
+}
+@mixin large {
+  @media only screen and (min-width: $bp-l) {
+    @content;
+  }
+}
+@mixin custom($size) {
+  @media only screen and (min-width: $size+'px') {
+    @content;
+  }
+}
+@mixin padding-small {
+  padding: $spacer-s;
+  @include small {
+    padding: $spacer-xs;
+  }
+}
+@mixin padding-medium {
+  padding: $spacer-m;
+  @include small {
+    padding: $spacer-s;
+  }
+}
+@mixin padding-large {
+  padding: $spacer-l;
+  @include small {
+    padding: $spacer-m;
+  }
+}
+@mixin padding-xlarge {
+  padding: $spacer-xl;
+  @include small {
+    padding: $spacer-l;
+  }
+}
+@mixin flex-vertical {
+  display: flex;
+  flex-direction: column;
+}
+@mixin flex-horizontal {
+  display: flex;
+  flex-direction: row;
+}

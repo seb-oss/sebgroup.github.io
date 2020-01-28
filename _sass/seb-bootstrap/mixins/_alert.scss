@@ -1,0 +1,37 @@
+@mixin alert-variant($background, $border, $color) {
+  color: color-yiq($background);
+  @include gradient-bg($background);
+  border-color: $border;
+
+  hr {
+    border-top-color: $white; // border-top-color: darken($border, 5%);
+  }
+
+  .alert-link {
+    color: color-yiq($background);
+    text-decoration: underline;
+    &:hover {
+      color: $link-hover-color;
+    }
+    &.external:not(:hover):after {
+      content: str-replace($external-link-icon, str-replace(#{'fill=\'' + $external-link-icon-color + '\''}, "#", "%23"), str-replace(#{'fill=\'' + color-yiq($background) + '\''}, "#", "%23"));
+    }
+  }
+}
+
+@mixin alert-icon($background, $border, $color, $context) {
+  &::before {
+    content: '';
+    background: str-replace(map-get($theme-icons, $context), str-replace(#{'fill=\'' + $icon-fill-color + '\''}, "#", "%23"), str-replace(#{'fill=\'' + color-yiq($background) + '\''}, "#", "%23"));
+    margin-right: $alert-padding-x;
+    margin-left: -$alert-icon-width - $alert-padding-x;
+    width: $alert-icon-width;
+    height: $alert-icon-height;
+    display: inline-block;
+    background-position: center;
+    background-repeat: no-repeat;
+    vertical-align: top;
+    margin-top: 4px;
+  }
+}
+

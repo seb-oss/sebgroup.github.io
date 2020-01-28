@@ -1,0 +1,98 @@
+body {
+    margin: 0;
+    display: flex;
+    min-height: 100wh;
+    flex-direction: column;
+}
+
+a {
+    text-decoration: none;
+}
+
+nav {
+    position: fixed;
+    display: flex;
+    flex-direction: row;
+    height: 48px;
+    width: 100%;
+    background: $grey2;
+    justify-content: flex-start;
+
+    > * {
+        height: 100%;
+    }
+
+    a {
+        text-align: center;
+        color: white;
+    }
+}
+
+.logo-wrapper {
+}
+
+#seb-logo {
+    height: 48px;
+    width: auto;    
+}
+
+#hamburger-icon {
+    height: 48px;
+    width: auto;
+}
+
+.nav-title {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    flex-grow: 1;
+}
+
+ul.nav-menu {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+}
+
+.nav-link {
+    color: white;
+}
+
+.nav-link:hover {
+    color: $grey5;
+}
+
+#desktop-menu {
+    display: none;
+}
+
+#mobile-menu {
+    display: none;
+    flex-direction: column;
+    z-index: 10;
+    position: fixed;
+    top: 48px;
+    width: 100%;
+    background: $grey2;
+    margin: 0;
+    padding-left: 0px;
+    padding-bottom: $spacer-s;
+    .nav-list-item {
+        padding: $spacer-xs $spacer-s;
+        color: white;
+    }
+}
+
+#mobile-menu.menu-open {
+    display: flex;
+}
+
+.site {
+    margin-top: 48px;
+    padding: 24px;
+    display: flex;
+    flex-direction: column;
+    margin-left: auto;
+    margin-right: auto;
+}
