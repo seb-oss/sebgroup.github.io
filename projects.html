@@ -11,16 +11,24 @@ description: SEB Open Source Projects
 </div>
 
 <div class="projects-wrapper">
-    <ul>
+    <ul id="projects-list">
         {% for item in site.data.projects %}
-        <li>
-            <h3> {{ item.name }}</h3>
-            <p> {{ item.description }} </p>
-            <p style="color: {{ item.primaryLanguage.color }}">{{ item.primaryLanguage.name  }}</p>
-            <p>Latest update: {{ item.pushedAt | date: "%Y-%m-%d" }}</p>
-            <p>{{ item.stargazers }}</p>
-            <a href="{{ item.homepageUrl }}">Website</a>
-            <a href="{{ item.url}}">Repository</a>
+        <li style="border-left-color: {{ item.primaryLanguage.color }}" class="project-item">
+            <div class="project-item-header">
+                <h3> {{ item.name }}</h3>
+                <div class="star-wrapper">
+                    <img class="star-icon" src="./assets/yellow-star-png-4.png" alt="">
+                    <p>{{ item.stargazers }}</p>
+                </div>
+            </div>
+            <p class="project-item-language">{{ item.primaryLanguage.name  }}</p>
+            <p>{{ item.description }} </p>
+
+            <div class="project-item-links">
+                <a href="{{ item.url}}"><i class="fab fa-github"></i> Repository</a>
+                <a href="{{ item.homepageUrl }}"><i class="far fa-link"></i> Website</a>
+            </div>
+            <p class="project-item-updated">Updated {{ item.pushedAt | date: "%Y-%m-%d" }}</p>
         </li>
         {% endfor %}
     </ul>

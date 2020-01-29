@@ -1,0 +1,53 @@
+.projects-header, .projects-wrapper {
+    padding: $spacer-l;
+}
+
+#projects-list {
+    list-style: none;
+    padding-left: 0;
+}
+
+.project-item {
+    @include flex-vertical;
+    margin-bottom: $spacer-xl;
+    padding-left: $spacer-s;
+    border-left-style: solid;
+}
+
+.star-icon {
+    height: 32px;
+    width: 32px;
+}
+
+.star-wrapper {
+    @include flex-horizontal;
+    align-items: center;
+    margin-left: $spacer-s;
+}
+
+.project-item-header {
+    @include flex-horizontal;
+    justify-content: space-between;
+
+    h3 {
+        margin-bottom: 0;
+    }
+}
+
+.project-item-language {
+    margin-top: 0;
+    font-size: 90%;
+}
+
+.project-item-links {
+    i {
+        font-size: 24px;
+        margin-right: $spacer-xs;
+    }
+
+    a {
+        color: black;
+        margin-bottom: $spacer-s;
+    }
+    @include flex-vertical;
+}
