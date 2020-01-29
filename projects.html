@@ -5,41 +5,24 @@ title: Projects
 description: SEB Open Source Projects
 ---
 
-<!-- Header -->
-
-<div class="header simple-header">
-    <div class="Grid container">
-        <div id="header-text" class="Grid-cell">
-            <h1 class="large-title">Projects</h1>
-        </div>
-    </div>
-
+<div class="projects-header">
+    <h1> {{page.title}} </h1>
+    <h3> {{page.description}} </h3>
 </div>
 
-<!-- Container for no results text -->
-<div class="Grid container no-results-container"></div>
-
-<!-- Projects grid (See renderProjects() in projects.js) -->
-<div class="Grid container all-projects"></div>
-<!-- End of all-projects -->
-
-<script type="text/javascript">
-    let allProjects = [];
-    {% for item in site.data.projects %}
-        allProjects.push({
-            name: "{{ item[1]["name"] }}",
-            nameWithOwner: "{{ item[1]["nameWithOwner"] }}",
-            description: `{{ item[1]["descriptionHTML"] }}`,
-            color: "{{ item[1]["primaryLanguage"]["color"] }}",
-            primaryLanguage: "{{ item[1]["primaryLanguage"]["name"] }}",
-            homepageURL: "{{ item[1]["homepageUrl"] }}",
-            pushedAt : "{{ item[1]["pushedAt"] }}",
-            languages : "{{ item[1]["languages"] }}",
-            forks : "{{ item[1]["forkCount"] }}",
-            topics : "{{ item[1]["repositoryTopics"] }}",
-            stars : "{{ item[1]["stargazers"] }}",
-            watchers : "{{ item[1]["watchers"] }}",
-        })
-    {% endfor %}
-</script>
+<div class="projects-wrapper">
+    <ul>
+        {% for item in site.data.projects %}
+        <li>
+            <h3> {{ item.name }}</h3>
+            <p> {{ item.description }} </p>
+            <p style="color: {{ item.primaryLanguage.color }}">{{ item.primaryLanguage.name  }}</p>
+            <p>Latest update: {{ item.pushedAt | date: "%Y-%m-%d" }}</p>
+            <p>{{ item.stargazers }}</p>
+            <a href="{{ item.homepageUrl }}">Website</a>
+            <a href="{{ item.url}}">Repository</a>
+        </li>
+        {% endfor %}
+    </ul>
+</div>
 
