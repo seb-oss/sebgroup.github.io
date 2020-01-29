@@ -1,128 +1,128 @@
 body {
-    margin: 0;
-    display: flex;
-    min-height: 100wh;
-    flex-direction: column;
+  margin: 0;
+  display: flex;
+  min-height: 100wh;
+  flex-direction: column;
 }
 
 a {
-    text-decoration: none;
+  text-decoration: none;
 }
 
 nav {
-    position: fixed;
-    display: flex;
-    flex-direction: row;
-    height: $navbar-height;
-    width: 100%;
-    background: $grey2;
-    justify-content: flex-start;
+  z-index: 10;
+  position: fixed;
+  display: flex;
+  flex-direction: row;
+  height: $navbar-height;
+  width: 100%;
+  background: $grey2;
+  justify-content: flex-start;
 
-    > * {
-        height: 100%;
-    }
+  > * {
+    height: 100%;
+  }
 
-    a {
-        text-align: center;
-        color: white;
-    }
+  a {
+    text-align: center;
+    color: white;
+  }
 }
 
 .logo-wrapper {
 }
 
 #seb-logo {
-    height: $navbar-height;
-    width: auto;    
+  height: $navbar-height;
+  width: auto;
 }
 
 #hamburger-icon {
-    height: $navbar-height;
-    width: auto;
+  height: $navbar-height;
+  width: auto;
 }
 
 .nav-title {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: flex-start;
-    flex-grow: 1;
-    font-size: 150%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  flex-grow: 1;
+  font-size: 150%;
 }
 
 ul.nav-menu {
-    list-style: none;
-    display: flex;
-    flex-direction: row;
+  list-style: none;
+  display: flex;
+  flex-direction: row;
 }
 
 .nav-list-item .nav-link {
-    font-size: 130%;
+  font-size: 130%;
 }
 
 .nav-link {
-    color: white;
+  color: white;
 }
 
 .nav-link:hover {
-    color: $grey5;
+  color: $grey5;
 }
 
 #desktop-menu {
-    display: none;
+  display: none;
 }
 
 #mobile-menu {
-    display: none;
-    flex-direction: column;
-    z-index: 10;
-    position: fixed;
-    top: $navbar-height;
-    width: 100%;
-    background: $grey2;
-    margin: 0;
-    padding-left: 0px;
-    padding-bottom: $spacer-s;
-    .nav-list-item {
-        padding: $spacer-xs $spacer-s;
-        color: white;
-    }
+  display: none;
+  flex-direction: column;
+  z-index: 10;
+  position: fixed;
+  top: $navbar-height;
+  width: 100%;
+  background: $grey2;
+  margin: 0;
+  padding-left: 0px;
+  padding-bottom: $spacer-s;
+  .nav-list-item {
+    padding: $spacer-xs $spacer-s;
+    color: white;
+  }
 }
 
 #mobile-menu.menu-open {
-    display: flex;
+  display: flex;
 }
 
 .site {
-    margin-top: $navbar-height;
-    display: flex;
-    flex-direction: column;
-    margin-left: auto;
-    margin-right: auto;
+  margin-top: $navbar-height;
+  display: flex;
+  flex-direction: column;
+  margin-left: auto;
+  margin-right: auto;
 }
 
-
 .footer {
-    margin-top: $navbar-height;
-    padding: $spacer-l;
-    background: $grey2;
+  padding: $spacer-l;
+  background: $grey2;
 
-    h3, a, p {
-        color: white;
-    }
-
+  h3,
+  a,
+  p {
+    color: white;
+  }
 }
 
 .foot-link {
-    margin-bottom: $spacer-xs;
+  margin-bottom: $spacer-xs;
 }
 
 .footer-section {
-    margin-bottom: $spacer-xl;
-    @include flex-vertical;
+  margin-bottom: $spacer-xl;
+  @include flex-vertical;
 }
 
 #footer-btn {
-    margin-top: $spacer-m;
-    width: 150px;
+  margin-top: $spacer-m;
+  width: 150px;
 }
