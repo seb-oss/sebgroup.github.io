@@ -13,7 +13,7 @@ nav {
     position: fixed;
     display: flex;
     flex-direction: row;
-    height: 48px;
+    height: $navbar-height;
     width: 100%;
     background: $grey2;
     justify-content: flex-start;
@@ -32,12 +32,12 @@ nav {
 }
 
 #seb-logo {
-    height: 48px;
+    height: $navbar-height;
     width: auto;    
 }
 
 #hamburger-icon {
-    height: 48px;
+    height: $navbar-height;
     width: auto;
 }
 
@@ -47,12 +47,17 @@ nav {
     justify-content: center;
     align-items: flex-start;
     flex-grow: 1;
+    font-size: 150%;
 }
 
 ul.nav-menu {
     list-style: none;
     display: flex;
     flex-direction: row;
+}
+
+.nav-list-item .nav-link {
+    font-size: 130%;
 }
 
 .nav-link {
@@ -72,7 +77,7 @@ ul.nav-menu {
     flex-direction: column;
     z-index: 10;
     position: fixed;
-    top: 48px;
+    top: $navbar-height;
     width: 100%;
     background: $grey2;
     margin: 0;
@@ -89,10 +94,30 @@ ul.nav-menu {
 }
 
 .site {
-    margin-top: 48px;
+    margin-top: $navbar-height;
     padding: 24px;
     display: flex;
     flex-direction: column;
     margin-left: auto;
     margin-right: auto;
+}
+
+
+.footer {
+    padding: $spacer-l;
+    background: $grey2;
+
+    h3, a, p {
+        color: white;
+    }
+
+}
+
+.foot-link {
+    margin-bottom: $spacer-xs;
+}
+
+.footer-section {
+    margin-bottom: $spacer-xl;
+    @include flex-vertical;
 }
