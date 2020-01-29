@@ -1,8 +1,13 @@
 .index-header {
     background: url(/assets/5-purple.png) no-repeat;
-    background-size: 300%;
-    background-position: center center;
+    background-size: 200%;
+    background-position: center bottom;
     color: white;
+    transform: scaleX(-1);
+}
+
+#header-text {
+    transform: scaleX(-1);
 }
 
 .index-section {
@@ -18,4 +23,9 @@
     visibility: hidden;
 }
 
-
+#index-end {
+    background: url(/assets/5-purple.png) no-repeat;
+    background-size: 200%;
+    height: 300px;
+    background-position: left top;
+}
