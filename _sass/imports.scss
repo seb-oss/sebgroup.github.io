@@ -1,0 +1,113 @@
+.sdv-button {
+  display: inline-block;
+  padding: 0 1em;
+  box-sizing: border-box;
+  line-height: 2.375em;
+  font-family: inherit;
+  font-weight: 500;
+  font-size: 1rem;
+  color: #fff;
+  white-space: nowrap;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  border-radius: 0.25em;
+  border: 0.0625em solid #0092e1;
+  outline: none;
+  background: #0092e1;
+  cursor: pointer;
+}
+.sdv-button:hover {
+  background: #41b0ee;
+  border-color: #41b0ee;
+  text-decoration: none;
+}
+.sdv-button:focus {
+  background: #007ac7;
+  border-color: #007ac7;
+  text-decoration: none;
+}
+.sdv-button:active {
+  background: #70c3f2;
+  border-color: #70c3f2;
+  text-decoration: none;
+}
+.sdv-button:link,
+.sdv-button:visited {
+  color: #fff;
+}
+.sdv-button[disabled] {
+  background: #b3b3b3;
+  border-color: #b3b3b3;
+}
+.sdv-button .sdv-icon-left {
+  margin-left: -0.25em;
+}
+.sdv-button .sdv-icon-right {
+  margin-right: -0.25em;
+}
+.sdv-button-secondary {
+  background: transparent;
+  border-color: #0092e1;
+  color: #0092e1;
+}
+.sdv-button-secondary:active,
+.sdv-button-secondary:focus,
+.sdv-button-secondary:hover {
+  color: #fff;
+}
+.sdv-button-secondary[disabled] {
+  background: #e6e6e6;
+  border-color: #b3b3b3;
+  color: #b3b3b3;
+}
+.sdv-button-alternative {
+  background: transparent;
+  border-color: transparent;
+  color: #0092e1;
+}
+.sdv-button-alternative:active,
+.sdv-button-alternative:focus,
+.sdv-button-alternative:hover {
+  color: #fff;
+}
+.sdv-button-alternative[disabled] {
+  background: #e6e6e6;
+  border-color: #b3b3b3;
+  color: #b3b3b3;
+}
+.sdv-button-link {
+  background: transparent;
+  border-color: transparent;
+  color: #0092e1;
+}
+.sdv-button-link:active,
+.sdv-button-link:focus,
+.sdv-button-link:hover {
+  background: transparent;
+  border-color: transparent;
+  color: #0092e1;
+  text-decoration: underline;
+}
+.sdv-button-link[disabled] {
+  background: transparent;
+  border-color: transparent;
+  color: #b3b3b3;
+}
+.sdv-button-ghost {
+  border-color: #fff;
+  color: #fff;
+  background: transparent;
+}
+.sdv-button-ghost:active,
+.sdv-button-ghost:focus,
+.sdv-button-ghost:hover {
+  color: #333;
+  background: #fff;
+  border-color: #fff;
+}
+.sdv-button-ghost[disabled] {
+  background: #e6e6e6;
+  border-color: #b3b3b3;
+  color: #b3b3b3;
+}

@@ -95,7 +95,6 @@ ul.nav-menu {
 
 .site {
     margin-top: $navbar-height;
-    padding: 24px;
     display: flex;
     flex-direction: column;
     margin-left: auto;
@@ -104,6 +103,7 @@ ul.nav-menu {
 
 
 .footer {
+    margin-top: $navbar-height;
     padding: $spacer-l;
     background: $grey2;
 

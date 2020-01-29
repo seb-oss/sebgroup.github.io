@@ -1,0 +1,21 @@
+.index-header {
+    background: url(/assets/5-purple.png) no-repeat;
+    background-size: 300%;
+    background-position: center center;
+    color: white;
+}
+
+.index-section {
+    padding: $spacer-l;
+    height: 300px;
+
+    p {
+        margin-bottom: $spacer-l;
+    }
+}
+
+.desktop-index-heading {
+    visibility: hidden;
+}
+
+
