@@ -121,3 +121,7 @@ ul.nav-menu {
     margin-bottom: $spacer-xl;
     @include flex-vertical;
 }
+
+#footer-btn {
+    width: 150px;
+}
