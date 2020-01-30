@@ -9,7 +9,9 @@
       "name": "TypeScript",
       "color": "#2b7489"
     },
-    "stargazers": 15
+    "stargazers": 15,
+    "forkCount": 4,
+    "closedIssues": 7
   },
   {
     "name": "design-library",
@@ -18,7 +20,9 @@
     "url": "https://github.com/sebgroup/design-library",
     "pushedAt": "2019-06-13T13:04:29Z",
     "primaryLanguage": null,
-    "stargazers": 12
+    "stargazers": 12,
+    "forkCount": 1,
+    "closedIssues": 29
   },
   {
     "name": "openbanking",
@@ -27,7 +31,9 @@
     "url": "https://github.com/sebgroup/openbanking",
     "pushedAt": "2020-01-13T13:57:47Z",
     "primaryLanguage": null,
-    "stargazers": 6
+    "stargazers": 6,
+    "forkCount": 5,
+    "closedIssues": 0
   },
   {
     "name": "bootstrap",
@@ -39,7 +45,9 @@
       "name": "HTML",
       "color": "#e34c26"
     },
-    "stargazers": 5
+    "stargazers": 5,
+    "forkCount": 4,
+    "closedIssues": 104
   },
   {
     "name": "vanilla-pattern-library",
@@ -51,7 +59,9 @@
       "name": "CSS",
       "color": "#563d7c"
     },
-    "stargazers": 5
+    "stargazers": 5,
+    "forkCount": 4,
+    "closedIssues": 51
   },
   {
     "name": "ng-components",
@@ -63,7 +73,9 @@
       "name": "TypeScript",
       "color": "#2b7489"
     },
-    "stargazers": 4
+    "stargazers": 4,
+    "forkCount": 0,
+    "closedIssues": 23
   },
   {
     "name": "seb-angular-material",
@@ -75,7 +87,9 @@
       "name": "TypeScript",
       "color": "#2b7489"
     },
-    "stargazers": 3
+    "stargazers": 3,
+    "forkCount": 0,
+    "closedIssues": 27
   },
   {
     "name": "seb-pictograms",
@@ -87,7 +101,9 @@
       "name": "TypeScript",
       "color": "#2b7489"
     },
-    "stargazers": 3
+    "stargazers": 3,
+    "forkCount": 0,
+    "closedIssues": 4
   },
   {
     "name": "react-components",
@@ -99,7 +115,9 @@
       "name": "TypeScript",
       "color": "#2b7489"
     },
-    "stargazers": 3
+    "stargazers": 3,
+    "forkCount": 5,
+    "closedIssues": 33
   },
   {
     "name": "repo-operator",
@@ -111,7 +129,9 @@
       "name": "Go",
       "color": "#00ADD8"
     },
-    "stargazers": 3
+    "stargazers": 3,
+    "forkCount": 2,
+    "closedIssues": 1
   },
   {
     "name": "fonts",
@@ -123,7 +143,9 @@
       "name": "CSS",
       "color": "#563d7c"
     },
-    "stargazers": 1
+    "stargazers": 1,
+    "forkCount": 0,
+    "closedIssues": 0
   },
   {
     "name": "ng-debug",
@@ -135,7 +157,9 @@
       "name": "TypeScript",
       "color": "#2b7489"
     },
-    "stargazers": 1
+    "stargazers": 1,
+    "forkCount": 0,
+    "closedIssues": 0
   },
   {
     "name": "frontend-tools",
@@ -147,7 +171,9 @@
       "name": "TypeScript",
       "color": "#2b7489"
     },
-    "stargazers": 1
+    "stargazers": 1,
+    "forkCount": 0,
+    "closedIssues": 3
   },
   {
     "name": "document-write-intervene",
@@ -159,7 +185,9 @@
       "name": "JavaScript",
       "color": "#f1e05a"
     },
-    "stargazers": 0
+    "stargazers": 0,
+    "forkCount": 0,
+    "closedIssues": 1
   },
   {
     "name": "ng-wizard",
@@ -171,7 +199,9 @@
       "name": "TypeScript",
       "color": "#2b7489"
     },
-    "stargazers": 0
+    "stargazers": 0,
+    "forkCount": 2,
+    "closedIssues": 1
   },
   {
     "name": "ngx-toastr",
@@ -183,7 +213,9 @@
       "name": "TypeScript",
       "color": "#2b7489"
     },
-    "stargazers": 0
+    "stargazers": 0,
+    "forkCount": 0,
+    "closedIssues": 0
   },
   {
     "name": "ng-bootstrap",
@@ -195,7 +227,9 @@
       "name": "HTML",
       "color": "#e34c26"
     },
-    "stargazers": 0
+    "stargazers": 0,
+    "forkCount": 0,
+    "closedIssues": 0
   },
   {
     "name": "aci-search",
@@ -207,7 +241,9 @@
       "name": "Python",
       "color": "#3572A5"
     },
-    "stargazers": 0
+    "stargazers": 0,
+    "forkCount": 0,
+    "closedIssues": 0
   },
   {
     "name": "yttringar-oauth",
@@ -219,7 +255,9 @@
       "name": "TypeScript",
       "color": "#2b7489"
     },
-    "stargazers": 0
+    "stargazers": 0,
+    "forkCount": 0,
+    "closedIssues": 0
   },
   {
     "name": "yttringar",
@@ -231,6 +269,8 @@
       "name": "TypeScript",
       "color": "#2b7489"
     },
-    "stargazers": 0
+    "stargazers": 0,
+    "forkCount": 0,
+    "closedIssues": 0
   }
 ]
