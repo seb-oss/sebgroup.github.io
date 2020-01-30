@@ -6,31 +6,51 @@ description: SEB Open Source Projects
 ---
 
 <div class="projects-header">
-    <h1> {{page.title}} </h1>
-    <h3> {{page.description}} </h3>
+  <h1>{{page.title}}</h1>
+  <h3>{{page.description}}</h3>
 </div>
 
 <div class="projects-wrapper">
-    <ul id="projects-list">
-        {% for item in site.data.projects %}
-        <li style="border-left-color: {{ item.primaryLanguage.color }}" class="project-item">
-            <div class="project-item-header">
-                <h3> {{ item.name }}</h3>
-                <div class="star-wrapper">
-                    <img class="star-icon" src="./assets/yellow-star-png-4.png" alt="">
-                    <p>{{ item.stargazers }}</p>
-                </div>
-            </div>
-            <p class="project-item-language">{{ item.primaryLanguage.name  }}</p>
-            <p>{{ item.description }} </p>
+  <ul id="projects-list">
+    {% for item in site.data.projects %}
+    <li
+      style="border-left-color: {{ item.primaryLanguage.color }}"
+      class="project-item"
+    >
+      <div class="project-item-header">
+        <h3>{{ item.name }}</h3>
+        <div class="star-wrapper">
+          <img class="star-icon" src="./assets/yellow-star-png-4.png" alt="" />
+          <p>{{ item.stargazers }}</p>
+        </div>
+    </div>
+    
+    {% if item.primaryLanguage %}
+      <p class="project-item-language">{{ item.primaryLanguage.name }}</p>
+    {% endif %}
 
-            <div class="project-item-links">
-                <a href="{{ item.url}}"><i class="fab fa-github"></i> Repository</a>
-                <a href="{{ item.homepageUrl }}"><i class="far fa-link"></i> Website</a>
-            </div>
-            <p class="project-item-updated">Updated {{ item.pushedAt | date: "%Y-%m-%d" }}</p>
-        </li>
-        {% endfor %}
-    </ul>
+    {% if item.description %}
+        <p>{{ item.description }}</p>
+    {% endif %} 
+
+    <div class="project-item-links">
+        <a href="{{ item.url}}">
+            <i class="fab fa-github"></i>
+            <p>Repository</p>
+        </a>
+      
+        {% if item.homepageUrl %}
+            <a href="{{ item.homepageUrl }}">
+                <i class="far fa-link"></i>
+                <p>Website</p>
+            </a>
+        {% endif %}
+    </div>
+    <p class="project-item-updated">
+        Updated {{ item.pushedAt | date: "%Y-%m-%d" }}
+    </p>
+    
+    </li>
+    {% endfor %}
+  </ul>
 </div>
-

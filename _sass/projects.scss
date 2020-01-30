@@ -1,53 +1,63 @@
-.projects-header, .projects-wrapper {
-    padding: $spacer-l;
+.projects-header,
+.projects-wrapper {
+  padding: $spacer-l;
 }
 
 #projects-list {
-    list-style: none;
-    padding-left: 0;
+  list-style: none;
+  padding-left: 0;
 }
 
 .project-item {
-    @include flex-vertical;
-    margin-bottom: $spacer-xl;
-    padding-left: $spacer-s;
-    border-left-style: solid;
+  @include flex-vertical;
+  margin-bottom: $spacer-xl;
+  padding-left: $spacer-s;
+  border-left-style: solid;
 }
 
 .star-icon {
-    height: 32px;
-    width: 32px;
+  height: 32px;
+  width: 32px;
 }
 
 .star-wrapper {
-    @include flex-horizontal;
-    align-items: center;
-    margin-left: $spacer-s;
+  @include flex-horizontal;
+  align-items: center;
+  margin-left: $spacer-s;
+  p {
+    margin: 0;
+  }
 }
 
 .project-item-header {
-    @include flex-horizontal;
-    justify-content: space-between;
+  @include flex-horizontal;
+  justify-content: space-between;
+  margin-top: $spacer-xs;
 
-    h3 {
-        margin-bottom: 0;
-    }
+  h3 {
+    margin: 0;
+  }
 }
 
 .project-item-language {
-    margin-top: 0;
-    font-size: 90%;
+  margin-top: 0;
+  font-size: 90%;
 }
 
 .project-item-links {
-    i {
-        font-size: 24px;
-        margin-right: $spacer-xs;
-    }
+  i {
+    font-size: 18px;
+    margin-right: $spacer-xs;
+  }
 
-    a {
-        color: black;
-        margin-bottom: $spacer-s;
-    }
-    @include flex-vertical;
+  a {
+    color: black;
+    margin-bottom: 4px;
+    @include flex-horizontal;
+    align-items: center;
+  }
+  p {
+    margin: 0;
+  }
+  @include flex-vertical;
 }
