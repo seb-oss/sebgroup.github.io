@@ -68,6 +68,10 @@ function graphQLToJson(body) {
         stargazers
       })
     )
+    .sort(
+      ({ stargazers: stargazers1 }, { stargazers: stargazers2 }) =>
+        stargazers2 - stargazers1
+    )
 }
 
 function getToken() {
