@@ -59,7 +59,7 @@
   {
     "name": "document-write-intervene",
     "description": "Prevent document write from writing to your document and instead insert a new script tag to the dom",
-    "homepageUrl": "",
+    "homepageUrl": null,
     "url": "https://github.com/sebgroup/document-write-intervene",
     "pushedAt": "2018-10-23T07:36:49Z",
     "primaryLanguage": {
@@ -106,7 +106,7 @@
     "description": null,
     "homepageUrl": "https://sebgroup.github.io/react-components/",
     "url": "https://github.com/sebgroup/react-components",
-    "pushedAt": "2020-01-29T03:18:49Z",
+    "pushedAt": "2020-01-30T03:06:36Z",
     "primaryLanguage": {
       "name": "TypeScript",
       "color": "#2b7489"
@@ -151,7 +151,7 @@
   },
   {
     "name": "frontend-tools",
-    "description": "Wiki",
+    "description": "A set of frontend tools written in Typescript",
     "homepageUrl": "https://github.com/sebgroup/frontend-tools/wiki",
     "url": "https://github.com/sebgroup/frontend-tools",
     "pushedAt": "2020-01-23T10:03:59Z",
@@ -200,7 +200,7 @@
   {
     "name": "repo-operator",
     "description": "A kubernetes operator to manage repositories",
-    "homepageUrl": "",
+    "homepageUrl": null,
     "url": "https://github.com/sebgroup/repo-operator",
     "pushedAt": "2019-12-04T12:39:55Z",
     "primaryLanguage": {
