@@ -60,6 +60,11 @@ ul.nav-menu {
 
 .nav-link {
   color: white;
+
+  i.fa-external-link {
+    margin-left: $spacer-s;
+    font-size: 80%;
+  }
 }
 
 .nav-link:hover {
