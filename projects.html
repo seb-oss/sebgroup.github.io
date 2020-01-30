@@ -12,7 +12,7 @@ description: SEB Open Source Projects
 
 <div class="projects-wrapper">
   <ul id="projects-list">
-    {% for item in site.data.projects %}
+    {% for item in site.data.projects.projects %}
     <li
       style="border-left-color: {{ item.primaryLanguage.color }}"
       class="project-item"
@@ -24,21 +24,21 @@ description: SEB Open Source Projects
           <p>{{ item.stargazers }}</p>
         </div>
     </div>
-    
+
     {% if item.primaryLanguage %}
       <p class="project-item-language">{{ item.primaryLanguage.name }}</p>
     {% endif %}
 
     {% if item.description %}
         <p>{{ item.description }}</p>
-    {% endif %} 
+    {% endif %}
 
     <div class="project-item-links">
         <a href="{{ item.url}}">
             <i class="fab fa-github"></i>
             <p>Repository</p>
         </a>
-      
+
         {% if item.homepageUrl %}
             <a href="{{ item.homepageUrl }}">
                 <i class="far fa-link"></i>
@@ -49,7 +49,7 @@ description: SEB Open Source Projects
     <p class="project-item-updated">
         Updated {{ item.pushedAt | date: "%Y-%m-%d" }}
     </p>
-    
+
     </li>
     {% endfor %}
   </ul>

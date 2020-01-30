@@ -1,276 +1,279 @@
-[
-  {
-    "name": "ng-magic-iframe",
-    "description": "A magical iframe component for Angular",
-    "homepageUrl": "https://sebgroup.github.io/ng-magic-iframe/",
-    "url": "https://github.com/sebgroup/ng-magic-iframe",
-    "pushedAt": "2019-07-05T09:08:00Z",
-    "primaryLanguage": {
-      "name": "TypeScript",
-      "color": "#2b7489"
+{
+  "contributors": 135,
+  "projects": [
+    {
+      "name": "ng-magic-iframe",
+      "description": "A magical iframe component for Angular",
+      "homepageUrl": "https://sebgroup.github.io/ng-magic-iframe/",
+      "url": "https://github.com/sebgroup/ng-magic-iframe",
+      "pushedAt": "2019-07-05T09:08:00Z",
+      "primaryLanguage": {
+        "name": "TypeScript",
+        "color": "#2b7489"
+      },
+      "stargazers": 15,
+      "forkCount": 4,
+      "closedIssues": 7
     },
-    "stargazers": 15,
-    "forkCount": 4,
-    "closedIssues": 7
-  },
-  {
-    "name": "design-library",
-    "description": "Design Library is a set of individual styles and components, that when combined make delightful, intuitive designs and shape a consistent SEB user experience.",
-    "homepageUrl": "http://designlibrary.sebgroup.com",
-    "url": "https://github.com/sebgroup/design-library",
-    "pushedAt": "2019-06-13T13:04:29Z",
-    "primaryLanguage": null,
-    "stargazers": 12,
-    "forkCount": 1,
-    "closedIssues": 29
-  },
-  {
-    "name": "openbanking",
-    "description": "SEB is banking outside the box! Find additional documentation here that will help you integrate with our APIs.",
-    "homepageUrl": "https://developer.sebgroup.com",
-    "url": "https://github.com/sebgroup/openbanking",
-    "pushedAt": "2020-01-13T13:57:47Z",
-    "primaryLanguage": null,
-    "stargazers": 6,
-    "forkCount": 5,
-    "closedIssues": 0
-  },
-  {
-    "name": "bootstrap",
-    "description": "A standalone bootstrap theme for SEB",
-    "homepageUrl": "https://sebgroup.github.io/bootstrap/",
-    "url": "https://github.com/sebgroup/bootstrap",
-    "pushedAt": "2020-01-22T05:27:26Z",
-    "primaryLanguage": {
-      "name": "HTML",
-      "color": "#e34c26"
+    {
+      "name": "design-library",
+      "description": "Design Library is a set of individual styles and components, that when combined make delightful, intuitive designs and shape a consistent SEB user experience.",
+      "homepageUrl": "http://designlibrary.sebgroup.com",
+      "url": "https://github.com/sebgroup/design-library",
+      "pushedAt": "2019-06-13T13:04:29Z",
+      "primaryLanguage": null,
+      "stargazers": 12,
+      "forkCount": 1,
+      "closedIssues": 29
     },
-    "stargazers": 5,
-    "forkCount": 4,
-    "closedIssues": 104
-  },
-  {
-    "name": "vanilla-pattern-library",
-    "description": null,
-    "homepageUrl": "https://sebgroup.github.io/vanilla-pattern-library/",
-    "url": "https://github.com/sebgroup/vanilla-pattern-library",
-    "pushedAt": "2020-01-28T16:53:58Z",
-    "primaryLanguage": {
-      "name": "CSS",
-      "color": "#563d7c"
+    {
+      "name": "openbanking",
+      "description": "SEB is banking outside the box! Find additional documentation here that will help you integrate with our APIs.",
+      "homepageUrl": "https://developer.sebgroup.com",
+      "url": "https://github.com/sebgroup/openbanking",
+      "pushedAt": "2020-01-13T13:57:47Z",
+      "primaryLanguage": null,
+      "stargazers": 6,
+      "forkCount": 5,
+      "closedIssues": 0
     },
-    "stargazers": 5,
-    "forkCount": 4,
-    "closedIssues": 51
-  },
-  {
-    "name": "ng-components",
-    "description": null,
-    "homepageUrl": "https://sebgroup.github.io/ng-components/components/buttons/examples",
-    "url": "https://github.com/sebgroup/ng-components",
-    "pushedAt": "2020-01-29T05:20:43Z",
-    "primaryLanguage": {
-      "name": "TypeScript",
-      "color": "#2b7489"
+    {
+      "name": "bootstrap",
+      "description": "A standalone bootstrap theme for SEB",
+      "homepageUrl": "https://sebgroup.github.io/bootstrap/",
+      "url": "https://github.com/sebgroup/bootstrap",
+      "pushedAt": "2020-01-22T05:27:26Z",
+      "primaryLanguage": {
+        "name": "HTML",
+        "color": "#e34c26"
+      },
+      "stargazers": 5,
+      "forkCount": 4,
+      "closedIssues": 104
     },
-    "stargazers": 4,
-    "forkCount": 0,
-    "closedIssues": 23
-  },
-  {
-    "name": "seb-angular-material",
-    "description": "angular material theme",
-    "homepageUrl": "https://sebgroup.github.io/seb-angular-material",
-    "url": "https://github.com/sebgroup/seb-angular-material",
-    "pushedAt": "2020-01-17T06:46:42Z",
-    "primaryLanguage": {
-      "name": "TypeScript",
-      "color": "#2b7489"
+    {
+      "name": "vanilla-pattern-library",
+      "description": null,
+      "homepageUrl": "https://sebgroup.github.io/vanilla-pattern-library/",
+      "url": "https://github.com/sebgroup/vanilla-pattern-library",
+      "pushedAt": "2020-01-28T16:53:58Z",
+      "primaryLanguage": {
+        "name": "CSS",
+        "color": "#563d7c"
+      },
+      "stargazers": 5,
+      "forkCount": 4,
+      "closedIssues": 51
     },
-    "stargazers": 3,
-    "forkCount": 0,
-    "closedIssues": 27
-  },
-  {
-    "name": "seb-pictograms",
-    "description": "SEB Pictograms CSS library",
-    "homepageUrl": "https://sebgroup.github.io/seb-pictograms/",
-    "url": "https://github.com/sebgroup/seb-pictograms",
-    "pushedAt": "2019-06-05T07:43:15Z",
-    "primaryLanguage": {
-      "name": "TypeScript",
-      "color": "#2b7489"
+    {
+      "name": "ng-components",
+      "description": null,
+      "homepageUrl": "https://sebgroup.github.io/ng-components/components/buttons/examples",
+      "url": "https://github.com/sebgroup/ng-components",
+      "pushedAt": "2020-01-29T05:20:43Z",
+      "primaryLanguage": {
+        "name": "TypeScript",
+        "color": "#2b7489"
+      },
+      "stargazers": 4,
+      "forkCount": 0,
+      "closedIssues": 23
     },
-    "stargazers": 3,
-    "forkCount": 0,
-    "closedIssues": 4
-  },
-  {
-    "name": "react-components",
-    "description": null,
-    "homepageUrl": "https://sebgroup.github.io/react-components/",
-    "url": "https://github.com/sebgroup/react-components",
-    "pushedAt": "2020-01-30T03:06:36Z",
-    "primaryLanguage": {
-      "name": "TypeScript",
-      "color": "#2b7489"
+    {
+      "name": "seb-angular-material",
+      "description": "angular material theme",
+      "homepageUrl": "https://sebgroup.github.io/seb-angular-material",
+      "url": "https://github.com/sebgroup/seb-angular-material",
+      "pushedAt": "2020-01-17T06:46:42Z",
+      "primaryLanguage": {
+        "name": "TypeScript",
+        "color": "#2b7489"
+      },
+      "stargazers": 3,
+      "forkCount": 0,
+      "closedIssues": 27
     },
-    "stargazers": 3,
-    "forkCount": 5,
-    "closedIssues": 33
-  },
-  {
-    "name": "repo-operator",
-    "description": "A kubernetes operator to manage repositories",
-    "homepageUrl": null,
-    "url": "https://github.com/sebgroup/repo-operator",
-    "pushedAt": "2019-12-04T12:39:55Z",
-    "primaryLanguage": {
-      "name": "Go",
-      "color": "#00ADD8"
+    {
+      "name": "seb-pictograms",
+      "description": "SEB Pictograms CSS library",
+      "homepageUrl": "https://sebgroup.github.io/seb-pictograms/",
+      "url": "https://github.com/sebgroup/seb-pictograms",
+      "pushedAt": "2019-06-05T07:43:15Z",
+      "primaryLanguage": {
+        "name": "TypeScript",
+        "color": "#2b7489"
+      },
+      "stargazers": 3,
+      "forkCount": 0,
+      "closedIssues": 4
     },
-    "stargazers": 3,
-    "forkCount": 2,
-    "closedIssues": 1
-  },
-  {
-    "name": "fonts",
-    "description": "SEB Sans Serif",
-    "homepageUrl": "https://sebgroup.github.io/fonts/",
-    "url": "https://github.com/sebgroup/fonts",
-    "pushedAt": "2018-08-31T08:44:39Z",
-    "primaryLanguage": {
-      "name": "CSS",
-      "color": "#563d7c"
+    {
+      "name": "react-components",
+      "description": null,
+      "homepageUrl": "https://sebgroup.github.io/react-components/",
+      "url": "https://github.com/sebgroup/react-components",
+      "pushedAt": "2020-01-30T03:06:36Z",
+      "primaryLanguage": {
+        "name": "TypeScript",
+        "color": "#2b7489"
+      },
+      "stargazers": 3,
+      "forkCount": 5,
+      "closedIssues": 33
     },
-    "stargazers": 1,
-    "forkCount": 0,
-    "closedIssues": 0
-  },
-  {
-    "name": "ng-debug",
-    "description": null,
-    "homepageUrl": null,
-    "url": "https://github.com/sebgroup/ng-debug",
-    "pushedAt": "2019-07-03T10:18:27Z",
-    "primaryLanguage": {
-      "name": "TypeScript",
-      "color": "#2b7489"
+    {
+      "name": "repo-operator",
+      "description": "A kubernetes operator to manage repositories",
+      "homepageUrl": null,
+      "url": "https://github.com/sebgroup/repo-operator",
+      "pushedAt": "2019-12-04T12:39:55Z",
+      "primaryLanguage": {
+        "name": "Go",
+        "color": "#00ADD8"
+      },
+      "stargazers": 3,
+      "forkCount": 2,
+      "closedIssues": 1
     },
-    "stargazers": 1,
-    "forkCount": 0,
-    "closedIssues": 0
-  },
-  {
-    "name": "frontend-tools",
-    "description": "A set of frontend tools written in Typescript",
-    "homepageUrl": "https://github.com/sebgroup/frontend-tools/wiki",
-    "url": "https://github.com/sebgroup/frontend-tools",
-    "pushedAt": "2020-01-23T10:03:59Z",
-    "primaryLanguage": {
-      "name": "TypeScript",
-      "color": "#2b7489"
+    {
+      "name": "fonts",
+      "description": "SEB Sans Serif",
+      "homepageUrl": "https://sebgroup.github.io/fonts/",
+      "url": "https://github.com/sebgroup/fonts",
+      "pushedAt": "2018-08-31T08:44:39Z",
+      "primaryLanguage": {
+        "name": "CSS",
+        "color": "#563d7c"
+      },
+      "stargazers": 1,
+      "forkCount": 0,
+      "closedIssues": 0
     },
-    "stargazers": 1,
-    "forkCount": 0,
-    "closedIssues": 3
-  },
-  {
-    "name": "document-write-intervene",
-    "description": "Prevent document write from writing to your document and instead insert a new script tag to the dom",
-    "homepageUrl": null,
-    "url": "https://github.com/sebgroup/document-write-intervene",
-    "pushedAt": "2018-10-23T07:36:49Z",
-    "primaryLanguage": {
-      "name": "JavaScript",
-      "color": "#f1e05a"
+    {
+      "name": "ng-debug",
+      "description": null,
+      "homepageUrl": null,
+      "url": "https://github.com/sebgroup/ng-debug",
+      "pushedAt": "2019-07-03T10:18:27Z",
+      "primaryLanguage": {
+        "name": "TypeScript",
+        "color": "#2b7489"
+      },
+      "stargazers": 1,
+      "forkCount": 0,
+      "closedIssues": 0
     },
-    "stargazers": 0,
-    "forkCount": 0,
-    "closedIssues": 1
-  },
-  {
-    "name": "ng-wizard",
-    "description": null,
-    "homepageUrl": null,
-    "url": "https://github.com/sebgroup/ng-wizard",
-    "pushedAt": "2020-01-08T15:42:48Z",
-    "primaryLanguage": {
-      "name": "TypeScript",
-      "color": "#2b7489"
+    {
+      "name": "frontend-tools",
+      "description": "A set of frontend tools written in Typescript",
+      "homepageUrl": "https://github.com/sebgroup/frontend-tools/wiki",
+      "url": "https://github.com/sebgroup/frontend-tools",
+      "pushedAt": "2020-01-23T10:03:59Z",
+      "primaryLanguage": {
+        "name": "TypeScript",
+        "color": "#2b7489"
+      },
+      "stargazers": 1,
+      "forkCount": 0,
+      "closedIssues": 3
     },
-    "stargazers": 0,
-    "forkCount": 2,
-    "closedIssues": 1
-  },
-  {
-    "name": "ngx-toastr",
-    "description": "A SEB themed toaster component for @sebgroup/bootstrap and angular",
-    "homepageUrl": "https://sebgroup.github.io/ngx-toastr/",
-    "url": "https://github.com/sebgroup/ngx-toastr",
-    "pushedAt": "2020-01-24T05:05:24Z",
-    "primaryLanguage": {
-      "name": "TypeScript",
-      "color": "#2b7489"
+    {
+      "name": "document-write-intervene",
+      "description": "Prevent document write from writing to your document and instead insert a new script tag to the dom",
+      "homepageUrl": null,
+      "url": "https://github.com/sebgroup/document-write-intervene",
+      "pushedAt": "2018-10-23T07:36:49Z",
+      "primaryLanguage": {
+        "name": "JavaScript",
+        "color": "#f1e05a"
+      },
+      "stargazers": 0,
+      "forkCount": 0,
+      "closedIssues": 1
     },
-    "stargazers": 0,
-    "forkCount": 0,
-    "closedIssues": 0
-  },
-  {
-    "name": "ng-bootstrap",
-    "description": "A SEB themed stylesheet for ng-bootstrap",
-    "homepageUrl": "https://sebgroup.github.io/ng-bootstrap/",
-    "url": "https://github.com/sebgroup/ng-bootstrap",
-    "pushedAt": "2020-01-29T05:21:45Z",
-    "primaryLanguage": {
-      "name": "HTML",
-      "color": "#e34c26"
+    {
+      "name": "ng-wizard",
+      "description": null,
+      "homepageUrl": null,
+      "url": "https://github.com/sebgroup/ng-wizard",
+      "pushedAt": "2020-01-08T15:42:48Z",
+      "primaryLanguage": {
+        "name": "TypeScript",
+        "color": "#2b7489"
+      },
+      "stargazers": 0,
+      "forkCount": 2,
+      "closedIssues": 1
     },
-    "stargazers": 0,
-    "forkCount": 0,
-    "closedIssues": 0
-  },
-  {
-    "name": "aci-search",
-    "description": null,
-    "homepageUrl": null,
-    "url": "https://github.com/sebgroup/aci-search",
-    "pushedAt": "2020-01-15T13:02:07Z",
-    "primaryLanguage": {
-      "name": "Python",
-      "color": "#3572A5"
+    {
+      "name": "ngx-toastr",
+      "description": "A SEB themed toaster component for @sebgroup/bootstrap and angular",
+      "homepageUrl": "https://sebgroup.github.io/ngx-toastr/",
+      "url": "https://github.com/sebgroup/ngx-toastr",
+      "pushedAt": "2020-01-24T05:05:24Z",
+      "primaryLanguage": {
+        "name": "TypeScript",
+        "color": "#2b7489"
+      },
+      "stargazers": 0,
+      "forkCount": 0,
+      "closedIssues": 0
     },
-    "stargazers": 0,
-    "forkCount": 0,
-    "closedIssues": 0
-  },
-  {
-    "name": "yttringar-oauth",
-    "description": null,
-    "homepageUrl": null,
-    "url": "https://github.com/sebgroup/yttringar-oauth",
-    "pushedAt": "2019-11-28T15:42:28Z",
-    "primaryLanguage": {
-      "name": "TypeScript",
-      "color": "#2b7489"
+    {
+      "name": "ng-bootstrap",
+      "description": "A SEB themed stylesheet for ng-bootstrap",
+      "homepageUrl": "https://sebgroup.github.io/ng-bootstrap/",
+      "url": "https://github.com/sebgroup/ng-bootstrap",
+      "pushedAt": "2020-01-29T05:21:45Z",
+      "primaryLanguage": {
+        "name": "HTML",
+        "color": "#e34c26"
+      },
+      "stargazers": 0,
+      "forkCount": 0,
+      "closedIssues": 0
     },
-    "stargazers": 0,
-    "forkCount": 0,
-    "closedIssues": 0
-  },
-  {
-    "name": "yttringar",
-    "description": null,
-    "homepageUrl": null,
-    "url": "https://github.com/sebgroup/yttringar",
-    "pushedAt": "2019-12-11T15:32:38Z",
-    "primaryLanguage": {
-      "name": "TypeScript",
-      "color": "#2b7489"
+    {
+      "name": "aci-search",
+      "description": null,
+      "homepageUrl": null,
+      "url": "https://github.com/sebgroup/aci-search",
+      "pushedAt": "2020-01-15T13:02:07Z",
+      "primaryLanguage": {
+        "name": "Python",
+        "color": "#3572A5"
+      },
+      "stargazers": 0,
+      "forkCount": 0,
+      "closedIssues": 0
     },
-    "stargazers": 0,
-    "forkCount": 0,
-    "closedIssues": 0
-  }
-]
+    {
+      "name": "yttringar-oauth",
+      "description": null,
+      "homepageUrl": null,
+      "url": "https://github.com/sebgroup/yttringar-oauth",
+      "pushedAt": "2019-11-28T15:42:28Z",
+      "primaryLanguage": {
+        "name": "TypeScript",
+        "color": "#2b7489"
+      },
+      "stargazers": 0,
+      "forkCount": 0,
+      "closedIssues": 0
+    },
+    {
+      "name": "yttringar",
+      "description": null,
+      "homepageUrl": null,
+      "url": "https://github.com/sebgroup/yttringar",
+      "pushedAt": "2019-12-11T15:32:38Z",
+      "primaryLanguage": {
+        "name": "TypeScript",
+        "color": "#2b7489"
+      },
+      "stargazers": 0,
+      "forkCount": 0,
+      "closedIssues": 0
+    }
+  ]
+}

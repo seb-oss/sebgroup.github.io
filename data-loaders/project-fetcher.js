@@ -1,5 +1,6 @@
 const { GraphQLClient } = require("graphql-request")
 const fs = require("fs")
+const fetch = require("node-fetch");
 
 const client = new GraphQLClient("https://api.github.com/graphql", {
   headers: {
@@ -40,7 +41,22 @@ function getProjects() {
     .request(query)
     .then(e => e.organization.repositories.edges)
     .then(graphQLToJson)
+    .then(appendNoOfContributors)
     .then(writeToProjectsFile)
+}
+
+async function appendNoOfContributors(projects) {
+  const responses = await Promise.all(projects
+    .map(({name}) => name)
+    .map(repoName =>
+      fetch(`https://api.github.com/repos/SEBgroup/${repoName}/stats/contributors`, {headers: {Authorization: `Bearer ${getToken()}`}})
+        .then(res => res.json()))
+  )
+
+  return {
+    contributors: responses.map(res => res.length).reduce((sum, curr) => sum + curr, 0),
+    projects
+  }
 }
 
 function writeToProjectsFile(projects) {
