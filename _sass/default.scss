@@ -53,7 +53,6 @@ nav {
   justify-content: center;
   align-items: flex-start;
   flex-grow: 1;
-  font-size: 150%;
 }
 
 ul.nav-menu {
@@ -62,21 +61,14 @@ ul.nav-menu {
   flex-direction: row;
 }
 
-.nav-list-item .nav-link {
-  font-size: 130%;
-}
-
 .nav-link {
-  color: white;
+  font-size: 120%;
+  color: $grey8;
 
   i.fa-external-link {
     margin-left: $spacer-s;
     font-size: 80%;
   }
-}
-
-.nav-link:hover {
-  color: $grey5;
 }
 
 #desktop-menu {
@@ -119,7 +111,7 @@ ul.nav-menu {
   h3,
   a,
   p {
-    color: white;
+    color: $grey8;
   }
 }
 
