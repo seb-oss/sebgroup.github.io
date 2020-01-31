@@ -1,5 +1,5 @@
 .index-sections {
-  padding: $spacer-l;
+  padding-bottom: $spacer-l;
   @include flex-vertical;
 }
 
@@ -9,4 +9,21 @@
   p {
     margin-bottom: $spacer-l;
   }
+}
+
+#index-header {
+  background-position: center bottom;
+  transform: scaleX(-1);
+
+  .header-text {
+    transform: scaleX(-1);
+  }
+
+  .header-title {
+    visibility: hidden;
+  }
+}
+
+#index-end {
+  background-position: left top;
 }

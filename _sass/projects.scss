@@ -1,6 +1,9 @@
-.projects-header,
-.projects-wrapper {
-  padding: $spacer-l;
+#projects-header {
+  background-position: center bottom;
+}
+
+#projects-end {
+  background-position: right top;
 }
 
 #projects-list {

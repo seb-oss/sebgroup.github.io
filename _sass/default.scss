@@ -96,12 +96,16 @@ ul.nav-menu {
   display: flex;
 }
 
-.page-content {
+.default-content {
   margin-top: $navbar-height;
   display: flex;
   flex-direction: column;
   margin-left: auto;
   margin-right: auto;
+}
+
+.page-content {
+  padding: $spacer-l;
 }
 
 .footer {
@@ -127,4 +131,13 @@ ul.nav-menu {
 #footer-btn {
   margin-top: $spacer-m;
   width: 150px;
+}
+
+.page-header,
+.page-end {
+  height: 300px;
+  color: white;
+  padding: 0 $spacer-l;
+  background-size: 200%;
+  background-repeat: no-repeat;
 }
