@@ -1,46 +1,54 @@
 ---
 layout: default
 title: SEB Open Source
-description: SEB Open Source
+description: In the service of ambitious minds. Today and tomorrow.
+sections:
+  - name: 'why-open-source'
+    intro: 'Why open source?'
+    text: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab, quae voluptatum excepturi consequuntur corporis in tempora, laborum repellat repudiandae deserunt a delectus adipisci eaque inventore optio ullam dolore earum similique.'
+    buttonText: 'About SEB'
+    buttonURL: 'https://sebgroup.com/'
+
+  - name: 'explore-projects'
+    intro: 'Explore projects'
+    text: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab, quae voluptatum excepturi consequuntur corporis in tempora, laborum repellat repudiandae deserunt a delectus adipisci eaque inventore optio ullam dolore earum similique.'
+    buttonText: 'View all projects'
+    buttonURL: '/projects.html'
+
+  - name: 'activity'
+    intro: 'Activity'
+    text: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab, quae voluptatum excepturi consequuntur corporis in tempora, laborum repellat repudiandae deserunt a delectus adipisci eaque inventore optio ullam dolore earum similique.'
+    buttonText: 'See activity'
+    buttonURL: '/activity.html'
+
+  - name: 'open-banking'
+    intro: 'Open Banking'
+    text: 'Traditional closed banking is breaking up to give way to open access, transparent service, and most important of all, collaboration. Use SEBs APIs to enhance your business and join us in discovering new ways of delivering customer value.'
+    buttonText: 'View available APIs'
+    buttonURL: 'https://developer.sebgroup.com/'
+
+  - name: 'career'
+    intro: 'Come work with us'
+    text: 'There is a wealth of opportunities at SEB. Our teams include all kinds of people and there is one thing we have in common: we want to be a positive force in society. We empower people to achieve their goals. Our heritage of entrepreneurship makes us cherish ambition – both in individuals and in businesses. See our vacancies and feel free to join our talent network.'
+    buttonText: 'See opportunities'
+    buttonURL: 'https://sebgroup.com/career'
+
 ---
 
 <div class="index-header">
     <div id="header-text" class="index-section">
-        <h1 class="desktop-index-heading">
-            SEB Open Source
-        </h1>
-        <h1>In the service of ambitious minds. Today and tomorrow.</h1>
+        <h1 class="desktop-index-heading">{{ page.title }}</h1>
+        <h1>{{ page.description }}</h1>
     </div>
 </div>
 
-<div class="index-section">
-    <h1>Why Open Source?</h1>    
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse, necessitatibus accusantium! Labore aperiam officiis nostrum tempore cum ipsum sed laborum.</p> 
-</div>
-
-<div class="index-section explore-projects">
-    <h1>Explore projects</h1>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab, quae voluptatum excepturi consequuntur corporis in tempora, laborum repellat repudiandae deserunt a delectus adipisci eaque inventore optio ullam dolore earum similique.</p>
-    <button onclick="location.href='projects.html'" type="button" class="sdv-button sdv-button-secondary">View all projects</button>
-</div>
-
-<div class="index-section activity">
-    <h1>Activity</h1>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab, quae voluptatum excepturi consequuntur corporis in tempora, laborum repellat repudiandae deserunt a delectus adipisci eaque inventore optio ullam dolore earum similique.</p>
-    <button onclick="location.href='activity.html'" type="button" class="sdv-button sdv-button-secondary">See activity</button>
-</div>
-
-<div class="index-section open-banking">
-    <h1>Open Banking</h1>
-    <p>Traditional closed banking is breaking up to give way to open access, transparent service, and most important of all, collaboration. Use SEB's APIs to enhance your business and join us in discovering new ways of delivering customer value.</p>
-    <button onclick="location.href='https://developer.sebgroup.com/'" type="button" class="sdv-button sdv-button-secondary">View available APIs</button>
-</div>
-
-<div class="index-section career">
-    <h1>Come work with us</h1>
-    <p>There is a wealth of opportunities at SEB. Our teams include all kinds of people and there is one thing we have in common: we want to be a positive force in society. We empower people to achieve their goals. Our heritage of entrepreneurship makes us cherish ambition – both in individuals and in businesses. See our vacancies and feel free to join our talent network.</p>
-    <button onclick="window.open('https://sebgroup.com/career')" type="button" class="sdv-button sdv-button-secondary">See opportunities</button>
-</div>
+{% for section in page.sections %}
+    <div class="index-section {{ section.name }}">
+        <h1>{{ section.intro }}</h1>    
+        <p>{{ section.text }}</p>
+        <a href="{{ section.buttonURL }}" class="sdv-button">{{ section.buttonText }}</a>
+    </div>
+{% endfor %}
 
 <div id="index-end">
 
