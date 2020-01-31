@@ -1,22 +1,23 @@
 <!DOCTYPE html>
 <html>
+
   <head>
 
-      <meta charset="utf-8" />
-      <meta name="title" content="{{ page.title }}">
-      
-      <meta name="viewport" content="width=device-width, initial-scale=1">
-      <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.12.0/css/solid.css" integrity="sha384-U9f9KTMQ1TBvUUFLpp6FgAy1M59lrF3q3rYTHPRVtT8OzY3xyyFUzKevJFYHEbhq" crossorigin="anonymous">
-      <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.12.0/css/regular.css" integrity="sha384-hCQzyeTkj8xmAEG5HT7Hx6t6DUkpTM34rr6FHL04J4AWtPtryU6EjsEDb+Gf17KD" crossorigin="anonymous">
-      <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.12.0/css/brands.css" integrity="sha384-z3CBOpMFSI4D+GXPvBsSW5vXhm4MEzWuC/CycHv+vsuzuztOzPpomZimFLeWNOgk" crossorigin="anonymous">
-      <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.12.0/css/fontawesome.css" integrity="sha384-CtsKDnRWWHDhjRZ5qgpCFCGpib2FU2SChFu0xRt81grgvXq1P+lbpROQoBLxlU4o" crossorigin="anonymous">
-      <title>{{ page.title }}</title>
+    <meta charset="utf-8" />
+    <meta name="title" content="{{ page.title }}">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.12.0/css/solid.css" integrity="sha384-U9f9KTMQ1TBvUUFLpp6FgAy1M59lrF3q3rYTHPRVtT8OzY3xyyFUzKevJFYHEbhq" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.12.0/css/regular.css" integrity="sha384-hCQzyeTkj8xmAEG5HT7Hx6t6DUkpTM34rr6FHL04J4AWtPtryU6EjsEDb+Gf17KD" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.12.0/css/brands.css" integrity="sha384-z3CBOpMFSI4D+GXPvBsSW5vXhm4MEzWuC/CycHv+vsuzuztOzPpomZimFLeWNOgk" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.12.0/css/fontawesome.css" integrity="sha384-CtsKDnRWWHDhjRZ5qgpCFCGpib2FU2SChFu0xRt81grgvXq1P+lbpROQoBLxlU4o" crossorigin="anonymous">
+    <title>{{ page.title }}</title>
     <link rel="shortcut icon" type="image/png" href="{{ site.baseurl }}/assets/favicon.ico"/>
-
     <link rel="stylesheet" href="{{ site.baseurl }}/main-styles.css"/>
     <script async defer src="../js/main.js"></script>
-  </head>
-  <body>
+  
+</head>
+
+<body>
 
     <nav>
         <div id="hamburger-wrapper">
@@ -32,6 +33,7 @@
             <img id="seb-logo" src="../assets/seb.svg" alt="">
         </div>
     </nav>
+
     <ul id="mobile-menu" class="nav-menu">
         {% include nav-links.html %}
     </ul>
@@ -41,32 +43,30 @@
     </div>
 
     <div class="footer">
+
         <div class="footer-section">
             <button class="sdv-button sdv-button-ghost" id="footer-btn" onclick="location.href='{{ site.baseurl }}/projects'" type="button">Explore projects</button>
         </div>
+
         <div class="footer-section">
-            <h3>
-                About
-            </h3>
+            <h3>About</h3>
             <a class="foot-link" target="_blank" href="https://sebgroup.com/career">Careers</a>
-            <a class="foot-link" href="https://sebgroup.com/about-seb/who-we-are" target="_blank">About SEB</a>
+            <a class="foot-link" target="_blank" href="https://sebgroup.com/about-seb/who-we-are" target="_blank">About SEB</a>
         </div>
 
         <div class="footer-section">
-            <h3>
-                Developers
-            </h3>
+            <h3>Developers</h3>
             <a class="foot-link" target="_blank" href="https://developer.sebgroup.com/">Open Banking</a>
             <a class="foot-link" target="_blank" href="https://github.com/sebgroup/">GitHub</a>
         </div>
 
         <div class="footer-section">
-            <p>Contact us at 
-                <a href="mailto:opensource@seb.se">opensource@seb.se</a>
-            </p>
+            <p>Contact us at <a href="mailto:opensource@seb.se">opensource@seb.se</a></p>
             <p class="foot-link">© 2020 SEB Group</p>
         </div>
+        
     </div>
+
   </body>
 
 </html>
