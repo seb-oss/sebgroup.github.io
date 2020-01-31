@@ -1,4 +1,4 @@
-const hamburgerMenu = document.getElementById('hamburger-wrapper')
-hamburgerMenu.addEventListener("click", () => {
-    document.getElementById('mobile-menu').classList.toggle("menu-open")
+const menuIcon = document.getElementById('menu-icon-wrapper')
+menuIcon.addEventListener('click', () => {
+  document.getElementById('mobile-menu').classList.toggle('menu-open')
 })
