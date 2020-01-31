@@ -34,9 +34,17 @@ nav {
   width: auto;
 }
 
-#hamburger-icon {
+#hamburger-wrapper {
   height: $navbar-height;
-  width: auto;
+  width: $navbar-height;
+  @include flex-horizontal;
+  justify-content: center;
+  align-items: center;
+}
+
+#hamburger-icon {
+  color: $grey8;
+  font-size: 200%;
 }
 
 .nav-title {
