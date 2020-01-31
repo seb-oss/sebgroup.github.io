@@ -1,32 +1,12 @@
-.index-header {
-    background: url(/assets/5-purple.png) no-repeat;
-    background-size: 200%;
-    background-position: center bottom;
-    color: white;
-    transform: scaleX(-1);
-}
-
-#header-text {
-    transform: scaleX(-1);
+.index-sections {
+  padding: $spacer-l;
+  @include flex-vertical;
 }
 
 .index-section {
-    padding: $spacer-l;
-    height: 300px;
-
-    p {
-        margin-bottom: $spacer-l;
-    }
-}
-
-.desktop-index-heading {
-    visibility: hidden;
-}
-
-#index-end {
-    background: url(/assets/5-purple.png) no-repeat;
-    background-size: 200%;
-    height: 300px;
-    background-position: left top;
-    margin-top: $spacer-xl;
+  flex: 1;
+  margin-bottom: $spacer-xl;
+  p {
+    margin-bottom: $spacer-l;
+  }
 }
