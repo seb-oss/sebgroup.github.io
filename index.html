@@ -43,7 +43,9 @@ sections:
     <div class="index-section {{ section.name }}">
       <h1>{{ section.intro }}</h1>    
       <p>{{ section.text }}</p>
-      <a href="{{ section.buttonURL }}" class="sdv-button">{{ section.buttonText }}</a>
+      <div class="index-button">
+        <a href="{{ section.buttonURL }}" class="sdv-button index-button">{{ section.buttonText }}</a>
+      </div>
     </div>
   {% endfor %}
 </div>

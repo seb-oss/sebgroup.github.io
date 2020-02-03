@@ -27,3 +27,11 @@
 #index-end {
   background-position: left top;
 }
+
+.index-button {
+  @include flex-horizontal;
+  justify-content: flex-end;
+  @include small {
+    justify-content: flex-start;
+  }
+}
