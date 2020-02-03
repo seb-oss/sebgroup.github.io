@@ -1,25 +1,51 @@
 footer {
-    padding: $spacer-l;
-    background: $grey2;
-  
-    h3,
-    a,
-    p {
-      color: $grey8;
-    }
+  padding: $spacer-l;
+  background: $grey2;
+
+  h3,
+  a,
+  p {
+    color: $grey8;
   }
-  
-  .foot-link {
-    margin-bottom: $spacer-xs;
-    align-self: flex-start;
-  }
-  
+}
+
+.footer-section {
+  @include flex-vertical;
+}
+
+.footer-main {
+  @include flex-vertical;
+
   .footer-section {
-    margin-bottom: $spacer-xl;
-    @include flex-vertical;
+    margin-bottom: $spacer-l;
   }
-  
-  #footer-btn {
-    margin-top: $spacer-m;
-    width: 150px;
+
+  @include small {
+    flex-direction: row;
+    > * {
+      flex: 1;
+    }
+    justify-content: space-between;
   }
+}
+
+.footer-end {
+  @include flex-vertical;
+  @include small {
+    flex-direction: row;
+    > * {
+      flex: 1;
+    }
+    justify-content: space-between;
+  }
+}
+
+.foot-link {
+  margin-bottom: $spacer-xs;
+  align-self: flex-start;
+}
+
+#footer-btn {
+  margin-top: $spacer-m;
+  width: 150px;
+}
