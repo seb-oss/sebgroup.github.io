@@ -1,4 +1,4 @@
-![seb-logo](/assets/seb-logo-small.png)
+![seb-logo](/assets/images/seb-logo-small.png)
 
 A website for SEBs open source repositories [sebgroup.github.io](https://sebgroup.github.io/)
 
