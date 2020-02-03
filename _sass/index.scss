@@ -12,20 +12,10 @@
 }
 
 #index-header {
-  background-position: center bottom;
-  transform: scaleX(-1);
-
-  .header-text {
-    transform: scaleX(-1);
-  }
 
   .header-title {
     visibility: hidden;
   }
-}
-
-#index-end {
-  background-position: left top;
 }
 
 .index-button {
