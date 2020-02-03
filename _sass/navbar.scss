@@ -1,0 +1,86 @@
+nav {
+    z-index: 10;
+    position: fixed;
+    display: flex;
+    flex-direction: row;
+    height: $navbar-height;
+    width: 100%;
+    background: $grey2;
+    justify-content: flex-start;
+  
+    > * {
+      height: 100%;
+    }
+  
+    a {
+      text-align: center;
+      color: white;
+    }
+  }
+  
+  #seb-logo {
+    height: $navbar-height;
+    width: auto;
+  }
+  
+  #menu-icon-wrapper {
+    height: $navbar-height;
+    width: $navbar-height;
+    @include flex-horizontal;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  #menu-icon {
+    color: $grey8;
+    font-size: 200%;
+  }
+  
+  .nav-title {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    flex-grow: 1;
+  }
+  
+  ul.nav-menu {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+  }
+  
+  .nav-link {
+    font-size: 120%;
+    color: $grey8;
+  
+    i.fa-external-link {
+      margin-left: $spacer-s;
+      font-size: 80%;
+    }
+  }
+  
+  #desktop-menu {
+    display: none;
+  }
+  
+  #mobile-menu {
+    display: none;
+    flex-direction: column;
+    z-index: 10;
+    position: fixed;
+    top: $navbar-height;
+    width: 100%;
+    background: $grey2;
+    margin: 0;
+    padding-left: 0px;
+    padding-bottom: $spacer-s;
+    .nav-list-item {
+      padding: $spacer-xs $spacer-s;
+      color: white;
+    }
+  }
+  
+  #mobile-menu.menu-open {
+    display: flex;
+  }

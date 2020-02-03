@@ -1,0 +1,25 @@
+.footer {
+    padding: $spacer-l;
+    background: $grey2;
+  
+    h3,
+    a,
+    p {
+      color: $grey8;
+    }
+  }
+  
+  .foot-link {
+    margin-bottom: $spacer-xs;
+    align-self: flex-start;
+  }
+  
+  .footer-section {
+    margin-bottom: $spacer-xl;
+    @include flex-vertical;
+  }
+  
+  #footer-btn {
+    margin-top: $spacer-m;
+    width: 150px;
+  }
