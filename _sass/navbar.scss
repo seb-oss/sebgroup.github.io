@@ -16,6 +16,16 @@ nav {
       text-align: center;
       color: white;
     }
+
+    @include small {
+      flex-direction: row-reverse;
+    }
+  }
+
+  .logo-wrapper {
+    @include small {
+      margin-right: $spacer-s;
+    }
   }
   
   #seb-logo {
@@ -29,6 +39,10 @@ nav {
     @include flex-horizontal;
     justify-content: center;
     align-items: center;
+
+    @include small {
+      display: none;
+    }
   }
   
   #menu-icon {
@@ -36,18 +50,8 @@ nav {
     font-size: 200%;
   }
   
-  .nav-title {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: flex-start;
-    flex-grow: 1;
-  }
-  
   ul.nav-menu {
     list-style: none;
-    display: flex;
-    flex-direction: row;
   }
   
   .nav-link {
@@ -61,7 +65,28 @@ nav {
   }
   
   #desktop-menu {
-    display: none;
+    @include flex-horizontal;
+    align-items: center;
+    padding-left: 0;
+    margin: 0;
+    flex-grow: 1;
+    
+    .nav-list-item {
+      display: none;
+    }
+
+    .nav-title {
+      display: flex;
+      font-weight: 500;
+    }
+
+    @include small {
+      display: flex;
+      .nav-list-item {
+        display: flex;
+        padding: 0 $spacer-s;
+      }
+    }
   }
   
   #mobile-menu {
@@ -78,6 +103,13 @@ nav {
     .nav-list-item {
       padding: $spacer-xs $spacer-s;
       color: white;
+    }
+    .nav-title {
+      display: none;
+    }
+
+    @include small {
+      display: none;
     }
   }
   
