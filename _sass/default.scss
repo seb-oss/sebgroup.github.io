@@ -10,31 +10,35 @@ a {
 
 main {
   margin-top: $navbar-height;
-  display: flex;
-  flex-direction: column;
-  margin-left: auto;
-  margin-right: auto;
+  @include flex-vertical;
 }
 
 .page-content {
   padding: $spacer-l;
 }
 
-.page-header,
-.page-end {
-  color: white;
-  padding: 0 $spacer-l;
+.page-header-background {
+  height: $header-size;
+  width: 100vw;
+  z-index: -1;
+  position: absolute;
+  top: $navbar-height;
   background-size: 200%;
   background-repeat: no-repeat;
   background-position: center center;
+}
+
+.page-header {
+  color: white;
+  padding: 0 $spacer-l;
+  height: $header-size;
   @include flex-vertical;
   justify-content: center;
 }
 
-.page-header {
-  height: 3 * $navbar-height;
-}
-
 .page-end {
+  background-size: 200%;
+  background-repeat: no-repeat;
+  background-position: center center;
   height: 1.5 * $navbar-height;
 }
