@@ -18,6 +18,9 @@ main {
 
 .page-content {
   padding: $spacer-l;
+  max-width: $max-width;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .page-header-background {
@@ -32,11 +35,19 @@ main {
 }
 
 .page-header {
+  width: 100%;
+  max-width: $max-width;
+  margin-left: auto;
+  margin-right: auto;
   color: white;
-  padding: 0 $spacer-l;
   height: $header-size;
-  @include flex-vertical;
-  justify-content: center;
+  @include flex-horizontal;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.page-header-text {
+  padding: 0 $spacer-l;
 }
 
 .page-end {
