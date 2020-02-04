@@ -6,6 +6,8 @@ Contact us at [opensource@seb.se](mailto:opensource@seb.se)
 
 ## Develop locally
 
+The site can be locally built using [Docker](https://www.docker.com/) so make sure you have [Docker Desktop](https://www.docker.com/products/docker-desktop) installed.
+
 1. Clone the repository
 
 2. Run `docker-compose up`
