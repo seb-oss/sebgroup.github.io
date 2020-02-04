@@ -11,40 +11,50 @@ sections:
     text: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab, quae voluptatum excepturi consequuntur corporis in tempora, laborum repellat repudiandae deserunt a delectus adipisci eaque inventore optio ullam dolore earum similique.'
     buttonText: 'About SEB'
     buttonURL: 'https://sebgroup.com/'
+    image: collaboration
 
   - name: 'explore-projects'
     intro: 'Explore projects'
     text: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab, quae voluptatum excepturi consequuntur corporis in tempora, laborum repellat repudiandae deserunt a delectus adipisci eaque inventore optio ullam dolore earum similique.'
     buttonText: 'View all projects'
     buttonURL: '/projects.html'
+    image: containers
 
   - name: 'activity'
     intro: 'Activity'
     text: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab, quae voluptatum excepturi consequuntur corporis in tempora, laborum repellat repudiandae deserunt a delectus adipisci eaque inventore optio ullam dolore earum similique.'
     buttonText: 'See activity'
     buttonURL: '/activity.html'
+    image: datacenter
 
   - name: 'open-banking'
     intro: 'Open Banking'
     text: 'Traditional closed banking is breaking up to give way to open access, transparent service, and most important of all, collaboration. Use SEBs APIs to enhance your business and join us in discovering new ways of delivering customer value.'
     buttonText: 'View available APIs'
     buttonURL: 'https://developer.sebgroup.com/'
-
+    image: hero
+    
   - name: 'career'
     intro: 'Come work with us'
     text: 'There is a wealth of opportunities at SEB. Our teams include all kinds of people and there is one thing we have in common: we want to be a positive force in society. We empower people to achieve their goals. Our heritage of entrepreneurship makes us cherish ambition – both in individuals and in businesses. See our vacancies and feel free to join our talent network.'
     buttonText: 'See opportunities'
     buttonURL: 'https://sebgroup.com/career'
+    image: career
 
 ---
 
 <div class="index-sections">
   {% for section in page.sections %}
     <div class="index-section {{ section.name }}">
-      <h1>{{ section.intro }}</h1>    
-      <p>{{ section.text }}</p>
-      <div class="index-button">
-        <a href="{{ section.buttonURL }}" class="sdv-button index-button">{{ section.buttonText }}</a>
+      <div class="index-section-image">
+        <img src="{{ site.baseurl }}/assets/images/{{ section.image }}.jpg" alt="{{ section.image }}">
+      </div>
+      <div class="index-section-interaction">
+        <h1>{{ section.intro }}</h1>    
+        <p>{{ section.text }}</p>
+        <div class="index-button">
+          <a href="{{ section.buttonURL }}" class="sdv-button index-button">{{ section.buttonText }}</a>
+        </div>
       </div>
     </div>
   {% endfor %}
