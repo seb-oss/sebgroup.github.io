@@ -1,13 +1,28 @@
 #projects-list {
   list-style: none;
   padding-left: 0;
+  @include flex-vertical;
+  @include small {
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+  }
 }
 
 .project-item {
   @include flex-vertical;
-  margin-bottom: $spacer-xl;
-  padding-left: $spacer-s;
+  margin: $spacer-l 0;
+  padding: $spacer-s;
   border-left-style: solid;
+  @include small {
+    width: 280px;
+    height: auto;
+    margin: $spacer-l;
+  }
+}
+
+.ghost-item {
+  visibility: hidden;
 }
 
 .star-icon {
@@ -27,7 +42,6 @@
 .project-item-header {
   @include flex-horizontal;
   justify-content: space-between;
-  margin-top: $spacer-xs;
 
   h3 {
     margin: 0;
@@ -56,4 +70,8 @@
     margin: 0;
   }
   @include flex-vertical;
+}
+
+.project-item-updated {
+  margin-bottom: 0;
 }
