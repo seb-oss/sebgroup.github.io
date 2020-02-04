@@ -17,16 +17,6 @@ nav {
     text-align: center;
     color: white;
   }
-
-  @include small {
-    flex-direction: row-reverse;
-  }
-}
-
-.logo-wrapper {
-  @include small {
-    margin-right: $spacer-s;
-  }
 }
 
 #seb-logo {
@@ -68,7 +58,7 @@ ul.nav-menu {
 #desktop-menu {
   @include flex-horizontal;
   align-items: center;
-  padding-left: 0;
+  padding-left: $spacer-l;
   margin: 0;
   flex-grow: 1;
 
@@ -82,10 +72,9 @@ ul.nav-menu {
   }
 
   @include small {
-    display: flex;
     .nav-list-item {
       display: flex;
-      padding: 0 $spacer-s;
+      padding-right: $spacer-l;
     }
   }
 }
@@ -99,11 +88,10 @@ ul.nav-menu {
   width: 100%;
   background: $grey2;
   margin: 0;
-  padding-left: 0px;
-  padding-bottom: $spacer-s;
+  padding: $spacer-s 0;
   max-width: 100%;
   .nav-list-item {
-    padding: $spacer-xs $spacer-s;
+    padding: $spacer-s $spacer-s;
     color: white;
   }
   .nav-title {
