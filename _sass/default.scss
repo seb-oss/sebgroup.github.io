@@ -1,7 +1,8 @@
 body {
   margin: 0;
-  display: flex;
-  flex-direction: column;
+  @include flex-vertical;
+  min-height: 100vh;
+  justify-content: space-between;
 }
 
 a {
@@ -9,6 +10,8 @@ a {
 }
 
 main {
+  flex: 1;
+  max-width: 100%;
   margin-top: $navbar-height;
   @include flex-vertical;
 }
@@ -19,7 +22,7 @@ main {
 
 .page-header-background {
   height: $header-size;
-  width: 100vw;
+  width: 100%;
   z-index: -1;
   position: absolute;
   top: $navbar-height;
