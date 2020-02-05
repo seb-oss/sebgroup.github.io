@@ -1,24 +1,15 @@
 .index-sections {
-  margin-top: $spacer-xl;
-  padding-bottom: $spacer-l;
   @include flex-vertical;
 }
 
 .index-section {
   flex: 1;
-  margin-bottom: 3 * $spacer-xl;
   @include flex-vertical;
-
+  margin-bottom: $spacer-m;
   @include small {
     flex-direction: row;
     justify-content: space-between;
-    margin-top: 2 * $spacer-xl;
-    margin-bottom: 2 * $spacer-xl;
-    > * {
-      flex: 1;
-      padding-left: $spacer-l;
-      padding-right: $spacer-l;
-    }
+    margin-bottom: $spacer-l;
   }
 }
 

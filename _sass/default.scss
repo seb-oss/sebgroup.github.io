@@ -20,11 +20,14 @@ main {
   background-color: $grey9;
 }
 
-.page-content {
-  padding: $spacer-l;
+.page-wrapper {
   max-width: $max-width;
   margin-left: auto;
   margin-right: auto;
+}
+
+.page-content {
+  @include default-padding;
 }
 
 .page-header-background {
@@ -51,7 +54,7 @@ main {
 }
 
 .page-header-text {
-  padding: 0 $spacer-l;
+  @include default-padding;
 }
 
 .page-end {

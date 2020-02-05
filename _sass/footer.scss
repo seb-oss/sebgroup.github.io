@@ -1,5 +1,5 @@
 footer {
-  padding: $spacer-l;
+  @include default-padding;
   background: $grey2;
 
   h3,

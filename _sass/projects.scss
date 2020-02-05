@@ -75,9 +75,3 @@
 .project-item-updated {
   margin-bottom: 0;
 }
-
-#projects-text {
-  @include small {
-    padding-left: $spacer-l;
-  }
-}
