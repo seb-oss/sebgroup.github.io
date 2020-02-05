@@ -1,23 +1,26 @@
-![seb-logo](/assets/images/seb-logo-small.png)
+<p style="text-align: center;"> 
+    <img src="assets/images/seb-logo-small.png" alt="seb logo">
+</p>
 
-A website for SEBs open source repositories [sebgroup.github.io](https://sebgroup.github.io/)
+<p style="text-align: center;"> 
+    <a href="https://sebgroup.github.io/" style="text-align: center">sebgroup.github.io</a>
+</p>
 
-Contact us at [opensource@seb.se](mailto:opensource@seb.se)
+<p style="text-align: center;">
+    A website for SEBs open source repositories
+</p>
+
+<p style="text-align: center;"> 
+    Contact us at <a href="mailto:opensource@seb.se" style="text-align: center">opensource@seb.se</a>
+</p>
+
 
 ## Develop locally
 
-The site can be locally built using [Docker](https://www.docker.com/) so make sure you have [Docker Desktop](https://www.docker.com/products/docker-desktop) installed.
+Prerequisite: [Docker Desktop](https://www.docker.com/products/docker-desktop)
 
 1. Clone the repository
 
 2. Run `docker-compose up`
 
 3. Browse to [localhost:4000](http://localhost:4000/)
-
-Other SEB websites:
-
-- [SEB Group](https://sebgroup.com/)
-
-- [SEB Careers](https://sebgroup.com/career)
-
-- [SEB Open Banking](https://developer.sebgroup.com/)
