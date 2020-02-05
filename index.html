@@ -7,18 +7,28 @@ intro: In the service of ambitious minds. Today and tomorrow.
 ---
 
 <div class="index-sections">
-  {% for section in site.data.index-sections %}
-    <div class="index-section {{ section.name }}">
-      <div class="index-section-image">
-        <img src="{{ site.baseurl }}/assets/images/{{ section.image }}.jpg" alt="{{ section.image }}">
-      </div>
-      <div class="index-aspect-ratio">
-        <div class="index-section-interaction">
-          <h2 class="index-section-intro">{{ section.intro }}</h2>    
-          <p class="index-section-text">{{ section.text }}</p>
-          <a href="{{ section.buttonURL }}" class="index-link">{{ section.buttonText }} <i class="far fa-arrow-right"></i></a>
-        </div>
-      </div>
-    </div>
-  {% endfor %}
+
+  {% assign i = 0 %}
+  {% include index-section.html %}
+
+  <div class="small-index-section">
+
+    {% assign i = 1 %}
+    {% include index-section.html %}
+
+    {% assign i = 2 %}
+    {% include index-section.html %}
+
+  </div>
+
+  <div class="small-index-section">
+
+    {% assign i = 3 %}
+    {% include index-section.html %}
+        
+    {% assign i = 4 %}
+    {% include index-section.html %}
+  
+  </div>
+
 </div>

@@ -7,15 +7,7 @@
   @include flex-vertical;
   margin-bottom: $spacer-m;
   @include small {
-    flex-direction: row;
-    justify-content: space-between;
     margin-bottom: $spacer-l;
-  }
-}
-
-.index-section:nth-child(odd) {
-  @include small {
-    flex-direction: row-reverse;
   }
 }
 
@@ -39,10 +31,6 @@
   img {
     width: 100%;
     height: auto;
-    @include small {
-      @include flex-vertical;
-      justify-content: center;
-    }
   }
 }
 
@@ -58,4 +46,26 @@
 
 .index-aspect-ratio {
   @include aspect-ratio;
+}
+
+.small-index-section {
+  @include small {
+    @include flex-horizontal;
+    .index-section:first-child {
+      margin-right: $spacer-l;
+    }
+  }
+}
+
+.why-open-source {
+  @include small {
+    flex-direction: row-reverse;
+    > * {
+      flex: 1;
+    }
+    .index-aspect-ratio {
+      padding-bottom: 0%;
+      padding-right: $spacer-l;
+    }
+  }
 }
