@@ -3,3 +3,7 @@ livereload: true
 force_polling: true
 
 profile: true
+
+incremental: true
+
+exclude: ['/data-loaders']
