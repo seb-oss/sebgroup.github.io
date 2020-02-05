@@ -33,7 +33,6 @@ $spacer-xl: 36px;
 
 $max-width: 1180px;
 
-// breakpoints
 $bp-s: 767px;
 $bp-m: 900px;
 $bp-l: 1023px;
@@ -62,31 +61,17 @@ $bp-l: 1023px;
   }
 }
 
-@mixin padding-small {
-  padding: $spacer-s;
-  @include small {
-    padding: $spacer-xs;
-  }
-}
-
-@mixin padding-medium {
+@mixin default-padding {
   padding: $spacer-m;
   @include small {
-    padding: $spacer-s;
-  }
-}
-
-@mixin padding-large {
-  padding: $spacer-l;
-  @include small {
-    padding: $spacer-m;
-  }
-}
-
-@mixin padding-xlarge {
-  padding: $spacer-xl;
-  @include small {
     padding: $spacer-l;
+  }
+}
+
+@mixin default-margin {
+  margin: $spacer-m;
+  @include small {
+    margin: $spacer-l;
   }
 }
 
