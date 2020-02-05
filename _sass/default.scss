@@ -16,6 +16,10 @@ main {
   @include flex-vertical;
 }
 
+.page-background {
+  background-color: $grey9;
+}
+
 .page-content {
   padding: $spacer-l;
   max-width: $max-width;
