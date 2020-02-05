@@ -3,7 +3,6 @@
 }
 
 .index-section {
-  flex: 1;
   @include flex-vertical;
   margin-bottom: $spacer-m;
   @include small {
@@ -43,15 +42,11 @@
 }
 
 .index-section-interaction {
-  h1 {
-    margin-top: $spacer-xs;
-    margin-bottom: $spacer-xs;
-  }
-  @include small {
-    @include flex-vertical;
-    justify-content: center;
-    p {
-      margin-bottom: $spacer-xl;
-    }
+  background: white;
+  @include default-padding;
+  @include flex-vertical;
+  justify-content: space-between;
+  .index-section-intro {
+    margin: 0;
   }
 }

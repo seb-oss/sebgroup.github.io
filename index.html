@@ -36,7 +36,7 @@ sections:
     
   - name: 'career'
     intro: 'Come work with us'
-    text: 'There is a wealth of opportunities at SEB. Our teams include all kinds of people and there is one thing we have in common: we want to be a positive force in society. We empower people to achieve their goals. Our heritage of entrepreneurship makes us cherish ambition – both in individuals and in businesses. See our vacancies and feel free to join our talent network.'
+    text: 'There is a wealth of opportunities at SEB. Our teams include all kinds of people and there is one thing we have in common: we want to be a positive force in society. We empower people to achieve their goals.'
     buttonText: 'See opportunities'
     buttonURL: 'https://sebgroup.com/career'
     image: career
@@ -50,8 +50,8 @@ sections:
         <img src="{{ site.baseurl }}/assets/images/{{ section.image }}.jpg" alt="{{ section.image }}">
       </div>
       <div class="index-section-interaction">
-        <h1>{{ section.intro }}</h1>    
-        <p>{{ section.text }}</p>
+        <h2 class="index-section-intro">{{ section.intro }}</h2>    
+        <p class="index-section-text">{{ section.text }}</p>
         <a href="{{ section.buttonURL }}" class="index-link">{{ section.buttonText }} <i class="far fa-arrow-right"></i></a>
       </div>
     </div>
