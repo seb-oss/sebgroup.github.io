@@ -20,6 +20,8 @@
 .index-link {
   color: black;
   font-weight: 500;
+  font-size: 120%;
+  text-align: end;
   i {
     margin-left: $spacer-xs;
   }
@@ -38,9 +40,9 @@
   background: white;
   @include default-padding;
   @include flex-vertical;
-  justify-content: space-around;
-  .index-section-intro {
-    margin: 0;
+  justify-content: space-between;
+  @include medium {
+    font-size: 120%;
   }
 }
 
