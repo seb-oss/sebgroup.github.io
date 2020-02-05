@@ -3,6 +3,7 @@
 }
 
 .index-section {
+  flex: 1 1 0;
   @include flex-vertical;
   margin-bottom: $spacer-m;
   @include small {
@@ -32,12 +33,16 @@
   }
 }
 
-.index-section-image img {
-  width: 100%;
-  height: auto;
-  @include small {
-    @include flex-vertical;
-    justify-content: center;
+.index-section-image {
+  @include flex-vertical;
+  justify-content: flex-end;
+  img {
+    width: 100%;
+    height: auto;
+    @include small {
+      @include flex-vertical;
+      justify-content: center;
+    }
   }
 }
 
@@ -45,8 +50,12 @@
   background: white;
   @include default-padding;
   @include flex-vertical;
-  justify-content: space-between;
+  justify-content: space-around;
   .index-section-intro {
     margin: 0;
   }
+}
+
+.index-aspect-ratio {
+  @include aspect-ratio;
 }

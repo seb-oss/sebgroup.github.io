@@ -87,3 +87,17 @@ $bp-l: 1023px;
 
 $navbar-height: 70px;
 $header-size: 3 * $navbar-height;
+
+@mixin aspect-ratio {
+  // https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_aspect_ratio
+  position: relative;
+  width: 100%;
+  padding-bottom: 75%; /* 1:1 Aspect Ratio */
+  > * {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+  }
+}

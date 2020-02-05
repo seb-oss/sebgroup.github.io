@@ -49,10 +49,12 @@ sections:
       <div class="index-section-image">
         <img src="{{ site.baseurl }}/assets/images/{{ section.image }}.jpg" alt="{{ section.image }}">
       </div>
-      <div class="index-section-interaction">
-        <h2 class="index-section-intro">{{ section.intro }}</h2>    
-        <p class="index-section-text">{{ section.text }}</p>
-        <a href="{{ section.buttonURL }}" class="index-link">{{ section.buttonText }} <i class="far fa-arrow-right"></i></a>
+      <div class="index-aspect-ratio">
+        <div class="index-section-interaction">
+          <h2 class="index-section-intro">{{ section.intro }}</h2>    
+          <p class="index-section-text">{{ section.text }}</p>
+          <a href="{{ section.buttonURL }}" class="index-link">{{ section.buttonText }} <i class="far fa-arrow-right"></i></a>
+        </div>
       </div>
     </div>
   {% endfor %}
