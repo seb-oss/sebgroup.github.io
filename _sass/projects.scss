@@ -4,25 +4,29 @@
   @include flex-vertical;
   @include small {
     flex-direction: row;
-    justify-content: space-around;
+    justify-content: space-between;
     flex-wrap: wrap;
   }
 }
 
 .project-item {
-  @include flex-vertical;
-  margin: $spacer-l 0;
-  padding: $spacer-s;
+  background: white;
   border-left-style: solid;
+  border-left-width: 5px;
+  margin-bottom: $spacer-m;
+  @include flex-vertical;
+  justify-content: space-between;
+  @include default-padding;
   @include small {
     width: 280px;
     height: auto;
-    margin: $spacer-l;
   }
 }
 
 .ghost-item {
   visibility: hidden;
+  padding: 0;
+  margin: 0;
 }
 
 .star-icon {
@@ -39,21 +43,32 @@
   }
 }
 
+.project-item-top {
+  margin-bottom: $spacer-m;
+}
+
+.project-item-bottom {
+  @include flex-horizontal;
+  justify-content: space-between;
+}
+
 .project-item-header {
   @include flex-horizontal;
   justify-content: space-between;
+}
 
-  h3 {
-    margin: 0;
-  }
+.project-item-language-date {
+  @include flex-vertical;
+  justify-content: flex-end;
 }
 
 .project-item-language {
-  margin-top: 0;
   font-size: 90%;
 }
 
 .project-item-links {
+  @include flex-vertical;
+  justify-content: flex-end;
   i {
     font-size: 18px;
     margin-right: $spacer-xs;
@@ -69,7 +84,6 @@
   p {
     margin: 0;
   }
-  @include flex-vertical;
 }
 
 .project-item-updated {

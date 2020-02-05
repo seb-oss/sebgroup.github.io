@@ -11,47 +11,13 @@ intro: A collection of SEBs Open Source Projects
 </div>
 
 <ul id="projects-list">
+
   {% for item in site.data.projects.projects %}
-  <li
-    style="border-left-color: {{ item.primaryLanguage.color }}"
-    class="project-item"
-  >
-    <div class="project-item-header">
-      <h3>{{ item.name }}</h3>
-      <div class="star-wrapper">
-        <i class="fas fa-star star-icon"></i>
-        <p>{{ item.stargazers }}</p>
-      </div>
-  </div>
-
-  {% if item.primaryLanguage %}
-    <p class="project-item-language">{{ item.primaryLanguage.name }}</p>
-  {% endif %}
-
-  {% if item.description %}
-      <p>{{ item.description }}</p>
-  {% endif %}
-
-  <div class="project-item-links">
-      <a href="{{ item.url}}">
-          <i class="fab fa-github"></i>
-          <p>Repository</p>
-      </a>
-
-      {% if item.homepageUrl %}
-          <a href="{{ item.homepageUrl }}">
-              <i class="far fa-link"></i>
-              <p>Website</p>
-          </a>
-      {% endif %}
-  </div>
-  <p class="project-item-updated">
-      Updated {{ item.pushedAt | date: "%Y-%m-%d" }}
-  </p>
-
-  </li>
+    {% include project-item.html %}
   {% endfor %}
+
   <li class="project-item ghost-item"></li>
   <li class="project-item ghost-item"></li>
   <li class="project-item ghost-item"></li>
+
 </ul>
