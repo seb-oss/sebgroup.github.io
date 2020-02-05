@@ -34,11 +34,11 @@
   }
 }
 
-.index-button {
-  @include flex-horizontal;
-  justify-content: flex-end;
-  @include small {
-    justify-content: flex-start;
+.index-link {
+  color: black;
+  font-weight: 500;
+  i {
+    margin-left: $spacer-xs;
   }
 }
 

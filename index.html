@@ -52,9 +52,7 @@ sections:
       <div class="index-section-interaction">
         <h1>{{ section.intro }}</h1>    
         <p>{{ section.text }}</p>
-        <div class="index-button">
-          <a href="{{ section.buttonURL }}" class="sdv-button index-button">{{ section.buttonText }}</a>
-        </div>
+        <a href="{{ section.buttonURL }}" class="index-link">{{ section.buttonText }} <i class="far fa-arrow-right"></i></a>
       </div>
     </div>
   {% endfor %}
