@@ -70,6 +70,7 @@
 }
 
 .project-item-language-date {
+  margin-right: $spacer-s;
   @include flex-vertical;
   justify-content: flex-end;
 }

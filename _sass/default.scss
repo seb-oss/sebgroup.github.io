@@ -63,3 +63,18 @@ main {
   background-position: center center;
   height: 1.5 * $navbar-height;
 }
+
+// IE HACKS
+@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+  body {
+    display: block !important;
+  }
+
+  nav {
+    position: relative !important;
+  }
+
+  .page-header-background {
+    height: $header-size + $navbar-height;
+  }
+}
