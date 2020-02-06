@@ -1,17 +1,17 @@
-<p style="text-align: center;"> 
+<p align="center"> 
     <img src="assets/images/seb-logo-small.png" alt="seb logo">
 </p>
 
-<p style="text-align: center;"> 
-    <a href="https://sebgroup.github.io/" style="text-align: center">sebgroup.github.io</a>
+<p align="center"> 
+    <a href="https://sebgroup.github.io/">sebgroup.github.io</a>
 </p>
 
-<p style="text-align: center;">
+<p align="center">
     A website for SEBs open source repositories
 </p>
 
-<p style="text-align: center;"> 
-    Contact us at <a href="mailto:opensource@seb.se" style="text-align: center">opensource@seb.se</a>
+<p align="center"> 
+    Contact us at <a href="mailto:opensource@seb.se">opensource@seb.se</a>
 </p>
 
 
