@@ -1,32 +1,44 @@
+#projects-text {
+  margin-bottom: $spacer-l;
+}
+
 #projects-list {
   list-style: none;
   padding-left: 0;
+  margin: -(0.5 * $spacer-m);
   @include flex-vertical;
   @include small {
     flex-direction: row;
-    justify-content: space-between;
+    justify-content: space-around;
     flex-wrap: wrap;
+    margin: -(0.5 * $spacer-l);
   }
 }
 
 .project-item {
+  flex-grow: 1;
+  flex-shrink: 0;
   background: white;
   border-left-style: solid;
   border-left-width: 5px;
-  margin-bottom: $spacer-m;
+  margin: 0.5 * $spacer-m;
+  min-height: 200px;
   @include flex-vertical;
   justify-content: space-between;
   @include default-padding;
   @include small {
     width: 280px;
-    height: auto;
+    margin: 0.5 * $spacer-l;
+    flex-basis: 33.3333%;
+    flex-basis: 240px;
   }
 }
 
 .ghost-item {
+  @include default-padding;
+  height: 0px;
   visibility: hidden;
-  padding: 0;
-  margin: 0;
+  min-height: 0;
 }
 
 .star-icon {
