@@ -9,6 +9,13 @@ footer {
   }
 }
 
+.footer-content {
+  max-width: $max-width;
+  margin-left: auto;
+  margin-right: auto;
+  @include default-padding;
+}
+
 .footer-section {
   @include flex-vertical;
 }
