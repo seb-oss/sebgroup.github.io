@@ -7,6 +7,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v1
+      with:
+        token: ${{ mikael_token }}
     - uses: actions/setup-node@v1
       with:
         node-version: 12.15 
