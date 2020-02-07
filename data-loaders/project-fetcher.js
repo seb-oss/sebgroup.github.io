@@ -54,7 +54,7 @@ async function appendNoOfContributors(projects) {
   )
   console.log('responses', responses)
   return {
-    contributors: responses.map(res => res.length).reduce((sum, curr) => sum + curr, 0),
+    contributors: responses.map(res => res.length).filter(Boolean).reduce((sum, curr) => sum + curr, 0),
     projects
   }
 }
