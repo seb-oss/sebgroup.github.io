@@ -1,0 +1,20 @@
+name: Update projects data
+
+on: push
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v1
+    - uses: actions/setup-node@v1
+      with:
+        node-version: 12.15 
+    - env: 
+       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+       cd data-loaders 
+       npm install 
+       node project-fetcher.js
+    - name: Git Commit and Push
+      uses: github-actions-x/commit@v2.4
