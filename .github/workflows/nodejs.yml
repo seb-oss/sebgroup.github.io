@@ -10,10 +10,11 @@ jobs:
     - uses: actions/setup-node@v1
       with:
         node-version: 12.15 
-    - run: cd data-loaders
-    - run: npm install
-    - run: node project-fetcher.js
-      env: 
+    - env: 
        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+       cd data-loaders 
+       npm install 
+       node project-fetcher.js
     - name: Git Commit and Push
       uses: github-actions-x/commit@v2.4
