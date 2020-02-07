@@ -17,4 +17,10 @@ jobs:
     - run: npm install
     - run: node project-fetcher.js
       env: 
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    - uses: matheusalbino/git-commit@v1.0.1
+      with:
+       user-name: github
+       user-email: example@example.com
+       message: updating projects file
+       github-token: ${{ secrets.GITHUB_TOKEN }}
