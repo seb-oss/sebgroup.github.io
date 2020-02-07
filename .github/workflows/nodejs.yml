@@ -10,7 +10,7 @@ jobs:
     - uses: actions/setup-node@v1
       with:
         node-version: 12.15 
-    - run: ls
+    - run: cd data-loaders
     - run: npm install
     - run: node project-fetcher.js
       env: 
