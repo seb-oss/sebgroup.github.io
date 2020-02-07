@@ -4,9 +4,7 @@ on: push
 
 jobs:
   build:
-
     runs-on: ubuntu-18.04
-
     steps:
     - uses: actions/setup-node@v1
       with:
@@ -16,9 +14,5 @@ jobs:
     - run: node project-fetcher.js
       env: 
        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-    - uses: matheusalbino/git-commit@v1.0.1
-      with:
-       user-name: github
-       user-email: example@example.com
-       message: updating projects file
-       github-token: ${{ secrets.GITHUB_TOKEN }}
+    - name: Git Commit and Push
+      uses: github-actions-x/commit@v2.4
