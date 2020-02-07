@@ -1,0 +1,19 @@
+name: Update projects data
+
+on: 
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  build:
+
+    runs-on: ubuntu-18.04
+
+    steps:
+    - with:
+        node-version: 12.15 
+      env: 
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    - run: cd data-loaders 
+    - run: npm install
+    - run: node project-fetcher.js
