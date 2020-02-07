@@ -52,7 +52,6 @@ async function appendNoOfContributors(projects) {
       fetch(`https://api.github.com/repos/SEBgroup/${repoName}/stats/contributors`, {headers: {Authorization: `Bearer ${getToken()}`}})
         .then(res => res.json()))
   )
-  console.log('responses', responses)
   return {
     contributors: responses.map(res => res.length).filter(Boolean).reduce((sum, curr) => sum + curr, 0),
     projects
