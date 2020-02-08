@@ -178,6 +178,20 @@
       "closedIssues": 3
     },
     {
+      "name": "yttringar",
+      "description": null,
+      "homepageUrl": null,
+      "url": "https://github.com/sebgroup/yttringar",
+      "pushedAt": "2019-12-11T15:32:38Z",
+      "primaryLanguage": {
+        "name": "TypeScript",
+        "color": "#2b7489"
+      },
+      "stargazers": 1,
+      "forkCount": 0,
+      "closedIssues": 0
+    },
+    {
       "name": "document-write-intervene",
       "description": "Prevent document write from writing to your document and instead insert a new script tag to the dom",
       "homepageUrl": null,
@@ -262,25 +276,11 @@
       "closedIssues": 0
     },
     {
-      "name": "yttringar",
-      "description": null,
-      "homepageUrl": null,
-      "url": "https://github.com/sebgroup/yttringar",
-      "pushedAt": "2019-12-11T15:32:38Z",
-      "primaryLanguage": {
-        "name": "TypeScript",
-        "color": "#2b7489"
-      },
-      "stargazers": 0,
-      "forkCount": 0,
-      "closedIssues": 0
-    },
-    {
       "name": "sebgroup.github.io",
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2020-02-07T13:21:02Z",
+      "pushedAt": "2020-02-07T14:11:41Z",
       "primaryLanguage": {
         "name": "CSS",
         "color": "#563d7c"
