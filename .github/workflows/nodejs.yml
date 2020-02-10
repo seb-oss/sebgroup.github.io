@@ -21,5 +21,6 @@ jobs:
     - name: Git Commit and Push
       uses: stefanzweifel/git-auto-commit-action@v3.0.0
       with:
+        commit_author: ""
         commit_message: "chore: updating projects.json" 
         branch: master
