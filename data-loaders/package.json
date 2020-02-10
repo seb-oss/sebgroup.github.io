@@ -4,12 +4,18 @@
   "description": "",
   "main": "project-fetcher.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "fetch-kpis": "nodemon kpi-fetcher.js",
+    "fetch-projects": "nodemon project-fetcher.js"
   },
   "author": "",
   "license": "Apache 2.0",
   "dependencies": {
+    "date-fns": "^2.9.0",
     "graphql-request": "^1.8.2",
+    "install": "^0.13.0",
     "node-fetch": "^2.6.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
   }
 }
