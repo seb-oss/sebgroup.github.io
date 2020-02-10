@@ -1,5 +1,5 @@
 {
-  "contributors": 135,
+  "contributors": 56,
   "projects": [
     {
       "name": "ng-magic-iframe",
@@ -112,7 +112,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/react-components/",
       "url": "https://github.com/sebgroup/react-components",
-      "pushedAt": "2020-02-03T05:49:17Z",
+      "pushedAt": "2020-02-09T15:18:07Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -182,7 +182,7 @@
       "description": null,
       "homepageUrl": null,
       "url": "https://github.com/sebgroup/yttringar",
-      "pushedAt": "2019-12-11T15:32:38Z",
+      "pushedAt": "2020-02-09T16:36:54Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -280,7 +280,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2020-02-08T00:05:25Z",
+      "pushedAt": "2020-02-09T00:08:23Z",
       "primaryLanguage": {
         "name": "CSS",
         "color": "#563d7c"
