@@ -13,7 +13,7 @@
       },
       "stargazers": 15,
       "forkCount": 4,
-      "closedIssues": 7
+      "openIssues": 7
     },
     {
       "name": "design-library",
@@ -24,7 +24,7 @@
       "primaryLanguage": null,
       "stargazers": 12,
       "forkCount": 1,
-      "closedIssues": 31
+      "openIssues": 74
     },
     {
       "name": "openbanking",
@@ -35,7 +35,7 @@
       "primaryLanguage": null,
       "stargazers": 6,
       "forkCount": 5,
-      "closedIssues": 0
+      "openIssues": 2
     },
     {
       "name": "bootstrap",
@@ -49,7 +49,7 @@
       },
       "stargazers": 5,
       "forkCount": 4,
-      "closedIssues": 108
+      "openIssues": 12
     },
     {
       "name": "vanilla-pattern-library",
@@ -63,7 +63,7 @@
       },
       "stargazers": 5,
       "forkCount": 4,
-      "closedIssues": 51
+      "openIssues": 33
     },
     {
       "name": "ng-components",
@@ -77,7 +77,7 @@
       },
       "stargazers": 4,
       "forkCount": 0,
-      "closedIssues": 29
+      "openIssues": 28
     },
     {
       "name": "seb-angular-material",
@@ -91,7 +91,7 @@
       },
       "stargazers": 3,
       "forkCount": 0,
-      "closedIssues": 27
+      "openIssues": 7
     },
     {
       "name": "seb-pictograms",
@@ -105,21 +105,21 @@
       },
       "stargazers": 3,
       "forkCount": 0,
-      "closedIssues": 4
+      "openIssues": 2
     },
     {
       "name": "react-components",
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/react-components/",
       "url": "https://github.com/sebgroup/react-components",
-      "pushedAt": "2020-02-10T08:32:44Z",
+      "pushedAt": "2020-02-10T09:06:14Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
       },
       "stargazers": 3,
       "forkCount": 5,
-      "closedIssues": 33
+      "openIssues": 16
     },
     {
       "name": "repo-operator",
@@ -133,7 +133,7 @@
       },
       "stargazers": 3,
       "forkCount": 2,
-      "closedIssues": 1
+      "openIssues": 0
     },
     {
       "name": "fonts",
@@ -147,7 +147,7 @@
       },
       "stargazers": 1,
       "forkCount": 0,
-      "closedIssues": 0
+      "openIssues": 0
     },
     {
       "name": "ng-debug",
@@ -161,7 +161,7 @@
       },
       "stargazers": 1,
       "forkCount": 0,
-      "closedIssues": 0
+      "openIssues": 0
     },
     {
       "name": "frontend-tools",
@@ -175,7 +175,7 @@
       },
       "stargazers": 1,
       "forkCount": 0,
-      "closedIssues": 3
+      "openIssues": 1
     },
     {
       "name": "yttringar",
@@ -189,7 +189,7 @@
       },
       "stargazers": 1,
       "forkCount": 0,
-      "closedIssues": 0
+      "openIssues": 8
     },
     {
       "name": "document-write-intervene",
@@ -203,7 +203,7 @@
       },
       "stargazers": 0,
       "forkCount": 0,
-      "closedIssues": 1
+      "openIssues": 0
     },
     {
       "name": "ng-wizard",
@@ -217,7 +217,7 @@
       },
       "stargazers": 0,
       "forkCount": 2,
-      "closedIssues": 1
+      "openIssues": 0
     },
     {
       "name": "ngx-toastr",
@@ -231,7 +231,7 @@
       },
       "stargazers": 0,
       "forkCount": 0,
-      "closedIssues": 0
+      "openIssues": 0
     },
     {
       "name": "ng-bootstrap",
@@ -245,7 +245,7 @@
       },
       "stargazers": 0,
       "forkCount": 0,
-      "closedIssues": 0
+      "openIssues": 0
     },
     {
       "name": "aci-search",
@@ -259,7 +259,7 @@
       },
       "stargazers": 0,
       "forkCount": 0,
-      "closedIssues": 0
+      "openIssues": 0
     },
     {
       "name": "yttringar-oauth",
@@ -273,21 +273,7 @@
       },
       "stargazers": 0,
       "forkCount": 0,
-      "closedIssues": 0
-    },
-    {
-      "name": "sebgroup.github.io",
-      "description": "A website for SEBs open source repositories",
-      "homepageUrl": "https://sebgroup.github.io/",
-      "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2020-02-10T09:00:20Z",
-      "primaryLanguage": {
-        "name": "CSS",
-        "color": "#563d7c"
-      },
-      "stargazers": 0,
-      "forkCount": 0,
-      "closedIssues": 1
+      "openIssues": 1
     }
   ]
 }

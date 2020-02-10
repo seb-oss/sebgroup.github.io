@@ -21,7 +21,7 @@ function getProjects() {
                         pushedAt
                         isArchived
                         forkCount
-                        issues(states: CLOSED) {
+                        issues(states: OPEN) {
                           totalCount
                         }
                         primaryLanguage {
@@ -89,7 +89,7 @@ function graphQLToJson(body) {
         primaryLanguage: primaryLanguage || null,
         stargazers,
         forkCount,
-        closedIssues: issues
+        openIssues: issues
       })
     )
     .sort(
