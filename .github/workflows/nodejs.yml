@@ -1,8 +1,6 @@
 name: Update projects data
 
-on: 
-  schedule:
-    - cron: '* * * * *'
+on: push
 
 jobs:
   build:
