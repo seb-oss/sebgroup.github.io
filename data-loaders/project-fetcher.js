@@ -24,6 +24,11 @@ function getProjects() {
                         issues(states: OPEN) {
                           totalCount
                         }
+                        lastIssue: issues(last: 1) {
+                          nodes {
+                            createdAt
+                          }
+                        }
                         primaryLanguage {
                             name
                             color
@@ -66,6 +71,12 @@ function graphQLToJson(body) {
   return body
     .map(e => e.node)
     .map(e => Object.assign({}, e, { issues: e.issues.totalCount }))
+    .map(e => {
+      if (!e.lastIssue.nodes[0]) {
+        return e
+      }
+      return Object.assign({}, e, { lastIssueCreatedAt: e.lastIssue.nodes[0].createdAt })
+    })
     .map(e => Object.assign({}, e, { stargazers: e.stargazers.totalCount }))
     .filter(e => !e.isArchived)
     .filter(e => !e.isPrivate)
@@ -79,7 +90,8 @@ function graphQLToJson(body) {
         primaryLanguage,
         stargazers,
         forkCount,
-        issues
+        issues,
+        lastIssueCreatedAt
       }) => ({
         name,
         description: description || null,
@@ -89,7 +101,8 @@ function graphQLToJson(body) {
         primaryLanguage: primaryLanguage || null,
         stargazers,
         forkCount,
-        openIssues: issues
+        openIssues: issues,
+        lastIssueCreatedAt
       })
     )
     .sort(
