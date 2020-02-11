@@ -56,7 +56,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/vanilla-pattern-library/",
       "url": "https://github.com/sebgroup/vanilla-pattern-library",
-      "pushedAt": "2020-02-08T20:34:29Z",
+      "pushedAt": "2020-02-10T20:42:40Z",
       "primaryLanguage": {
         "name": "CSS",
         "color": "#563d7c"
@@ -112,7 +112,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/react-components/",
       "url": "https://github.com/sebgroup/react-components",
-      "pushedAt": "2020-02-10T08:32:44Z",
+      "pushedAt": "2020-02-10T17:36:23Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -280,7 +280,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2020-02-10T09:00:20Z",
+      "pushedAt": "2020-02-10T16:08:21Z",
       "primaryLanguage": {
         "name": "CSS",
         "color": "#563d7c"
