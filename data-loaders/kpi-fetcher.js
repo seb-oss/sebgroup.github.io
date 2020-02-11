@@ -7,7 +7,8 @@ function writeToProjectsFile(kpis) {
 function readToProjectsFile() {
     return JSON.parse(fs.readFileSync("../_data/projects.json", {encoding: "utf-8"}))
 }
-const projects = readToProjectsFile().projects
+
+const { projects, contributors } = readToProjectsFile()
 
 const stars = projects.map(e => e.stargazers).reduce((sum, curr) => sum + curr, 0)
 const forks = projects.map(e => e.forkCount).reduce((sum, curr) => sum + curr, 0)
@@ -32,6 +33,7 @@ writeToProjectsFile([{
     forks,
     openIssues,
     activeProjects,
+    contributors,
     month: datefns.format(datefns.subMonths(new Date(), 1), "MMMM"),
     year: datefns.getYear(new Date())
 }])
