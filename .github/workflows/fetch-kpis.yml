@@ -17,10 +17,10 @@ jobs:
       run: |
        cd data-loaders 
        npm install 
-       node kpi-fetcher.js
+       node activity-fetcher.js
     - name: Git Commit and Push
       uses: stefanzweifel/git-auto-commit-action@v3.0.0
       with:
         commit_author: "SEBOpenSource <opensource@seb.se>"
-        commit_message: "chore: updating kpis.json" 
+        commit_message: "chore: updating activity.json" 
         branch: master
