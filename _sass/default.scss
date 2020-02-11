@@ -19,13 +19,10 @@ main {
   background-color: $grey9;
 }
 
-.page-wrapper {
+.page-content {
   max-width: $max-width;
   margin-left: auto;
   margin-right: auto;
-}
-
-.page-content {
   @include default-padding;
 }
 
@@ -46,13 +43,6 @@ main {
   margin-left: auto;
   margin-right: auto;
   color: white;
-}
-
-.header-title,
-.header-intro {
-  @include small {
-    padding: 0 $spacer-l;
-  }
 }
 
 .page-end {
