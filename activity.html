@@ -5,7 +5,24 @@ color: yellow
 title: Activity
 intro: Activity of sebgroup on GitHub
 ---
+<script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
 
+<canvas id="stars-and-forks"></canvas>
+<div style="height: 200px;">
+    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dicta accusamus blanditiis molestiae nam numquam impedit, ullam libero, similique quis, omnis itaque! Omnis quia veniam quos quod dignissimos enim accusamus assumenda harum. Ipsum, mollitia eligendi? Eaque alias saepe laudantium inventore iure esse delectus aspernatur similique doloremque magnam aut eius, in perspiciatis!</p>
+</div>
+
+<canvas id="open-issues"></canvas>
+<div style="height: 200px;">
+    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dicta accusamus blanditiis molestiae nam numquam impedit, ullam libero, similique quis, omnis itaque! Omnis quia veniam quos quod dignissimos enim accusamus assumenda harum. Ipsum, mollitia eligendi? Eaque alias saepe laudantium inventore iure esse delectus aspernatur similique doloremque magnam aut eius, in perspiciatis!</p>
+</div>
+
+<canvas id="contributors"></canvas>
+<div style="height: 200px;">
+    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dicta accusamus blanditiis molestiae nam numquam impedit, ullam libero, similique quis, omnis itaque! Omnis quia veniam quos quod dignissimos enim accusamus assumenda harum. Ipsum, mollitia eligendi? Eaque alias saepe laudantium inventore iure esse delectus aspernatur similique doloremque magnam aut eius, in perspiciatis!</p>
+</div>
+
+<canvas id="active-repos"></canvas>
 <div style="height: 200px;">
     <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dicta accusamus blanditiis molestiae nam numquam impedit, ullam libero, similique quis, omnis itaque! Omnis quia veniam quos quod dignissimos enim accusamus assumenda harum. Ipsum, mollitia eligendi? Eaque alias saepe laudantium inventore iure esse delectus aspernatur similique doloremque magnam aut eius, in perspiciatis!</p>
 </div>
@@ -15,17 +32,104 @@ intro: Activity of sebgroup on GitHub
     <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dicta accusamus blanditiis molestiae nam numquam impedit, ullam libero, similique quis, omnis itaque! Omnis quia veniam quos quod dignissimos enim accusamus assumenda harum. Ipsum, mollitia eligendi? Eaque alias saepe laudantium inventore iure esse delectus aspernatur similique doloremque magnam aut eius, in perspiciatis!</p>
 </div>
 
+<script async defer>
+    const monthLabels = {{ site.data.kpis | map: "month" | split: "" }}
+    const starsData = {{ site.data.kpis | map: "stars" | split: "" }}
+    const forksData = {{ site.data.kpis | map: "forks" | split: "" }}
+    const openIssuesData = {{ site.data.kpis | map: "openIssues" | split: "" }}
+    const contributorsData = {{ site.data.kpis | map: "contributors" | split: "" }}
+    const activeReposData = {{ site.data.kpis | map: "activeProjects" | split: "" }}
+    const starsAndForks = document.getElementById('stars-and-forks').getContext('2d');
+    const starsAndForksChart = new Chart(starsAndForks, {
+        type: 'line',
+        data: {
+            labels: monthLabels,
+            datasets: [{
+                label: 'Stars',
+                fill: false,
+                borderColor: 'rgb(255, 99, 132)',
+                data: starsData
+            },{
+                fill: false,
+                label: 'Forks',
+                borderColor: 'rgb(54, 162, 235)',
+                data: forksData
+            }]
+        },
+    });
 
-<div style="height: 200px;">
-    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dicta accusamus blanditiis molestiae nam numquam impedit, ullam libero, similique quis, omnis itaque! Omnis quia veniam quos quod dignissimos enim accusamus assumenda harum. Ipsum, mollitia eligendi? Eaque alias saepe laudantium inventore iure esse delectus aspernatur similique doloremque magnam aut eius, in perspiciatis!</p>
-</div>
 
+    const openIssues = document.getElementById('open-issues').getContext('2d');
+    const openIssuesChart = new Chart(openIssues, {
+        type: 'line',
+        data: {
+            labels: monthLabels,
+            datasets: [{
+                label: 'Open Issues',
+                fill: false,
+                borderColor: 'rgb(255, 99, 132)',
+                data: openIssuesData
+            }],
+        },
+        options: {
+            scales: {
+                yAxes: [{
+                    ticks: {
+                        min: 0,
+                        stepSize: 100,
+                        max: 300
+                    }
+                }]
+            }
+        }
+    });
 
-<div style="height: 200px;">
-    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dicta accusamus blanditiis molestiae nam numquam impedit, ullam libero, similique quis, omnis itaque! Omnis quia veniam quos quod dignissimos enim accusamus assumenda harum. Ipsum, mollitia eligendi? Eaque alias saepe laudantium inventore iure esse delectus aspernatur similique doloremque magnam aut eius, in perspiciatis!</p>
-</div>
-
-
-<div style="height: 200px;">
-    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dicta accusamus blanditiis molestiae nam numquam impedit, ullam libero, similique quis, omnis itaque! Omnis quia veniam quos quod dignissimos enim accusamus assumenda harum. Ipsum, mollitia eligendi? Eaque alias saepe laudantium inventore iure esse delectus aspernatur similique doloremque magnam aut eius, in perspiciatis!</p>
-</div>
+    const contributors = document.getElementById('contributors').getContext('2d');
+    const contributorsChart = new Chart(contributors, {
+        type: 'line',
+        data: {
+            labels: monthLabels,
+            datasets: [{
+                label: 'Contributors',
+                fill: false,
+                borderColor: 'rgb(255, 99, 132)',
+                data: contributorsData
+            }]
+        },
+        options: {
+            scales: {
+                yAxes: [{
+                    ticks: {
+                        min: 0,
+                        stepSize: 50,
+                        max: 150
+                    }
+                }]
+            }
+        }
+    });
+    const activeRepos = document.getElementById('active-repos').getContext('2d');
+    const activeReposChart = new Chart(activeRepos, {
+        type: 'line',
+        data: {
+            labels: monthLabels,
+            datasets: [{
+                label: 'Active repos in month',
+                fill: false,
+                borderColor: 'rgb(255, 99, 132)',
+                data: activeReposData
+            }]
+        },
+        options: {
+            scales: {
+                yAxes: [{
+                    ticks: {
+                        min: 0,
+                        stepSize: 10,
+                        max: 50
+                    }
+                }]
+            }
+        }
+    });
+</script>
