@@ -4,7 +4,7 @@
   "description": "",
   "main": "project-fetcher.js",
   "scripts": {
-    "fetch-kpis": "nodemon kpi-fetcher.js",
+    "fetch-activity": "nodemon activity-fetcher.js",
     "fetch-projects": "nodemon project-fetcher.js"
   },
   "author": "",

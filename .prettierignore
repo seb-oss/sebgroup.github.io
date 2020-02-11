@@ -1,2 +1,3 @@
+# html and md are ignored because prettier doesnt support liquid syntax https://jekyllrb.com/docs/liquid/
 *.html
 *.md
