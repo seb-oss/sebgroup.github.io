@@ -12,6 +12,7 @@
   "dependencies": {
     "date-fns": "^2.9.0",
     "graphql-request": "^1.8.2",
+    "install": "^0.13.0",
     "node-fetch": "^2.6.0"
   },
   "devDependencies": {
