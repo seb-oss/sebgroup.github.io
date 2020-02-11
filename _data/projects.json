@@ -1,5 +1,5 @@
 {
-  "contributors": 50,
+  "contributors": 56,
   "projects": [
     {
       "name": "ng-magic-iframe",
@@ -120,7 +120,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/react-components/",
       "url": "https://github.com/sebgroup/react-components",
-      "pushedAt": "2020-02-10T17:36:23Z",
+      "pushedAt": "2020-02-11T13:19:43Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -287,21 +287,8 @@
       },
       "stargazers": 0,
       "forkCount": 0,
-      "closedIssues": 0
-    },
-    {
-      "name": "sebgroup.github.io",
-      "description": "A website for SEBs open source repositories",
-      "homepageUrl": "https://sebgroup.github.io/",
-      "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2020-02-10T16:08:21Z",
-      "primaryLanguage": {
-        "name": "CSS",
-        "color": "#563d7c"
-      },
-      "stargazers": 0,
-      "forkCount": 0,
-      "closedIssues": 1
+      "openIssues": 1,
+      "lastIssueCreatedAt": "2019-11-28T16:27:35Z"
     }
   ]
 }
