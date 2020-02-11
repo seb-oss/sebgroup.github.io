@@ -1,11 +1,21 @@
 const fs = require("fs")
 const datefns = require('date-fns')
-function writeToProjectsFile(kpis) {
-    fs.writeFileSync("../_data/kpis.json", JSON.stringify(kpis, null, 2))
+function appendToProjectsFile(kpis) {
+    const kpisList = readToKpiFile() || []
+    kpisList.push(kpis)
+    fs.writeFileSync("../_data/kpis.json", JSON.stringify(kpisList, null, 2))
 }
 
 function readToProjectsFile() {
     return JSON.parse(fs.readFileSync("../_data/projects.json", {encoding: "utf-8"}))
+}
+
+function readToKpiFile() {
+    const path = "../_data/kpis.json"
+    if (!fs.existsSync(path)) {
+        return []
+    }
+    return JSON.parse(fs.readFileSync(path, {encoding: "utf-8"}))
 }
 
 const { projects, contributors } = readToProjectsFile()
@@ -28,7 +38,7 @@ function getActiveProjectsCount() {
     return projects.filter(e => isWithinLastMonth(e.pushedAt) || isWithinLastMonth(e.lastIssueCreatedAt)).length
 }
 
-writeToProjectsFile([{
+appendToProjectsFile({
     stars,
     forks,
     openIssues,
@@ -36,4 +46,4 @@ writeToProjectsFile([{
     contributors,
     month: datefns.format(datefns.subMonths(new Date(), 1), "MMMM"),
     year: datefns.getYear(new Date())
-}])
+})
