@@ -13,7 +13,6 @@ main {
   flex: 1;
   max-width: 100%;
   margin-top: $navbar-height;
-  @include flex-vertical;
 }
 
 .page-background {
@@ -30,23 +29,11 @@ main {
   @include default-padding;
 }
 
-.page-header-background {
-  height: $header-size;
-  width: 100%;
-  z-index: -1;
-  position: absolute;
-  top: $navbar-height;
+.page-header {
   background-size: 200%;
   background-repeat: no-repeat;
   background-position: center center;
-}
-
-.page-header {
   width: 100%;
-  max-width: $max-width;
-  margin-left: auto;
-  margin-right: auto;
-  color: white;
   height: $header-size;
   @include flex-horizontal;
   justify-content: flex-start;
@@ -55,6 +42,17 @@ main {
 
 .page-header-text {
   @include default-padding;
+  width: $max-width;
+  margin-left: auto;
+  margin-right: auto;
+  color: white;
+}
+
+.header-title,
+.header-intro {
+  @include small {
+    padding: 0 $spacer-l;
+  }
 }
 
 .page-end {
