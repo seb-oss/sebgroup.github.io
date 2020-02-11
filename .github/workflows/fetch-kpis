@@ -1,0 +1,26 @@
+name: Update projects data
+
+on:   
+  schedule:
+    - cron: '1 * 1 * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - uses: actions/setup-node@v1
+      with:
+        node-version: 12.15 
+    - env: 
+       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+       cd data-loaders 
+       npm install 
+       node kpi-fetcher.js
+    - name: Git Commit and Push
+      uses: stefanzweifel/git-auto-commit-action@v3.0.0
+      with:
+        commit_author: "SEBOpenSource <opensource@seb.se>"
+        commit_message: "chore: updating kpis.json" 
+        branch: master
