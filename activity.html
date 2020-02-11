@@ -33,12 +33,12 @@ intro: Activity of sebgroup on GitHub
 </div>
 
 <script async defer>
-    const monthLabels = {{ site.data.kpis | map: "month" | split: "" }}
-    const starsData = {{ site.data.kpis | map: "stars" | split: "" }}
-    const forksData = {{ site.data.kpis | map: "forks" | split: "" }}
-    const openIssuesData = {{ site.data.kpis | map: "openIssues" | split: "" }}
-    const contributorsData = {{ site.data.kpis | map: "contributors" | split: "" }}
-    const activeReposData = {{ site.data.kpis | map: "activeProjects" | split: "" }}
+    const monthLabels = {{ site.data.activity | map: "month" | split: "" }}
+    const starsData = {{ site.data.activity | map: "stars" | split: "" }}
+    const forksData = {{ site.data.activity | map: "forks" | split: "" }}
+    const openIssuesData = {{ site.data.activity | map: "openIssues" | split: "" }}
+    const contributorsData = {{ site.data.activity | map: "contributors" | split: "" }}
+    const activeReposData = {{ site.data.activity | map: "activeProjects" | split: "" }}
     const starsAndForks = document.getElementById('stars-and-forks').getContext('2d');
     const starsAndForksChart = new Chart(starsAndForks, {
         type: 'line',

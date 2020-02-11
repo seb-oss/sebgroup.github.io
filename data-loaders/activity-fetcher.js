@@ -8,7 +8,7 @@ const openIssues = projects.map(e => e.openIssues).reduce((sum, curr) => sum + c
 
 const activeProjects = getActiveProjectsCount()
 
-appendToProjectsFile({
+appendToActivityFile({
     stars,
     forks,
     openIssues,
@@ -30,18 +30,18 @@ function getActiveProjectsCount() {
     return projects.filter(e => isWithinLastMonth(e.pushedAt) || isWithinLastMonth(e.lastIssueCreatedAt)).length
 }
 
-function appendToProjectsFile(kpis) {
-    const kpisList = readToKpiFile() || []
-    kpisList.push(kpis)
-    fs.writeFileSync("../_data/kpis.json", JSON.stringify(kpisList, null, 2))
+function appendToActivityFile(activity) {
+    const activityList = readToActivityFile() || []
+    activityList.push(activity)
+    fs.writeFileSync("../_data/activity.json", JSON.stringify(activityList, null, 2))
 }
 
 function readToProjectsFile() {
     return JSON.parse(fs.readFileSync("../_data/projects.json", {encoding: "utf-8"}))
 }
 
-function readToKpiFile() {
-    const path = "../_data/kpis.json"
+function readToActivityFile() {
+    const path = "../_data/activity.json"
     if (!fs.existsSync(path)) {
         return []
     }
