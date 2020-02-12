@@ -1,20 +1,20 @@
 - name: 'why-open-source'
   intro: 'Why open source?'
-  text: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab, quae voluptatum excepturi consequuntur corporis in tempora, laborum repellat repudiandae deserunt a delectus adipisci eaque inventore optio ullam dolore earum similique.'
+  text: 'SEB is a leading Nordic financial services group, founded in 1856. Since then we have been guided by a strong belief that entrepreneurial minds and innovative companies are key in creating a better world. We believe using and contributing to open source software is beneficial to collaboratively creating a better world.'
   buttonText: 'About SEB'
   buttonURL: 'https://sebgroup.com/'
   image: collaboration
 
 - name: 'explore-projects'
   intro: 'Explore projects'
-  text: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab, quae voluptatum excepturi consequuntur corporis in tempora, laborum repellat repudiandae deserunt a delectus adipisci eaque inventore optio ullam dolore earum similique.'
+  text: 'Our open source projects range from frontend tools and gadgets, to deployment operators and more. We continuously evaluate what is suitable to open source. By using and contributing to our projects, you help us maintain relevant and evolving projects.'
   buttonText: 'View all projects'
   buttonURL: '/projects.html'
   image: containers
 
 - name: 'activity'
   intro: 'Activity'
-  text: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab, quae voluptatum excepturi consequuntur corporis in tempora, laborum repellat repudiandae deserunt a delectus adipisci eaque inventore optio ullam dolore earum similique.'
+  text: 'To track the progress of our open source community, we have set up a page just for metrics and KPIs. We use this to evaluate our progress and see if we need to make any adjustments on our journey. It is of course open source and you are free to take a look.'
   buttonText: 'See activity'
   buttonURL: '/activity.html'
   image: datacenter
