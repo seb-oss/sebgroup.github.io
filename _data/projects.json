@@ -60,7 +60,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/vanilla-pattern-library/",
       "url": "https://github.com/sebgroup/vanilla-pattern-library",
-      "pushedAt": "2020-02-10T20:42:40Z",
+      "pushedAt": "2020-02-11T14:27:35Z",
       "primaryLanguage": {
         "name": "CSS",
         "color": "#563d7c"
@@ -202,6 +202,21 @@
       "forkCount": 0,
       "openIssues": 8,
       "lastIssueCreatedAt": "2019-11-28T16:44:38Z"
+    },
+    {
+      "name": "sebgroup.github.io",
+      "description": "A website for SEBs open source repositories",
+      "homepageUrl": "https://sebgroup.github.io/",
+      "url": "https://github.com/sebgroup/sebgroup.github.io",
+      "pushedAt": "2020-02-11T14:39:23Z",
+      "primaryLanguage": {
+        "name": "CSS",
+        "color": "#563d7c"
+      },
+      "stargazers": 1,
+      "forkCount": 0,
+      "openIssues": 2,
+      "lastIssueCreatedAt": "2020-02-10T07:12:40Z"
     },
     {
       "name": "document-write-intervene",
