@@ -92,7 +92,7 @@ $header-size: 3 * $navbar-height;
   // https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_aspect_ratio
   position: relative;
   width: 100%;
-  padding-bottom: 75%; /* 1:1 Aspect Ratio */
+  padding-bottom: 75%; /* 4:3 Aspect Ratio */
   > * {
     position: absolute;
     top: 0;

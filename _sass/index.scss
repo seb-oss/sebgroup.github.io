@@ -3,7 +3,7 @@
 }
 
 .index-section {
-  flex: 1 1 0;
+  flex: 1;
   @include flex-vertical;
   margin-bottom: $spacer-m;
   @include small {
