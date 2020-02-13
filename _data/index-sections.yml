@@ -1,6 +1,6 @@
 - name: 'why-open-source'
   intro: 'Why open source?'
-  text: 'SEB is a leading Nordic financial services group, founded in 1856. Since then we have been guided by a strong belief that entrepreneurial minds and innovative companies are key in creating a better world. We believe using and contributing to open source software is beneficial to collaboratively creating a better world.'
+  text: 'SEB is a leading Nordic financial services group, founded in 1856. Since then we have been guided by a strong belief that entrepreneurial minds and innovative companies are key in creating a better world. One of the best ways of encouraging this is through open source software.'
   buttonText: 'About SEB'
   buttonURL: 'https://sebgroup.com/'
   image: collaboration
