@@ -1,32 +1,32 @@
-- name: 'why-open-source'
+why-open-source:
   intro: 'Why open source?'
   text: 'SEB is a leading Nordic financial services group, founded in 1856. Since then we have been guided by a strong belief that entrepreneurial minds and innovative companies are key in creating a better world. We encourage this through open source software.'
   buttonText: 'About SEB'
   buttonURL: 'https://sebgroup.com/'
   image: collaboration
 
-- name: 'explore-projects'
+explore-projects:
   intro: 'Explore projects'
   text: 'Our open source projects range from frontend tools and gadgets, to deployment operators and more. We continuously evaluate what is suitable to open source. By using and contributing to our projects, you help us maintain relevant and evolving projects.'
   buttonText: 'View all projects'
   buttonURL: '/projects.html'
   image: containers
 
-- name: 'activity'
+activity:
   intro: 'Activity'
   text: 'To track the progress of our open source community, we have set up a page just for metrics and KPIs. We use this to evaluate our progress and see if we need to make any adjustments on our journey. It is of course open source and you are free to take a look.'
   buttonText: 'See activity'
   buttonURL: '/activity.html'
   image: datacenter
 
-- name: 'open-banking'
+open-banking:
   intro: 'Open Banking'
   text: 'Traditional closed banking is breaking up to give way to open access, transparent service, and most important of all, collaboration. Use SEBs APIs to enhance your business and join us in discovering new ways of delivering customer value.'
   buttonText: 'View available APIs'
   buttonURL: 'https://developer.sebgroup.com/'
   image: hero
 
-- name: 'career'
+career:
   intro: 'Come work with us'
   text: 'There is a wealth of opportunities at SEB. Our teams include all kinds of people and there is one thing we have in common: we want to be a positive force in society. We empower people to achieve their goals.'
   buttonText: 'See opportunities'

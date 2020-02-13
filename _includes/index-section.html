@@ -1,14 +1,14 @@
-<div class="index-section {{ site.data.index-sections[i].name }}">
+<div class="index-section {{ section }}">
     <div class="index-section-image">
-      <img src="{{ site.baseurl }}/assets/images/{{ site.data.index-sections[i].image }}.jpg" alt="{{ site.data.index-sections[i].image }}">
+      <img src="{{ site.baseurl }}/assets/images/{{ site.data.index-sections[section].image }}.jpg" alt="{{ site.data.index-sections[section].image }}">
     </div>
     <div class="index-aspect-ratio">
       <div class="index-section-interaction">
         <div>
-            <h2 class="index-section-intro">{{ site.data.index-sections[i].intro }}</h2>    
-            <p class="index-section-text">{{ site.data.index-sections[i].text }}</p>
+            <h2 class="index-section-intro">{{ site.data.index-sections[section].intro }}</h2>    
+            <p class="index-section-text">{{ site.data.index-sections[section].text }}</p>
         </div>
-        <a href="{{ site.data.index-sections[i].buttonURL }}" class="index-link">{{ site.data.index-sections[i].buttonText }} <i class="far fa-arrow-right"></i></a>
+        <a href="{{ site.data.index-sections[section].buttonURL }}" class="index-link">{{ site.data.index-sections[section].buttonText }} <i class="far fa-arrow-right"></i></a>
       </div>
     </div>
   </div>
