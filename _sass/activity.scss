@@ -1,3 +1,28 @@
 .activity-canvas {
   margin: $spacer-l 0;
+  @include small {
+    margin: 0;
+  }
+}
+
+.activity-section {
+  @include small {
+    @include flex-horizontal;
+    margin: $spacer-xl 0;
+
+    .activity-text-section {
+      flex: 1;
+      margin-top: $spacer-l;
+      margin-right: $spacer-xl;
+    }
+
+    .activity-canvas-wrapper {
+      flex: 2;
+      overflow: hidden;
+    }
+
+    .responsive-chart {
+      position: relative;
+    }
+  }
 }

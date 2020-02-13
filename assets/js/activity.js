@@ -53,24 +53,6 @@ const starsAndForksChart = new Chart(starsAndForks, {
         data: forksData.slice(-12)
       }
     ]
-  },
-  options: {
-    scales: {
-      xAxes: [
-        {
-          ticks: {
-            fontSize: 10
-          }
-        }
-      ],
-      yAxes: [
-        {
-          ticks: {
-            fontSize: 10
-          }
-        }
-      ]
-    }
   }
 })
 
@@ -97,14 +79,6 @@ const openIssuesChart = new Chart(openIssues, {
             min: 0,
             stepSize: 100,
             max: 300,
-            fontSize: 10
-          }
-        }
-      ],
-      xAxes: [
-        {
-          ticks: {
-            fontSize: 10
           }
         }
       ]
@@ -135,14 +109,6 @@ const contributorsChart = new Chart(contributors, {
             min: 0,
             stepSize: 50,
             max: 100,
-            fontSize: 10
-          }
-        }
-      ],
-      xAxes: [
-        {
-          ticks: {
-            fontSize: 10
           }
         }
       ]
@@ -172,14 +138,6 @@ const activeReposChart = new Chart(activeRepos, {
             min: 0,
             stepSize: 10,
             max: 30,
-            fontSize: 10
-          }
-        }
-      ],
-      xAxes: [
-        {
-          ticks: {
-            fontSize: 10
           }
         }
       ]
