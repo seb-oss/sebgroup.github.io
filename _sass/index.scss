@@ -27,6 +27,10 @@
   }
 }
 
+.index-section-text {
+  margin-bottom: 0;
+}
+
 .index-section-image {
   @include flex-vertical;
   justify-content: flex-end;
