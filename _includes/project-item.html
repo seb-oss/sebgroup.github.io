@@ -19,9 +19,19 @@
         {% if item.primaryLanguage %}
           <p class="project-item-language">{{ item.primaryLanguage.name }}</p>
         {% endif %}
+
+        {% assign pushedAt = item.pushedAt | date: '%s' %}
+        {% assign issueOpened = item.lastIssueCreatedAt | date: '%s' %}
+        {% if issueOpened > pushedAt %}
+          {% assign date = item.lastIssueCreatedAt %}
+        {% else %}
+          {% assign date = item.pushedAt %}
+        {% endif %}
+
         <p class="project-item-updated">
-          Updated {{ item.pushedAt | date: "%Y-%m-%d" }}
+          Updated <span class="raw-dates">{{ date | date: "%Y-%m-%d" }}</span> ago
         </p>
+     
       </div>
   
       <div class="project-item-links">

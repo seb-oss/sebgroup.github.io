@@ -6,6 +6,8 @@ title: Projects
 intro: A collection of SEBs Open Source Projects
 ---
 
+<script src="http://cdn.date-fns.org/v1.9.0/date_fns.min.js"></script>
+
 <div id="projects-text">
   <h2>Total: {{ site.data.projects.projects.size }} projects</h2>
 </div>
@@ -19,5 +21,13 @@ intro: A collection of SEBs Open Source Projects
   <li class="project-item ghost-item"></li>
   <li class="project-item ghost-item"></li>
   <li class="project-item ghost-item"></li>
+
+  <script>
+    const datesDOM = document.getElementsByClassName('raw-dates')
+    for (let i = 0; i < datesDOM.length; i++) {
+      const rawDate = datesDOM[i].textContent
+      datesDOM[i].textContent = dateFns.distanceInWordsToNow(rawDate)
+    }
+  </script>
 
 </ul>
