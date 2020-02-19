@@ -1,8 +1,8 @@
-const { GraphQLClient } = require("graphql-request")
-const fs = require("fs")
-const fetch = require("node-fetch");
+const { GraphQLClient } = require('graphql-request')
+const fs = require('fs')
+const fetch = require('node-fetch')
 
-const client = new GraphQLClient("https://api.github.com/graphql", {
+const client = new GraphQLClient('https://api.github.com/graphql', {
   headers: {
     Authorization: `Bearer ${getToken()}`
   }
@@ -21,7 +21,10 @@ function getProjects() {
                         pushedAt
                         isArchived
                         forkCount
-                        issues(states: OPEN) {
+                        openIssues: issues(states: OPEN) {
+                          totalCount
+                        }
+                        closedIssues: issues(states: CLOSED) {
                           totalCount
                         }
                         lastIssue: issues(last: 1) {
@@ -51,20 +54,27 @@ function getProjects() {
 }
 
 async function appendNoOfContributors(projects) {
-  const responses = await Promise.all(projects
-    .map(({name}) => name)
-    .map(repoName =>
-      fetch(`https://api.github.com/repos/SEBgroup/${repoName}/stats/contributors`, {headers: {Authorization: `Bearer ${getToken()}`}})
-        .then(res => res.json()))
+  const responses = await Promise.all(
+    projects
+      .map(({ name }) => name)
+      .map(repoName =>
+        fetch(
+          `https://api.github.com/repos/SEBgroup/${repoName}/stats/contributors`,
+          { headers: { Authorization: `Bearer ${getToken()}` } }
+        ).then(res => res.json())
+      )
   )
   return {
-    contributors: responses.map(res => res.length).filter(Boolean).reduce((sum, curr) => sum + curr, 0),
+    contributors: responses
+      .map(res => res.length)
+      .filter(Boolean)
+      .reduce((sum, curr) => sum + curr, 0),
     projects
   }
 }
 
 function writeToProjectsFile(projects) {
-  fs.writeFileSync("../_data/projects.json", JSON.stringify(projects, null, 2))
+  fs.writeFileSync('../_data/projects.json', JSON.stringify(projects, null, 2))
 }
 
 function graphQLToJson(body) {
@@ -75,7 +85,9 @@ function graphQLToJson(body) {
       if (!e.lastIssue.nodes[0]) {
         return e
       }
-      return Object.assign({}, e, { lastIssueCreatedAt: e.lastIssue.nodes[0].createdAt })
+      return Object.assign({}, e, {
+        lastIssueCreatedAt: e.lastIssue.nodes[0].createdAt
+      })
     })
     .map(e => Object.assign({}, e, { stargazers: e.stargazers.totalCount }))
     .filter(e => !e.isArchived)
@@ -90,7 +102,8 @@ function graphQLToJson(body) {
         primaryLanguage,
         stargazers,
         forkCount,
-        issues,
+        openIssues,
+        closedIssues,
         lastIssueCreatedAt
       }) => ({
         name,
@@ -101,7 +114,8 @@ function graphQLToJson(body) {
         primaryLanguage: primaryLanguage || null,
         stargazers,
         forkCount,
-        openIssues: issues,
+        openIssues,
+        closedIssues,
         lastIssueCreatedAt
       })
     )
@@ -114,7 +128,7 @@ function graphQLToJson(body) {
 function getToken() {
   return (
     process.env.GITHUB_TOKEN ||
-    fs.readFileSync(".env", { encoding: "utf-8" }).split("TOKEN=")[1]
+    fs.readFileSync('.env', { encoding: 'utf-8' }).split('TOKEN=')[1]
   )
 }
 
