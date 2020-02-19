@@ -4,6 +4,7 @@
 const starsData = {{ site.data.activity | map: "stars" | split: "" }}
 const forksData = {{ site.data.activity | map: "forks" | split: "" }}
 const openIssuesData = {{ site.data.activity | map: "openIssues" | split: "" }}
+const closedIssuesData = {{ site.data.activity | map: "closedIssues" | split: "" }}
 const contributorsData = {{ site.data.activity | map: "contributors" | split: "" }}
 const activeReposData = {{ site.data.activity | map: "activeProjects" | split: "" }}
 const monthsData = {{ site.data.activity | map: "month" | split: "" }}
@@ -58,16 +59,25 @@ const starsAndForksChart = new Chart(starsAndForks, {
 
 const openIssues = document.getElementById('open-issues').getContext('2d')
 const openIssuesChart = new Chart(openIssues, {
-  type: 'line',
+  type: 'bar',
   data: {
     labels: monthLabels,
     datasets: [
       {
+        type: 'line',
         label: 'Open Issues',
         fill: false,
         borderColor: '#bb000c',
         backgroundColor: '#bb000c',
         data: openIssuesData.slice(-12)
+      },
+      {
+        label: 'Closed Issues',
+        type: 'bar',
+        fill: false,
+        borderColor: '#007ac7',
+        backgroundColor: '#007ac7',
+        data: closedIssuesData.slice(-12)
       }
     ]
   },
