@@ -1,5 +1,5 @@
 {
-  "contributors": 54,
+  "contributors": 56,
   "projects": [
     {
       "name": "ng-magic-iframe",
@@ -53,7 +53,7 @@
       "stargazers": 5,
       "forkCount": 4,
       "openIssues": 9,
-      "lastIssueCreatedAt": "2020-02-17T06:14:51Z"
+      "lastIssueCreatedAt": "2020-02-18T05:54:48Z"
     },
     {
       "name": "vanilla-pattern-library",
@@ -75,14 +75,14 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/ng-components/components/buttons/examples",
       "url": "https://github.com/sebgroup/ng-components",
-      "pushedAt": "2020-01-29T05:20:43Z",
+      "pushedAt": "2020-02-18T05:21:33Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
       },
       "stargazers": 4,
       "forkCount": 0,
-      "openIssues": 28,
+      "openIssues": 27,
       "lastIssueCreatedAt": "2020-02-17T06:14:51Z"
     },
     {
@@ -135,7 +135,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/react-components/",
       "url": "https://github.com/sebgroup/react-components",
-      "pushedAt": "2020-02-17T05:17:20Z",
+      "pushedAt": "2020-02-18T05:12:31Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -178,7 +178,7 @@
       "description": "A set of frontend tools written in Typescript",
       "homepageUrl": "https://github.com/sebgroup/frontend-tools/wiki",
       "url": "https://github.com/sebgroup/frontend-tools",
-      "pushedAt": "2020-02-17T05:12:26Z",
+      "pushedAt": "2020-02-18T05:08:13Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -208,7 +208,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2020-02-14T00:12:43Z",
+      "pushedAt": "2020-02-18T00:11:56Z",
       "primaryLanguage": {
         "name": "CSS",
         "color": "#563d7c"
@@ -267,7 +267,7 @@
       "description": "A SEB themed stylesheet for ng-bootstrap",
       "homepageUrl": "https://sebgroup.github.io/ng-bootstrap/",
       "url": "https://github.com/sebgroup/ng-bootstrap",
-      "pushedAt": "2020-02-17T05:08:25Z",
+      "pushedAt": "2020-02-18T05:07:28Z",
       "primaryLanguage": {
         "name": "HTML",
         "color": "#e34c26"
