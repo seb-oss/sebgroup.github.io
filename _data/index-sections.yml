@@ -14,7 +14,7 @@ explore-projects:
 
 activity:
   intro: 'Activity'
-  text: 'To track the progress of our open source community, we have set up a page just for metrics and KPIs. We use this to evaluate our progress and see if we need to make any adjustments on our journey. It is of course open source and you are free to take a look.'
+  text: 'To track the progress of our open source community, we have set up a page for metrics and KPIs. We use this to evaluate our progress and see if we need to make any adjustments on our journey.'
   buttonText: 'See activity'
   buttonURL: '/activity.html'
   image: datacenter
