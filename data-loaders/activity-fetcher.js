@@ -1,6 +1,6 @@
 const fs = require('fs')
 const datefns = require('date-fns')
-const { projects, contributors } = readToProjectsFile()
+const { projects, contributors, closedIssuesThisMonth } = readProjectsFile()
 
 const stars = projects
   .map(e => e.stargazers)
@@ -14,19 +14,13 @@ const openIssues = projects
   .map(e => e.openIssues)
   .reduce((sum, curr) => sum + curr, 0)
 
-const closedIssuesTotal = projects
-  .map(e => e.closedIssues)
-  .reduce((sum, curr) => sum + curr, 0)
-
-const closedIssues = closedIssuesTotal - getLastMonthsClosedIssues()
-
 const activeProjects = getActiveProjectsCount()
 
 appendToActivityFile({
   stars,
   forks,
   openIssues,
-  closedIssues,
+  closedIssuesThisMonth,
   activeProjects,
   contributors,
   month: datefns.format(datefns.subMonths(new Date(), 1), 'MMMM'),
@@ -35,7 +29,7 @@ appendToActivityFile({
 
 function getActiveProjectsCount() {
   const end = new Date()
-  const start = datefns.sub(end, { days: 30 })
+  const start = datefns.sub(end, { days: 31 })
   const monthInterval = datefns.eachMonthOfInterval({ start, end })
   const isWithinLastMonth = date =>
     datefns.isWithinInterval(datefns.parseISO(date), {
@@ -57,7 +51,7 @@ function appendToActivityFile(activity) {
   )
 }
 
-function readToProjectsFile() {
+function readProjectsFile() {
   return JSON.parse(
     fs.readFileSync('../_data/projects.json', { encoding: 'utf-8' })
   )
@@ -69,9 +63,4 @@ function readActivityFile() {
     return []
   }
   return JSON.parse(fs.readFileSync(path, { encoding: 'utf-8' }))
-}
-
-function getLastMonthsClosedIssues() {
-  const activityList = readActivityFile()
-  return activityList[activityList.length - 1].closedIssues
 }
