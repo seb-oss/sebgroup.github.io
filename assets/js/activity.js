@@ -4,7 +4,7 @@
 const starsData = {{ site.data.activity | map: "stars" | split: "" }}
 const forksData = {{ site.data.activity | map: "forks" | split: "" }}
 const openIssuesData = {{ site.data.activity | map: "openIssues" | split: "" }}
-const closedIssuesData = {{ site.data.activity | map: "closedIssues" | split: "" }}
+const closedIssuesData = {{ site.data.activity | map: "closedIssuesThisMonth" | split: "" }}
 const contributorsData = {{ site.data.activity | map: "contributors" | split: "" }}
 const activeReposData = {{ site.data.activity | map: "activeProjects" | split: "" }}
 const monthsData = {{ site.data.activity | map: "month" | split: "" }}
