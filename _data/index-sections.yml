@@ -7,14 +7,14 @@ why-open-source:
 
 explore-projects:
   intro: 'Explore projects'
-  text: 'Our open source projects range from frontend tools and gadgets, to deployment operators and more. We continuously evaluate what is suitable to open source. By using and contributing to our projects, you help us maintain relevant and evolving projects.'
+  text: 'Our open source projects range from frontend tools and gadgets, to Kubernetes operators and more. We continuously evaluate what is suitable to open source. By using and contributing to our projects, you help us maintain relevant and evolving projects.'
   buttonText: 'View all projects'
   buttonURL: '/projects.html'
   image: containers
 
 activity:
   intro: 'Activity'
-  text: 'To track the progress of our open source community, we have set up a page just for metrics and KPIs. We use this to evaluate our progress and see if we need to make any adjustments on our journey. It is of course open source and you are free to take a look.'
+  text: 'To track the progress of our open source community, we have set up a page for metrics and KPIs. We use this to evaluate our progress and see if we need to make any adjustments on our journey.'
   buttonText: 'See activity'
   buttonURL: '/activity.html'
   image: datacenter
