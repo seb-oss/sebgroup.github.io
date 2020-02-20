@@ -54,6 +54,27 @@ const starsAndForksChart = new Chart(starsAndForks, {
         data: forksData.slice(-12)
       }
     ]
+  },
+  options: {
+    scales: {
+      yAxes: [
+        {
+          ticks: {
+            min: 0,
+            stepSize: 20,
+            max: 100,
+          }
+        }
+      ],
+      xAxes: [
+        {
+          offset: true,
+          gridLines: {
+            display: false
+          }
+        }
+      ]
+    }
   }
 })
 
@@ -87,8 +108,16 @@ const openIssuesChart = new Chart(openIssues, {
         {
           ticks: {
             min: 0,
-            stepSize: 100,
+            stepSize: 50,
             max: 300,
+          }
+        }
+      ],
+      xAxes: [
+        {
+          offset: true,
+          gridLines: {
+            display: false
           }
         }
       ]
@@ -117,8 +146,16 @@ const contributorsChart = new Chart(contributors, {
         {
           ticks: {
             min: 0,
-            stepSize: 50,
+            stepSize: 20,
             max: 100,
+          }
+        }
+      ],
+      xAxes: [
+        {
+          offset: true,
+          gridLines: {
+            display: false
           }
         }
       ]
@@ -134,8 +171,8 @@ const activeReposChart = new Chart(activeRepos, {
       {
         label: 'Active repositories',
         fill: false,
-        borderColor: '#007ac7',
-        backgroundColor: '#007ac7',
+        borderColor: '#673ab6',
+        backgroundColor: '#673ab6',
         data: activeReposData.slice(-12)
       }
     ]
@@ -146,8 +183,16 @@ const activeReposChart = new Chart(activeRepos, {
         {
           ticks: {
             min: 0,
-            stepSize: 10,
-            max: 30,
+            stepSize: 5,
+            max: 20,
+          }
+        }
+      ],
+      xAxes: [
+        {
+          offset: true,
+          gridLines: {
+            display: false
           }
         }
       ]
