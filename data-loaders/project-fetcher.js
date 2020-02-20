@@ -1,6 +1,7 @@
 const { GraphQLClient } = require('graphql-request')
 const fs = require('fs')
 const fetch = require('node-fetch')
+const datefns = require('date-fns')
 
 const client = new GraphQLClient('https://api.github.com/graphql', {
   headers: {
@@ -22,9 +23,6 @@ function getProjects() {
                         isArchived
                         forkCount
                         openIssues: issues(states: OPEN) {
-                          totalCount
-                        }
-                        closedIssues: issues(states: CLOSED) {
                           totalCount
                         }
                         lastIssue: issues(last: 1) {
@@ -50,6 +48,7 @@ function getProjects() {
     .then(e => e.organization.repositories.edges)
     .then(graphQLToJson)
     .then(appendNoOfContributors)
+    .then(appendNoOfIssuesClosed)
     .then(writeToProjectsFile)
 }
 
@@ -73,6 +72,17 @@ async function appendNoOfContributors(projects) {
   }
 }
 
+async function appendNoOfIssuesClosed(projects) {
+  const end = new Date()
+  const start = datefns.sub(end, { days: 31 })
+  const [_, endOfLastMonth] = datefns.eachMonthOfInterval({ start, end })
+
+  return {
+    closedIssuesThisMonth: await getClosedIssuesAfterDate(endOfLastMonth),
+    ...projects
+  }
+}
+
 function writeToProjectsFile(projects) {
   fs.writeFileSync('../_data/projects.json', JSON.stringify(projects, null, 2))
 }
@@ -80,7 +90,7 @@ function writeToProjectsFile(projects) {
 function graphQLToJson(body) {
   return body
     .map(e => e.node)
-    .map(e => Object.assign({}, e, { issues: e.issues.totalCount }))
+    .map(e => Object.assign({}, e, { openIssues: e.openIssues.totalCount }))
     .map(e => {
       if (!e.lastIssue.nodes[0]) {
         return e
@@ -103,7 +113,6 @@ function graphQLToJson(body) {
         stargazers,
         forkCount,
         openIssues,
-        closedIssues,
         lastIssueCreatedAt
       }) => ({
         name,
@@ -115,7 +124,6 @@ function graphQLToJson(body) {
         stargazers,
         forkCount,
         openIssues,
-        closedIssues,
         lastIssueCreatedAt
       })
     )
@@ -130,6 +138,17 @@ function getToken() {
     process.env.GITHUB_TOKEN ||
     fs.readFileSync('.env', { encoding: 'utf-8' }).split('TOKEN=')[1]
   )
+}
+
+function getClosedIssuesAfterDate(date) {
+  const formattedDate = datefns.format(datefns.subHours(date, 6), 'yyyy-MM-dd')
+  const query = `{
+    search (query:"org:sebgroup is:issue is:closed is:public closed:>${formattedDate}" type:ISSUE) {
+      issueCount
+    }
+  }`
+
+  return client.request(query).then(data => data.search.issueCount)
 }
 
 getProjects()
