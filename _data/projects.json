@@ -1,5 +1,5 @@
 {
-  "closedIssuesThisMonth": 43,
+  "closedIssuesThisMonth": 45,
   "contributors": 51,
   "projects": [
     {
@@ -53,8 +53,8 @@
       },
       "stargazers": 6,
       "forkCount": 4,
-      "openIssues": 10,
-      "lastIssueCreatedAt": "2020-02-26T05:54:44Z"
+      "openIssues": 9,
+      "lastIssueCreatedAt": "2020-02-27T05:54:37Z"
     },
     {
       "name": "vanilla-pattern-library",
@@ -76,7 +76,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/ng-components/components/buttons/examples",
       "url": "https://github.com/sebgroup/ng-components",
-      "pushedAt": "2020-02-26T05:29:13Z",
+      "pushedAt": "2020-02-27T05:36:51Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -136,7 +136,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/react-components/",
       "url": "https://github.com/sebgroup/react-components",
-      "pushedAt": "2020-02-26T10:49:30Z",
+      "pushedAt": "2020-02-27T09:53:42Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -151,7 +151,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2020-02-26T00:12:42Z",
+      "pushedAt": "2020-02-27T00:12:38Z",
       "primaryLanguage": {
         "name": "CSS",
         "color": "#563d7c"
