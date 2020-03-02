@@ -53,22 +53,27 @@ function getProjects() {
 }
 
 async function appendNoOfContributors(projects) {
-  const responses = await Promise.all(
+  const projectsWithContributors = await Promise.all(
     projects
-      .map(({ name }) => name)
-      .map(repoName =>
+      .map(project =>
         fetch(
-          `https://api.github.com/repos/SEBgroup/${repoName}/stats/contributors`,
+          `https://api.github.com/repos/SEBgroup/${project.name}/stats/contributors`,
           { headers: { Authorization: `Bearer ${getToken()}` } }
-        ).then(res => res.json())
+        )
+        .then(res => res.json())
+        .then(data => ({
+          ...project,
+          contributors: data.length
+        }))
       )
   )
+
   return {
-    contributors: responses
-      .map(res => res.length)
+    contributors: projectsWithContributors
+      .map(e => e.contributors)
       .filter(Boolean)
       .reduce((sum, curr) => sum + curr, 0),
-    projects
+    projectsWithContributors
   }
 }
 

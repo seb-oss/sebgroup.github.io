@@ -1,7 +1,7 @@
 {
-  "closedIssuesThisMonth": 51,
-  "contributors": 56,
-  "projects": [
+  "closedIssuesThisMonth": 52,
+  "contributors": 59,
+  "projectsWithContributors": [
     {
       "name": "ng-magic-iframe",
       "description": "A magical iframe component for Angular",
@@ -15,7 +15,8 @@
       "stargazers": 15,
       "forkCount": 3,
       "openIssues": 7,
-      "lastIssueCreatedAt": "2019-11-19T09:44:25Z"
+      "lastIssueCreatedAt": "2019-11-19T09:44:25Z",
+      "contributors": 1
     },
     {
       "name": "design-library",
@@ -27,7 +28,8 @@
       "stargazers": 12,
       "forkCount": 1,
       "openIssues": 74,
-      "lastIssueCreatedAt": "2020-02-19T13:55:15Z"
+      "lastIssueCreatedAt": "2020-02-19T13:55:15Z",
+      "contributors": 3
     },
     {
       "name": "openbanking",
@@ -39,7 +41,8 @@
       "stargazers": 6,
       "forkCount": 5,
       "openIssues": 2,
-      "lastIssueCreatedAt": "2019-12-16T10:08:28Z"
+      "lastIssueCreatedAt": "2019-12-16T10:08:28Z",
+      "contributors": 2
     },
     {
       "name": "bootstrap",
@@ -53,8 +56,9 @@
       },
       "stargazers": 6,
       "forkCount": 4,
-      "openIssues": 9,
-      "lastIssueCreatedAt": "2020-02-28T06:07:02Z"
+      "openIssues": 10,
+      "lastIssueCreatedAt": "2020-03-02T06:06:48Z",
+      "contributors": 2
     },
     {
       "name": "vanilla-pattern-library",
@@ -69,7 +73,8 @@
       "stargazers": 5,
       "forkCount": 4,
       "openIssues": 32,
-      "lastIssueCreatedAt": "2020-02-29T01:18:37Z"
+      "lastIssueCreatedAt": "2020-02-29T01:18:37Z",
+      "contributors": 6
     },
     {
       "name": "ng-components",
@@ -84,7 +89,8 @@
       "stargazers": 5,
       "forkCount": 0,
       "openIssues": 29,
-      "lastIssueCreatedAt": "2020-02-28T07:06:31Z"
+      "lastIssueCreatedAt": "2020-03-02T06:06:48Z",
+      "contributors": 4
     },
     {
       "name": "repo-operator",
@@ -99,7 +105,8 @@
       "stargazers": 4,
       "forkCount": 2,
       "openIssues": 0,
-      "lastIssueCreatedAt": "2019-11-29T06:49:55Z"
+      "lastIssueCreatedAt": "2019-11-29T06:49:55Z",
+      "contributors": 2
     },
     {
       "name": "seb-angular-material",
@@ -114,7 +121,8 @@
       "stargazers": 3,
       "forkCount": 0,
       "openIssues": 7,
-      "lastIssueCreatedAt": "2020-01-28T17:21:46Z"
+      "lastIssueCreatedAt": "2020-01-28T17:21:46Z",
+      "contributors": 5
     },
     {
       "name": "seb-pictograms",
@@ -129,29 +137,31 @@
       "stargazers": 3,
       "forkCount": 0,
       "openIssues": 2,
-      "lastIssueCreatedAt": "2019-06-05T12:38:15Z"
+      "lastIssueCreatedAt": "2019-06-05T12:38:15Z",
+      "contributors": 6
     },
     {
       "name": "react-components",
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/react-components/",
       "url": "https://github.com/sebgroup/react-components",
-      "pushedAt": "2020-02-28T09:11:26Z",
+      "pushedAt": "2020-03-02T07:20:46Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
       },
       "stargazers": 3,
       "forkCount": 5,
-      "openIssues": 11,
-      "lastIssueCreatedAt": "2020-02-13T09:06:57Z"
+      "openIssues": 12,
+      "lastIssueCreatedAt": "2020-03-02T03:32:36Z",
+      "contributors": 5
     },
     {
       "name": "sebgroup.github.io",
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2020-03-01T00:04:59Z",
+      "pushedAt": "2020-03-02T15:22:52Z",
       "primaryLanguage": {
         "name": "CSS",
         "color": "#563d7c"
@@ -159,7 +169,8 @@
       "stargazers": 2,
       "forkCount": 0,
       "openIssues": 0,
-      "lastIssueCreatedAt": "2020-02-13T14:39:39Z"
+      "lastIssueCreatedAt": "2020-02-13T14:39:39Z",
+      "contributors": 3
     },
     {
       "name": "fonts",
@@ -173,7 +184,8 @@
       },
       "stargazers": 1,
       "forkCount": 0,
-      "openIssues": 0
+      "openIssues": 0,
+      "contributors": 1
     },
     {
       "name": "ng-debug",
@@ -187,14 +199,15 @@
       },
       "stargazers": 1,
       "forkCount": 0,
-      "openIssues": 0
+      "openIssues": 0,
+      "contributors": 5
     },
     {
       "name": "frontend-tools",
       "description": "A set of frontend tools written in Typescript",
       "homepageUrl": "https://github.com/sebgroup/frontend-tools/wiki",
       "url": "https://github.com/sebgroup/frontend-tools",
-      "pushedAt": "2020-02-28T05:04:24Z",
+      "pushedAt": "2020-03-02T05:11:08Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -202,7 +215,8 @@
       "stargazers": 1,
       "forkCount": 0,
       "openIssues": 1,
-      "lastIssueCreatedAt": "2019-11-27T16:09:00Z"
+      "lastIssueCreatedAt": "2019-11-27T16:09:00Z",
+      "contributors": 1
     },
     {
       "name": "yttringar",
@@ -217,7 +231,8 @@
       "stargazers": 1,
       "forkCount": 0,
       "openIssues": 8,
-      "lastIssueCreatedAt": "2019-11-28T16:44:38Z"
+      "lastIssueCreatedAt": "2019-11-28T16:44:38Z",
+      "contributors": 2
     },
     {
       "name": "document-write-intervene",
@@ -232,7 +247,8 @@
       "stargazers": 0,
       "forkCount": 0,
       "openIssues": 0,
-      "lastIssueCreatedAt": "2018-10-08T14:23:29Z"
+      "lastIssueCreatedAt": "2018-10-08T14:23:29Z",
+      "contributors": 2
     },
     {
       "name": "ng-wizard",
@@ -247,7 +263,8 @@
       "stargazers": 0,
       "forkCount": 2,
       "openIssues": 0,
-      "lastIssueCreatedAt": "2019-03-13T10:57:30Z"
+      "lastIssueCreatedAt": "2019-03-13T10:57:30Z",
+      "contributors": 3
     },
     {
       "name": "ngx-toastr",
@@ -261,7 +278,8 @@
       },
       "stargazers": 0,
       "forkCount": 0,
-      "openIssues": 0
+      "openIssues": 0,
+      "contributors": 1
     },
     {
       "name": "ng-bootstrap",
@@ -275,7 +293,8 @@
       },
       "stargazers": 0,
       "forkCount": 0,
-      "openIssues": 0
+      "openIssues": 0,
+      "contributors": 1
     },
     {
       "name": "aci-search",
@@ -289,7 +308,8 @@
       },
       "stargazers": 0,
       "forkCount": 0,
-      "openIssues": 0
+      "openIssues": 0,
+      "contributors": 1
     },
     {
       "name": "yttringar-oauth",
@@ -304,7 +324,8 @@
       "stargazers": 0,
       "forkCount": 0,
       "openIssues": 1,
-      "lastIssueCreatedAt": "2019-11-28T16:27:35Z"
+      "lastIssueCreatedAt": "2019-11-28T16:27:35Z",
+      "contributors": 3
     }
   ]
 }
