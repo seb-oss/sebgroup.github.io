@@ -2,7 +2,7 @@ name: Update activity data
 
 on:
   schedule:
-    - cron: '1 0 1 * *'
+    - cron: '10 0 1 * *'
 
 jobs:
   build:
