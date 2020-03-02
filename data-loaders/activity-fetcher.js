@@ -33,9 +33,10 @@ function getActiveProjectsCount() {
   const monthInterval = datefns.eachMonthOfInterval({ start, end })
   const isWithinLastMonth = date =>
     datefns.isWithinInterval(datefns.parseISO(date), {
-      start: monthInterval[0],
-      end: monthInterval[1]
+      start: monthInterval[monthInterval.length - 2],
+      end: monthInterval[monthInterval.length - 1]
     })
+
   return projects.filter(
     e =>
       isWithinLastMonth(e.pushedAt) || isWithinLastMonth(e.lastIssueCreatedAt)
