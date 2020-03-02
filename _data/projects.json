@@ -1,7 +1,7 @@
 {
   "closedIssuesThisMonth": 52,
   "contributors": 59,
-  "projectsWithContributors": [
+  "projects": [
     {
       "name": "ng-magic-iframe",
       "description": "A magical iframe component for Angular",
@@ -161,7 +161,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2020-03-02T15:22:52Z",
+      "pushedAt": "2020-03-02T16:02:16Z",
       "primaryLanguage": {
         "name": "CSS",
         "color": "#563d7c"
