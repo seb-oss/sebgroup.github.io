@@ -1,6 +1,6 @@
 {
-  "closedIssuesThisMonth": 52,
-  "contributors": 59,
+  "closedIssuesThisMonth": 2,
+  "contributors": 56,
   "projects": [
     {
       "name": "ng-magic-iframe",
@@ -56,7 +56,7 @@
       },
       "stargazers": 6,
       "forkCount": 4,
-      "openIssues": 10,
+      "openIssues": 9,
       "lastIssueCreatedAt": "2020-03-02T06:06:48Z",
       "contributors": 2
     },
@@ -161,7 +161,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2020-03-02T16:02:16Z",
+      "pushedAt": "2020-03-02T16:16:19Z",
       "primaryLanguage": {
         "name": "CSS",
         "color": "#563d7c"
@@ -169,8 +169,7 @@
       "stargazers": 2,
       "forkCount": 0,
       "openIssues": 0,
-      "lastIssueCreatedAt": "2020-02-13T14:39:39Z",
-      "contributors": 3
+      "lastIssueCreatedAt": "2020-02-13T14:39:39Z"
     },
     {
       "name": "fonts",
