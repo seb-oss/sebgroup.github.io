@@ -1,6 +1,6 @@
 {
-  "closedIssuesThisMonth": 7,
-  "contributors": 51,
+  "closedIssuesThisMonth": 9,
+  "contributors": 56,
   "projects": [
     {
       "name": "ng-magic-iframe",
@@ -57,7 +57,7 @@
       "stargazers": 6,
       "forkCount": 4,
       "openIssues": 9,
-      "lastIssueCreatedAt": "2020-03-05T05:54:42Z",
+      "lastIssueCreatedAt": "2020-03-06T06:14:46Z",
       "contributors": 2
     },
     {
@@ -65,7 +65,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/vanilla-pattern-library/",
       "url": "https://github.com/sebgroup/vanilla-pattern-library",
-      "pushedAt": "2020-02-29T05:32:33Z",
+      "pushedAt": "2020-03-06T15:35:07Z",
       "primaryLanguage": {
         "name": "CSS",
         "color": "#563d7c"
@@ -89,7 +89,7 @@
       "stargazers": 5,
       "forkCount": 0,
       "openIssues": 29,
-      "lastIssueCreatedAt": "2020-03-05T06:06:44Z",
+      "lastIssueCreatedAt": "2020-03-06T05:54:40Z",
       "contributors": 4
     },
     {
@@ -145,7 +145,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/react-components/",
       "url": "https://github.com/sebgroup/react-components",
-      "pushedAt": "2020-03-05T08:29:44Z",
+      "pushedAt": "2020-03-06T06:21:59Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -153,14 +153,15 @@
       "stargazers": 3,
       "forkCount": 5,
       "openIssues": 11,
-      "lastIssueCreatedAt": "2020-03-02T03:32:36Z"
+      "lastIssueCreatedAt": "2020-03-02T03:32:36Z",
+      "contributors": 5
     },
     {
       "name": "sebgroup.github.io",
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2020-03-05T00:13:15Z",
+      "pushedAt": "2020-03-06T00:13:14Z",
       "primaryLanguage": {
         "name": "CSS",
         "color": "#563d7c"
@@ -284,7 +285,7 @@
       "description": "A SEB themed stylesheet for ng-bootstrap",
       "homepageUrl": "https://sebgroup.github.io/ng-bootstrap/",
       "url": "https://github.com/sebgroup/ng-bootstrap",
-      "pushedAt": "2020-03-05T05:22:47Z",
+      "pushedAt": "2020-03-06T05:14:45Z",
       "primaryLanguage": {
         "name": "HTML",
         "color": "#e34c26"
