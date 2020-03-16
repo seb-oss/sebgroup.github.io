@@ -12,7 +12,7 @@
         "name": "TypeScript",
         "color": "#2b7489"
       },
-      "stargazers": 15,
+      "stargazers": 16,
       "forkCount": 3,
       "openIssues": 7,
       "lastIssueCreatedAt": "2019-11-19T09:44:25Z",
@@ -65,7 +65,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/vanilla-pattern-library/",
       "url": "https://github.com/sebgroup/vanilla-pattern-library",
-      "pushedAt": "2020-03-10T15:35:17Z",
+      "pushedAt": "2020-03-15T13:03:01Z",
       "primaryLanguage": {
         "name": "CSS",
         "color": "#563d7c"
@@ -161,7 +161,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2020-03-14T00:14:32Z",
+      "pushedAt": "2020-03-15T00:14:45Z",
       "primaryLanguage": {
         "name": "CSS",
         "color": "#563d7c"
