@@ -1,5 +1,5 @@
 {
-  "closedIssuesThisMonth": 31,
+  "closedIssuesThisMonth": 32,
   "contributors": 56,
   "projects": [
     {
@@ -28,7 +28,7 @@
       "stargazers": 12,
       "forkCount": 1,
       "openIssues": 63,
-      "lastIssueCreatedAt": "2020-02-19T13:55:15Z",
+      "lastIssueCreatedAt": "2020-03-16T15:29:04Z",
       "contributors": 3
     },
     {
@@ -56,8 +56,8 @@
       },
       "stargazers": 6,
       "forkCount": 4,
-      "openIssues": 9,
-      "lastIssueCreatedAt": "2020-03-13T05:50:03Z",
+      "openIssues": 10,
+      "lastIssueCreatedAt": "2020-03-16T05:54:51Z",
       "contributors": 2
     },
     {
@@ -65,7 +65,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/vanilla-pattern-library/",
       "url": "https://github.com/sebgroup/vanilla-pattern-library",
-      "pushedAt": "2020-03-15T13:03:01Z",
+      "pushedAt": "2020-03-16T21:50:15Z",
       "primaryLanguage": {
         "name": "CSS",
         "color": "#563d7c"
@@ -88,8 +88,8 @@
       },
       "stargazers": 5,
       "forkCount": 0,
-      "openIssues": 28,
-      "lastIssueCreatedAt": "2020-03-13T05:44:47Z",
+      "openIssues": 29,
+      "lastIssueCreatedAt": "2020-03-16T05:54:51Z",
       "contributors": 4
     },
     {
@@ -161,7 +161,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2020-03-15T00:14:45Z",
+      "pushedAt": "2020-03-16T00:17:17Z",
       "primaryLanguage": {
         "name": "CSS",
         "color": "#563d7c"
@@ -222,7 +222,7 @@
       "description": null,
       "homepageUrl": null,
       "url": "https://github.com/sebgroup/yttringar",
-      "pushedAt": "2020-02-09T16:36:54Z",
+      "pushedAt": "2020-03-16T15:25:10Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
