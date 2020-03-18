@@ -1,5 +1,5 @@
 {
-  "closedIssuesThisMonth": 32,
+  "closedIssuesThisMonth": 35,
   "contributors": 56,
   "projects": [
     {
@@ -56,8 +56,8 @@
       },
       "stargazers": 6,
       "forkCount": 4,
-      "openIssues": 10,
-      "lastIssueCreatedAt": "2020-03-16T05:54:51Z",
+      "openIssues": 9,
+      "lastIssueCreatedAt": "2020-03-17T06:06:57Z",
       "contributors": 2
     },
     {
@@ -89,7 +89,7 @@
       "stargazers": 5,
       "forkCount": 0,
       "openIssues": 29,
-      "lastIssueCreatedAt": "2020-03-16T05:54:51Z",
+      "lastIssueCreatedAt": "2020-03-17T06:06:57Z",
       "contributors": 4
     },
     {
@@ -161,7 +161,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2020-03-16T00:17:17Z",
+      "pushedAt": "2020-03-17T00:14:34Z",
       "primaryLanguage": {
         "name": "CSS",
         "color": "#563d7c"
