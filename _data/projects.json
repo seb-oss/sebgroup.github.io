@@ -1,6 +1,6 @@
 {
-  "closedIssuesThisMonth": 35,
-  "contributors": 56,
+  "closedIssuesThisMonth": 37,
+  "contributors": 51,
   "projects": [
     {
       "name": "ng-magic-iframe",
@@ -49,7 +49,7 @@
       "description": "A standalone bootstrap theme for SEB",
       "homepageUrl": "https://sebgroup.github.io/bootstrap/",
       "url": "https://github.com/sebgroup/bootstrap",
-      "pushedAt": "2020-03-13T22:21:42Z",
+      "pushedAt": "2020-03-18T21:15:46Z",
       "primaryLanguage": {
         "name": "HTML",
         "color": "#e34c26"
@@ -57,7 +57,7 @@
       "stargazers": 6,
       "forkCount": 4,
       "openIssues": 9,
-      "lastIssueCreatedAt": "2020-03-17T06:06:57Z",
+      "lastIssueCreatedAt": "2020-03-18T05:54:51Z",
       "contributors": 2
     },
     {
@@ -65,7 +65,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/vanilla-pattern-library/",
       "url": "https://github.com/sebgroup/vanilla-pattern-library",
-      "pushedAt": "2020-03-16T21:50:15Z",
+      "pushedAt": "2020-03-18T14:41:39Z",
       "primaryLanguage": {
         "name": "CSS",
         "color": "#563d7c"
@@ -81,14 +81,14 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/ng-components/components/buttons/examples",
       "url": "https://github.com/sebgroup/ng-components",
-      "pushedAt": "2020-03-13T20:54:39Z",
+      "pushedAt": "2020-03-18T05:18:51Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
       },
       "stargazers": 5,
       "forkCount": 0,
-      "openIssues": 29,
+      "openIssues": 28,
       "lastIssueCreatedAt": "2020-03-17T06:06:57Z",
       "contributors": 4
     },
@@ -145,7 +145,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/react-components/",
       "url": "https://github.com/sebgroup/react-components",
-      "pushedAt": "2020-03-13T22:04:51Z",
+      "pushedAt": "2020-03-18T10:59:27Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -153,15 +153,14 @@
       "stargazers": 3,
       "forkCount": 5,
       "openIssues": 10,
-      "lastIssueCreatedAt": "2020-03-02T03:32:36Z",
-      "contributors": 5
+      "lastIssueCreatedAt": "2020-03-02T03:32:36Z"
     },
     {
       "name": "sebgroup.github.io",
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2020-03-17T00:14:34Z",
+      "pushedAt": "2020-03-18T08:47:18Z",
       "primaryLanguage": {
         "name": "CSS",
         "color": "#563d7c"
