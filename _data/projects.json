@@ -1,5 +1,5 @@
 {
-  "closedIssuesThisMonth": 38,
+  "closedIssuesThisMonth": 40,
   "contributors": 56,
   "projects": [
     {
@@ -56,7 +56,7 @@
       },
       "stargazers": 6,
       "forkCount": 4,
-      "openIssues": 11,
+      "openIssues": 9,
       "lastIssueCreatedAt": "2020-03-20T16:10:51Z",
       "contributors": 2
     },
@@ -65,7 +65,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/vanilla-pattern-library/",
       "url": "https://github.com/sebgroup/vanilla-pattern-library",
-      "pushedAt": "2020-03-20T09:50:55Z",
+      "pushedAt": "2020-03-21T20:31:23Z",
       "primaryLanguage": {
         "name": "CSS",
         "color": "#563d7c"
@@ -161,7 +161,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2020-03-20T00:10:35Z",
+      "pushedAt": "2020-03-21T00:10:32Z",
       "primaryLanguage": {
         "name": "CSS",
         "color": "#563d7c"
