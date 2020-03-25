@@ -1,6 +1,6 @@
 {
-  "closedIssuesThisMonth": 49,
-  "contributors": 50,
+  "closedIssuesThisMonth": 52,
+  "contributors": 46,
   "projects": [
     {
       "name": "design-library",
@@ -11,8 +11,8 @@
       "primaryLanguage": null,
       "stargazers": 12,
       "forkCount": 1,
-      "openIssues": 64,
-      "lastIssueCreatedAt": "2020-03-20T14:36:42Z",
+      "openIssues": 65,
+      "lastIssueCreatedAt": "2020-03-24T10:08:34Z",
       "contributors": 3
     },
     {
@@ -40,8 +40,8 @@
       },
       "stargazers": 6,
       "forkCount": 4,
-      "openIssues": 9,
-      "lastIssueCreatedAt": "2020-03-23T14:11:45Z",
+      "openIssues": 11,
+      "lastIssueCreatedAt": "2020-03-24T16:43:17Z",
       "contributors": 2
     },
     {
@@ -56,8 +56,8 @@
       },
       "stargazers": 5,
       "forkCount": 4,
-      "openIssues": 33,
-      "lastIssueCreatedAt": "2020-03-20T16:10:46Z",
+      "openIssues": 36,
+      "lastIssueCreatedAt": "2020-03-24T17:44:02Z",
       "contributors": 6
     },
     {
@@ -65,16 +65,15 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/ng-components/components/buttons/examples",
       "url": "https://github.com/sebgroup/ng-components",
-      "pushedAt": "2020-03-23T08:25:58Z",
+      "pushedAt": "2020-03-24T12:10:52Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
       },
       "stargazers": 5,
       "forkCount": 1,
-      "openIssues": 30,
-      "lastIssueCreatedAt": "2020-03-23T05:54:32Z",
-      "contributors": 4
+      "openIssues": 32,
+      "lastIssueCreatedAt": "2020-03-24T17:42:37Z"
     },
     {
       "name": "repo-operator",
@@ -104,8 +103,8 @@
       },
       "stargazers": 3,
       "forkCount": 0,
-      "openIssues": 8,
-      "lastIssueCreatedAt": "2020-03-20T16:10:59Z",
+      "openIssues": 11,
+      "lastIssueCreatedAt": "2020-03-24T17:42:32Z",
       "contributors": 5
     },
     {
@@ -129,22 +128,22 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/react-components/",
       "url": "https://github.com/sebgroup/react-components",
-      "pushedAt": "2020-03-23T08:36:31Z",
+      "pushedAt": "2020-03-24T11:51:46Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
       },
       "stargazers": 3,
       "forkCount": 5,
-      "openIssues": 11,
-      "lastIssueCreatedAt": "2020-03-20T16:11:02Z"
+      "openIssues": 14,
+      "lastIssueCreatedAt": "2020-03-24T17:42:28Z"
     },
     {
       "name": "sebgroup.github.io",
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2020-03-23T00:10:41Z",
+      "pushedAt": "2020-03-24T00:10:38Z",
       "primaryLanguage": {
         "name": "CSS",
         "color": "#563d7c"
@@ -189,7 +188,7 @@
       "description": "A set of frontend tools written in Typescript",
       "homepageUrl": "https://github.com/sebgroup/frontend-tools/wiki",
       "url": "https://github.com/sebgroup/frontend-tools",
-      "pushedAt": "2020-03-23T05:13:04Z",
+      "pushedAt": "2020-03-24T11:19:54Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -197,8 +196,7 @@
       "stargazers": 1,
       "forkCount": 0,
       "openIssues": 3,
-      "lastIssueCreatedAt": "2020-03-20T04:27:04Z",
-      "contributors": 1
+      "lastIssueCreatedAt": "2020-03-20T04:27:04Z"
     },
     {
       "name": "yttringar",
@@ -268,7 +266,7 @@
       "description": "A SEB themed stylesheet for ng-bootstrap",
       "homepageUrl": "https://sebgroup.github.io/ng-bootstrap/",
       "url": "https://github.com/sebgroup/ng-bootstrap",
-      "pushedAt": "2020-03-23T05:16:17Z",
+      "pushedAt": "2020-03-24T05:23:34Z",
       "primaryLanguage": {
         "name": "HTML",
         "color": "#e34c26"
@@ -321,7 +319,8 @@
       },
       "stargazers": 0,
       "forkCount": 0,
-      "openIssues": 0
+      "openIssues": 0,
+      "contributors": 1
     }
   ]
 }
