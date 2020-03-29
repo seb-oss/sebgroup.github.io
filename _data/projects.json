@@ -1,6 +1,6 @@
 {
   "closedIssuesThisMonth": 61,
-  "contributors": 46,
+  "contributors": 58,
   "projects": [
     {
       "name": "design-library",
@@ -73,7 +73,8 @@
       "stargazers": 5,
       "forkCount": 1,
       "openIssues": 36,
-      "lastIssueCreatedAt": "2020-03-27T14:29:44Z"
+      "lastIssueCreatedAt": "2020-03-27T14:29:44Z",
+      "contributors": 6
     },
     {
       "name": "repo-operator",
@@ -104,7 +105,8 @@
       "stargazers": 4,
       "forkCount": 5,
       "openIssues": 16,
-      "lastIssueCreatedAt": "2020-03-27T14:29:51Z"
+      "lastIssueCreatedAt": "2020-03-27T14:29:51Z",
+      "contributors": 5
     },
     {
       "name": "seb-angular-material",
@@ -151,14 +153,15 @@
       "stargazers": 2,
       "forkCount": 0,
       "openIssues": 3,
-      "lastIssueCreatedAt": "2020-03-20T04:27:04Z"
+      "lastIssueCreatedAt": "2020-03-20T04:27:04Z",
+      "contributors": 1
     },
     {
       "name": "sebgroup.github.io",
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2020-03-27T00:11:01Z",
+      "pushedAt": "2020-03-28T00:11:03Z",
       "primaryLanguage": {
         "name": "CSS",
         "color": "#563d7c"
