@@ -1,6 +1,6 @@
 {
-  "closedIssuesThisMonth": 62,
-  "contributors": 52,
+  "closedIssuesThisMonth": 0,
+  "contributors": 56,
   "projects": [
     {
       "name": "design-library",
@@ -40,8 +40,8 @@
       },
       "stargazers": 6,
       "forkCount": 4,
-      "openIssues": 13,
-      "lastIssueCreatedAt": "2020-03-30T06:06:57Z",
+      "openIssues": 15,
+      "lastIssueCreatedAt": "2020-03-31T08:24:57Z",
       "contributors": 2
     },
     {
@@ -49,7 +49,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/vanilla-pattern-library/",
       "url": "https://github.com/sebgroup/vanilla-pattern-library",
-      "pushedAt": "2020-03-30T19:51:46Z",
+      "pushedAt": "2020-03-31T10:07:34Z",
       "primaryLanguage": {
         "name": "CSS",
         "color": "#563d7c"
@@ -97,7 +97,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/react-components/",
       "url": "https://github.com/sebgroup/react-components",
-      "pushedAt": "2020-03-30T10:01:15Z",
+      "pushedAt": "2020-03-31T13:41:43Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -144,7 +144,7 @@
       "description": "A set of frontend tools written in Typescript",
       "homepageUrl": "https://github.com/sebgroup/frontend-tools/wiki",
       "url": "https://github.com/sebgroup/frontend-tools",
-      "pushedAt": "2020-03-30T15:25:57Z",
+      "pushedAt": "2020-03-31T11:20:53Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -152,14 +152,15 @@
       "stargazers": 2,
       "forkCount": 0,
       "openIssues": 3,
-      "lastIssueCreatedAt": "2020-03-20T04:27:04Z"
+      "lastIssueCreatedAt": "2020-03-20T04:27:04Z",
+      "contributors": 1
     },
     {
       "name": "sebgroup.github.io",
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2020-03-30T00:11:20Z",
+      "pushedAt": "2020-03-31T00:11:18Z",
       "primaryLanguage": {
         "name": "CSS",
         "color": "#563d7c"
@@ -167,7 +168,8 @@
       "stargazers": 2,
       "forkCount": 0,
       "openIssues": 0,
-      "lastIssueCreatedAt": "2020-02-13T14:39:39Z"
+      "lastIssueCreatedAt": "2020-02-13T14:39:39Z",
+      "contributors": 3
     },
     {
       "name": "fonts",
@@ -252,7 +254,7 @@
       "description": "A SEB themed toaster component for @sebgroup/bootstrap and angular",
       "homepageUrl": "https://sebgroup.github.io/ngx-toastr/",
       "url": "https://github.com/sebgroup/ngx-toastr",
-      "pushedAt": "2020-03-26T04:57:27Z",
+      "pushedAt": "2020-03-31T05:18:35Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -328,7 +330,7 @@
       "description": "A minimal voting system through github identities",
       "homepageUrl": null,
       "url": "https://github.com/sebgroup/thumbs-up",
-      "pushedAt": "2020-03-30T20:55:22Z",
+      "pushedAt": "2020-03-31T15:43:56Z",
       "primaryLanguage": {
         "name": "JavaScript",
         "color": "#f1e05a"
