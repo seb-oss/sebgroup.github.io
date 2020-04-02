@@ -1,6 +1,6 @@
 {
-  "closedIssuesThisMonth": 0,
-  "contributors": 56,
+  "closedIssuesThisMonth": 1,
+  "contributors": 55,
   "projects": [
     {
       "name": "design-library",
@@ -41,7 +41,7 @@
       "stargazers": 6,
       "forkCount": 4,
       "openIssues": 15,
-      "lastIssueCreatedAt": "2020-03-31T08:24:57Z",
+      "lastIssueCreatedAt": "2020-04-01T05:44:35Z",
       "contributors": 2
     },
     {
@@ -65,7 +65,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/ng-components/components/buttons/examples",
       "url": "https://github.com/sebgroup/ng-components",
-      "pushedAt": "2020-03-27T09:26:02Z",
+      "pushedAt": "2020-04-01T09:14:10Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -97,15 +97,15 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/react-components/",
       "url": "https://github.com/sebgroup/react-components",
-      "pushedAt": "2020-03-31T13:41:43Z",
+      "pushedAt": "2020-04-01T11:11:12Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
       },
       "stargazers": 4,
       "forkCount": 5,
-      "openIssues": 16,
-      "lastIssueCreatedAt": "2020-03-27T14:29:51Z"
+      "openIssues": 18,
+      "lastIssueCreatedAt": "2020-04-01T10:40:46Z"
     },
     {
       "name": "seb-angular-material",
@@ -144,7 +144,7 @@
       "description": "A set of frontend tools written in Typescript",
       "homepageUrl": "https://github.com/sebgroup/frontend-tools/wiki",
       "url": "https://github.com/sebgroup/frontend-tools",
-      "pushedAt": "2020-03-31T11:20:53Z",
+      "pushedAt": "2020-04-01T02:55:20Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -152,24 +152,22 @@
       "stargazers": 2,
       "forkCount": 0,
       "openIssues": 3,
-      "lastIssueCreatedAt": "2020-03-20T04:27:04Z",
-      "contributors": 1
+      "lastIssueCreatedAt": "2020-03-20T04:27:04Z"
     },
     {
       "name": "sebgroup.github.io",
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2020-03-31T00:11:18Z",
+      "pushedAt": "2020-04-01T06:18:41Z",
       "primaryLanguage": {
         "name": "CSS",
         "color": "#563d7c"
       },
       "stargazers": 2,
       "forkCount": 0,
-      "openIssues": 0,
-      "lastIssueCreatedAt": "2020-02-13T14:39:39Z",
-      "contributors": 3
+      "openIssues": 1,
+      "lastIssueCreatedAt": "2020-04-01T06:12:32Z"
     },
     {
       "name": "fonts",
@@ -337,7 +335,8 @@
       },
       "stargazers": 0,
       "forkCount": 0,
-      "openIssues": 0
+      "openIssues": 0,
+      "contributors": 3
     }
   ]
 }
