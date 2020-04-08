@@ -1,6 +1,6 @@
 {
-  "closedIssuesThisMonth": 22,
-  "contributors": 59,
+  "closedIssuesThisMonth": 25,
+  "contributors": 49,
   "projects": [
     {
       "name": "design-library",
@@ -25,7 +25,8 @@
       "stargazers": 6,
       "forkCount": 5,
       "openIssues": 2,
-      "lastIssueCreatedAt": "2019-12-16T10:08:28Z"
+      "lastIssueCreatedAt": "2019-12-16T10:08:28Z",
+      "contributors": 2
     },
     {
       "name": "bootstrap",
@@ -40,7 +41,7 @@
       "stargazers": 6,
       "forkCount": 4,
       "openIssues": 7,
-      "lastIssueCreatedAt": "2020-04-07T05:54:51Z",
+      "lastIssueCreatedAt": "2020-04-08T05:54:40Z",
       "contributors": 2
     },
     {
@@ -64,7 +65,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/ng-components/components/buttons/examples",
       "url": "https://github.com/sebgroup/ng-components",
-      "pushedAt": "2020-04-07T05:35:34Z",
+      "pushedAt": "2020-04-08T09:35:38Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -72,8 +73,7 @@
       "stargazers": 5,
       "forkCount": 1,
       "openIssues": 36,
-      "lastIssueCreatedAt": "2020-03-27T14:29:44Z",
-      "contributors": 6
+      "lastIssueCreatedAt": "2020-03-27T14:29:44Z"
     },
     {
       "name": "repo-operator",
@@ -96,30 +96,29 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/react-components/",
       "url": "https://github.com/sebgroup/react-components",
-      "pushedAt": "2020-04-07T05:09:45Z",
+      "pushedAt": "2020-04-08T09:20:28Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
       },
       "stargazers": 4,
       "forkCount": 5,
-      "openIssues": 10,
-      "lastIssueCreatedAt": "2020-04-01T10:40:46Z",
-      "contributors": 5
+      "openIssues": 9,
+      "lastIssueCreatedAt": "2020-04-01T10:40:46Z"
     },
     {
       "name": "seb-angular-material",
       "description": "angular material theme",
       "homepageUrl": "https://sebgroup.github.io/seb-angular-material",
       "url": "https://github.com/sebgroup/seb-angular-material",
-      "pushedAt": "2020-03-12T10:49:58Z",
+      "pushedAt": "2020-04-08T08:28:48Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
       },
       "stargazers": 3,
       "forkCount": 0,
-      "openIssues": 14,
+      "openIssues": 13,
       "lastIssueCreatedAt": "2020-04-06T10:29:07Z",
       "contributors": 5
     },
@@ -144,7 +143,7 @@
       "description": "A set of frontend tools written in Typescript",
       "homepageUrl": "https://github.com/sebgroup/frontend-tools/wiki",
       "url": "https://github.com/sebgroup/frontend-tools",
-      "pushedAt": "2020-04-07T04:22:01Z",
+      "pushedAt": "2020-04-08T09:30:56Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -152,15 +151,30 @@
       "stargazers": 2,
       "forkCount": 0,
       "openIssues": 3,
-      "lastIssueCreatedAt": "2020-03-20T04:27:04Z",
-      "contributors": 1
+      "lastIssueCreatedAt": "2020-03-20T04:27:04Z"
+    },
+    {
+      "name": "yttringar",
+      "description": null,
+      "homepageUrl": null,
+      "url": "https://github.com/sebgroup/yttringar",
+      "pushedAt": "2020-03-19T07:28:55Z",
+      "primaryLanguage": {
+        "name": "TypeScript",
+        "color": "#2b7489"
+      },
+      "stargazers": 2,
+      "forkCount": 0,
+      "openIssues": 8,
+      "lastIssueCreatedAt": "2019-11-28T16:44:38Z",
+      "contributors": 2
     },
     {
       "name": "sebgroup.github.io",
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2020-04-07T07:52:29Z",
+      "pushedAt": "2020-04-07T23:31:34Z",
       "primaryLanguage": {
         "name": "CSS",
         "color": "#563d7c"
@@ -201,20 +215,35 @@
       "contributors": 5
     },
     {
-      "name": "yttringar",
+      "name": "yttringar-oauth",
       "description": null,
       "homepageUrl": null,
-      "url": "https://github.com/sebgroup/yttringar",
-      "pushedAt": "2020-03-19T07:28:55Z",
+      "url": "https://github.com/sebgroup/yttringar-oauth",
+      "pushedAt": "2019-11-28T15:42:28Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
       },
       "stargazers": 1,
       "forkCount": 0,
-      "openIssues": 8,
-      "lastIssueCreatedAt": "2019-11-28T16:44:38Z",
-      "contributors": 2
+      "openIssues": 1,
+      "lastIssueCreatedAt": "2019-11-28T16:27:35Z",
+      "contributors": 3
+    },
+    {
+      "name": "thumbs-up",
+      "description": "A minimal voting system through github identities",
+      "homepageUrl": null,
+      "url": "https://github.com/sebgroup/thumbs-up",
+      "pushedAt": "2020-03-31T15:43:56Z",
+      "primaryLanguage": {
+        "name": "JavaScript",
+        "color": "#f1e05a"
+      },
+      "stargazers": 1,
+      "forkCount": 0,
+      "openIssues": 0,
+      "contributors": 3
     },
     {
       "name": "document-write-intervene",
@@ -294,27 +323,11 @@
       "contributors": 1
     },
     {
-      "name": "yttringar-oauth",
-      "description": null,
-      "homepageUrl": null,
-      "url": "https://github.com/sebgroup/yttringar-oauth",
-      "pushedAt": "2019-11-28T15:42:28Z",
-      "primaryLanguage": {
-        "name": "TypeScript",
-        "color": "#2b7489"
-      },
-      "stargazers": 0,
-      "forkCount": 0,
-      "openIssues": 1,
-      "lastIssueCreatedAt": "2019-11-28T16:27:35Z",
-      "contributors": 3
-    },
-    {
       "name": "magic-iframe",
       "description": "A magical iframe component ",
       "homepageUrl": "https://sebgroup.github.io/magic-iframe/",
       "url": "https://github.com/sebgroup/magic-iframe",
-      "pushedAt": "2020-03-23T17:49:30Z",
+      "pushedAt": "2020-04-08T13:28:03Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -323,21 +336,6 @@
       "forkCount": 0,
       "openIssues": 0,
       "contributors": 1
-    },
-    {
-      "name": "thumbs-up",
-      "description": "A minimal voting system through github identities",
-      "homepageUrl": null,
-      "url": "https://github.com/sebgroup/thumbs-up",
-      "pushedAt": "2020-03-31T15:43:56Z",
-      "primaryLanguage": {
-        "name": "JavaScript",
-        "color": "#f1e05a"
-      },
-      "stargazers": 0,
-      "forkCount": 0,
-      "openIssues": 0,
-      "contributors": 3
     }
   ]
 }
