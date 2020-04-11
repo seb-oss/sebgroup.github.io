@@ -1,6 +1,6 @@
 {
   "closedIssuesThisMonth": 26,
-  "contributors": 55,
+  "contributors": 56,
   "projects": [
     {
       "name": "design-library",
@@ -49,7 +49,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/vanilla-pattern-library/",
       "url": "https://github.com/sebgroup/vanilla-pattern-library",
-      "pushedAt": "2020-04-10T04:19:04Z",
+      "pushedAt": "2020-04-11T17:38:44Z",
       "primaryLanguage": {
         "name": "CSS",
         "color": "#563d7c"
@@ -97,15 +97,15 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/react-components/",
       "url": "https://github.com/sebgroup/react-components",
-      "pushedAt": "2020-04-10T10:45:12Z",
+      "pushedAt": "2020-04-11T12:46:13Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
       },
       "stargazers": 4,
       "forkCount": 5,
-      "openIssues": 13,
-      "lastIssueCreatedAt": "2020-04-09T07:14:53Z"
+      "openIssues": 15,
+      "lastIssueCreatedAt": "2020-04-11T08:25:33Z"
     },
     {
       "name": "seb-angular-material",
@@ -152,7 +152,8 @@
       "stargazers": 2,
       "forkCount": 0,
       "openIssues": 3,
-      "lastIssueCreatedAt": "2020-03-20T04:27:04Z"
+      "lastIssueCreatedAt": "2020-03-20T04:27:04Z",
+      "contributors": 1
     },
     {
       "name": "yttringar",
@@ -175,7 +176,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2020-04-09T23:31:41Z",
+      "pushedAt": "2020-04-10T23:32:00Z",
       "primaryLanguage": {
         "name": "CSS",
         "color": "#563d7c"
