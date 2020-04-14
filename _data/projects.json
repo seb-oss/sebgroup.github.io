@@ -1,6 +1,6 @@
 {
-  "closedIssuesThisMonth": 26,
-  "contributors": 61,
+  "closedIssuesThisMonth": 36,
+  "contributors": 56,
   "projects": [
     {
       "name": "design-library",
@@ -41,7 +41,7 @@
       "stargazers": 6,
       "forkCount": 4,
       "openIssues": 8,
-      "lastIssueCreatedAt": "2020-04-10T06:07:08Z",
+      "lastIssueCreatedAt": "2020-04-14T03:33:39Z",
       "contributors": 2
     },
     {
@@ -49,7 +49,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/vanilla-pattern-library/",
       "url": "https://github.com/sebgroup/vanilla-pattern-library",
-      "pushedAt": "2020-04-11T17:38:44Z",
+      "pushedAt": "2020-04-13T19:40:35Z",
       "primaryLanguage": {
         "name": "CSS",
         "color": "#563d7c"
@@ -65,7 +65,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/ng-components/components/buttons/examples",
       "url": "https://github.com/sebgroup/ng-components",
-      "pushedAt": "2020-04-10T07:58:44Z",
+      "pushedAt": "2020-04-14T05:16:57Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -73,8 +73,7 @@
       "stargazers": 5,
       "forkCount": 1,
       "openIssues": 36,
-      "lastIssueCreatedAt": "2020-03-27T14:29:44Z",
-      "contributors": 6
+      "lastIssueCreatedAt": "2020-04-13T09:17:01Z"
     },
     {
       "name": "repo-operator",
@@ -97,16 +96,16 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/react-components/",
       "url": "https://github.com/sebgroup/react-components",
-      "pushedAt": "2020-04-12T13:57:49Z",
+      "pushedAt": "2020-04-13T08:43:13Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
       },
       "stargazers": 4,
       "forkCount": 5,
-      "openIssues": 15,
+      "openIssues": 8,
       "lastIssueCreatedAt": "2020-04-11T08:25:33Z",
-      "contributors": 5
+      "contributors": 6
     },
     {
       "name": "seb-angular-material",
@@ -177,7 +176,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2020-04-11T23:32:07Z",
+      "pushedAt": "2020-04-12T23:31:53Z",
       "primaryLanguage": {
         "name": "CSS",
         "color": "#563d7c"
