@@ -1,6 +1,6 @@
 {
   "closedIssuesThisMonth": 63,
-  "contributors": 57,
+  "contributors": 58,
   "projects": [
     {
       "name": "design-library",
@@ -40,8 +40,8 @@
       },
       "stargazers": 6,
       "forkCount": 4,
-      "openIssues": 12,
-      "lastIssueCreatedAt": "2020-04-27T06:06:59Z",
+      "openIssues": 13,
+      "lastIssueCreatedAt": "2020-04-28T05:54:42Z",
       "contributors": 2
     },
     {
@@ -49,7 +49,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/vanilla-pattern-library/",
       "url": "https://github.com/sebgroup/vanilla-pattern-library",
-      "pushedAt": "2020-04-27T04:51:22Z",
+      "pushedAt": "2020-04-28T20:18:39Z",
       "primaryLanguage": {
         "name": "CSS",
         "color": "#563d7c"
@@ -65,7 +65,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/ng-components/components/buttons/examples",
       "url": "https://github.com/sebgroup/ng-components",
-      "pushedAt": "2020-04-27T09:53:12Z",
+      "pushedAt": "2020-04-28T05:29:01Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -73,7 +73,8 @@
       "stargazers": 5,
       "forkCount": 1,
       "openIssues": 36,
-      "lastIssueCreatedAt": "2020-04-17T15:31:19Z"
+      "lastIssueCreatedAt": "2020-04-17T15:31:19Z",
+      "contributors": 7
     },
     {
       "name": "repo-operator",
@@ -96,7 +97,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/react-components/",
       "url": "https://github.com/sebgroup/react-components",
-      "pushedAt": "2020-04-27T05:10:26Z",
+      "pushedAt": "2020-04-28T09:57:31Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -104,8 +105,7 @@
       "stargazers": 4,
       "forkCount": 5,
       "openIssues": 11,
-      "lastIssueCreatedAt": "2020-04-17T15:31:13Z",
-      "contributors": 6
+      "lastIssueCreatedAt": "2020-04-17T15:31:13Z"
     },
     {
       "name": "seb-angular-material",
@@ -144,7 +144,7 @@
       "description": "A set of frontend tools written in Typescript",
       "homepageUrl": "https://github.com/sebgroup/frontend-tools/wiki",
       "url": "https://github.com/sebgroup/frontend-tools",
-      "pushedAt": "2020-04-27T10:23:04Z",
+      "pushedAt": "2020-04-28T06:57:46Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -176,7 +176,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2020-04-26T23:31:57Z",
+      "pushedAt": "2020-04-27T23:31:59Z",
       "primaryLanguage": {
         "name": "CSS",
         "color": "#563d7c"
