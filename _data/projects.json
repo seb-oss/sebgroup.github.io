@@ -1,6 +1,6 @@
 {
-  "closedIssuesThisMonth": 11,
-  "contributors": 49,
+  "closedIssuesThisMonth": 14,
+  "contributors": 57,
   "projects": [
     {
       "name": "design-library",
@@ -33,14 +33,14 @@
       "description": "A standalone bootstrap theme for SEB",
       "homepageUrl": "https://sebgroup.github.io/bootstrap/",
       "url": "https://github.com/sebgroup/bootstrap",
-      "pushedAt": "2020-05-12T18:15:40Z",
+      "pushedAt": "2020-05-13T23:11:58Z",
       "primaryLanguage": {
         "name": "HTML",
         "color": "#e34c26"
       },
       "stargazers": 6,
       "forkCount": 4,
-      "openIssues": 12,
+      "openIssues": 9,
       "lastIssueCreatedAt": "2020-05-12T05:54:46Z",
       "contributors": 2
     },
@@ -65,7 +65,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/ng-components/components/buttons/examples",
       "url": "https://github.com/sebgroup/ng-components",
-      "pushedAt": "2020-05-12T08:04:34Z",
+      "pushedAt": "2020-05-13T09:10:26Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -96,7 +96,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/react-components/",
       "url": "https://github.com/sebgroup/react-components",
-      "pushedAt": "2020-05-12T08:54:10Z",
+      "pushedAt": "2020-05-13T08:22:22Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -104,14 +104,15 @@
       "stargazers": 4,
       "forkCount": 5,
       "openIssues": 9,
-      "lastIssueCreatedAt": "2020-04-17T15:31:13Z"
+      "lastIssueCreatedAt": "2020-04-17T15:31:13Z",
+      "contributors": 6
     },
     {
       "name": "seb-angular-material",
       "description": "angular material theme",
       "homepageUrl": "https://sebgroup.github.io/seb-angular-material",
       "url": "https://github.com/sebgroup/seb-angular-material",
-      "pushedAt": "2020-05-12T14:03:20Z",
+      "pushedAt": "2020-05-13T06:27:20Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -143,7 +144,7 @@
       "description": "A set of frontend tools written in Typescript",
       "homepageUrl": "https://github.com/sebgroup/frontend-tools/wiki",
       "url": "https://github.com/sebgroup/frontend-tools",
-      "pushedAt": "2020-05-12T05:48:07Z",
+      "pushedAt": "2020-05-13T05:07:36Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -151,7 +152,8 @@
       "stargazers": 2,
       "forkCount": 0,
       "openIssues": 0,
-      "lastIssueCreatedAt": "2020-03-20T04:27:04Z"
+      "lastIssueCreatedAt": "2020-03-20T04:27:04Z",
+      "contributors": 2
     },
     {
       "name": "yttringar",
@@ -174,7 +176,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2020-05-11T23:31:45Z",
+      "pushedAt": "2020-05-12T23:31:58Z",
       "primaryLanguage": {
         "name": "CSS",
         "color": "#563d7c"
@@ -229,6 +231,22 @@
       "openIssues": 1,
       "lastIssueCreatedAt": "2019-11-28T16:27:35Z",
       "contributors": 3
+    },
+    {
+      "name": "magic-iframe",
+      "description": "A magical iframe component ",
+      "homepageUrl": "https://sebgroup.github.io/magic-iframe/",
+      "url": "https://github.com/sebgroup/magic-iframe",
+      "pushedAt": "2020-04-23T07:38:40Z",
+      "primaryLanguage": {
+        "name": "TypeScript",
+        "color": "#2b7489"
+      },
+      "stargazers": 1,
+      "forkCount": 0,
+      "openIssues": 0,
+      "lastIssueCreatedAt": "2020-04-23T06:35:22Z",
+      "contributors": 1
     },
     {
       "name": "thumbs-up",
@@ -304,7 +322,8 @@
       },
       "stargazers": 0,
       "forkCount": 0,
-      "openIssues": 0,
+      "openIssues": 1,
+      "lastIssueCreatedAt": "2020-05-13T10:56:17Z",
       "contributors": 1
     },
     {
@@ -320,22 +339,6 @@
       "stargazers": 0,
       "forkCount": 0,
       "openIssues": 0,
-      "contributors": 1
-    },
-    {
-      "name": "magic-iframe",
-      "description": "A magical iframe component ",
-      "homepageUrl": "https://sebgroup.github.io/magic-iframe/",
-      "url": "https://github.com/sebgroup/magic-iframe",
-      "pushedAt": "2020-04-23T07:38:40Z",
-      "primaryLanguage": {
-        "name": "TypeScript",
-        "color": "#2b7489"
-      },
-      "stargazers": 0,
-      "forkCount": 0,
-      "openIssues": 0,
-      "lastIssueCreatedAt": "2020-04-23T06:35:22Z",
       "contributors": 1
     }
   ]
