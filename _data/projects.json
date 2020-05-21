@@ -1,6 +1,6 @@
 {
   "closedIssuesThisMonth": 17,
-  "contributors": 64,
+  "contributors": 58,
   "projects": [
     {
       "name": "design-library",
@@ -22,7 +22,7 @@
       "url": "https://github.com/sebgroup/openbanking",
       "pushedAt": "2020-04-07T08:48:59Z",
       "primaryLanguage": null,
-      "stargazers": 7,
+      "stargazers": 8,
       "forkCount": 5,
       "openIssues": 2,
       "lastIssueCreatedAt": "2019-12-16T10:08:28Z",
@@ -33,7 +33,7 @@
       "description": "A standalone bootstrap theme for SEB",
       "homepageUrl": "https://sebgroup.github.io/bootstrap/",
       "url": "https://github.com/sebgroup/bootstrap",
-      "pushedAt": "2020-05-20T00:30:09Z",
+      "pushedAt": "2020-05-21T21:09:23Z",
       "primaryLanguage": {
         "name": "HTML",
         "color": "#e34c26"
@@ -65,7 +65,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/ng-components/components/buttons/examples",
       "url": "https://github.com/sebgroup/ng-components",
-      "pushedAt": "2020-05-20T08:26:23Z",
+      "pushedAt": "2020-05-21T05:36:12Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -97,7 +97,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/react-components/",
       "url": "https://github.com/sebgroup/react-components",
-      "pushedAt": "2020-05-20T05:06:25Z",
+      "pushedAt": "2020-05-21T08:06:14Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -105,8 +105,7 @@
       "stargazers": 4,
       "forkCount": 5,
       "openIssues": 9,
-      "lastIssueCreatedAt": "2020-04-17T15:31:13Z",
-      "contributors": 6
+      "lastIssueCreatedAt": "2020-04-17T15:31:13Z"
     },
     {
       "name": "seb-angular-material",
@@ -145,7 +144,7 @@
       "description": "A set of frontend tools written in Typescript",
       "homepageUrl": "https://github.com/sebgroup/frontend-tools/wiki",
       "url": "https://github.com/sebgroup/frontend-tools",
-      "pushedAt": "2020-05-20T05:05:13Z",
+      "pushedAt": "2020-05-21T05:01:36Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -193,7 +192,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2020-05-19T23:31:56Z",
+      "pushedAt": "2020-05-20T23:31:42Z",
       "primaryLanguage": {
         "name": "CSS",
         "color": "#563d7c"
