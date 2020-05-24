@@ -1,6 +1,6 @@
 {
   "closedIssuesThisMonth": 17,
-  "contributors": 64,
+  "contributors": 62,
   "projects": [
     {
       "name": "design-library",
@@ -33,23 +33,22 @@
       "description": "A standalone bootstrap theme for SEB",
       "homepageUrl": "https://sebgroup.github.io/bootstrap/",
       "url": "https://github.com/sebgroup/bootstrap",
-      "pushedAt": "2020-05-21T21:09:23Z",
+      "pushedAt": "2020-05-24T20:17:48Z",
       "primaryLanguage": {
         "name": "HTML",
         "color": "#e34c26"
       },
       "stargazers": 6,
       "forkCount": 4,
-      "openIssues": 9,
-      "lastIssueCreatedAt": "2020-05-12T05:54:46Z",
-      "contributors": 2
+      "openIssues": 17,
+      "lastIssueCreatedAt": "2020-05-12T05:54:46Z"
     },
     {
       "name": "vanilla-pattern-library",
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/vanilla-pattern-library/",
       "url": "https://github.com/sebgroup/vanilla-pattern-library",
-      "pushedAt": "2020-05-23T12:37:23Z",
+      "pushedAt": "2020-05-24T19:58:41Z",
       "primaryLanguage": {
         "name": "CSS",
         "color": "#563d7c"
@@ -193,7 +192,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2020-05-22T23:31:51Z",
+      "pushedAt": "2020-05-23T23:31:32Z",
       "primaryLanguage": {
         "name": "CSS",
         "color": "#563d7c"
