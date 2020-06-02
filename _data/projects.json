@@ -33,7 +33,7 @@
       "description": "A standalone bootstrap theme for SEB",
       "homepageUrl": "https://sebgroup.github.io/bootstrap/",
       "url": "https://github.com/sebgroup/bootstrap",
-      "pushedAt": "2020-05-30T01:59:48Z",
+      "pushedAt": "2020-06-02T02:26:55Z",
       "primaryLanguage": {
         "name": "HTML",
         "color": "#e34c26"
@@ -49,7 +49,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/vanilla-pattern-library/",
       "url": "https://github.com/sebgroup/vanilla-pattern-library",
-      "pushedAt": "2020-05-27T03:02:46Z",
+      "pushedAt": "2020-06-02T11:44:36Z",
       "primaryLanguage": {
         "name": "CSS",
         "color": "#563d7c"
@@ -65,15 +65,15 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/ng-components/components/buttons/examples",
       "url": "https://github.com/sebgroup/ng-components",
-      "pushedAt": "2020-06-01T16:15:32Z",
+      "pushedAt": "2020-06-02T07:16:52Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
       },
       "stargazers": 5,
       "forkCount": 1,
-      "openIssues": 39,
-      "lastIssueCreatedAt": "2020-05-12T03:21:47Z"
+      "openIssues": 40,
+      "lastIssueCreatedAt": "2020-06-02T05:48:17Z"
     },
     {
       "name": "repo-operator",
@@ -96,7 +96,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/react-components/",
       "url": "https://github.com/sebgroup/react-components",
-      "pushedAt": "2020-06-01T11:48:33Z",
+      "pushedAt": "2020-06-02T05:05:59Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -119,8 +119,8 @@
       },
       "stargazers": 3,
       "forkCount": 0,
-      "openIssues": 11,
-      "lastIssueCreatedAt": "2020-04-17T15:31:16Z",
+      "openIssues": 12,
+      "lastIssueCreatedAt": "2020-06-02T07:24:50Z",
       "contributors": 5
     },
     {
@@ -144,7 +144,7 @@
       "description": "A set of frontend tools written in Typescript",
       "homepageUrl": "https://github.com/sebgroup/frontend-tools/wiki",
       "url": "https://github.com/sebgroup/frontend-tools",
-      "pushedAt": "2020-06-01T08:34:43Z",
+      "pushedAt": "2020-06-02T05:01:44Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -192,7 +192,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2020-06-01T00:28:54Z",
+      "pushedAt": "2020-06-01T23:31:58Z",
       "primaryLanguage": {
         "name": "CSS",
         "color": "#563d7c"
