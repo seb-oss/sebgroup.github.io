@@ -1,5 +1,5 @@
 {
-  "closedIssuesThisMonth": 0,
+  "closedIssuesThisMonth": 1,
   "contributors": 58,
   "projects": [
     {
@@ -65,7 +65,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/ng-components/components/buttons/examples",
       "url": "https://github.com/sebgroup/ng-components",
-      "pushedAt": "2020-06-02T07:16:52Z",
+      "pushedAt": "2020-06-03T12:34:01Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -96,14 +96,14 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/react-components/",
       "url": "https://github.com/sebgroup/react-components",
-      "pushedAt": "2020-06-02T05:05:59Z",
+      "pushedAt": "2020-06-03T05:29:44Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
       },
       "stargazers": 4,
       "forkCount": 5,
-      "openIssues": 11,
+      "openIssues": 10,
       "lastIssueCreatedAt": "2020-05-28T08:58:40Z",
       "contributors": 6
     },
@@ -144,7 +144,7 @@
       "description": "A set of frontend tools written in Typescript",
       "homepageUrl": "https://github.com/sebgroup/frontend-tools/wiki",
       "url": "https://github.com/sebgroup/frontend-tools",
-      "pushedAt": "2020-06-02T05:01:44Z",
+      "pushedAt": "2020-06-03T11:40:55Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -192,7 +192,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2020-06-01T23:31:58Z",
+      "pushedAt": "2020-06-02T23:31:50Z",
       "primaryLanguage": {
         "name": "CSS",
         "color": "#563d7c"
@@ -291,8 +291,8 @@
       },
       "stargazers": 0,
       "forkCount": 2,
-      "openIssues": 0,
-      "lastIssueCreatedAt": "2019-03-13T10:57:30Z",
+      "openIssues": 3,
+      "lastIssueCreatedAt": "2020-06-03T11:56:33Z",
       "contributors": 3
     },
     {
