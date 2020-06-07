@@ -33,7 +33,7 @@
       "description": "A standalone bootstrap theme for SEB",
       "homepageUrl": "https://sebgroup.github.io/bootstrap/",
       "url": "https://github.com/sebgroup/bootstrap",
-      "pushedAt": "2020-06-05T19:51:53Z",
+      "pushedAt": "2020-06-07T13:34:37Z",
       "primaryLanguage": {
         "name": "HTML",
         "color": "#e34c26"
@@ -113,7 +113,7 @@
       "description": "angular material theme",
       "homepageUrl": "https://sebgroup.github.io/seb-angular-material",
       "url": "https://github.com/sebgroup/seb-angular-material",
-      "pushedAt": "2020-05-15T09:46:03Z",
+      "pushedAt": "2020-06-07T06:18:27Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -193,7 +193,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2020-06-05T23:32:07Z",
+      "pushedAt": "2020-06-06T23:31:42Z",
       "primaryLanguage": {
         "name": "CSS",
         "color": "#563d7c"
@@ -223,7 +223,7 @@
       "description": null,
       "homepageUrl": null,
       "url": "https://github.com/sebgroup/ng-debug",
-      "pushedAt": "2020-04-04T11:44:15Z",
+      "pushedAt": "2020-06-07T20:36:00Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -285,7 +285,7 @@
       "description": null,
       "homepageUrl": null,
       "url": "https://github.com/sebgroup/ng-wizard",
-      "pushedAt": "2020-05-04T07:27:38Z",
+      "pushedAt": "2020-06-07T11:05:46Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
