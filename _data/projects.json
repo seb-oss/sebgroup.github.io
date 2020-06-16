@@ -1,6 +1,6 @@
 {
-  "closedIssuesThisMonth": 2,
-  "contributors": 60,
+  "closedIssuesThisMonth": 3,
+  "contributors": 66,
   "projects": [
     {
       "name": "design-library",
@@ -65,14 +65,14 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/ng-components/components/buttons/examples",
       "url": "https://github.com/sebgroup/ng-components",
-      "pushedAt": "2020-06-15T10:43:56Z",
+      "pushedAt": "2020-06-16T12:05:05Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
       },
       "stargazers": 5,
       "forkCount": 1,
-      "openIssues": 41,
+      "openIssues": 40,
       "lastIssueCreatedAt": "2020-06-15T09:25:26Z",
       "contributors": 7
     },
@@ -97,7 +97,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/react-components/",
       "url": "https://github.com/sebgroup/react-components",
-      "pushedAt": "2020-06-15T11:21:09Z",
+      "pushedAt": "2020-06-16T02:04:21Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -105,7 +105,8 @@
       "stargazers": 4,
       "forkCount": 5,
       "openIssues": 10,
-      "lastIssueCreatedAt": "2020-05-28T08:58:40Z"
+      "lastIssueCreatedAt": "2020-05-28T08:58:40Z",
+      "contributors": 6
     },
     {
       "name": "seb-angular-material",
@@ -144,7 +145,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2020-06-14T23:31:44Z",
+      "pushedAt": "2020-06-15T23:32:12Z",
       "primaryLanguage": {
         "name": "CSS",
         "color": "#563d7c"
