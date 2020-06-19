@@ -1,5 +1,5 @@
 {
-  "closedIssuesThisMonth": 6,
+  "closedIssuesThisMonth": 7,
   "contributors": 60,
   "projects": [
     {
@@ -65,7 +65,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/react-components/",
       "url": "https://github.com/sebgroup/react-components",
-      "pushedAt": "2020-06-18T05:01:28Z",
+      "pushedAt": "2020-06-19T04:58:39Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -81,14 +81,14 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/ng-components/components/buttons/examples",
       "url": "https://github.com/sebgroup/ng-components",
-      "pushedAt": "2020-06-18T14:43:44Z",
+      "pushedAt": "2020-06-19T11:17:13Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
       },
       "stargazers": 5,
       "forkCount": 1,
-      "openIssues": 39,
+      "openIssues": 38,
       "lastIssueCreatedAt": "2020-06-15T09:25:26Z"
     },
     {
@@ -144,7 +144,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2020-06-17T23:31:39Z",
+      "pushedAt": "2020-06-18T23:31:37Z",
       "primaryLanguage": {
         "name": "CSS",
         "color": "#563d7c"
@@ -159,7 +159,7 @@
       "description": "A set of frontend tools written in Typescript",
       "homepageUrl": "https://github.com/sebgroup/frontend-tools/wiki",
       "url": "https://github.com/sebgroup/frontend-tools",
-      "pushedAt": "2020-06-12T08:45:10Z",
+      "pushedAt": "2020-06-19T04:56:15Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
