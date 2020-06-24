@@ -1,6 +1,6 @@
 {
-  "closedIssuesThisMonth": 9,
-  "contributors": 57,
+  "closedIssuesThisMonth": 12,
+  "contributors": 60,
   "projects": [
     {
       "name": "design-library",
@@ -11,7 +11,7 @@
       "primaryLanguage": null,
       "stargazers": 12,
       "forkCount": 1,
-      "openIssues": 94,
+      "openIssues": 92,
       "lastIssueCreatedAt": "2020-06-23T13:18:02Z",
       "contributors": 3
     },
@@ -33,14 +33,14 @@
       "description": "A standalone bootstrap theme for SEB",
       "homepageUrl": "https://sebgroup.github.io/bootstrap/",
       "url": "https://github.com/sebgroup/bootstrap",
-      "pushedAt": "2020-06-23T05:01:55Z",
+      "pushedAt": "2020-06-24T09:58:25Z",
       "primaryLanguage": {
         "name": "HTML",
         "color": "#e34c26"
       },
       "stargazers": 6,
       "forkCount": 4,
-      "openIssues": 15,
+      "openIssues": 14,
       "lastIssueCreatedAt": "2020-06-23T12:24:43Z",
       "contributors": 3
     },
@@ -65,7 +65,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/react-components/",
       "url": "https://github.com/sebgroup/react-components",
-      "pushedAt": "2020-06-23T08:44:36Z",
+      "pushedAt": "2020-06-24T08:41:33Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -81,15 +81,15 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/ng-components/components/buttons/examples",
       "url": "https://github.com/sebgroup/ng-components",
-      "pushedAt": "2020-06-23T12:16:27Z",
+      "pushedAt": "2020-06-24T10:54:25Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
       },
       "stargazers": 5,
       "forkCount": 1,
-      "openIssues": 40,
-      "lastIssueCreatedAt": "2020-06-23T12:24:39Z"
+      "openIssues": 41,
+      "lastIssueCreatedAt": "2020-06-24T08:42:33Z"
     },
     {
       "name": "repo-operator",
@@ -144,7 +144,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2020-06-22T23:31:43Z",
+      "pushedAt": "2020-06-23T23:31:47Z",
       "primaryLanguage": {
         "name": "CSS",
         "color": "#563d7c"
@@ -167,7 +167,8 @@
       "stargazers": 2,
       "forkCount": 0,
       "openIssues": 0,
-      "lastIssueCreatedAt": "2020-03-20T04:27:04Z"
+      "lastIssueCreatedAt": "2020-03-20T04:27:04Z",
+      "contributors": 3
     },
     {
       "name": "yttringar",
