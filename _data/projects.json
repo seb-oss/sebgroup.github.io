@@ -40,8 +40,8 @@
       },
       "stargazers": 6,
       "forkCount": 4,
-      "openIssues": 14,
-      "lastIssueCreatedAt": "2020-06-23T12:24:43Z",
+      "openIssues": 15,
+      "lastIssueCreatedAt": "2020-06-29T11:19:17Z",
       "contributors": 3
     },
     {
@@ -56,8 +56,8 @@
       },
       "stargazers": 5,
       "forkCount": 7,
-      "openIssues": 26,
-      "lastIssueCreatedAt": "2020-06-23T12:22:06Z",
+      "openIssues": 27,
+      "lastIssueCreatedAt": "2020-06-29T11:19:13Z",
       "contributors": 7
     },
     {
@@ -65,15 +65,15 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/react-components/",
       "url": "https://github.com/sebgroup/react-components",
-      "pushedAt": "2020-06-27T18:03:15Z",
+      "pushedAt": "2020-06-29T13:05:26Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
       },
       "stargazers": 5,
       "forkCount": 5,
-      "openIssues": 11,
-      "lastIssueCreatedAt": "2020-06-23T12:24:30Z",
+      "openIssues": 12,
+      "lastIssueCreatedAt": "2020-06-29T11:19:23Z",
       "contributors": 6
     },
     {
@@ -81,15 +81,15 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/ng-components/components/buttons/examples",
       "url": "https://github.com/sebgroup/ng-components",
-      "pushedAt": "2020-06-28T08:20:55Z",
+      "pushedAt": "2020-06-29T05:30:28Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
       },
       "stargazers": 5,
       "forkCount": 1,
-      "openIssues": 41,
-      "lastIssueCreatedAt": "2020-06-24T08:42:33Z",
+      "openIssues": 42,
+      "lastIssueCreatedAt": "2020-06-29T11:19:18Z",
       "contributors": 7
     },
     {
@@ -120,8 +120,8 @@
       },
       "stargazers": 3,
       "forkCount": 1,
-      "openIssues": 13,
-      "lastIssueCreatedAt": "2020-06-23T12:24:35Z",
+      "openIssues": 14,
+      "lastIssueCreatedAt": "2020-06-29T11:19:21Z",
       "contributors": 5
     },
     {
@@ -145,7 +145,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2020-06-27T23:31:54Z",
+      "pushedAt": "2020-06-28T23:31:34Z",
       "primaryLanguage": {
         "name": "CSS",
         "color": "#563d7c"
