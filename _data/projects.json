@@ -1,6 +1,6 @@
 {
   "closedIssuesThisMonth": 0,
-  "contributors": 67,
+  "contributors": 65,
   "projects": [
     {
       "name": "design-library",
@@ -20,13 +20,12 @@
       "description": "SEB is banking outside the box! Find additional documentation here that will help you integrate with our APIs.",
       "homepageUrl": "https://developer.sebgroup.com",
       "url": "https://github.com/sebgroup/openbanking",
-      "pushedAt": "2020-04-07T08:48:59Z",
+      "pushedAt": "2020-07-06T10:54:56Z",
       "primaryLanguage": null,
       "stargazers": 9,
       "forkCount": 5,
       "openIssues": 2,
-      "lastIssueCreatedAt": "2019-12-16T10:08:28Z",
-      "contributors": 2
+      "lastIssueCreatedAt": "2019-12-16T10:08:28Z"
     },
     {
       "name": "bootstrap",
@@ -49,7 +48,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/vanilla-pattern-library/",
       "url": "https://github.com/sebgroup/vanilla-pattern-library",
-      "pushedAt": "2020-06-22T07:01:02Z",
+      "pushedAt": "2020-07-06T14:30:03Z",
       "primaryLanguage": {
         "name": "CSS",
         "color": "#563d7c"
@@ -81,7 +80,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/ng-components/components/buttons/examples",
       "url": "https://github.com/sebgroup/ng-components",
-      "pushedAt": "2020-07-03T10:32:33Z",
+      "pushedAt": "2020-07-06T16:59:55Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -145,7 +144,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2020-07-04T23:31:53Z",
+      "pushedAt": "2020-07-05T23:31:53Z",
       "primaryLanguage": {
         "name": "CSS",
         "color": "#563d7c"
