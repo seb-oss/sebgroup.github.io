@@ -81,7 +81,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/ng-components/components/buttons/examples",
       "url": "https://github.com/sebgroup/ng-components",
-      "pushedAt": "2020-07-10T17:45:35Z",
+      "pushedAt": "2020-07-11T19:28:47Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -145,7 +145,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2020-07-09T23:31:39Z",
+      "pushedAt": "2020-07-10T23:31:54Z",
       "primaryLanguage": {
         "name": "CSS",
         "color": "#563d7c"
@@ -160,7 +160,7 @@
       "description": "A set of frontend tools written in Typescript",
       "homepageUrl": "https://github.com/sebgroup/frontend-tools/wiki",
       "url": "https://github.com/sebgroup/frontend-tools",
-      "pushedAt": "2020-07-08T09:55:46Z",
+      "pushedAt": "2020-07-11T02:31:51Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
