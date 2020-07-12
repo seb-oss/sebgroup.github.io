@@ -22,7 +22,7 @@
       "url": "https://github.com/sebgroup/openbanking",
       "pushedAt": "2020-07-06T10:54:56Z",
       "primaryLanguage": null,
-      "stargazers": 9,
+      "stargazers": 10,
       "forkCount": 5,
       "openIssues": 2,
       "lastIssueCreatedAt": "2019-12-16T10:08:28Z",
@@ -65,7 +65,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/react-components/",
       "url": "https://github.com/sebgroup/react-components",
-      "pushedAt": "2020-07-08T05:49:44Z",
+      "pushedAt": "2020-07-12T15:10:52Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -145,7 +145,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2020-07-10T23:31:54Z",
+      "pushedAt": "2020-07-11T23:31:42Z",
       "primaryLanguage": {
         "name": "CSS",
         "color": "#563d7c"
