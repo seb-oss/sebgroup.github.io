@@ -65,7 +65,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/react-components/",
       "url": "https://github.com/sebgroup/react-components",
-      "pushedAt": "2020-07-12T15:10:52Z",
+      "pushedAt": "2020-07-14T09:41:25Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -81,7 +81,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/ng-components/components/buttons/examples",
       "url": "https://github.com/sebgroup/ng-components",
-      "pushedAt": "2020-07-13T18:16:30Z",
+      "pushedAt": "2020-07-14T18:06:53Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -145,7 +145,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2020-07-12T23:31:58Z",
+      "pushedAt": "2020-07-13T23:31:49Z",
       "primaryLanguage": {
         "name": "CSS",
         "color": "#563d7c"
@@ -316,7 +316,7 @@
       "description": "A SEB themed stylesheet for ng-bootstrap",
       "homepageUrl": "https://sebgroup.github.io/ng-bootstrap/",
       "url": "https://github.com/sebgroup/ng-bootstrap",
-      "pushedAt": "2020-07-10T05:14:11Z",
+      "pushedAt": "2020-07-14T04:56:45Z",
       "primaryLanguage": {
         "name": "HTML",
         "color": "#e34c26"
