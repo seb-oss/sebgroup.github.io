@@ -1,6 +1,6 @@
 {
-  "closedIssuesThisMonth": 6,
-  "contributors": 68,
+  "closedIssuesThisMonth": 15,
+  "contributors": 57,
   "projects": [
     {
       "name": "design-library",
@@ -65,7 +65,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/react-components/",
       "url": "https://github.com/sebgroup/react-components",
-      "pushedAt": "2020-07-16T15:11:22Z",
+      "pushedAt": "2020-07-17T07:15:31Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -81,16 +81,15 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/ng-components",
       "url": "https://github.com/sebgroup/ng-components",
-      "pushedAt": "2020-07-16T18:13:10Z",
+      "pushedAt": "2020-07-17T10:54:00Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
       },
       "stargazers": 5,
       "forkCount": 1,
-      "openIssues": 40,
-      "lastIssueCreatedAt": "2020-07-16T09:54:47Z",
-      "contributors": 8
+      "openIssues": 31,
+      "lastIssueCreatedAt": "2020-07-16T09:54:47Z"
     },
     {
       "name": "repo-operator",
@@ -145,7 +144,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2020-07-15T23:31:51Z",
+      "pushedAt": "2020-07-16T23:31:52Z",
       "primaryLanguage": {
         "name": "CSS",
         "color": "#563d7c"
@@ -160,7 +159,7 @@
       "description": "A set of frontend tools written in Typescript",
       "homepageUrl": "https://github.com/sebgroup/frontend-tools/wiki",
       "url": "https://github.com/sebgroup/frontend-tools",
-      "pushedAt": "2020-07-11T02:31:51Z",
+      "pushedAt": "2020-07-17T03:38:44Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -168,8 +167,7 @@
       "stargazers": 2,
       "forkCount": 0,
       "openIssues": 0,
-      "lastIssueCreatedAt": "2020-03-20T04:27:04Z",
-      "contributors": 3
+      "lastIssueCreatedAt": "2020-03-20T04:27:04Z"
     },
     {
       "name": "yttringar",
