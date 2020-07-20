@@ -1,6 +1,6 @@
 {
   "closedIssuesThisMonth": 15,
-  "contributors": 68,
+  "contributors": 60,
   "projects": [
     {
       "name": "design-library",
@@ -72,8 +72,8 @@
       },
       "stargazers": 5,
       "forkCount": 5,
-      "openIssues": 13,
-      "lastIssueCreatedAt": "2020-07-02T07:11:20Z",
+      "openIssues": 14,
+      "lastIssueCreatedAt": "2020-07-20T06:25:30Z",
       "contributors": 6
     },
     {
@@ -81,7 +81,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/ng-components",
       "url": "https://github.com/sebgroup/ng-components",
-      "pushedAt": "2020-07-17T10:54:00Z",
+      "pushedAt": "2020-07-20T17:53:14Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -89,8 +89,7 @@
       "stargazers": 5,
       "forkCount": 1,
       "openIssues": 31,
-      "lastIssueCreatedAt": "2020-07-16T09:54:47Z",
-      "contributors": 8
+      "lastIssueCreatedAt": "2020-07-16T09:54:47Z"
     },
     {
       "name": "repo-operator",
@@ -145,7 +144,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2020-07-18T23:31:44Z",
+      "pushedAt": "2020-07-19T23:31:48Z",
       "primaryLanguage": {
         "name": "CSS",
         "color": "#563d7c"
