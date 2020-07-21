@@ -33,7 +33,7 @@
       "description": "A standalone bootstrap theme for SEB",
       "homepageUrl": "https://sebgroup.github.io/bootstrap/",
       "url": "https://github.com/sebgroup/bootstrap",
-      "pushedAt": "2020-07-13T22:21:41Z",
+      "pushedAt": "2020-07-21T01:06:07Z",
       "primaryLanguage": {
         "name": "HTML",
         "color": "#e34c26"
@@ -43,6 +43,22 @@
       "openIssues": 15,
       "lastIssueCreatedAt": "2020-06-29T11:19:17Z",
       "contributors": 3
+    },
+    {
+      "name": "react-components",
+      "description": null,
+      "homepageUrl": "https://sebgroup.github.io/react-components/",
+      "url": "https://github.com/sebgroup/react-components",
+      "pushedAt": "2020-07-21T12:43:51Z",
+      "primaryLanguage": {
+        "name": "TypeScript",
+        "color": "#2b7489"
+      },
+      "stargazers": 6,
+      "forkCount": 5,
+      "openIssues": 14,
+      "lastIssueCreatedAt": "2020-07-20T06:25:30Z",
+      "contributors": 6
     },
     {
       "name": "vanilla-pattern-library",
@@ -61,27 +77,11 @@
       "contributors": 7
     },
     {
-      "name": "react-components",
-      "description": null,
-      "homepageUrl": "https://sebgroup.github.io/react-components/",
-      "url": "https://github.com/sebgroup/react-components",
-      "pushedAt": "2020-07-18T18:43:30Z",
-      "primaryLanguage": {
-        "name": "TypeScript",
-        "color": "#2b7489"
-      },
-      "stargazers": 5,
-      "forkCount": 5,
-      "openIssues": 14,
-      "lastIssueCreatedAt": "2020-07-20T06:25:30Z",
-      "contributors": 6
-    },
-    {
       "name": "ng-components",
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/ng-components",
       "url": "https://github.com/sebgroup/ng-components",
-      "pushedAt": "2020-07-20T17:53:14Z",
+      "pushedAt": "2020-07-21T10:30:05Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -144,7 +144,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2020-07-19T23:31:48Z",
+      "pushedAt": "2020-07-20T23:31:48Z",
       "primaryLanguage": {
         "name": "CSS",
         "color": "#563d7c"
