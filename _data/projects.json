@@ -1,6 +1,6 @@
 {
-  "closedIssuesThisMonth": 16,
-  "contributors": 54,
+  "closedIssuesThisMonth": 37,
+  "contributors": 60,
   "projects": [
     {
       "name": "design-library",
@@ -33,7 +33,7 @@
       "description": "A standalone bootstrap theme for SEB",
       "homepageUrl": "https://sebgroup.github.io/bootstrap/",
       "url": "https://github.com/sebgroup/bootstrap",
-      "pushedAt": "2020-07-22T05:09:03Z",
+      "pushedAt": "2020-07-24T19:39:38Z",
       "primaryLanguage": {
         "name": "HTML",
         "color": "#e34c26"
@@ -57,7 +57,8 @@
       "stargazers": 6,
       "forkCount": 5,
       "openIssues": 14,
-      "lastIssueCreatedAt": "2020-07-22T10:30:26Z"
+      "lastIssueCreatedAt": "2020-07-22T10:30:26Z",
+      "contributors": 6
     },
     {
       "name": "vanilla-pattern-library",
@@ -80,15 +81,15 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/ng-components",
       "url": "https://github.com/sebgroup/ng-components",
-      "pushedAt": "2020-07-23T11:40:54Z",
+      "pushedAt": "2020-07-24T13:55:03Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
       },
       "stargazers": 5,
       "forkCount": 1,
-      "openIssues": 32,
-      "lastIssueCreatedAt": "2020-07-23T03:11:07Z"
+      "openIssues": 12,
+      "lastIssueCreatedAt": "2020-07-24T06:32:28Z"
     },
     {
       "name": "repo-operator",
@@ -143,7 +144,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2020-07-22T23:31:41Z",
+      "pushedAt": "2020-07-23T23:31:55Z",
       "primaryLanguage": {
         "name": "CSS",
         "color": "#563d7c"
@@ -299,7 +300,7 @@
       "description": "A SEB themed toaster component for @sebgroup/bootstrap and angular",
       "homepageUrl": "https://sebgroup.github.io/ngx-toastr/",
       "url": "https://github.com/sebgroup/ngx-toastr",
-      "pushedAt": "2020-07-23T05:42:34Z",
+      "pushedAt": "2020-07-24T05:39:17Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
