@@ -1,6 +1,6 @@
 {
-  "closedIssuesThisMonth": 37,
-  "contributors": 68,
+  "closedIssuesThisMonth": 39,
+  "contributors": 65,
   "projects": [
     {
       "name": "design-library",
@@ -49,7 +49,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/react-components/",
       "url": "https://github.com/sebgroup/react-components",
-      "pushedAt": "2020-07-26T11:24:56Z",
+      "pushedAt": "2020-07-27T15:38:05Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -81,14 +81,14 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/ng-components",
       "url": "https://github.com/sebgroup/ng-components",
-      "pushedAt": "2020-07-24T13:55:03Z",
+      "pushedAt": "2020-07-27T09:40:33Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
       },
       "stargazers": 5,
       "forkCount": 1,
-      "openIssues": 12,
+      "openIssues": 11,
       "lastIssueCreatedAt": "2020-07-24T06:32:28Z",
       "contributors": 8
     },
@@ -145,7 +145,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2020-07-25T23:31:58Z",
+      "pushedAt": "2020-07-26T23:31:43Z",
       "primaryLanguage": {
         "name": "CSS",
         "color": "#563d7c"
@@ -160,16 +160,15 @@
       "description": "A set of frontend tools written in Typescript",
       "homepageUrl": "https://github.com/sebgroup/frontend-tools/wiki",
       "url": "https://github.com/sebgroup/frontend-tools",
-      "pushedAt": "2020-07-23T07:18:30Z",
+      "pushedAt": "2020-07-27T10:22:23Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
       },
       "stargazers": 2,
       "forkCount": 0,
-      "openIssues": 1,
-      "lastIssueCreatedAt": "2020-07-23T03:20:37Z",
-      "contributors": 3
+      "openIssues": 0,
+      "lastIssueCreatedAt": "2020-07-23T03:20:37Z"
     },
     {
       "name": "yttringar",
