@@ -1,6 +1,6 @@
 {
   "closedIssuesThisMonth": 39,
-  "contributors": 65,
+  "contributors": 60,
   "projects": [
     {
       "name": "design-library",
@@ -33,7 +33,7 @@
       "description": "A standalone bootstrap theme for SEB",
       "homepageUrl": "https://sebgroup.github.io/bootstrap/",
       "url": "https://github.com/sebgroup/bootstrap",
-      "pushedAt": "2020-07-24T19:39:38Z",
+      "pushedAt": "2020-07-28T23:02:27Z",
       "primaryLanguage": {
         "name": "HTML",
         "color": "#e34c26"
@@ -81,16 +81,15 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/ng-components",
       "url": "https://github.com/sebgroup/ng-components",
-      "pushedAt": "2020-07-27T09:40:33Z",
+      "pushedAt": "2020-07-28T15:09:18Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
       },
       "stargazers": 5,
       "forkCount": 1,
-      "openIssues": 11,
-      "lastIssueCreatedAt": "2020-07-24T06:32:28Z",
-      "contributors": 8
+      "openIssues": 14,
+      "lastIssueCreatedAt": "2020-07-28T09:47:33Z"
     },
     {
       "name": "repo-operator",
@@ -145,7 +144,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2020-07-26T23:31:43Z",
+      "pushedAt": "2020-07-27T23:31:42Z",
       "primaryLanguage": {
         "name": "CSS",
         "color": "#563d7c"
@@ -168,7 +167,8 @@
       "stargazers": 2,
       "forkCount": 0,
       "openIssues": 0,
-      "lastIssueCreatedAt": "2020-07-23T03:20:37Z"
+      "lastIssueCreatedAt": "2020-07-23T03:20:37Z",
+      "contributors": 3
     },
     {
       "name": "yttringar",
