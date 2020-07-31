@@ -1,6 +1,6 @@
 {
-  "closedIssuesThisMonth": 40,
-  "contributors": 51,
+  "closedIssuesThisMonth": 41,
+  "contributors": 69,
   "projects": [
     {
       "name": "design-library",
@@ -49,7 +49,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/react-components/",
       "url": "https://github.com/sebgroup/react-components",
-      "pushedAt": "2020-07-30T10:22:41Z",
+      "pushedAt": "2020-07-31T01:29:16Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -57,22 +57,24 @@
       "stargazers": 6,
       "forkCount": 5,
       "openIssues": 14,
-      "lastIssueCreatedAt": "2020-07-22T10:30:26Z"
+      "lastIssueCreatedAt": "2020-07-22T10:30:26Z",
+      "contributors": 6
     },
     {
       "name": "ng-components",
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/ng-components",
       "url": "https://github.com/sebgroup/ng-components",
-      "pushedAt": "2020-07-30T10:17:10Z",
+      "pushedAt": "2020-07-31T11:31:55Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
       },
       "stargazers": 6,
       "forkCount": 2,
-      "openIssues": 15,
-      "lastIssueCreatedAt": "2020-07-29T09:03:14Z"
+      "openIssues": 14,
+      "lastIssueCreatedAt": "2020-07-29T09:03:14Z",
+      "contributors": 9
     },
     {
       "name": "vanilla-pattern-library",
@@ -111,7 +113,7 @@
       "description": "angular material theme",
       "homepageUrl": "https://sebgroup.github.io/seb-angular-material",
       "url": "https://github.com/sebgroup/seb-angular-material",
-      "pushedAt": "2020-07-18T05:29:34Z",
+      "pushedAt": "2020-07-31T18:15:59Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -143,7 +145,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2020-07-29T23:32:18Z",
+      "pushedAt": "2020-07-30T23:31:52Z",
       "primaryLanguage": {
         "name": "CSS",
         "color": "#563d7c"
@@ -166,7 +168,8 @@
       "stargazers": 2,
       "forkCount": 0,
       "openIssues": 0,
-      "lastIssueCreatedAt": "2020-07-23T03:20:37Z"
+      "lastIssueCreatedAt": "2020-07-23T03:20:37Z",
+      "contributors": 3
     },
     {
       "name": "yttringar",
