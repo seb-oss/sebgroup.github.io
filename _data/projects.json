@@ -1,6 +1,6 @@
 {
   "closedIssuesThisMonth": 12,
-  "contributors": 69,
+  "contributors": 60,
   "projects": [
     {
       "name": "design-library",
@@ -49,7 +49,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/react-components/",
       "url": "https://github.com/sebgroup/react-components",
-      "pushedAt": "2020-08-03T11:49:24Z",
+      "pushedAt": "2020-08-04T12:02:36Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -65,16 +65,15 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/ng-components",
       "url": "https://github.com/sebgroup/ng-components",
-      "pushedAt": "2020-08-03T10:07:34Z",
+      "pushedAt": "2020-08-04T12:12:18Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
       },
       "stargazers": 6,
       "forkCount": 2,
-      "openIssues": 13,
-      "lastIssueCreatedAt": "2020-08-03T07:44:53Z",
-      "contributors": 9
+      "openIssues": 14,
+      "lastIssueCreatedAt": "2020-08-04T05:20:18Z"
     },
     {
       "name": "vanilla-pattern-library",
@@ -145,7 +144,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2020-08-02T23:32:01Z",
+      "pushedAt": "2020-08-03T23:31:56Z",
       "primaryLanguage": {
         "name": "CSS",
         "color": "#563d7c"
@@ -316,7 +315,7 @@
       "description": "A SEB themed stylesheet for ng-bootstrap",
       "homepageUrl": "https://sebgroup.github.io/ng-bootstrap/",
       "url": "https://github.com/sebgroup/ng-bootstrap",
-      "pushedAt": "2020-08-03T06:13:37Z",
+      "pushedAt": "2020-08-04T09:26:09Z",
       "primaryLanguage": {
         "name": "HTML",
         "color": "#e34c26"
