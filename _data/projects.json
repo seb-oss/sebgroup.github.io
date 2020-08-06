@@ -1,6 +1,6 @@
 {
   "closedIssuesThisMonth": 12,
-  "contributors": 69,
+  "contributors": 67,
   "projects": [
     {
       "name": "design-library",
@@ -145,7 +145,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2020-08-04T23:31:51Z",
+      "pushedAt": "2020-08-05T23:31:51Z",
       "primaryLanguage": {
         "name": "CSS",
         "color": "#563d7c"
@@ -160,7 +160,7 @@
       "description": "A set of frontend tools written in Typescript",
       "homepageUrl": "https://github.com/sebgroup/frontend-tools/wiki",
       "url": "https://github.com/sebgroup/frontend-tools",
-      "pushedAt": "2020-07-30T10:04:43Z",
+      "pushedAt": "2020-08-06T10:24:12Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -176,7 +176,7 @@
       "description": null,
       "homepageUrl": null,
       "url": "https://github.com/sebgroup/yttringar",
-      "pushedAt": "2020-08-01T05:45:14Z",
+      "pushedAt": "2020-08-06T08:21:12Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -184,8 +184,7 @@
       "stargazers": 2,
       "forkCount": 0,
       "openIssues": 8,
-      "lastIssueCreatedAt": "2019-11-28T16:44:38Z",
-      "contributors": 2
+      "lastIssueCreatedAt": "2019-11-28T16:44:38Z"
     },
     {
       "name": "magic-iframe",
