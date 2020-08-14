@@ -1,6 +1,6 @@
 {
   "closedIssuesThisMonth": 18,
-  "contributors": 54,
+  "contributors": 69,
   "projects": [
     {
       "name": "design-library",
@@ -29,6 +29,22 @@
       "contributors": 2
     },
     {
+      "name": "react-components",
+      "description": null,
+      "homepageUrl": "https://sebgroup.github.io/react-components/",
+      "url": "https://github.com/sebgroup/react-components",
+      "pushedAt": "2020-08-14T04:21:25Z",
+      "primaryLanguage": {
+        "name": "TypeScript",
+        "color": "#2b7489"
+      },
+      "stargazers": 7,
+      "forkCount": 4,
+      "openIssues": 14,
+      "lastIssueCreatedAt": "2020-08-11T07:22:44Z",
+      "contributors": 6
+    },
+    {
       "name": "bootstrap",
       "description": "A standalone bootstrap theme for SEB",
       "homepageUrl": "https://sebgroup.github.io/bootstrap/",
@@ -45,26 +61,11 @@
       "contributors": 3
     },
     {
-      "name": "react-components",
-      "description": null,
-      "homepageUrl": "https://sebgroup.github.io/react-components/",
-      "url": "https://github.com/sebgroup/react-components",
-      "pushedAt": "2020-08-13T10:03:28Z",
-      "primaryLanguage": {
-        "name": "TypeScript",
-        "color": "#2b7489"
-      },
-      "stargazers": 6,
-      "forkCount": 4,
-      "openIssues": 14,
-      "lastIssueCreatedAt": "2020-08-11T07:22:44Z"
-    },
-    {
       "name": "ng-components",
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/ng-components",
       "url": "https://github.com/sebgroup/ng-components",
-      "pushedAt": "2020-08-13T11:16:10Z",
+      "pushedAt": "2020-08-14T06:54:13Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -72,7 +73,8 @@
       "stargazers": 6,
       "forkCount": 2,
       "openIssues": 15,
-      "lastIssueCreatedAt": "2020-08-07T05:37:28Z"
+      "lastIssueCreatedAt": "2020-08-07T05:37:28Z",
+      "contributors": 9
     },
     {
       "name": "vanilla-pattern-library",
@@ -143,7 +145,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2020-08-12T23:31:45Z",
+      "pushedAt": "2020-08-13T23:31:36Z",
       "primaryLanguage": {
         "name": "CSS",
         "color": "#563d7c"
@@ -158,7 +160,7 @@
       "description": "A set of frontend tools written in Typescript",
       "homepageUrl": "https://github.com/sebgroup/frontend-tools/wiki",
       "url": "https://github.com/sebgroup/frontend-tools",
-      "pushedAt": "2020-08-13T09:57:30Z",
+      "pushedAt": "2020-08-14T07:00:33Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -283,15 +285,15 @@
       "description": null,
       "homepageUrl": null,
       "url": "https://github.com/sebgroup/ng-wizard",
-      "pushedAt": "2020-08-01T02:03:49Z",
+      "pushedAt": "2020-08-14T15:45:20Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
       },
       "stargazers": 0,
       "forkCount": 3,
-      "openIssues": 3,
-      "lastIssueCreatedAt": "2020-06-03T11:56:33Z",
+      "openIssues": 4,
+      "lastIssueCreatedAt": "2020-08-14T11:02:31Z",
       "contributors": 3
     },
     {
@@ -299,7 +301,7 @@
       "description": "A SEB themed toaster component for @sebgroup/bootstrap and angular",
       "homepageUrl": "https://sebgroup.github.io/ngx-toastr/",
       "url": "https://github.com/sebgroup/ngx-toastr",
-      "pushedAt": "2020-08-13T09:17:35Z",
+      "pushedAt": "2020-08-14T09:19:36Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -314,7 +316,7 @@
       "description": "A SEB themed stylesheet for ng-bootstrap",
       "homepageUrl": "https://sebgroup.github.io/ng-bootstrap/",
       "url": "https://github.com/sebgroup/ng-bootstrap",
-      "pushedAt": "2020-08-13T10:50:59Z",
+      "pushedAt": "2020-08-14T07:04:12Z",
       "primaryLanguage": {
         "name": "HTML",
         "color": "#e34c26"
