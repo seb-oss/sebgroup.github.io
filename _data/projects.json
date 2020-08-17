@@ -1,6 +1,6 @@
 {
-  "closedIssuesThisMonth": 18,
-  "contributors": 69,
+  "closedIssuesThisMonth": 28,
+  "contributors": 58,
   "projects": [
     {
       "name": "design-library",
@@ -20,28 +20,27 @@
       "description": "SEB is banking outside the box! Find additional documentation here that will help you integrate with our APIs.",
       "homepageUrl": "https://developer.sebgroup.com",
       "url": "https://github.com/sebgroup/openbanking",
-      "pushedAt": "2020-07-06T10:54:56Z",
+      "pushedAt": "2020-08-17T12:20:03Z",
       "primaryLanguage": null,
       "stargazers": 10,
       "forkCount": 5,
       "openIssues": 2,
-      "lastIssueCreatedAt": "2019-12-16T10:08:28Z",
-      "contributors": 2
+      "lastIssueCreatedAt": "2019-12-16T10:08:28Z"
     },
     {
       "name": "react-components",
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/react-components/",
       "url": "https://github.com/sebgroup/react-components",
-      "pushedAt": "2020-08-14T04:21:25Z",
+      "pushedAt": "2020-08-17T10:38:29Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
       },
       "stargazers": 7,
       "forkCount": 4,
-      "openIssues": 14,
-      "lastIssueCreatedAt": "2020-08-11T07:22:44Z",
+      "openIssues": 10,
+      "lastIssueCreatedAt": "2020-08-17T02:41:56Z",
       "contributors": 6
     },
     {
@@ -65,30 +64,29 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/ng-components",
       "url": "https://github.com/sebgroup/ng-components",
-      "pushedAt": "2020-08-16T17:34:42Z",
+      "pushedAt": "2020-08-17T16:14:46Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
       },
       "stargazers": 6,
       "forkCount": 2,
-      "openIssues": 15,
-      "lastIssueCreatedAt": "2020-08-07T05:37:28Z",
-      "contributors": 9
+      "openIssues": 11,
+      "lastIssueCreatedAt": "2020-08-07T05:37:28Z"
     },
     {
       "name": "vanilla-pattern-library",
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/vanilla-pattern-library/",
       "url": "https://github.com/sebgroup/vanilla-pattern-library",
-      "pushedAt": "2020-08-13T14:07:41Z",
+      "pushedAt": "2020-08-17T08:26:41Z",
       "primaryLanguage": {
         "name": "CSS",
         "color": "#563d7c"
       },
       "stargazers": 5,
       "forkCount": 8,
-      "openIssues": 26,
+      "openIssues": 25,
       "lastIssueCreatedAt": "2020-07-01T04:33:48Z",
       "contributors": 7
     },
@@ -145,7 +143,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2020-08-15T23:31:43Z",
+      "pushedAt": "2020-08-16T23:31:52Z",
       "primaryLanguage": {
         "name": "CSS",
         "color": "#563d7c"
@@ -285,15 +283,15 @@
       "description": null,
       "homepageUrl": null,
       "url": "https://github.com/sebgroup/ng-wizard",
-      "pushedAt": "2020-08-14T15:45:20Z",
+      "pushedAt": "2020-08-17T14:52:10Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
       },
       "stargazers": 0,
       "forkCount": 3,
-      "openIssues": 4,
-      "lastIssueCreatedAt": "2020-08-14T11:02:31Z",
+      "openIssues": 5,
+      "lastIssueCreatedAt": "2020-08-17T08:18:29Z",
       "contributors": 3
     },
     {
@@ -301,7 +299,7 @@
       "description": "A SEB themed toaster component for @sebgroup/bootstrap and angular",
       "homepageUrl": "https://sebgroup.github.io/ngx-toastr/",
       "url": "https://github.com/sebgroup/ngx-toastr",
-      "pushedAt": "2020-08-14T09:19:36Z",
+      "pushedAt": "2020-08-17T05:53:40Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
