@@ -1,6 +1,6 @@
 {
   "closedIssuesThisMonth": 33,
-  "contributors": 54,
+  "contributors": 70,
   "projects": [
     {
       "name": "design-library",
@@ -73,7 +73,8 @@
       "stargazers": 6,
       "forkCount": 2,
       "openIssues": 11,
-      "lastIssueCreatedAt": "2020-08-18T09:48:59Z"
+      "lastIssueCreatedAt": "2020-08-18T09:48:59Z",
+      "contributors": 9
     },
     {
       "name": "vanilla-pattern-library",
@@ -136,14 +137,15 @@
       "stargazers": 3,
       "forkCount": 0,
       "openIssues": 3,
-      "lastIssueCreatedAt": "2020-08-21T05:47:22Z"
+      "lastIssueCreatedAt": "2020-08-21T05:47:22Z",
+      "contributors": 7
     },
     {
       "name": "sebgroup.github.io",
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2020-08-20T23:31:41Z",
+      "pushedAt": "2020-08-21T23:32:00Z",
       "primaryLanguage": {
         "name": "CSS",
         "color": "#563d7c"
