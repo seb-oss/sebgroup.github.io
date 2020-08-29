@@ -1,6 +1,6 @@
 {
   "closedIssuesThisMonth": 35,
-  "contributors": 68,
+  "contributors": 71,
   "projects": [
     {
       "name": "design-library",
@@ -65,7 +65,7 @@
       "description": "A standalone bootstrap theme for SEB",
       "homepageUrl": "https://sebgroup.github.io/bootstrap/",
       "url": "https://github.com/sebgroup/bootstrap",
-      "pushedAt": "2020-08-28T00:48:14Z",
+      "pushedAt": "2020-08-29T00:48:47Z",
       "primaryLanguage": {
         "name": "HTML",
         "color": "#e34c26"
@@ -145,7 +145,7 @@
       "description": "A set of frontend tools written in Typescript",
       "homepageUrl": "https://github.com/sebgroup/frontend-tools/wiki",
       "url": "https://github.com/sebgroup/frontend-tools",
-      "pushedAt": "2020-08-28T06:26:19Z",
+      "pushedAt": "2020-08-29T15:14:43Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -153,14 +153,15 @@
       "stargazers": 3,
       "forkCount": 0,
       "openIssues": 0,
-      "lastIssueCreatedAt": "2020-08-24T03:12:48Z"
+      "lastIssueCreatedAt": "2020-08-24T03:12:48Z",
+      "contributors": 3
     },
     {
       "name": "sebgroup.github.io",
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2020-08-27T23:31:46Z",
+      "pushedAt": "2020-08-28T23:31:28Z",
       "primaryLanguage": {
         "name": "CSS",
         "color": "#563d7c"
