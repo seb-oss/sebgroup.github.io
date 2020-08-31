@@ -1,6 +1,6 @@
 {
   "closedIssuesThisMonth": 35,
-  "contributors": 71,
+  "contributors": 64,
   "projects": [
     {
       "name": "design-library",
@@ -129,7 +129,7 @@
       "description": "SEB Pictograms CSS library",
       "homepageUrl": "https://sebgroup.github.io/seb-pictograms/",
       "url": "https://github.com/sebgroup/seb-pictograms",
-      "pushedAt": "2020-08-25T07:38:13Z",
+      "pushedAt": "2020-08-31T14:05:33Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -137,8 +137,7 @@
       "stargazers": 3,
       "forkCount": 0,
       "openIssues": 3,
-      "lastIssueCreatedAt": "2020-08-21T05:47:22Z",
-      "contributors": 7
+      "lastIssueCreatedAt": "2020-08-21T05:47:22Z"
     },
     {
       "name": "frontend-tools",
@@ -161,7 +160,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2020-08-29T23:31:26Z",
+      "pushedAt": "2020-08-30T23:31:44Z",
       "primaryLanguage": {
         "name": "CSS",
         "color": "#563d7c"
