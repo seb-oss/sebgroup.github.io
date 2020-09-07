@@ -1,6 +1,6 @@
 {
-  "closedIssuesThisMonth": 5,
-  "contributors": 72,
+  "closedIssuesThisMonth": 6,
+  "contributors": 69,
   "projects": [
     {
       "name": "design-library",
@@ -72,7 +72,7 @@
       },
       "stargazers": 6,
       "forkCount": 4,
-      "openIssues": 6,
+      "openIssues": 5,
       "lastIssueCreatedAt": "2020-08-24T11:44:46Z",
       "contributors": 3
     },
@@ -161,7 +161,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2020-09-05T23:32:00Z",
+      "pushedAt": "2020-09-06T23:32:34Z",
       "primaryLanguage": {
         "name": "CSS",
         "color": "#563d7c"
@@ -238,7 +238,7 @@
       "description": null,
       "homepageUrl": null,
       "url": "https://github.com/sebgroup/yttringar-oauth",
-      "pushedAt": "2020-09-06T19:00:48Z",
+      "pushedAt": "2020-09-07T11:25:33Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -246,8 +246,7 @@
       "stargazers": 1,
       "forkCount": 0,
       "openIssues": 1,
-      "lastIssueCreatedAt": "2019-11-28T16:27:35Z",
-      "contributors": 3
+      "lastIssueCreatedAt": "2019-11-28T16:27:35Z"
     },
     {
       "name": "thumbs-up",
@@ -285,7 +284,7 @@
       "description": null,
       "homepageUrl": null,
       "url": "https://github.com/sebgroup/ng-wizard",
-      "pushedAt": "2020-09-04T20:11:18Z",
+      "pushedAt": "2020-09-07T07:37:58Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
