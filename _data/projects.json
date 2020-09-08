@@ -1,6 +1,6 @@
 {
   "closedIssuesThisMonth": 6,
-  "contributors": 69,
+  "contributors": 72,
   "projects": [
     {
       "name": "design-library",
@@ -161,10 +161,10 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2020-09-06T23:32:34Z",
+      "pushedAt": "2020-09-07T23:31:34Z",
       "primaryLanguage": {
-        "name": "CSS",
-        "color": "#563d7c"
+        "name": "SCSS",
+        "color": "#c6538c"
       },
       "stargazers": 3,
       "forkCount": 0,
@@ -246,7 +246,8 @@
       "stargazers": 1,
       "forkCount": 0,
       "openIssues": 1,
-      "lastIssueCreatedAt": "2019-11-28T16:27:35Z"
+      "lastIssueCreatedAt": "2019-11-28T16:27:35Z",
+      "contributors": 3
     },
     {
       "name": "thumbs-up",
@@ -284,7 +285,7 @@
       "description": null,
       "homepageUrl": null,
       "url": "https://github.com/sebgroup/ng-wizard",
-      "pushedAt": "2020-09-07T07:37:58Z",
+      "pushedAt": "2020-09-08T09:52:41Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -300,7 +301,7 @@
       "description": "A SEB themed toaster component for @sebgroup/bootstrap and angular",
       "homepageUrl": "https://sebgroup.github.io/ngx-toastr/",
       "url": "https://github.com/sebgroup/ngx-toastr",
-      "pushedAt": "2020-09-05T02:39:25Z",
+      "pushedAt": "2020-09-08T17:30:46Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -315,7 +316,7 @@
       "description": "A SEB themed stylesheet for ng-bootstrap",
       "homepageUrl": "https://sebgroup.github.io/ng-bootstrap/",
       "url": "https://github.com/sebgroup/ng-bootstrap",
-      "pushedAt": "2020-09-05T02:52:46Z",
+      "pushedAt": "2020-09-08T18:16:07Z",
       "primaryLanguage": {
         "name": "HTML",
         "color": "#e34c26"
