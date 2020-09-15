@@ -1,6 +1,6 @@
 {
   "closedIssuesThisMonth": 6,
-  "contributors": 70,
+  "contributors": 72,
   "projects": [
     {
       "name": "design-library",
@@ -49,15 +49,15 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/react-components/",
       "url": "https://github.com/sebgroup/react-components",
-      "pushedAt": "2020-09-14T10:14:22Z",
+      "pushedAt": "2020-09-15T08:37:02Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
       },
       "stargazers": 7,
       "forkCount": 4,
-      "openIssues": 10,
-      "lastIssueCreatedAt": "2020-09-02T10:05:18Z",
+      "openIssues": 11,
+      "lastIssueCreatedAt": "2020-09-15T02:44:20Z",
       "contributors": 6
     },
     {
@@ -161,7 +161,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2020-09-14T07:26:13Z",
+      "pushedAt": "2020-09-14T23:32:00Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -184,7 +184,8 @@
       "stargazers": 2,
       "forkCount": 0,
       "openIssues": 8,
-      "lastIssueCreatedAt": "2019-11-28T16:44:38Z"
+      "lastIssueCreatedAt": "2019-11-28T16:44:38Z",
+      "contributors": 2
     },
     {
       "name": "magic-iframe",
