@@ -1,6 +1,6 @@
 {
   "closedIssuesThisMonth": 6,
-  "contributors": 72,
+  "contributors": 66,
   "projects": [
     {
       "name": "design-library",
@@ -49,7 +49,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/react-components/",
       "url": "https://github.com/sebgroup/react-components",
-      "pushedAt": "2020-09-15T08:37:02Z",
+      "pushedAt": "2020-09-17T10:01:01Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -57,23 +57,22 @@
       "stargazers": 7,
       "forkCount": 4,
       "openIssues": 11,
-      "lastIssueCreatedAt": "2020-09-15T02:44:20Z",
-      "contributors": 6
+      "lastIssueCreatedAt": "2020-09-15T02:44:20Z"
     },
     {
       "name": "bootstrap",
       "description": "A standalone bootstrap theme for SEB",
       "homepageUrl": "https://sebgroup.github.io/bootstrap/",
       "url": "https://github.com/sebgroup/bootstrap",
-      "pushedAt": "2020-09-13T09:19:46Z",
+      "pushedAt": "2020-09-17T00:16:12Z",
       "primaryLanguage": {
         "name": "HTML",
         "color": "#e34c26"
       },
       "stargazers": 6,
       "forkCount": 4,
-      "openIssues": 5,
-      "lastIssueCreatedAt": "2020-08-24T11:44:46Z",
+      "openIssues": 6,
+      "lastIssueCreatedAt": "2020-09-17T12:44:38Z",
       "contributors": 3
     },
     {
@@ -161,7 +160,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2020-09-15T23:31:43Z",
+      "pushedAt": "2020-09-16T23:31:54Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -285,7 +284,7 @@
       "description": null,
       "homepageUrl": null,
       "url": "https://github.com/sebgroup/ng-wizard",
-      "pushedAt": "2020-09-12T09:57:51Z",
+      "pushedAt": "2020-09-17T12:42:04Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
