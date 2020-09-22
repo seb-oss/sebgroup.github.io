@@ -33,7 +33,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/ng-components",
       "url": "https://github.com/sebgroup/ng-components",
-      "pushedAt": "2020-09-21T12:07:53Z",
+      "pushedAt": "2020-09-22T04:47:16Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -48,7 +48,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/react-components/",
       "url": "https://github.com/sebgroup/react-components",
-      "pushedAt": "2020-09-21T09:57:50Z",
+      "pushedAt": "2020-09-22T10:42:23Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -160,7 +160,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2020-09-20T23:31:44Z",
+      "pushedAt": "2020-09-21T23:31:37Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
