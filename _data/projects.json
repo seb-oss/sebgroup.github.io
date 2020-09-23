@@ -1,6 +1,6 @@
 {
   "closedIssuesThisMonth": 14,
-  "contributors": 62,
+  "contributors": 72,
   "projects": [
     {
       "name": "design-library",
@@ -33,7 +33,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/ng-components",
       "url": "https://github.com/sebgroup/ng-components",
-      "pushedAt": "2020-09-22T04:47:16Z",
+      "pushedAt": "2020-09-23T14:56:58Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -41,22 +41,23 @@
       "stargazers": 8,
       "forkCount": 2,
       "openIssues": 13,
-      "lastIssueCreatedAt": "2020-09-18T16:37:37Z"
+      "lastIssueCreatedAt": "2020-09-18T16:37:37Z",
+      "contributors": 10
     },
     {
       "name": "react-components",
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/react-components/",
       "url": "https://github.com/sebgroup/react-components",
-      "pushedAt": "2020-09-22T10:42:23Z",
+      "pushedAt": "2020-09-23T10:05:37Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
       },
       "stargazers": 7,
       "forkCount": 4,
-      "openIssues": 13,
-      "lastIssueCreatedAt": "2020-09-18T16:37:32Z",
+      "openIssues": 14,
+      "lastIssueCreatedAt": "2020-09-23T07:05:49Z",
       "contributors": 6
     },
     {
@@ -64,7 +65,7 @@
       "description": "A standalone bootstrap theme for SEB",
       "homepageUrl": "https://sebgroup.github.io/bootstrap/",
       "url": "https://github.com/sebgroup/bootstrap",
-      "pushedAt": "2020-09-19T00:09:32Z",
+      "pushedAt": "2020-09-23T23:11:13Z",
       "primaryLanguage": {
         "name": "HTML",
         "color": "#e34c26"
@@ -160,7 +161,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2020-09-21T23:31:37Z",
+      "pushedAt": "2020-09-22T23:31:55Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
