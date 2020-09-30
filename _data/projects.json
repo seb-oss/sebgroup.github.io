@@ -1,6 +1,6 @@
 {
   "closedIssuesThisMonth": 15,
-  "contributors": 65,
+  "contributors": 73,
   "projects": [
     {
       "name": "design-library",
@@ -33,13 +33,13 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/ng-components",
       "url": "https://github.com/sebgroup/ng-components",
-      "pushedAt": "2020-09-23T14:56:58Z",
+      "pushedAt": "2020-09-30T18:12:10Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
       },
       "stargazers": 8,
-      "forkCount": 2,
+      "forkCount": 3,
       "openIssues": 13,
       "lastIssueCreatedAt": "2020-09-18T16:37:37Z",
       "contributors": 10
@@ -49,13 +49,13 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/react-components/",
       "url": "https://github.com/sebgroup/react-components",
-      "pushedAt": "2020-09-29T10:35:43Z",
+      "pushedAt": "2020-09-30T17:23:41Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
       },
       "stargazers": 7,
-      "forkCount": 4,
+      "forkCount": 5,
       "openIssues": 14,
       "lastIssueCreatedAt": "2020-09-23T07:05:49Z",
       "contributors": 6
@@ -87,9 +87,10 @@
         "color": "#c6538c"
       },
       "stargazers": 5,
-      "forkCount": 8,
+      "forkCount": 9,
       "openIssues": 26,
-      "lastIssueCreatedAt": "2020-09-18T16:37:41Z"
+      "lastIssueCreatedAt": "2020-09-18T16:37:41Z",
+      "contributors": 8
     },
     {
       "name": "repo-operator",
@@ -144,7 +145,7 @@
       "description": "A set of frontend tools written in Typescript",
       "homepageUrl": "https://github.com/sebgroup/frontend-tools/wiki",
       "url": "https://github.com/sebgroup/frontend-tools",
-      "pushedAt": "2020-09-18T07:36:53Z",
+      "pushedAt": "2020-09-30T18:04:13Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -160,7 +161,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2020-09-28T23:43:24Z",
+      "pushedAt": "2020-09-29T23:31:49Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
