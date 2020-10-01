@@ -1,6 +1,6 @@
 {
   "closedIssuesThisMonth": 15,
-  "contributors": 73,
+  "contributors": 74,
   "projects": [
     {
       "name": "design-library",
@@ -33,32 +33,16 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/ng-components",
       "url": "https://github.com/sebgroup/ng-components",
-      "pushedAt": "2020-09-30T18:12:10Z",
+      "pushedAt": "2020-10-01T17:59:10Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
       },
       "stargazers": 8,
-      "forkCount": 3,
+      "forkCount": 2,
       "openIssues": 13,
       "lastIssueCreatedAt": "2020-09-18T16:37:37Z",
-      "contributors": 10
-    },
-    {
-      "name": "react-components",
-      "description": null,
-      "homepageUrl": "https://sebgroup.github.io/react-components/",
-      "url": "https://github.com/sebgroup/react-components",
-      "pushedAt": "2020-09-30T17:23:41Z",
-      "primaryLanguage": {
-        "name": "TypeScript",
-        "color": "#2b7489"
-      },
-      "stargazers": 7,
-      "forkCount": 5,
-      "openIssues": 14,
-      "lastIssueCreatedAt": "2020-09-23T07:05:49Z",
-      "contributors": 6
+      "contributors": 11
     },
     {
       "name": "bootstrap",
@@ -77,6 +61,22 @@
       "contributors": 3
     },
     {
+      "name": "react-components",
+      "description": null,
+      "homepageUrl": "https://sebgroup.github.io/react-components/",
+      "url": "https://github.com/sebgroup/react-components",
+      "pushedAt": "2020-10-01T10:23:55Z",
+      "primaryLanguage": {
+        "name": "TypeScript",
+        "color": "#2b7489"
+      },
+      "stargazers": 6,
+      "forkCount": 4,
+      "openIssues": 14,
+      "lastIssueCreatedAt": "2020-09-23T07:05:49Z",
+      "contributors": 6
+    },
+    {
       "name": "vanilla-pattern-library",
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/vanilla-pattern-library/",
@@ -87,7 +87,7 @@
         "color": "#c6538c"
       },
       "stargazers": 5,
-      "forkCount": 9,
+      "forkCount": 8,
       "openIssues": 26,
       "lastIssueCreatedAt": "2020-09-18T16:37:41Z",
       "contributors": 8
@@ -145,7 +145,7 @@
       "description": "A set of frontend tools written in Typescript",
       "homepageUrl": "https://github.com/sebgroup/frontend-tools/wiki",
       "url": "https://github.com/sebgroup/frontend-tools",
-      "pushedAt": "2020-09-30T18:04:13Z",
+      "pushedAt": "2020-10-01T08:20:20Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -154,14 +154,14 @@
       "forkCount": 0,
       "openIssues": 0,
       "lastIssueCreatedAt": "2020-08-24T03:12:48Z",
-      "contributors": 3
+      "contributors": 4
     },
     {
       "name": "sebgroup.github.io",
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2020-09-29T23:31:49Z",
+      "pushedAt": "2020-10-01T01:03:33Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -192,16 +192,15 @@
       "description": "A magical iframe component ",
       "homepageUrl": "https://sebgroup.github.io/magic-iframe/",
       "url": "https://github.com/sebgroup/magic-iframe",
-      "pushedAt": "2020-09-12T17:21:56Z",
+      "pushedAt": "2020-10-01T08:04:01Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
       },
       "stargazers": 2,
       "forkCount": 1,
-      "openIssues": 0,
-      "lastIssueCreatedAt": "2020-04-23T06:35:22Z",
-      "contributors": 1
+      "openIssues": 1,
+      "lastIssueCreatedAt": "2020-10-01T07:50:15Z"
     },
     {
       "name": "fonts",
@@ -301,7 +300,7 @@
       "description": "A SEB themed toaster component for @sebgroup/bootstrap and angular",
       "homepageUrl": "https://sebgroup.github.io/ngx-toastr/",
       "url": "https://github.com/sebgroup/ngx-toastr",
-      "pushedAt": "2020-09-23T23:34:00Z",
+      "pushedAt": "2020-10-01T23:19:47Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -316,7 +315,7 @@
       "description": "A SEB themed stylesheet for ng-bootstrap",
       "homepageUrl": "https://sebgroup.github.io/ng-bootstrap/",
       "url": "https://github.com/sebgroup/ng-bootstrap",
-      "pushedAt": "2020-09-25T19:20:11Z",
+      "pushedAt": "2020-10-01T23:16:22Z",
       "primaryLanguage": {
         "name": "HTML",
         "color": "#e34c26"
