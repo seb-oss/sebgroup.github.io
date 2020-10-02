@@ -1,6 +1,6 @@
 {
-  "closedIssuesThisMonth": 15,
-  "contributors": 74,
+  "closedIssuesThisMonth": 2,
+  "contributors": 75,
   "projects": [
     {
       "name": "design-library",
@@ -49,14 +49,14 @@
       "description": "A standalone bootstrap theme for SEB",
       "homepageUrl": "https://sebgroup.github.io/bootstrap/",
       "url": "https://github.com/sebgroup/bootstrap",
-      "pushedAt": "2020-09-26T04:00:35Z",
+      "pushedAt": "2020-10-02T10:10:31Z",
       "primaryLanguage": {
         "name": "HTML",
         "color": "#e34c26"
       },
       "stargazers": 6,
       "forkCount": 4,
-      "openIssues": 8,
+      "openIssues": 7,
       "lastIssueCreatedAt": "2020-09-18T16:37:39Z",
       "contributors": 3
     },
@@ -65,7 +65,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/react-components/",
       "url": "https://github.com/sebgroup/react-components",
-      "pushedAt": "2020-10-01T10:23:55Z",
+      "pushedAt": "2020-10-02T10:25:55Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -120,7 +120,7 @@
       },
       "stargazers": 4,
       "forkCount": 1,
-      "openIssues": 14,
+      "openIssues": 13,
       "lastIssueCreatedAt": "2020-09-18T16:37:35Z",
       "contributors": 6
     },
@@ -161,7 +161,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2020-10-01T01:03:33Z",
+      "pushedAt": "2020-10-01T23:31:51Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -200,7 +200,8 @@
       "stargazers": 2,
       "forkCount": 1,
       "openIssues": 1,
-      "lastIssueCreatedAt": "2020-10-01T07:50:15Z"
+      "lastIssueCreatedAt": "2020-10-01T07:50:15Z",
+      "contributors": 1
     },
     {
       "name": "fonts",
@@ -315,7 +316,7 @@
       "description": "A SEB themed stylesheet for ng-bootstrap",
       "homepageUrl": "https://sebgroup.github.io/ng-bootstrap/",
       "url": "https://github.com/sebgroup/ng-bootstrap",
-      "pushedAt": "2020-10-01T23:16:22Z",
+      "pushedAt": "2020-10-02T23:18:10Z",
       "primaryLanguage": {
         "name": "HTML",
         "color": "#e34c26"
