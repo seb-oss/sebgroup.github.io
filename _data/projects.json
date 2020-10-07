@@ -1,6 +1,6 @@
 {
   "closedIssuesThisMonth": 3,
-  "contributors": 68,
+  "contributors": 73,
   "projects": [
     {
       "name": "design-library",
@@ -20,13 +20,12 @@
       "description": "SEB is banking outside the box! Find additional documentation here that will help you integrate with our APIs.",
       "homepageUrl": "https://developer.sebgroup.com",
       "url": "https://github.com/sebgroup/openbanking",
-      "pushedAt": "2020-08-17T12:20:03Z",
+      "pushedAt": "2020-10-07T15:25:10Z",
       "primaryLanguage": null,
       "stargazers": 10,
       "forkCount": 5,
       "openIssues": 2,
-      "lastIssueCreatedAt": "2019-12-16T10:08:28Z",
-      "contributors": 2
+      "lastIssueCreatedAt": "2019-12-16T10:08:28Z"
     },
     {
       "name": "ng-components",
@@ -73,7 +72,8 @@
       "stargazers": 6,
       "forkCount": 4,
       "openIssues": 14,
-      "lastIssueCreatedAt": "2020-09-23T07:05:49Z"
+      "lastIssueCreatedAt": "2020-09-23T07:05:49Z",
+      "contributors": 6
     },
     {
       "name": "vanilla-pattern-library",
@@ -128,7 +128,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2020-10-05T23:31:54Z",
+      "pushedAt": "2020-10-06T23:31:51Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -199,7 +199,8 @@
       "stargazers": 2,
       "forkCount": 1,
       "openIssues": 0,
-      "lastIssueCreatedAt": "2020-10-01T07:50:15Z"
+      "lastIssueCreatedAt": "2020-10-01T07:50:15Z",
+      "contributors": 1
     },
     {
       "name": "fonts",
