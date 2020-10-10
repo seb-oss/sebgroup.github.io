@@ -49,7 +49,7 @@
       "description": "A standalone bootstrap theme for SEB",
       "homepageUrl": "https://sebgroup.github.io/bootstrap/",
       "url": "https://github.com/sebgroup/bootstrap",
-      "pushedAt": "2020-10-06T14:41:35Z",
+      "pushedAt": "2020-10-10T06:52:38Z",
       "primaryLanguage": {
         "name": "HTML",
         "color": "#e34c26"
@@ -129,7 +129,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2020-10-08T23:31:59Z",
+      "pushedAt": "2020-10-09T23:32:02Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -316,7 +316,7 @@
       "description": "A SEB themed stylesheet for ng-bootstrap",
       "homepageUrl": "https://sebgroup.github.io/ng-bootstrap/",
       "url": "https://github.com/sebgroup/ng-bootstrap",
-      "pushedAt": "2020-10-09T09:58:25Z",
+      "pushedAt": "2020-10-10T14:16:42Z",
       "primaryLanguage": {
         "name": "HTML",
         "color": "#e34c26"
