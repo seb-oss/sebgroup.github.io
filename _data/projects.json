@@ -56,8 +56,8 @@
       },
       "stargazers": 6,
       "forkCount": 4,
-      "openIssues": 8,
-      "lastIssueCreatedAt": "2020-10-09T09:43:13Z",
+      "openIssues": 13,
+      "lastIssueCreatedAt": "2020-10-19T09:27:33Z",
       "contributors": 3
     },
     {
@@ -72,8 +72,8 @@
       },
       "stargazers": 6,
       "forkCount": 4,
-      "openIssues": 14,
-      "lastIssueCreatedAt": "2020-10-09T09:43:03Z",
+      "openIssues": 15,
+      "lastIssueCreatedAt": "2020-10-19T03:15:38Z",
       "contributors": 6
     },
     {
@@ -129,7 +129,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2020-10-17T23:33:10Z",
+      "pushedAt": "2020-10-18T23:33:31Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
