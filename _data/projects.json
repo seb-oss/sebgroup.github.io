@@ -1,6 +1,6 @@
 {
   "closedIssuesThisMonth": 12,
-  "contributors": 56,
+  "contributors": 64,
   "projects": [
     {
       "name": "design-library",
@@ -33,7 +33,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/ng-components",
       "url": "https://github.com/sebgroup/ng-components",
-      "pushedAt": "2020-10-21T04:55:51Z",
+      "pushedAt": "2020-10-22T09:05:48Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -48,15 +48,15 @@
       "description": "A standalone bootstrap theme for SEB",
       "homepageUrl": "https://sebgroup.github.io/bootstrap/",
       "url": "https://github.com/sebgroup/bootstrap",
-      "pushedAt": "2020-10-21T14:07:35Z",
+      "pushedAt": "2020-10-22T14:29:29Z",
       "primaryLanguage": {
         "name": "HTML",
         "color": "#e34c26"
       },
       "stargazers": 6,
       "forkCount": 4,
-      "openIssues": 13,
-      "lastIssueCreatedAt": "2020-10-19T09:27:33Z",
+      "openIssues": 23,
+      "lastIssueCreatedAt": "2020-10-22T12:57:38Z",
       "contributors": 3
     },
     {
@@ -64,7 +64,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/react-components/",
       "url": "https://github.com/sebgroup/react-components",
-      "pushedAt": "2020-10-20T07:25:49Z",
+      "pushedAt": "2020-10-22T03:22:55Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -88,7 +88,8 @@
       "stargazers": 5,
       "forkCount": 8,
       "openIssues": 27,
-      "lastIssueCreatedAt": "2020-10-09T09:43:16Z"
+      "lastIssueCreatedAt": "2020-10-09T09:43:16Z",
+      "contributors": 8
     },
     {
       "name": "repo-operator",
@@ -127,7 +128,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2020-10-20T23:33:40Z",
+      "pushedAt": "2020-10-21T23:33:53Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
