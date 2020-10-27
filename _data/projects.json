@@ -1,6 +1,6 @@
 {
-  "closedIssuesThisMonth": 12,
-  "contributors": 75,
+  "closedIssuesThisMonth": 13,
+  "contributors": 64,
   "projects": [
     {
       "name": "design-library",
@@ -33,23 +33,22 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/ng-components",
       "url": "https://github.com/sebgroup/ng-components",
-      "pushedAt": "2020-10-26T03:52:33Z",
+      "pushedAt": "2020-10-27T08:22:50Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
       },
       "stargazers": 9,
       "forkCount": 2,
-      "openIssues": 16,
-      "lastIssueCreatedAt": "2020-10-24T15:25:51Z",
-      "contributors": 11
+      "openIssues": 15,
+      "lastIssueCreatedAt": "2020-10-24T15:25:51Z"
     },
     {
       "name": "bootstrap",
       "description": "A standalone bootstrap theme for SEB",
       "homepageUrl": "https://sebgroup.github.io/bootstrap/",
       "url": "https://github.com/sebgroup/bootstrap",
-      "pushedAt": "2020-10-26T04:08:45Z",
+      "pushedAt": "2020-10-27T21:12:05Z",
       "primaryLanguage": {
         "name": "HTML",
         "color": "#e34c26"
@@ -65,7 +64,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/react-components/",
       "url": "https://github.com/sebgroup/react-components",
-      "pushedAt": "2020-10-23T11:21:47Z",
+      "pushedAt": "2020-10-27T10:11:11Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -129,7 +128,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2020-10-25T23:34:50Z",
+      "pushedAt": "2020-10-26T23:35:04Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -150,7 +149,7 @@
         "color": "#2b7489"
       },
       "stargazers": 3,
-      "forkCount": 0,
+      "forkCount": 1,
       "openIssues": 0,
       "lastIssueCreatedAt": "2020-08-21T05:47:22Z",
       "contributors": 7
