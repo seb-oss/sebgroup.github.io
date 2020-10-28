@@ -1,6 +1,6 @@
 {
-  "closedIssuesThisMonth": 13,
-  "contributors": 64,
+  "closedIssuesThisMonth": 14,
+  "contributors": 75,
   "projects": [
     {
       "name": "design-library",
@@ -40,8 +40,9 @@
       },
       "stargazers": 9,
       "forkCount": 2,
-      "openIssues": 15,
-      "lastIssueCreatedAt": "2020-10-24T15:25:51Z"
+      "openIssues": 16,
+      "lastIssueCreatedAt": "2020-10-28T13:41:04Z",
+      "contributors": 11
     },
     {
       "name": "bootstrap",
@@ -55,8 +56,8 @@
       },
       "stargazers": 6,
       "forkCount": 4,
-      "openIssues": 25,
-      "lastIssueCreatedAt": "2020-10-24T15:24:55Z",
+      "openIssues": 26,
+      "lastIssueCreatedAt": "2020-10-28T13:41:10Z",
       "contributors": 3
     },
     {
@@ -71,8 +72,8 @@
       },
       "stargazers": 6,
       "forkCount": 4,
-      "openIssues": 17,
-      "lastIssueCreatedAt": "2020-10-24T15:25:44Z",
+      "openIssues": 18,
+      "lastIssueCreatedAt": "2020-10-28T13:40:58Z",
       "contributors": 6
     },
     {
@@ -80,7 +81,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/vanilla-pattern-library/",
       "url": "https://github.com/sebgroup/vanilla-pattern-library",
-      "pushedAt": "2020-10-21T13:53:16Z",
+      "pushedAt": "2020-10-28T15:33:49Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -88,7 +89,7 @@
       "stargazers": 5,
       "forkCount": 8,
       "openIssues": 29,
-      "lastIssueCreatedAt": "2020-10-24T15:25:54Z",
+      "lastIssueCreatedAt": "2020-10-28T13:41:15Z",
       "contributors": 8
     },
     {
@@ -119,8 +120,8 @@
       },
       "stargazers": 4,
       "forkCount": 1,
-      "openIssues": 16,
-      "lastIssueCreatedAt": "2020-10-24T15:25:48Z",
+      "openIssues": 17,
+      "lastIssueCreatedAt": "2020-10-28T13:41:00Z",
       "contributors": 6
     },
     {
@@ -128,7 +129,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2020-10-26T23:35:04Z",
+      "pushedAt": "2020-10-27T23:35:43Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
