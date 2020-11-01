@@ -1,5 +1,5 @@
 {
-  "closedIssuesThisMonth": 14,
+  "closedIssuesThisMonth": 0,
   "contributors": 75,
   "projects": [
     {
@@ -129,7 +129,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2020-10-30T23:31:37Z",
+      "pushedAt": "2020-11-01T00:47:34Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
