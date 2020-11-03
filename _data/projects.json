@@ -33,7 +33,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/ng-components",
       "url": "https://github.com/sebgroup/ng-components",
-      "pushedAt": "2020-10-27T08:22:50Z",
+      "pushedAt": "2020-11-03T14:07:42Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -129,7 +129,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2020-11-01T23:31:50Z",
+      "pushedAt": "2020-11-02T23:31:43Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -254,7 +254,7 @@
       "description": "A minimal voting system through github identities",
       "homepageUrl": null,
       "url": "https://github.com/sebgroup/thumbs-up",
-      "pushedAt": "2020-09-11T13:00:22Z",
+      "pushedAt": "2020-11-03T18:03:07Z",
       "primaryLanguage": {
         "name": "JavaScript",
         "color": "#f1e05a"
