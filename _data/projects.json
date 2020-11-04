@@ -1,6 +1,6 @@
 {
   "closedIssuesThisMonth": 0,
-  "contributors": 75,
+  "contributors": 72,
   "projects": [
     {
       "name": "design-library",
@@ -129,7 +129,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2020-11-02T23:31:43Z",
+      "pushedAt": "2020-11-03T23:31:39Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -254,15 +254,14 @@
       "description": "A minimal voting system through github identities",
       "homepageUrl": null,
       "url": "https://github.com/sebgroup/thumbs-up",
-      "pushedAt": "2020-11-03T18:03:07Z",
+      "pushedAt": "2020-11-04T10:09:44Z",
       "primaryLanguage": {
         "name": "JavaScript",
         "color": "#f1e05a"
       },
       "stargazers": 1,
       "forkCount": 0,
-      "openIssues": 0,
-      "contributors": 3
+      "openIssues": 0
     },
     {
       "name": "document-write-intervene",
@@ -316,7 +315,7 @@
       "description": "A SEB themed stylesheet for ng-bootstrap",
       "homepageUrl": "https://sebgroup.github.io/ng-bootstrap/",
       "url": "https://github.com/sebgroup/ng-bootstrap",
-      "pushedAt": "2020-10-30T17:26:11Z",
+      "pushedAt": "2020-11-04T05:01:20Z",
       "primaryLanguage": {
         "name": "HTML",
         "color": "#e34c26"
