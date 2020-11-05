@@ -1,6 +1,6 @@
 {
   "closedIssuesThisMonth": 0,
-  "contributors": 72,
+  "contributors": 75,
   "projects": [
     {
       "name": "design-library",
@@ -88,8 +88,8 @@
       },
       "stargazers": 5,
       "forkCount": 8,
-      "openIssues": 29,
-      "lastIssueCreatedAt": "2020-10-28T13:41:15Z",
+      "openIssues": 32,
+      "lastIssueCreatedAt": "2020-11-05T16:09:15Z",
       "contributors": 8
     },
     {
@@ -129,7 +129,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2020-11-03T23:31:39Z",
+      "pushedAt": "2020-11-04T23:31:40Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -261,7 +261,8 @@
       },
       "stargazers": 1,
       "forkCount": 0,
-      "openIssues": 0
+      "openIssues": 0,
+      "contributors": 3
     },
     {
       "name": "document-write-intervene",
