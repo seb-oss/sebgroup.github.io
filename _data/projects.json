@@ -129,7 +129,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2020-11-04T23:31:40Z",
+      "pushedAt": "2020-11-05T23:31:43Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -254,7 +254,7 @@
       "description": "A minimal voting system through github identities",
       "homepageUrl": null,
       "url": "https://github.com/sebgroup/thumbs-up",
-      "pushedAt": "2020-11-04T10:09:44Z",
+      "pushedAt": "2020-11-06T14:35:09Z",
       "primaryLanguage": {
         "name": "JavaScript",
         "color": "#f1e05a"
