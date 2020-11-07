@@ -22,7 +22,7 @@
       "url": "https://github.com/sebgroup/openbanking",
       "pushedAt": "2020-10-07T15:25:10Z",
       "primaryLanguage": null,
-      "stargazers": 10,
+      "stargazers": 9,
       "forkCount": 6,
       "openIssues": 2,
       "lastIssueCreatedAt": "2019-12-16T10:08:28Z",
@@ -125,21 +125,6 @@
       "contributors": 6
     },
     {
-      "name": "sebgroup.github.io",
-      "description": "A website for SEBs open source repositories",
-      "homepageUrl": "https://sebgroup.github.io/",
-      "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2020-11-05T23:31:43Z",
-      "primaryLanguage": {
-        "name": "SCSS",
-        "color": "#c6538c"
-      },
-      "stargazers": 4,
-      "forkCount": 0,
-      "openIssues": 0,
-      "lastIssueCreatedAt": "2020-04-01T06:12:32Z"
-    },
-    {
       "name": "seb-pictograms",
       "description": "SEB Pictograms CSS library",
       "homepageUrl": "https://sebgroup.github.io/seb-pictograms/",
@@ -170,6 +155,21 @@
       "openIssues": 0,
       "lastIssueCreatedAt": "2020-08-24T03:12:48Z",
       "contributors": 4
+    },
+    {
+      "name": "sebgroup.github.io",
+      "description": "A website for SEBs open source repositories",
+      "homepageUrl": "https://sebgroup.github.io/",
+      "url": "https://github.com/sebgroup/sebgroup.github.io",
+      "pushedAt": "2020-11-06T23:31:39Z",
+      "primaryLanguage": {
+        "name": "SCSS",
+        "color": "#c6538c"
+      },
+      "stargazers": 3,
+      "forkCount": 0,
+      "openIssues": 0,
+      "lastIssueCreatedAt": "2020-04-01T06:12:32Z"
     },
     {
       "name": "yttringar",
