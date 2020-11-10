@@ -1,6 +1,6 @@
 {
   "closedIssuesThisMonth": 3,
-  "contributors": 70,
+  "contributors": 75,
   "projects": [
     {
       "name": "design-library",
@@ -25,14 +25,15 @@
       "stargazers": 9,
       "forkCount": 6,
       "openIssues": 2,
-      "lastIssueCreatedAt": "2019-12-16T10:08:28Z"
+      "lastIssueCreatedAt": "2019-12-16T10:08:28Z",
+      "contributors": 2
     },
     {
       "name": "ng-components",
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/ng-components",
       "url": "https://github.com/sebgroup/ng-components",
-      "pushedAt": "2020-11-03T14:07:42Z",
+      "pushedAt": "2020-11-10T07:21:04Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -64,7 +65,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/react-components/",
       "url": "https://github.com/sebgroup/react-components",
-      "pushedAt": "2020-11-09T07:44:25Z",
+      "pushedAt": "2020-11-10T10:28:01Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -160,7 +161,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2020-11-08T23:31:59Z",
+      "pushedAt": "2020-11-09T23:31:45Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -260,7 +261,8 @@
       },
       "stargazers": 1,
       "forkCount": 0,
-      "openIssues": 0
+      "openIssues": 0,
+      "contributors": 3
     },
     {
       "name": "document-write-intervene",
