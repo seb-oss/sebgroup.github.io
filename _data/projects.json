@@ -1,5 +1,5 @@
 {
-  "closedIssuesThisMonth": 3,
+  "closedIssuesThisMonth": 6,
   "contributors": 75,
   "projects": [
     {
@@ -11,7 +11,7 @@
       "primaryLanguage": null,
       "stargazers": 12,
       "forkCount": 1,
-      "openIssues": 84,
+      "openIssues": 81,
       "lastIssueCreatedAt": "2020-10-21T14:31:05Z",
       "contributors": 3
     },
@@ -40,8 +40,8 @@
       },
       "stargazers": 9,
       "forkCount": 2,
-      "openIssues": 16,
-      "lastIssueCreatedAt": "2020-10-28T13:41:04Z",
+      "openIssues": 17,
+      "lastIssueCreatedAt": "2020-11-15T17:26:55Z",
       "contributors": 11
     },
     {
@@ -56,8 +56,8 @@
       },
       "stargazers": 6,
       "forkCount": 4,
-      "openIssues": 25,
-      "lastIssueCreatedAt": "2020-11-11T14:17:10Z",
+      "openIssues": 26,
+      "lastIssueCreatedAt": "2020-11-15T17:26:51Z",
       "contributors": 3
     },
     {
@@ -72,8 +72,8 @@
       },
       "stargazers": 6,
       "forkCount": 4,
-      "openIssues": 19,
-      "lastIssueCreatedAt": "2020-11-12T07:57:33Z",
+      "openIssues": 20,
+      "lastIssueCreatedAt": "2020-11-15T17:27:01Z",
       "contributors": 6
     },
     {
@@ -88,8 +88,8 @@
       },
       "stargazers": 5,
       "forkCount": 8,
-      "openIssues": 32,
-      "lastIssueCreatedAt": "2020-11-05T16:09:15Z",
+      "openIssues": 33,
+      "lastIssueCreatedAt": "2020-11-15T17:27:06Z",
       "contributors": 8
     },
     {
@@ -120,8 +120,8 @@
       },
       "stargazers": 4,
       "forkCount": 1,
-      "openIssues": 17,
-      "lastIssueCreatedAt": "2020-10-28T13:41:00Z",
+      "openIssues": 18,
+      "lastIssueCreatedAt": "2020-11-15T17:26:59Z",
       "contributors": 6
     },
     {
@@ -161,7 +161,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2020-11-13T23:31:46Z",
+      "pushedAt": "2020-11-14T23:31:45Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
