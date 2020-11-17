@@ -65,7 +65,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/react-components/",
       "url": "https://github.com/sebgroup/react-components",
-      "pushedAt": "2020-11-10T10:28:01Z",
+      "pushedAt": "2020-11-17T13:47:16Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -161,7 +161,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2020-11-15T23:31:39Z",
+      "pushedAt": "2020-11-16T23:31:54Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -316,7 +316,7 @@
       "description": "A SEB themed stylesheet for ng-bootstrap",
       "homepageUrl": "https://sebgroup.github.io/ng-bootstrap/",
       "url": "https://github.com/sebgroup/ng-bootstrap",
-      "pushedAt": "2020-11-13T05:04:37Z",
+      "pushedAt": "2020-11-17T05:11:39Z",
       "primaryLanguage": {
         "name": "HTML",
         "color": "#e34c26"
