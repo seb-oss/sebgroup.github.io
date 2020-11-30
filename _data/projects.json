@@ -1,5 +1,5 @@
 {
-  "closedIssuesThisMonth": 14,
+  "closedIssuesThisMonth": 15,
   "contributors": 76,
   "projects": [
     {
@@ -57,7 +57,7 @@
       "stargazers": 6,
       "forkCount": 4,
       "openIssues": 24,
-      "lastIssueCreatedAt": "2020-11-27T05:02:31Z",
+      "lastIssueCreatedAt": "2020-11-30T05:12:08Z",
       "contributors": 4
     },
     {
@@ -65,7 +65,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/react-components/",
       "url": "https://github.com/sebgroup/react-components",
-      "pushedAt": "2020-11-27T11:35:09Z",
+      "pushedAt": "2020-11-30T06:59:55Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -161,7 +161,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2020-11-28T23:31:44Z",
+      "pushedAt": "2020-11-29T23:32:01Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
