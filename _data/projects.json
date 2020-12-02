@@ -1,5 +1,5 @@
 {
-  "closedIssuesThisMonth": 17,
+  "closedIssuesThisMonth": 3,
   "contributors": 76,
   "projects": [
     {
@@ -57,7 +57,7 @@
       "stargazers": 6,
       "forkCount": 4,
       "openIssues": 24,
-      "lastIssueCreatedAt": "2020-12-01T05:12:13Z",
+      "lastIssueCreatedAt": "2020-12-02T04:56:50Z",
       "contributors": 4
     },
     {
@@ -65,7 +65,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/react-components/",
       "url": "https://github.com/sebgroup/react-components",
-      "pushedAt": "2020-12-01T09:49:23Z",
+      "pushedAt": "2020-12-02T07:28:59Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -81,7 +81,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/vanilla-pattern-library/",
       "url": "https://github.com/sebgroup/vanilla-pattern-library",
-      "pushedAt": "2020-11-27T15:22:19Z",
+      "pushedAt": "2020-12-02T13:30:04Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -177,7 +177,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2020-12-01T01:02:24Z",
+      "pushedAt": "2020-12-01T23:33:07Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
