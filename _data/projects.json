@@ -1,6 +1,6 @@
 {
-  "closedIssuesThisMonth": 4,
-  "contributors": 76,
+  "closedIssuesThisMonth": 10,
+  "contributors": 77,
   "projects": [
     {
       "name": "design-library",
@@ -57,7 +57,7 @@
       "stargazers": 6,
       "forkCount": 4,
       "openIssues": 24,
-      "lastIssueCreatedAt": "2020-12-03T05:07:58Z",
+      "lastIssueCreatedAt": "2020-12-04T05:16:18Z",
       "contributors": 4
     },
     {
@@ -81,16 +81,16 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/vanilla-pattern-library/",
       "url": "https://github.com/sebgroup/vanilla-pattern-library",
-      "pushedAt": "2020-12-03T15:32:06Z",
+      "pushedAt": "2020-12-04T11:23:09Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
       },
       "stargazers": 5,
       "forkCount": 10,
-      "openIssues": 31,
+      "openIssues": 26,
       "lastIssueCreatedAt": "2020-11-15T17:27:06Z",
-      "contributors": 8
+      "contributors": 9
     },
     {
       "name": "repo-operator",
@@ -113,7 +113,7 @@
       "description": "angular material theme",
       "homepageUrl": "https://sebgroup.github.io/seb-angular-material",
       "url": "https://github.com/sebgroup/seb-angular-material",
-      "pushedAt": "2020-11-18T22:24:05Z",
+      "pushedAt": "2020-12-04T14:08:36Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -177,7 +177,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2020-12-02T23:33:19Z",
+      "pushedAt": "2020-12-03T23:33:07Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -316,7 +316,7 @@
       "description": "A SEB themed stylesheet for ng-bootstrap",
       "homepageUrl": "https://sebgroup.github.io/ng-bootstrap/",
       "url": "https://github.com/sebgroup/ng-bootstrap",
-      "pushedAt": "2020-12-03T05:07:59Z",
+      "pushedAt": "2020-12-04T04:46:55Z",
       "primaryLanguage": {
         "name": "HTML",
         "color": "#e34c26"
