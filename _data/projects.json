@@ -1,6 +1,6 @@
 {
-  "closedIssuesThisMonth": 14,
-  "contributors": 72,
+  "closedIssuesThisMonth": 17,
+  "contributors": 69,
   "projects": [
     {
       "name": "design-library",
@@ -57,7 +57,7 @@
       "stargazers": 6,
       "forkCount": 4,
       "openIssues": 24,
-      "lastIssueCreatedAt": "2020-12-10T05:07:50Z",
+      "lastIssueCreatedAt": "2020-12-11T05:25:56Z",
       "contributors": 4
     },
     {
@@ -65,7 +65,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/react-components/",
       "url": "https://github.com/sebgroup/react-components",
-      "pushedAt": "2020-12-10T19:19:25Z",
+      "pushedAt": "2020-12-11T08:43:08Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -81,16 +81,15 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/vanilla-pattern-library/",
       "url": "https://github.com/sebgroup/vanilla-pattern-library",
-      "pushedAt": "2020-12-04T11:23:09Z",
+      "pushedAt": "2020-12-11T11:07:21Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
       },
       "stargazers": 5,
       "forkCount": 10,
-      "openIssues": 25,
-      "lastIssueCreatedAt": "2020-11-15T17:27:06Z",
-      "contributors": 9
+      "openIssues": 23,
+      "lastIssueCreatedAt": "2020-11-15T17:27:06Z"
     },
     {
       "name": "repo-operator",
@@ -177,7 +176,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2020-12-09T23:36:41Z",
+      "pushedAt": "2020-12-10T23:40:15Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -223,14 +222,15 @@
       "description": null,
       "homepageUrl": null,
       "url": "https://github.com/sebgroup/ng-debug",
-      "pushedAt": "2020-12-10T15:45:04Z",
+      "pushedAt": "2020-12-11T06:17:00Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
       },
       "stargazers": 1,
       "forkCount": 0,
-      "openIssues": 0
+      "openIssues": 0,
+      "contributors": 6
     },
     {
       "name": "yttringar-oauth",
