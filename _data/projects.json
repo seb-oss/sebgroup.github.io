@@ -1,6 +1,6 @@
 {
   "closedIssuesThisMonth": 17,
-  "contributors": 69,
+  "contributors": 78,
   "projects": [
     {
       "name": "design-library",
@@ -49,7 +49,7 @@
       "description": "A standalone bootstrap theme for SEB",
       "homepageUrl": "https://sebgroup.github.io/bootstrap/",
       "url": "https://github.com/sebgroup/bootstrap",
-      "pushedAt": "2020-12-10T09:29:28Z",
+      "pushedAt": "2020-12-12T17:54:59Z",
       "primaryLanguage": {
         "name": "HTML",
         "color": "#e34c26"
@@ -65,7 +65,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/react-components/",
       "url": "https://github.com/sebgroup/react-components",
-      "pushedAt": "2020-12-11T08:43:08Z",
+      "pushedAt": "2020-12-12T00:56:38Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -81,7 +81,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/vanilla-pattern-library/",
       "url": "https://github.com/sebgroup/vanilla-pattern-library",
-      "pushedAt": "2020-12-11T11:07:21Z",
+      "pushedAt": "2020-12-12T01:45:51Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -89,7 +89,8 @@
       "stargazers": 5,
       "forkCount": 10,
       "openIssues": 23,
-      "lastIssueCreatedAt": "2020-11-15T17:27:06Z"
+      "lastIssueCreatedAt": "2020-11-15T17:27:06Z",
+      "contributors": 9
     },
     {
       "name": "repo-operator",
@@ -144,7 +145,7 @@
       "description": "A set of frontend tools written in Typescript",
       "homepageUrl": "https://github.com/sebgroup/frontend-tools/wiki",
       "url": "https://github.com/sebgroup/frontend-tools",
-      "pushedAt": "2020-12-10T19:29:45Z",
+      "pushedAt": "2020-12-12T05:20:57Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -160,7 +161,7 @@
       "description": "A magical iframe component ",
       "homepageUrl": "https://sebgroup.github.io/magic-iframe/",
       "url": "https://github.com/sebgroup/magic-iframe",
-      "pushedAt": "2020-11-18T22:38:49Z",
+      "pushedAt": "2020-12-12T11:27:01Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -176,7 +177,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2020-12-10T23:40:15Z",
+      "pushedAt": "2020-12-12T08:16:29Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
