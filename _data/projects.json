@@ -1,6 +1,6 @@
 {
-  "closedIssuesThisMonth": 23,
-  "contributors": 76,
+  "closedIssuesThisMonth": 24,
+  "contributors": 78,
   "projects": [
     {
       "name": "design-library",
@@ -25,7 +25,8 @@
       "stargazers": 10,
       "forkCount": 9,
       "openIssues": 2,
-      "lastIssueCreatedAt": "2019-12-16T10:08:28Z"
+      "lastIssueCreatedAt": "2019-12-16T10:08:28Z",
+      "contributors": 2
     },
     {
       "name": "ng-components",
@@ -48,14 +49,14 @@
       "description": "A standalone bootstrap theme for SEB",
       "homepageUrl": "https://sebgroup.github.io/bootstrap/",
       "url": "https://github.com/sebgroup/bootstrap",
-      "pushedAt": "2020-12-15T16:53:14Z",
+      "pushedAt": "2020-12-19T07:41:49Z",
       "primaryLanguage": {
         "name": "HTML",
         "color": "#e34c26"
       },
       "stargazers": 6,
       "forkCount": 4,
-      "openIssues": 25,
+      "openIssues": 24,
       "lastIssueCreatedAt": "2020-12-18T05:26:03Z",
       "contributors": 4
     },
@@ -176,7 +177,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2020-12-17T23:43:34Z",
+      "pushedAt": "2020-12-18T23:42:21Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
