@@ -56,8 +56,8 @@
       },
       "stargazers": 6,
       "forkCount": 4,
-      "openIssues": 24,
-      "lastIssueCreatedAt": "2020-12-18T05:26:03Z",
+      "openIssues": 25,
+      "lastIssueCreatedAt": "2020-12-22T05:26:20Z",
       "contributors": 4
     },
     {
@@ -65,7 +65,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/vanilla-pattern-library/",
       "url": "https://github.com/sebgroup/vanilla-pattern-library",
-      "pushedAt": "2020-12-21T12:06:21Z",
+      "pushedAt": "2020-12-22T15:20:28Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -81,7 +81,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/react-components/",
       "url": "https://github.com/sebgroup/react-components",
-      "pushedAt": "2020-12-21T06:00:15Z",
+      "pushedAt": "2020-12-22T10:31:37Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -177,7 +177,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2020-12-20T23:43:13Z",
+      "pushedAt": "2020-12-21T23:46:27Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -316,7 +316,7 @@
       "description": "A SEB themed stylesheet for ng-bootstrap",
       "homepageUrl": "https://sebgroup.github.io/ng-bootstrap/",
       "url": "https://github.com/sebgroup/ng-bootstrap",
-      "pushedAt": "2020-12-18T05:08:35Z",
+      "pushedAt": "2020-12-22T04:56:19Z",
       "primaryLanguage": {
         "name": "HTML",
         "color": "#e34c26"
