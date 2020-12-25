@@ -1,5 +1,5 @@
 {
-  "closedIssuesThisMonth": 26,
+  "closedIssuesThisMonth": 27,
   "contributors": 78,
   "projects": [
     {
@@ -57,7 +57,7 @@
       "stargazers": 6,
       "forkCount": 4,
       "openIssues": 25,
-      "lastIssueCreatedAt": "2020-12-24T05:16:57Z",
+      "lastIssueCreatedAt": "2020-12-25T05:26:01Z",
       "contributors": 4
     },
     {
@@ -177,7 +177,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2020-12-23T23:50:19Z",
+      "pushedAt": "2020-12-24T23:49:42Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
