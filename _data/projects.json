@@ -1,6 +1,6 @@
 {
-  "closedIssuesThisMonth": 21,
-  "contributors": 83,
+  "closedIssuesThisMonth": 23,
+  "contributors": 77,
   "projects": [
     {
       "name": "design-library",
@@ -20,13 +20,12 @@
       "description": "SEB is banking outside the box! Find additional documentation here that will help you integrate with our APIs.",
       "homepageUrl": "https://developer.sebgroup.com",
       "url": "https://github.com/sebgroup/openbanking",
-      "pushedAt": "2020-12-18T11:33:08Z",
+      "pushedAt": "2021-01-11T16:07:43Z",
       "primaryLanguage": null,
       "stargazers": 10,
       "forkCount": 9,
       "openIssues": 2,
-      "lastIssueCreatedAt": "2019-12-16T10:08:28Z",
-      "contributors": 2
+      "lastIssueCreatedAt": "2019-12-16T10:08:28Z"
     },
     {
       "name": "ng-components",
@@ -49,15 +48,15 @@
       "description": "A standalone bootstrap theme for SEB",
       "homepageUrl": "https://sebgroup.github.io/bootstrap/",
       "url": "https://github.com/sebgroup/bootstrap",
-      "pushedAt": "2021-01-04T21:09:11Z",
+      "pushedAt": "2021-01-11T19:01:00Z",
       "primaryLanguage": {
         "name": "HTML",
         "color": "#e34c26"
       },
       "stargazers": 6,
       "forkCount": 4,
-      "openIssues": 7,
-      "lastIssueCreatedAt": "2021-01-08T05:26:34Z",
+      "openIssues": 6,
+      "lastIssueCreatedAt": "2021-01-11T05:16:37Z",
       "contributors": 4
     },
     {
@@ -177,7 +176,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2021-01-10T00:00:45Z",
+      "pushedAt": "2021-01-11T00:00:19Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -185,8 +184,7 @@
       "stargazers": 3,
       "forkCount": 0,
       "openIssues": 0,
-      "lastIssueCreatedAt": "2020-04-01T06:12:32Z",
-      "contributors": 4
+      "lastIssueCreatedAt": "2020-04-01T06:12:32Z"
     },
     {
       "name": "yttringar",
