@@ -54,10 +54,10 @@
         "name": "HTML",
         "color": "#e34c26"
       },
-      "stargazers": 6,
+      "stargazers": 7,
       "forkCount": 4,
-      "openIssues": 6,
-      "lastIssueCreatedAt": "2021-01-22T05:27:09Z",
+      "openIssues": 7,
+      "lastIssueCreatedAt": "2021-01-26T05:17:05Z",
       "contributors": 4
     },
     {
@@ -177,7 +177,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2021-01-25T00:13:06Z",
+      "pushedAt": "2021-01-25T23:49:09Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -316,7 +316,7 @@
       "description": "A SEB themed stylesheet for ng-bootstrap",
       "homepageUrl": "https://sebgroup.github.io/ng-bootstrap/",
       "url": "https://github.com/sebgroup/ng-bootstrap",
-      "pushedAt": "2021-01-25T04:58:31Z",
+      "pushedAt": "2021-01-26T05:02:26Z",
       "primaryLanguage": {
         "name": "HTML",
         "color": "#e34c26"
