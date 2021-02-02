@@ -56,8 +56,8 @@
       },
       "stargazers": 7,
       "forkCount": 4,
-      "openIssues": 6,
-      "lastIssueCreatedAt": "2021-02-01T05:26:10Z",
+      "openIssues": 7,
+      "lastIssueCreatedAt": "2021-02-02T05:16:48Z",
       "contributors": 4
     },
     {
@@ -81,7 +81,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/react-components/",
       "url": "https://github.com/sebgroup/react-components",
-      "pushedAt": "2021-01-22T06:46:17Z",
+      "pushedAt": "2021-02-02T10:16:30Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -177,7 +177,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2021-02-01T01:18:27Z",
+      "pushedAt": "2021-02-01T23:47:06Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -316,7 +316,7 @@
       "description": "A SEB themed stylesheet for ng-bootstrap",
       "homepageUrl": "https://sebgroup.github.io/ng-bootstrap/",
       "url": "https://github.com/sebgroup/ng-bootstrap",
-      "pushedAt": "2021-01-29T05:05:24Z",
+      "pushedAt": "2021-02-02T04:47:45Z",
       "primaryLanguage": {
         "name": "HTML",
         "color": "#e34c26"
