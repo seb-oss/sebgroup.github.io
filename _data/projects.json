@@ -1,5 +1,5 @@
 {
-  "closedIssuesThisMonth": 4,
+  "closedIssuesThisMonth": 5,
   "contributors": 79,
   "projects": [
     {
@@ -9,7 +9,7 @@
       "url": "https://github.com/sebgroup/design-library",
       "pushedAt": "2019-06-13T13:04:29Z",
       "primaryLanguage": null,
-      "stargazers": 12,
+      "stargazers": 13,
       "forkCount": 1,
       "openIssues": 81,
       "lastIssueCreatedAt": "2020-10-21T14:31:05Z",
@@ -22,7 +22,7 @@
       "url": "https://github.com/sebgroup/openbanking",
       "pushedAt": "2021-01-11T16:07:43Z",
       "primaryLanguage": null,
-      "stargazers": 10,
+      "stargazers": 11,
       "forkCount": 9,
       "openIssues": 2,
       "lastIssueCreatedAt": "2019-12-16T10:08:28Z",
@@ -49,15 +49,15 @@
       "description": "A standalone bootstrap theme for SEB",
       "homepageUrl": "https://sebgroup.github.io/bootstrap/",
       "url": "https://github.com/sebgroup/bootstrap",
-      "pushedAt": "2021-02-04T10:30:12Z",
+      "pushedAt": "2021-02-08T15:52:50Z",
       "primaryLanguage": {
         "name": "HTML",
         "color": "#e34c26"
       },
-      "stargazers": 7,
+      "stargazers": 8,
       "forkCount": 4,
       "openIssues": 6,
-      "lastIssueCreatedAt": "2021-02-05T05:26:30Z",
+      "lastIssueCreatedAt": "2021-02-08T05:28:20Z",
       "contributors": 4
     },
     {
@@ -125,6 +125,21 @@
       "contributors": 6
     },
     {
+      "name": "sebgroup.github.io",
+      "description": "A website for SEBs open source repositories",
+      "homepageUrl": "https://sebgroup.github.io/",
+      "url": "https://github.com/sebgroup/sebgroup.github.io",
+      "pushedAt": "2021-02-07T23:38:24Z",
+      "primaryLanguage": {
+        "name": "SCSS",
+        "color": "#c6538c"
+      },
+      "stargazers": 4,
+      "forkCount": 0,
+      "openIssues": 0,
+      "lastIssueCreatedAt": "2020-04-01T06:12:32Z"
+    },
+    {
       "name": "seb-pictograms",
       "description": "SEB Pictograms CSS library",
       "homepageUrl": "https://sebgroup.github.io/seb-pictograms/",
@@ -171,21 +186,6 @@
       "openIssues": 0,
       "lastIssueCreatedAt": "2020-10-01T07:50:15Z",
       "contributors": 1
-    },
-    {
-      "name": "sebgroup.github.io",
-      "description": "A website for SEBs open source repositories",
-      "homepageUrl": "https://sebgroup.github.io/",
-      "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2021-02-06T23:37:53Z",
-      "primaryLanguage": {
-        "name": "SCSS",
-        "color": "#c6538c"
-      },
-      "stargazers": 3,
-      "forkCount": 0,
-      "openIssues": 0,
-      "lastIssueCreatedAt": "2020-04-01T06:12:32Z"
     },
     {
       "name": "yttringar",
@@ -301,7 +301,7 @@
       "description": "A SEB themed toaster component for @sebgroup/bootstrap and angular",
       "homepageUrl": "https://sebgroup.github.io/ngx-toastr/",
       "url": "https://github.com/sebgroup/ngx-toastr",
-      "pushedAt": "2021-02-05T04:55:23Z",
+      "pushedAt": "2021-02-08T05:07:00Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -316,7 +316,7 @@
       "description": "A SEB themed stylesheet for ng-bootstrap",
       "homepageUrl": "https://sebgroup.github.io/ng-bootstrap/",
       "url": "https://github.com/sebgroup/ng-bootstrap",
-      "pushedAt": "2021-02-05T05:04:30Z",
+      "pushedAt": "2021-02-08T05:13:18Z",
       "primaryLanguage": {
         "name": "HTML",
         "color": "#e34c26"
