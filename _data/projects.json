@@ -1,5 +1,5 @@
 {
-  "closedIssuesThisMonth": 6,
+  "closedIssuesThisMonth": 7,
   "contributors": 79,
   "projects": [
     {
@@ -49,7 +49,7 @@
       "description": "A standalone bootstrap theme for SEB",
       "homepageUrl": "https://sebgroup.github.io/bootstrap/",
       "url": "https://github.com/sebgroup/bootstrap",
-      "pushedAt": "2021-02-09T18:53:39Z",
+      "pushedAt": "2021-02-10T20:50:59Z",
       "primaryLanguage": {
         "name": "HTML",
         "color": "#e34c26"
@@ -57,7 +57,7 @@
       "stargazers": 8,
       "forkCount": 4,
       "openIssues": 6,
-      "lastIssueCreatedAt": "2021-02-09T05:07:48Z",
+      "lastIssueCreatedAt": "2021-02-10T05:18:34Z",
       "contributors": 4
     },
     {
@@ -129,7 +129,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2021-02-08T23:38:14Z",
+      "pushedAt": "2021-02-09T23:38:25Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
