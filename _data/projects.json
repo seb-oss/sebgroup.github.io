@@ -56,8 +56,8 @@
       },
       "stargazers": 8,
       "forkCount": 4,
-      "openIssues": 6,
-      "lastIssueCreatedAt": "2021-02-15T05:26:34Z",
+      "openIssues": 7,
+      "lastIssueCreatedAt": "2021-02-16T08:43:57Z",
       "contributors": 4
     },
     {
@@ -129,7 +129,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2021-02-14T23:38:22Z",
+      "pushedAt": "2021-02-15T23:39:03Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -301,7 +301,7 @@
       "description": "A SEB themed toaster component for @sebgroup/bootstrap and angular",
       "homepageUrl": "https://sebgroup.github.io/ngx-toastr/",
       "url": "https://github.com/sebgroup/ngx-toastr",
-      "pushedAt": "2021-02-12T05:05:36Z",
+      "pushedAt": "2021-02-16T04:45:04Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
