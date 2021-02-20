@@ -1,6 +1,6 @@
 {
   "closedIssuesThisMonth": 12,
-  "contributors": 59,
+  "contributors": 79,
   "projects": [
     {
       "name": "design-library",
@@ -25,7 +25,8 @@
       "stargazers": 11,
       "forkCount": 9,
       "openIssues": 2,
-      "lastIssueCreatedAt": "2019-12-16T10:08:28Z"
+      "lastIssueCreatedAt": "2019-12-16T10:08:28Z",
+      "contributors": 2
     },
     {
       "name": "ng-components",
@@ -40,7 +41,8 @@
       "stargazers": 9,
       "forkCount": 2,
       "openIssues": 18,
-      "lastIssueCreatedAt": "2021-02-09T12:17:35Z"
+      "lastIssueCreatedAt": "2021-02-09T12:17:35Z",
+      "contributors": 11
     },
     {
       "name": "bootstrap",
@@ -87,7 +89,8 @@
       "stargazers": 6,
       "forkCount": 5,
       "openIssues": 23,
-      "lastIssueCreatedAt": "2021-02-12T09:19:42Z"
+      "lastIssueCreatedAt": "2021-02-12T09:19:42Z",
+      "contributors": 7
     },
     {
       "name": "repo-operator",
@@ -126,7 +129,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2021-02-18T23:39:40Z",
+      "pushedAt": "2021-02-19T23:38:52Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
