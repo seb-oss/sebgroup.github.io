@@ -1,6 +1,6 @@
 {
-  "closedIssuesThisMonth": 12,
-  "contributors": 79,
+  "closedIssuesThisMonth": 13,
+  "contributors": 76,
   "projects": [
     {
       "name": "design-library",
@@ -57,7 +57,7 @@
       "stargazers": 8,
       "forkCount": 4,
       "openIssues": 7,
-      "lastIssueCreatedAt": "2021-02-19T05:16:42Z",
+      "lastIssueCreatedAt": "2021-02-24T05:17:26Z",
       "contributors": 4
     },
     {
@@ -81,7 +81,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/react-components/",
       "url": "https://github.com/sebgroup/react-components",
-      "pushedAt": "2021-02-22T13:47:06Z",
+      "pushedAt": "2021-02-24T09:44:28Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -89,8 +89,7 @@
       "stargazers": 6,
       "forkCount": 5,
       "openIssues": 23,
-      "lastIssueCreatedAt": "2021-02-12T09:19:42Z",
-      "contributors": 7
+      "lastIssueCreatedAt": "2021-02-12T09:19:42Z"
     },
     {
       "name": "repo-operator",
@@ -129,7 +128,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2021-02-22T23:39:07Z",
+      "pushedAt": "2021-02-23T23:39:17Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -137,7 +136,8 @@
       "stargazers": 4,
       "forkCount": 0,
       "openIssues": 0,
-      "lastIssueCreatedAt": "2020-04-01T06:12:32Z"
+      "lastIssueCreatedAt": "2020-04-01T06:12:32Z",
+      "contributors": 4
     },
     {
       "name": "seb-pictograms",
