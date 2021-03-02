@@ -1,6 +1,6 @@
 {
   "closedIssuesThisMonth": 14,
-  "contributors": 71,
+  "contributors": 78,
   "projects": [
     {
       "name": "design-library",
@@ -41,7 +41,8 @@
       "stargazers": 9,
       "forkCount": 2,
       "openIssues": 19,
-      "lastIssueCreatedAt": "2021-02-25T11:52:28Z"
+      "lastIssueCreatedAt": "2021-02-25T11:52:28Z",
+      "contributors": 11
     },
     {
       "name": "bootstrap",
@@ -80,7 +81,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/react-components/",
       "url": "https://github.com/sebgroup/react-components",
-      "pushedAt": "2021-03-01T10:52:31Z",
+      "pushedAt": "2021-03-02T17:20:33Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -128,7 +129,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2021-03-01T01:07:36Z",
+      "pushedAt": "2021-03-01T23:36:31Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -136,8 +137,7 @@
       "stargazers": 4,
       "forkCount": 0,
       "openIssues": 0,
-      "lastIssueCreatedAt": "2020-04-01T06:12:32Z",
-      "contributors": 4
+      "lastIssueCreatedAt": "2020-04-01T06:12:32Z"
     },
     {
       "name": "seb-pictograms",
@@ -301,7 +301,7 @@
       "description": "A SEB themed toaster component for @sebgroup/bootstrap and angular",
       "homepageUrl": "https://sebgroup.github.io/ngx-toastr/",
       "url": "https://github.com/sebgroup/ngx-toastr",
-      "pushedAt": "2021-03-01T20:56:33Z",
+      "pushedAt": "2021-03-02T04:57:16Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
