@@ -33,7 +33,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/ng-components",
       "url": "https://github.com/sebgroup/ng-components",
-      "pushedAt": "2021-03-01T12:17:07Z",
+      "pushedAt": "2021-03-03T04:15:48Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -49,15 +49,15 @@
       "description": "A standalone bootstrap theme for SEB",
       "homepageUrl": "https://sebgroup.github.io/bootstrap/",
       "url": "https://github.com/sebgroup/bootstrap",
-      "pushedAt": "2021-03-01T21:03:42Z",
+      "pushedAt": "2021-03-03T20:28:33Z",
       "primaryLanguage": {
         "name": "HTML",
         "color": "#e34c26"
       },
       "stargazers": 8,
       "forkCount": 4,
-      "openIssues": 7,
-      "lastIssueCreatedAt": "2021-02-26T05:17:19Z",
+      "openIssues": 8,
+      "lastIssueCreatedAt": "2021-03-03T13:57:31Z",
       "contributors": 4
     },
     {
@@ -81,7 +81,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/react-components/",
       "url": "https://github.com/sebgroup/react-components",
-      "pushedAt": "2021-03-02T17:20:33Z",
+      "pushedAt": "2021-03-03T08:06:15Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -129,7 +129,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2021-03-01T23:36:31Z",
+      "pushedAt": "2021-03-02T23:39:39Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
