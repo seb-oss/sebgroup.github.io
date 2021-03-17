@@ -1,6 +1,6 @@
 {
   "closedIssuesThisMonth": 9,
-  "contributors": 82,
+  "contributors": 78,
   "projects": [
     {
       "name": "design-library",
@@ -81,7 +81,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/react-components/",
       "url": "https://github.com/sebgroup/react-components",
-      "pushedAt": "2021-03-10T13:58:42Z",
+      "pushedAt": "2021-03-17T14:38:43Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -129,7 +129,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2021-03-15T23:43:03Z",
+      "pushedAt": "2021-03-16T23:40:00Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -137,8 +137,7 @@
       "stargazers": 4,
       "forkCount": 0,
       "openIssues": 0,
-      "lastIssueCreatedAt": "2020-04-01T06:12:32Z",
-      "contributors": 4
+      "lastIssueCreatedAt": "2020-04-01T06:12:32Z"
     },
     {
       "name": "seb-pictograms",
@@ -286,7 +285,7 @@
       "description": null,
       "homepageUrl": null,
       "url": "https://github.com/sebgroup/ng-wizard",
-      "pushedAt": "2021-03-16T16:29:55Z",
+      "pushedAt": "2021-03-17T08:17:04Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
