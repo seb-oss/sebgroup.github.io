@@ -1,5 +1,5 @@
 {
-  "closedIssuesThisMonth": 11,
+  "closedIssuesThisMonth": 12,
   "contributors": 78,
   "projects": [
     {
@@ -49,7 +49,7 @@
       "description": "A standalone bootstrap theme for SEB",
       "homepageUrl": "https://sebgroup.github.io/bootstrap/",
       "url": "https://github.com/sebgroup/bootstrap",
-      "pushedAt": "2021-03-15T19:14:22Z",
+      "pushedAt": "2021-03-23T20:42:06Z",
       "primaryLanguage": {
         "name": "HTML",
         "color": "#e34c26"
@@ -57,7 +57,7 @@
       "stargazers": 8,
       "forkCount": 4,
       "openIssues": 7,
-      "lastIssueCreatedAt": "2021-03-19T05:21:43Z",
+      "lastIssueCreatedAt": "2021-03-23T05:18:01Z",
       "contributors": 4
     },
     {
@@ -65,7 +65,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/vanilla-pattern-library/",
       "url": "https://github.com/sebgroup/vanilla-pattern-library",
-      "pushedAt": "2021-03-22T16:21:14Z",
+      "pushedAt": "2021-03-23T16:43:20Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -81,15 +81,15 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/react-components/",
       "url": "https://github.com/sebgroup/react-components",
-      "pushedAt": "2021-03-22T07:27:50Z",
+      "pushedAt": "2021-03-23T04:31:07Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
       },
       "stargazers": 6,
       "forkCount": 8,
-      "openIssues": 23,
-      "lastIssueCreatedAt": "2021-03-22T05:50:00Z",
+      "openIssues": 24,
+      "lastIssueCreatedAt": "2021-03-23T04:30:23Z",
       "contributors": 6
     },
     {
@@ -129,7 +129,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2021-03-21T23:45:51Z",
+      "pushedAt": "2021-03-22T23:41:38Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
