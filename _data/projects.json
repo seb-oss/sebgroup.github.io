@@ -1,5 +1,5 @@
 {
-  "closedIssuesThisMonth": 19,
+  "closedIssuesThisMonth": 0,
   "contributors": 78,
   "projects": [
     {
@@ -81,7 +81,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/react-components/",
       "url": "https://github.com/sebgroup/react-components",
-      "pushedAt": "2021-03-31T09:32:48Z",
+      "pushedAt": "2021-04-01T10:41:13Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -145,7 +145,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2021-03-30T23:37:26Z",
+      "pushedAt": "2021-04-01T02:48:22Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -160,7 +160,7 @@
       "description": "SEB Pictograms CSS library",
       "homepageUrl": "https://sebgroup.github.io/seb-pictograms/",
       "url": "https://github.com/sebgroup/seb-pictograms",
-      "pushedAt": "2021-03-21T11:07:40Z",
+      "pushedAt": "2021-04-01T06:52:12Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
