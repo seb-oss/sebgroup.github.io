@@ -1,5 +1,5 @@
 {
-  "closedIssuesThisMonth": 3,
+  "closedIssuesThisMonth": 4,
   "contributors": 78,
   "projects": [
     {
@@ -33,7 +33,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/ng-components",
       "url": "https://github.com/sebgroup/ng-components",
-      "pushedAt": "2021-04-05T14:22:30Z",
+      "pushedAt": "2021-04-06T04:36:34Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -56,8 +56,8 @@
       },
       "stargazers": 8,
       "forkCount": 4,
-      "openIssues": 7,
-      "lastIssueCreatedAt": "2021-04-05T05:27:04Z",
+      "openIssues": 8,
+      "lastIssueCreatedAt": "2021-04-06T05:08:16Z",
       "contributors": 4
     },
     {
@@ -81,14 +81,14 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/react-components/",
       "url": "https://github.com/sebgroup/react-components",
-      "pushedAt": "2021-04-05T10:44:19Z",
+      "pushedAt": "2021-04-06T10:02:10Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
       },
       "stargazers": 6,
-      "forkCount": 8,
-      "openIssues": 25,
+      "forkCount": 7,
+      "openIssues": 24,
       "lastIssueCreatedAt": "2021-03-31T18:36:05Z",
       "contributors": 6
     },
@@ -145,7 +145,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2021-04-04T23:38:14Z",
+      "pushedAt": "2021-04-05T23:38:31Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -316,7 +316,7 @@
       "description": "A SEB themed stylesheet for ng-bootstrap",
       "homepageUrl": "https://sebgroup.github.io/ng-bootstrap/",
       "url": "https://github.com/sebgroup/ng-bootstrap",
-      "pushedAt": "2021-04-02T05:11:23Z",
+      "pushedAt": "2021-04-06T04:58:41Z",
       "primaryLanguage": {
         "name": "HTML",
         "color": "#e34c26"
