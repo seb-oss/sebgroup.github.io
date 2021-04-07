@@ -1,5 +1,5 @@
 {
-  "closedIssuesThisMonth": 4,
+  "closedIssuesThisMonth": 7,
   "contributors": 78,
   "projects": [
     {
@@ -49,15 +49,15 @@
       "description": "A standalone bootstrap theme for SEB",
       "homepageUrl": "https://sebgroup.github.io/bootstrap/",
       "url": "https://github.com/sebgroup/bootstrap",
-      "pushedAt": "2021-03-31T09:35:13Z",
+      "pushedAt": "2021-04-07T19:15:32Z",
       "primaryLanguage": {
         "name": "HTML",
         "color": "#e34c26"
       },
       "stargazers": 8,
       "forkCount": 4,
-      "openIssues": 8,
-      "lastIssueCreatedAt": "2021-04-06T05:08:16Z",
+      "openIssues": 7,
+      "lastIssueCreatedAt": "2021-04-07T05:33:09Z",
       "contributors": 4
     },
     {
@@ -81,14 +81,14 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/react-components/",
       "url": "https://github.com/sebgroup/react-components",
-      "pushedAt": "2021-04-06T10:02:10Z",
+      "pushedAt": "2021-04-07T06:18:49Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
       },
       "stargazers": 6,
       "forkCount": 7,
-      "openIssues": 24,
+      "openIssues": 23,
       "lastIssueCreatedAt": "2021-03-31T18:36:05Z",
       "contributors": 6
     },
@@ -145,7 +145,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2021-04-05T23:38:31Z",
+      "pushedAt": "2021-04-06T23:38:11Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -176,7 +176,7 @@
       "description": "A set of frontend tools written in Typescript",
       "homepageUrl": "https://github.com/sebgroup/frontend-tools/wiki",
       "url": "https://github.com/sebgroup/frontend-tools",
-      "pushedAt": "2021-03-29T19:26:28Z",
+      "pushedAt": "2021-04-07T04:58:24Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
