@@ -1,6 +1,6 @@
 {
   "closedIssuesThisMonth": 7,
-  "contributors": 79,
+  "contributors": 77,
   "projects": [
     {
       "name": "design-library",
@@ -20,13 +20,12 @@
       "description": "SEB is banking outside the box! Find additional documentation here that will help you integrate with our APIs.",
       "homepageUrl": "https://developer.sebgroup.com",
       "url": "https://github.com/sebgroup/openbanking",
-      "pushedAt": "2021-02-19T13:25:21Z",
+      "pushedAt": "2021-04-09T17:42:03Z",
       "primaryLanguage": null,
       "stargazers": 11,
-      "forkCount": 9,
+      "forkCount": 10,
       "openIssues": 2,
-      "lastIssueCreatedAt": "2019-12-16T10:08:28Z",
-      "contributors": 2
+      "lastIssueCreatedAt": "2019-12-16T10:08:28Z"
     },
     {
       "name": "ng-components",
@@ -56,8 +55,8 @@
       },
       "stargazers": 8,
       "forkCount": 4,
-      "openIssues": 8,
-      "lastIssueCreatedAt": "2021-04-08T06:32:27Z",
+      "openIssues": 9,
+      "lastIssueCreatedAt": "2021-04-09T05:21:53Z",
       "contributors": 4
     },
     {
@@ -81,7 +80,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/react-components/",
       "url": "https://github.com/sebgroup/react-components",
-      "pushedAt": "2021-04-08T12:10:05Z",
+      "pushedAt": "2021-04-09T09:16:37Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -145,7 +144,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2021-04-07T23:38:44Z",
+      "pushedAt": "2021-04-08T23:38:08Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -341,6 +340,20 @@
       "forkCount": 0,
       "openIssues": 0,
       "contributors": 1
+    },
+    {
+      "name": "react-examples",
+      "description": "React examples project based on CRA using Typescript and SASS",
+      "homepageUrl": null,
+      "url": "https://github.com/sebgroup/react-examples",
+      "pushedAt": "2021-04-09T08:39:30Z",
+      "primaryLanguage": {
+        "name": "TypeScript",
+        "color": "#2b7489"
+      },
+      "stargazers": 0,
+      "forkCount": 0,
+      "openIssues": 0
     }
   ]
 }
