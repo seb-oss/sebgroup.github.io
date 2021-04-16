@@ -33,7 +33,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/ng-components",
       "url": "https://github.com/sebgroup/ng-components",
-      "pushedAt": "2021-04-13T15:29:27Z",
+      "pushedAt": "2021-04-16T22:17:33Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -49,7 +49,7 @@
       "description": "A standalone bootstrap theme for SEB",
       "homepageUrl": "https://sebgroup.github.io/bootstrap/",
       "url": "https://github.com/sebgroup/bootstrap",
-      "pushedAt": "2021-04-15T06:16:07Z",
+      "pushedAt": "2021-04-16T22:37:51Z",
       "primaryLanguage": {
         "name": "HTML",
         "color": "#e34c26"
@@ -145,7 +145,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2021-04-14T23:37:02Z",
+      "pushedAt": "2021-04-15T23:37:03Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -176,7 +176,7 @@
       "description": "A set of frontend tools written in Typescript",
       "homepageUrl": "https://github.com/sebgroup/frontend-tools/wiki",
       "url": "https://github.com/sebgroup/frontend-tools",
-      "pushedAt": "2021-04-08T05:08:39Z",
+      "pushedAt": "2021-04-16T23:02:37Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -301,7 +301,7 @@
       "description": "A SEB themed toaster component for @sebgroup/bootstrap and angular",
       "homepageUrl": "https://sebgroup.github.io/ngx-toastr/",
       "url": "https://github.com/sebgroup/ngx-toastr",
-      "pushedAt": "2021-04-15T05:00:54Z",
+      "pushedAt": "2021-04-16T22:46:33Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -316,7 +316,7 @@
       "description": "A SEB themed stylesheet for ng-bootstrap",
       "homepageUrl": "https://sebgroup.github.io/ng-bootstrap/",
       "url": "https://github.com/sebgroup/ng-bootstrap",
-      "pushedAt": "2021-04-15T05:06:40Z",
+      "pushedAt": "2021-04-16T21:55:56Z",
       "primaryLanguage": {
         "name": "HTML",
         "color": "#e34c26"
