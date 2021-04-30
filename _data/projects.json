@@ -56,8 +56,8 @@
       },
       "stargazers": 8,
       "forkCount": 4,
-      "openIssues": 11,
-      "lastIssueCreatedAt": "2021-04-29T05:17:12Z",
+      "openIssues": 12,
+      "lastIssueCreatedAt": "2021-04-30T05:31:41Z",
       "contributors": 4
     },
     {
@@ -88,8 +88,8 @@
       },
       "stargazers": 6,
       "forkCount": 7,
-      "openIssues": 26,
-      "lastIssueCreatedAt": "2021-04-27T10:27:19Z",
+      "openIssues": 29,
+      "lastIssueCreatedAt": "2021-04-30T07:12:44Z",
       "contributors": 7
     },
     {
@@ -145,7 +145,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2021-04-28T23:37:44Z",
+      "pushedAt": "2021-04-29T23:37:07Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -160,7 +160,7 @@
       "description": "SEB Pictograms CSS library",
       "homepageUrl": "https://sebgroup.github.io/seb-pictograms/",
       "url": "https://github.com/sebgroup/seb-pictograms",
-      "pushedAt": "2021-04-01T06:52:12Z",
+      "pushedAt": "2021-04-30T19:48:33Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
