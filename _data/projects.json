@@ -1,6 +1,6 @@
 {
-  "closedIssuesThisMonth": 7,
-  "contributors": 69,
+  "closedIssuesThisMonth": 8,
+  "contributors": 80,
   "projects": [
     {
       "name": "design-library",
@@ -41,14 +41,15 @@
       "stargazers": 9,
       "forkCount": 2,
       "openIssues": 25,
-      "lastIssueCreatedAt": "2021-05-06T12:15:04Z"
+      "lastIssueCreatedAt": "2021-05-06T12:15:04Z",
+      "contributors": 11
     },
     {
       "name": "bootstrap",
       "description": "A standalone bootstrap theme for SEB",
       "homepageUrl": "https://sebgroup.github.io/bootstrap/",
       "url": "https://github.com/sebgroup/bootstrap",
-      "pushedAt": "2021-05-10T04:31:05Z",
+      "pushedAt": "2021-05-11T08:17:18Z",
       "primaryLanguage": {
         "name": "HTML",
         "color": "#e34c26"
@@ -56,7 +57,7 @@
       "stargazers": 8,
       "forkCount": 4,
       "openIssues": 13,
-      "lastIssueCreatedAt": "2021-05-06T12:15:07Z",
+      "lastIssueCreatedAt": "2021-05-11T05:26:31Z",
       "contributors": 4
     },
     {
@@ -64,7 +65,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/vanilla-pattern-library/",
       "url": "https://github.com/sebgroup/vanilla-pattern-library",
-      "pushedAt": "2021-05-10T19:51:05Z",
+      "pushedAt": "2021-05-11T07:54:49Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -128,7 +129,7 @@
       "description": "A magical iframe component ",
       "homepageUrl": "https://sebgroup.github.io/magic-iframe/",
       "url": "https://github.com/sebgroup/magic-iframe",
-      "pushedAt": "2021-05-08T20:35:06Z",
+      "pushedAt": "2021-05-11T14:34:36Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -144,7 +145,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2021-05-09T23:41:27Z",
+      "pushedAt": "2021-05-10T23:41:45Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -159,7 +160,7 @@
       "description": "SEB Pictograms CSS library",
       "homepageUrl": "https://sebgroup.github.io/seb-pictograms/",
       "url": "https://github.com/sebgroup/seb-pictograms",
-      "pushedAt": "2021-05-10T06:49:12Z",
+      "pushedAt": "2021-05-11T22:15:10Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -222,7 +223,7 @@
       "description": null,
       "homepageUrl": null,
       "url": "https://github.com/sebgroup/ng-debug",
-      "pushedAt": "2021-05-09T11:47:52Z",
+      "pushedAt": "2021-05-11T12:17:41Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -237,7 +238,7 @@
       "description": null,
       "homepageUrl": null,
       "url": "https://github.com/sebgroup/yttringar-oauth",
-      "pushedAt": "2020-09-07T11:25:33Z",
+      "pushedAt": "2021-05-11T08:14:25Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -284,7 +285,7 @@
       "description": null,
       "homepageUrl": null,
       "url": "https://github.com/sebgroup/ng-wizard",
-      "pushedAt": "2021-05-08T19:40:31Z",
+      "pushedAt": "2021-05-11T06:34:24Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -315,7 +316,7 @@
       "description": "A SEB themed stylesheet for ng-bootstrap",
       "homepageUrl": "https://sebgroup.github.io/ng-bootstrap/",
       "url": "https://github.com/sebgroup/ng-bootstrap",
-      "pushedAt": "2021-05-10T05:28:18Z",
+      "pushedAt": "2021-05-11T04:56:20Z",
       "primaryLanguage": {
         "name": "HTML",
         "color": "#e34c26"
