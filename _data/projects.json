@@ -1,5 +1,5 @@
 {
-  "closedIssuesThisMonth": 9,
+  "closedIssuesThisMonth": 10,
   "contributors": 80,
   "projects": [
     {
@@ -40,8 +40,8 @@
       },
       "stargazers": 9,
       "forkCount": 2,
-      "openIssues": 25,
-      "lastIssueCreatedAt": "2021-05-06T12:15:04Z",
+      "openIssues": 26,
+      "lastIssueCreatedAt": "2021-05-17T07:29:21Z",
       "contributors": 11
     },
     {
@@ -57,7 +57,7 @@
       "stargazers": 8,
       "forkCount": 4,
       "openIssues": 13,
-      "lastIssueCreatedAt": "2021-05-11T05:26:31Z",
+      "lastIssueCreatedAt": "2021-05-17T05:17:51Z",
       "contributors": 4
     },
     {
@@ -145,7 +145,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2021-05-15T23:38:04Z",
+      "pushedAt": "2021-05-16T23:38:19Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -285,7 +285,7 @@
       "description": null,
       "homepageUrl": null,
       "url": "https://github.com/sebgroup/ng-wizard",
-      "pushedAt": "2021-05-11T06:34:24Z",
+      "pushedAt": "2021-05-17T12:28:09Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
