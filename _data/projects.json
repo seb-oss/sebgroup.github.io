@@ -1,5 +1,5 @@
 {
-  "closedIssuesThisMonth": 10,
+  "closedIssuesThisMonth": 11,
   "contributors": 80,
   "projects": [
     {
@@ -49,15 +49,15 @@
       "description": "A standalone bootstrap theme for SEB",
       "homepageUrl": "https://sebgroup.github.io/bootstrap/",
       "url": "https://github.com/sebgroup/bootstrap",
-      "pushedAt": "2021-05-14T19:18:56Z",
+      "pushedAt": "2021-05-19T22:48:22Z",
       "primaryLanguage": {
         "name": "HTML",
         "color": "#e34c26"
       },
       "stargazers": 8,
-      "forkCount": 4,
-      "openIssues": 13,
-      "lastIssueCreatedAt": "2021-05-17T05:17:51Z",
+      "forkCount": 3,
+      "openIssues": 14,
+      "lastIssueCreatedAt": "2021-05-19T10:23:13Z",
       "contributors": 4
     },
     {
@@ -81,7 +81,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/react-components/",
       "url": "https://github.com/sebgroup/react-components",
-      "pushedAt": "2021-05-05T09:20:37Z",
+      "pushedAt": "2021-05-19T09:51:10Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -145,7 +145,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2021-05-17T23:38:33Z",
+      "pushedAt": "2021-05-18T23:38:27Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
