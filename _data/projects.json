@@ -1,6 +1,6 @@
 {
-  "closedIssuesThisMonth": 11,
-  "contributors": 80,
+  "closedIssuesThisMonth": 13,
+  "contributors": 81,
   "projects": [
     {
       "name": "design-library",
@@ -57,7 +57,7 @@
       "stargazers": 8,
       "forkCount": 3,
       "openIssues": 15,
-      "lastIssueCreatedAt": "2021-05-20T15:34:26Z",
+      "lastIssueCreatedAt": "2021-05-24T05:26:55Z",
       "contributors": 4
     },
     {
@@ -81,16 +81,16 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/react-components/",
       "url": "https://github.com/sebgroup/react-components",
-      "pushedAt": "2021-05-19T09:51:10Z",
+      "pushedAt": "2021-05-24T10:26:50Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
       },
       "stargazers": 6,
-      "forkCount": 6,
+      "forkCount": 7,
       "openIssues": 29,
-      "lastIssueCreatedAt": "2021-05-20T15:34:22Z",
-      "contributors": 7
+      "lastIssueCreatedAt": "2021-05-24T03:13:05Z",
+      "contributors": 8
     },
     {
       "name": "repo-operator",
@@ -106,6 +106,22 @@
       "forkCount": 2,
       "openIssues": 0,
       "lastIssueCreatedAt": "2019-11-29T06:49:55Z",
+      "contributors": 1
+    },
+    {
+      "name": "magic-iframe",
+      "description": "A magical iframe component ",
+      "homepageUrl": "https://sebgroup.github.io/magic-iframe/",
+      "url": "https://github.com/sebgroup/magic-iframe",
+      "pushedAt": "2021-05-11T14:34:36Z",
+      "primaryLanguage": {
+        "name": "TypeScript",
+        "color": "#2b7489"
+      },
+      "stargazers": 5,
+      "forkCount": 1,
+      "openIssues": 0,
+      "lastIssueCreatedAt": "2020-10-01T07:50:15Z",
       "contributors": 1
     },
     {
@@ -125,27 +141,11 @@
       "contributors": 6
     },
     {
-      "name": "magic-iframe",
-      "description": "A magical iframe component ",
-      "homepageUrl": "https://sebgroup.github.io/magic-iframe/",
-      "url": "https://github.com/sebgroup/magic-iframe",
-      "pushedAt": "2021-05-11T14:34:36Z",
-      "primaryLanguage": {
-        "name": "TypeScript",
-        "color": "#2b7489"
-      },
-      "stargazers": 4,
-      "forkCount": 1,
-      "openIssues": 0,
-      "lastIssueCreatedAt": "2020-10-01T07:50:15Z",
-      "contributors": 1
-    },
-    {
       "name": "sebgroup.github.io",
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2021-05-22T23:37:39Z",
+      "pushedAt": "2021-05-23T23:37:47Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -316,7 +316,7 @@
       "description": "A SEB themed stylesheet for ng-bootstrap",
       "homepageUrl": "https://sebgroup.github.io/ng-bootstrap/",
       "url": "https://github.com/sebgroup/ng-bootstrap",
-      "pushedAt": "2021-05-20T05:04:17Z",
+      "pushedAt": "2021-05-24T04:52:18Z",
       "primaryLanguage": {
         "name": "HTML",
         "color": "#e34c26"
