@@ -1,5 +1,5 @@
 {
-  "closedIssuesThisMonth": 15,
+  "closedIssuesThisMonth": 16,
   "contributors": 81,
   "projects": [
     {
@@ -49,14 +49,14 @@
       "description": "A standalone bootstrap theme for SEB",
       "homepageUrl": "https://sebgroup.github.io/bootstrap/",
       "url": "https://github.com/sebgroup/bootstrap",
-      "pushedAt": "2021-05-28T08:35:15Z",
+      "pushedAt": "2021-05-29T09:06:26Z",
       "primaryLanguage": {
         "name": "HTML",
         "color": "#e34c26"
       },
       "stargazers": 8,
       "forkCount": 3,
-      "openIssues": 17,
+      "openIssues": 16,
       "lastIssueCreatedAt": "2021-05-28T05:18:17Z",
       "contributors": 4
     },
@@ -145,7 +145,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2021-05-27T23:41:42Z",
+      "pushedAt": "2021-05-28T23:43:37Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -160,7 +160,7 @@
       "description": "SEB Pictograms CSS library",
       "homepageUrl": "https://sebgroup.github.io/seb-pictograms/",
       "url": "https://github.com/sebgroup/seb-pictograms",
-      "pushedAt": "2021-05-26T18:16:47Z",
+      "pushedAt": "2021-05-29T00:01:15Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -176,7 +176,7 @@
       "description": "A set of frontend tools written in Typescript",
       "homepageUrl": "https://github.com/sebgroup/frontend-tools/wiki",
       "url": "https://github.com/sebgroup/frontend-tools",
-      "pushedAt": "2021-05-07T18:52:51Z",
+      "pushedAt": "2021-05-29T23:34:27Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
