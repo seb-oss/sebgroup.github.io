@@ -49,7 +49,7 @@
       "description": "A standalone bootstrap theme for SEB",
       "homepageUrl": "https://sebgroup.github.io/bootstrap/",
       "url": "https://github.com/sebgroup/bootstrap",
-      "pushedAt": "2021-06-04T16:56:50Z",
+      "pushedAt": "2021-06-05T11:05:46Z",
       "primaryLanguage": {
         "name": "HTML",
         "color": "#e34c26"
@@ -86,7 +86,7 @@
         "name": "TypeScript",
         "color": "#2b7489"
       },
-      "stargazers": 6,
+      "stargazers": 7,
       "forkCount": 7,
       "openIssues": 31,
       "lastIssueCreatedAt": "2021-05-31T08:18:01Z",
@@ -177,7 +177,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2021-06-03T23:46:04Z",
+      "pushedAt": "2021-06-04T23:45:11Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -285,7 +285,7 @@
       "description": "Wizard component built for angular 12+",
       "homepageUrl": "https://sebgroup.github.io/ng-wizard/",
       "url": "https://github.com/sebgroup/ng-wizard",
-      "pushedAt": "2021-06-01T14:47:38Z",
+      "pushedAt": "2021-06-05T14:20:36Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
