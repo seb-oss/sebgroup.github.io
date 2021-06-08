@@ -1,5 +1,5 @@
 {
-  "closedIssuesThisMonth": 13,
+  "closedIssuesThisMonth": 14,
   "contributors": 81,
   "projects": [
     {
@@ -57,7 +57,7 @@
       "stargazers": 8,
       "forkCount": 3,
       "openIssues": 16,
-      "lastIssueCreatedAt": "2021-06-03T05:23:33Z",
+      "lastIssueCreatedAt": "2021-06-08T05:28:48Z",
       "contributors": 4
     },
     {
@@ -161,7 +161,7 @@
       "description": "A set of frontend tools written in Typescript",
       "homepageUrl": "https://github.com/sebgroup/frontend-tools/wiki",
       "url": "https://github.com/sebgroup/frontend-tools",
-      "pushedAt": "2021-05-29T23:34:27Z",
+      "pushedAt": "2021-06-08T04:54:22Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -177,7 +177,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2021-06-06T23:41:20Z",
+      "pushedAt": "2021-06-07T23:45:04Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
