@@ -1,6 +1,6 @@
 {
-  "closedIssuesThisMonth": 14,
-  "contributors": 81,
+  "closedIssuesThisMonth": 15,
+  "contributors": 85,
   "projects": [
     {
       "name": "design-library",
@@ -57,7 +57,7 @@
       "stargazers": 8,
       "forkCount": 3,
       "openIssues": 16,
-      "lastIssueCreatedAt": "2021-06-08T05:28:48Z",
+      "lastIssueCreatedAt": "2021-06-09T05:29:21Z",
       "contributors": 4
     },
     {
@@ -129,7 +129,7 @@
       "description": "A magical iframe component ",
       "homepageUrl": "https://sebgroup.github.io/magic-iframe/",
       "url": "https://github.com/sebgroup/magic-iframe",
-      "pushedAt": "2021-05-11T14:34:36Z",
+      "pushedAt": "2021-06-09T01:00:00Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -161,7 +161,7 @@
       "description": "A set of frontend tools written in Typescript",
       "homepageUrl": "https://github.com/sebgroup/frontend-tools/wiki",
       "url": "https://github.com/sebgroup/frontend-tools",
-      "pushedAt": "2021-06-08T04:54:22Z",
+      "pushedAt": "2021-06-09T00:45:47Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -177,7 +177,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2021-06-07T23:45:04Z",
+      "pushedAt": "2021-06-08T23:36:24Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -185,7 +185,8 @@
       "stargazers": 3,
       "forkCount": 0,
       "openIssues": 0,
-      "lastIssueCreatedAt": "2020-04-01T06:12:32Z"
+      "lastIssueCreatedAt": "2020-04-01T06:12:32Z",
+      "contributors": 4
     },
     {
       "name": "yttringar",
