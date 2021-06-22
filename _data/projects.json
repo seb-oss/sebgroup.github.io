@@ -1,6 +1,6 @@
 {
   "closedIssuesThisMonth": 18,
-  "contributors": 85,
+  "contributors": 70,
   "projects": [
     {
       "name": "design-library",
@@ -33,7 +33,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/ng-components",
       "url": "https://github.com/sebgroup/ng-components",
-      "pushedAt": "2021-06-21T14:12:29Z",
+      "pushedAt": "2021-06-22T02:28:52Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -41,23 +41,22 @@
       "stargazers": 9,
       "forkCount": 3,
       "openIssues": 28,
-      "lastIssueCreatedAt": "2021-06-16T07:00:07Z",
-      "contributors": 11
+      "lastIssueCreatedAt": "2021-06-16T07:00:07Z"
     },
     {
       "name": "bootstrap",
       "description": "A standalone bootstrap theme for SEB",
       "homepageUrl": "https://sebgroup.github.io/bootstrap/",
       "url": "https://github.com/sebgroup/bootstrap",
-      "pushedAt": "2021-06-21T16:53:27Z",
+      "pushedAt": "2021-06-22T18:36:19Z",
       "primaryLanguage": {
         "name": "HTML",
         "color": "#e34c26"
       },
       "stargazers": 8,
       "forkCount": 3,
-      "openIssues": 16,
-      "lastIssueCreatedAt": "2021-06-16T05:21:49Z",
+      "openIssues": 17,
+      "lastIssueCreatedAt": "2021-06-22T07:53:50Z",
       "contributors": 4
     },
     {
@@ -88,8 +87,8 @@
       },
       "stargazers": 7,
       "forkCount": 7,
-      "openIssues": 32,
-      "lastIssueCreatedAt": "2021-06-15T09:33:28Z",
+      "openIssues": 33,
+      "lastIssueCreatedAt": "2021-06-22T09:15:33Z",
       "contributors": 8
     },
     {
@@ -177,7 +176,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2021-06-20T23:34:27Z",
+      "pushedAt": "2021-06-21T23:34:50Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -185,8 +184,7 @@
       "stargazers": 3,
       "forkCount": 0,
       "openIssues": 0,
-      "lastIssueCreatedAt": "2020-04-01T06:12:32Z",
-      "contributors": 4
+      "lastIssueCreatedAt": "2020-04-01T06:12:32Z"
     },
     {
       "name": "yttringar",
