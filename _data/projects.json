@@ -56,8 +56,8 @@
       },
       "stargazers": 8,
       "forkCount": 3,
-      "openIssues": 17,
-      "lastIssueCreatedAt": "2021-06-24T05:20:49Z",
+      "openIssues": 18,
+      "lastIssueCreatedAt": "2021-06-25T05:08:37Z",
       "contributors": 4
     },
     {
@@ -109,6 +109,22 @@
       "contributors": 1
     },
     {
+      "name": "magic-iframe",
+      "description": "A magical iframe component ",
+      "homepageUrl": "https://sebgroup.github.io/magic-iframe/",
+      "url": "https://github.com/sebgroup/magic-iframe",
+      "pushedAt": "2021-06-11T08:12:34Z",
+      "primaryLanguage": {
+        "name": "TypeScript",
+        "color": "#2b7489"
+      },
+      "stargazers": 5,
+      "forkCount": 1,
+      "openIssues": 0,
+      "lastIssueCreatedAt": "2020-10-01T07:50:15Z",
+      "contributors": 1
+    },
+    {
       "name": "seb-angular-material",
       "description": "angular material theme",
       "homepageUrl": "https://sebgroup.github.io/seb-angular-material",
@@ -123,22 +139,6 @@
       "openIssues": 23,
       "lastIssueCreatedAt": "2021-05-20T15:34:24Z",
       "contributors": 6
-    },
-    {
-      "name": "magic-iframe",
-      "description": "A magical iframe component ",
-      "homepageUrl": "https://sebgroup.github.io/magic-iframe/",
-      "url": "https://github.com/sebgroup/magic-iframe",
-      "pushedAt": "2021-06-11T08:12:34Z",
-      "primaryLanguage": {
-        "name": "TypeScript",
-        "color": "#2b7489"
-      },
-      "stargazers": 4,
-      "forkCount": 1,
-      "openIssues": 0,
-      "lastIssueCreatedAt": "2020-10-01T07:50:15Z",
-      "contributors": 1
     },
     {
       "name": "seb-pictograms",
@@ -177,7 +177,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2021-06-23T23:32:41Z",
+      "pushedAt": "2021-06-24T23:33:15Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -316,7 +316,7 @@
       "description": "A SEB themed stylesheet for ng-bootstrap",
       "homepageUrl": "https://sebgroup.github.io/ng-bootstrap/",
       "url": "https://github.com/sebgroup/ng-bootstrap",
-      "pushedAt": "2021-06-23T04:56:32Z",
+      "pushedAt": "2021-06-25T04:57:47Z",
       "primaryLanguage": {
         "name": "HTML",
         "color": "#e34c26"
