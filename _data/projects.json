@@ -1,5 +1,5 @@
 {
-  "closedIssuesThisMonth": 24,
+  "closedIssuesThisMonth": 1,
   "contributors": 81,
   "projects": [
     {
@@ -177,7 +177,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2021-07-01T00:18:59Z",
+      "pushedAt": "2021-07-01T23:32:53Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -301,7 +301,7 @@
       "description": "A SEB themed toaster component for @sebgroup/bootstrap and angular",
       "homepageUrl": "https://sebgroup.github.io/ngx-toastr/",
       "url": "https://github.com/sebgroup/ngx-toastr",
-      "pushedAt": "2021-07-01T04:50:39Z",
+      "pushedAt": "2021-07-02T05:03:35Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -316,7 +316,7 @@
       "description": "A SEB themed stylesheet for ng-bootstrap",
       "homepageUrl": "https://sebgroup.github.io/ng-bootstrap/",
       "url": "https://github.com/sebgroup/ng-bootstrap",
-      "pushedAt": "2021-06-30T05:06:55Z",
+      "pushedAt": "2021-07-02T05:12:52Z",
       "primaryLanguage": {
         "name": "HTML",
         "color": "#e34c26"
