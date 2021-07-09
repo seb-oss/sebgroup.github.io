@@ -1,6 +1,6 @@
 {
-  "closedIssuesThisMonth": 4,
-  "contributors": 80,
+  "closedIssuesThisMonth": 5,
+  "contributors": 73,
   "projects": [
     {
       "name": "design-library",
@@ -49,7 +49,7 @@
       "description": "A standalone bootstrap theme for SEB",
       "homepageUrl": "https://sebgroup.github.io/bootstrap/",
       "url": "https://github.com/sebgroup/bootstrap",
-      "pushedAt": "2021-07-08T22:54:06Z",
+      "pushedAt": "2021-07-09T22:32:42Z",
       "primaryLanguage": {
         "name": "HTML",
         "color": "#e34c26"
@@ -65,7 +65,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/vanilla-pattern-library/",
       "url": "https://github.com/sebgroup/vanilla-pattern-library",
-      "pushedAt": "2021-06-28T19:32:42Z",
+      "pushedAt": "2021-07-09T11:39:29Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -73,8 +73,7 @@
       "stargazers": 7,
       "forkCount": 10,
       "openIssues": 17,
-      "lastIssueCreatedAt": "2021-05-20T15:34:28Z",
-      "contributors": 9
+      "lastIssueCreatedAt": "2021-05-20T15:34:28Z"
     },
     {
       "name": "react-components",
@@ -177,7 +176,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2021-07-07T23:32:13Z",
+      "pushedAt": "2021-07-08T23:32:16Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -208,15 +207,16 @@
       "description": "SEB Sans Serif",
       "homepageUrl": "https://sebgroup.github.io/fonts/",
       "url": "https://github.com/sebgroup/fonts",
-      "pushedAt": "2021-07-08T09:27:36Z",
+      "pushedAt": "2021-07-09T08:42:33Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
       },
       "stargazers": 1,
       "forkCount": 1,
-      "openIssues": 1,
-      "lastIssueCreatedAt": "2021-07-08T09:29:10Z"
+      "openIssues": 0,
+      "lastIssueCreatedAt": "2021-07-08T09:29:10Z",
+      "contributors": 2
     },
     {
       "name": "ng-debug",
@@ -316,7 +316,7 @@
       "description": "A SEB themed stylesheet for ng-bootstrap",
       "homepageUrl": "https://sebgroup.github.io/ng-bootstrap/",
       "url": "https://github.com/sebgroup/ng-bootstrap",
-      "pushedAt": "2021-07-07T05:17:07Z",
+      "pushedAt": "2021-07-09T04:40:48Z",
       "primaryLanguage": {
         "name": "HTML",
         "color": "#e34c26"
