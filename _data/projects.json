@@ -1,6 +1,6 @@
 {
   "closedIssuesThisMonth": 5,
-  "contributors": 86,
+  "contributors": 83,
   "projects": [
     {
       "name": "design-library",
@@ -177,7 +177,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2021-07-09T23:32:22Z",
+      "pushedAt": "2021-07-10T23:32:00Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -185,8 +185,7 @@
       "stargazers": 3,
       "forkCount": 0,
       "openIssues": 0,
-      "lastIssueCreatedAt": "2020-04-01T06:12:32Z",
-      "contributors": 4
+      "lastIssueCreatedAt": "2020-04-01T06:12:32Z"
     },
     {
       "name": "yttringar",
@@ -358,6 +357,35 @@
       "forkCount": 0,
       "openIssues": 0,
       "contributors": 1
+    },
+    {
+      "name": "ng-dynamic-form",
+      "description": "Angular Dynamic form generator",
+      "homepageUrl": null,
+      "url": "https://github.com/sebgroup/ng-dynamic-form",
+      "pushedAt": "2021-07-05T10:37:05Z",
+      "primaryLanguage": {
+        "name": "TypeScript",
+        "color": "#2b7489"
+      },
+      "stargazers": 0,
+      "forkCount": 0,
+      "openIssues": 0,
+      "contributors": 1
+    },
+    {
+      "name": "react-wizard",
+      "description": null,
+      "homepageUrl": null,
+      "url": "https://github.com/sebgroup/react-wizard",
+      "pushedAt": "2021-07-09T03:03:23Z",
+      "primaryLanguage": {
+        "name": "TypeScript",
+        "color": "#2b7489"
+      },
+      "stargazers": 0,
+      "forkCount": 0,
+      "openIssues": 0
     }
   ]
 }
