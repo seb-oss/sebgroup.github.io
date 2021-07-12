@@ -1,6 +1,6 @@
 {
   "closedIssuesThisMonth": 5,
-  "contributors": 83,
+  "contributors": 85,
   "projects": [
     {
       "name": "design-library",
@@ -23,7 +23,7 @@
       "pushedAt": "2021-07-07T09:49:20Z",
       "primaryLanguage": null,
       "stargazers": 11,
-      "forkCount": 10,
+      "forkCount": 11,
       "openIssues": 2,
       "lastIssueCreatedAt": "2019-12-16T10:08:28Z",
       "contributors": 2
@@ -161,7 +161,7 @@
       "description": "A set of frontend tools written in Typescript",
       "homepageUrl": "https://github.com/sebgroup/frontend-tools/wiki",
       "url": "https://github.com/sebgroup/frontend-tools",
-      "pushedAt": "2021-07-05T04:55:32Z",
+      "pushedAt": "2021-07-12T04:51:02Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -177,7 +177,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2021-07-10T23:32:00Z",
+      "pushedAt": "2021-07-11T23:32:17Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -317,7 +317,7 @@
       "description": "A SEB themed stylesheet for ng-bootstrap",
       "homepageUrl": "https://sebgroup.github.io/ng-bootstrap/",
       "url": "https://github.com/sebgroup/ng-bootstrap",
-      "pushedAt": "2021-07-09T04:40:48Z",
+      "pushedAt": "2021-07-12T05:08:59Z",
       "primaryLanguage": {
         "name": "HTML",
         "color": "#e34c26"
@@ -378,14 +378,16 @@
       "description": null,
       "homepageUrl": null,
       "url": "https://github.com/sebgroup/react-wizard",
-      "pushedAt": "2021-07-09T03:03:23Z",
+      "pushedAt": "2021-07-12T07:55:46Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
       },
       "stargazers": 0,
       "forkCount": 0,
-      "openIssues": 0
+      "openIssues": 1,
+      "lastIssueCreatedAt": "2021-07-12T07:29:41Z",
+      "contributors": 2
     }
   ]
 }
