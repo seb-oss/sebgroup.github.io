@@ -1,5 +1,5 @@
 {
-  "closedIssuesThisMonth": 7,
+  "closedIssuesThisMonth": 8,
   "contributors": 83,
   "projects": [
     {
@@ -49,7 +49,7 @@
       "description": "A standalone bootstrap theme for SEB",
       "homepageUrl": "https://sebgroup.github.io/bootstrap/",
       "url": "https://github.com/sebgroup/bootstrap",
-      "pushedAt": "2021-07-14T00:12:43Z",
+      "pushedAt": "2021-07-16T19:10:45Z",
       "primaryLanguage": {
         "name": "HTML",
         "color": "#e34c26"
@@ -57,7 +57,7 @@
       "stargazers": 8,
       "forkCount": 3,
       "openIssues": 18,
-      "lastIssueCreatedAt": "2021-07-14T05:21:51Z",
+      "lastIssueCreatedAt": "2021-07-16T05:20:48Z",
       "contributors": 4
     },
     {
@@ -81,7 +81,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/react-components/",
       "url": "https://github.com/sebgroup/react-components",
-      "pushedAt": "2021-07-15T09:38:19Z",
+      "pushedAt": "2021-07-16T08:22:02Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -177,7 +177,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2021-07-14T23:32:17Z",
+      "pushedAt": "2021-07-15T23:32:30Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -378,7 +378,7 @@
       "description": null,
       "homepageUrl": null,
       "url": "https://github.com/sebgroup/react-wizard",
-      "pushedAt": "2021-07-15T14:17:31Z",
+      "pushedAt": "2021-07-16T06:39:08Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
