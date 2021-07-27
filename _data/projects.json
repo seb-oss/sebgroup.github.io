@@ -1,6 +1,6 @@
 {
-  "closedIssuesThisMonth": 13,
-  "contributors": 84,
+  "closedIssuesThisMonth": 17,
+  "contributors": 85,
   "projects": [
     {
       "name": "design-library",
@@ -49,14 +49,14 @@
       "description": "A standalone bootstrap theme for SEB",
       "homepageUrl": "https://sebgroup.github.io/bootstrap/",
       "url": "https://github.com/sebgroup/bootstrap",
-      "pushedAt": "2021-07-26T00:25:10Z",
+      "pushedAt": "2021-07-27T23:10:17Z",
       "primaryLanguage": {
         "name": "HTML",
         "color": "#e34c26"
       },
       "stargazers": 8,
       "forkCount": 3,
-      "openIssues": 18,
+      "openIssues": 16,
       "lastIssueCreatedAt": "2021-07-26T05:27:27Z",
       "contributors": 4
     },
@@ -81,7 +81,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/react-components/",
       "url": "https://github.com/sebgroup/react-components",
-      "pushedAt": "2021-07-26T09:05:59Z",
+      "pushedAt": "2021-07-27T06:45:34Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -89,7 +89,7 @@
       "stargazers": 7,
       "forkCount": 7,
       "openIssues": 38,
-      "lastIssueCreatedAt": "2021-07-21T07:20:51Z",
+      "lastIssueCreatedAt": "2021-07-27T06:49:36Z",
       "contributors": 8
     },
     {
@@ -177,7 +177,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2021-07-25T23:32:22Z",
+      "pushedAt": "2021-07-26T23:32:32Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -317,7 +317,7 @@
       "description": "A SEB themed stylesheet for ng-bootstrap",
       "homepageUrl": "https://sebgroup.github.io/ng-bootstrap/master",
       "url": "https://github.com/sebgroup/ng-bootstrap",
-      "pushedAt": "2021-07-26T16:00:37Z",
+      "pushedAt": "2021-07-27T08:02:51Z",
       "primaryLanguage": {
         "name": "HTML",
         "color": "#e34c26"
@@ -325,7 +325,8 @@
       "stargazers": 0,
       "forkCount": 0,
       "openIssues": 2,
-      "lastIssueCreatedAt": "2020-05-29T07:21:57Z"
+      "lastIssueCreatedAt": "2020-05-29T07:21:57Z",
+      "contributors": 1
     },
     {
       "name": "aci-search",
