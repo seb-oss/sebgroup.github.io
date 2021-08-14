@@ -1,6 +1,6 @@
 {
   "closedIssuesThisMonth": 2,
-  "contributors": 77,
+  "contributors": 85,
   "projects": [
     {
       "name": "design-library",
@@ -73,7 +73,8 @@
       "stargazers": 8,
       "forkCount": 7,
       "openIssues": 37,
-      "lastIssueCreatedAt": "2021-08-12T17:28:57Z"
+      "lastIssueCreatedAt": "2021-08-12T17:28:57Z",
+      "contributors": 8
     },
     {
       "name": "vanilla-pattern-library",
@@ -176,7 +177,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2021-08-12T23:32:18Z",
+      "pushedAt": "2021-08-13T23:32:18Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
