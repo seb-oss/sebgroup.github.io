@@ -177,7 +177,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2021-08-16T23:31:27Z",
+      "pushedAt": "2021-08-17T23:32:25Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -363,7 +363,7 @@
       "description": "Angular Dynamic form generator",
       "homepageUrl": null,
       "url": "https://github.com/sebgroup/ng-dynamic-form",
-      "pushedAt": "2021-08-04T04:20:25Z",
+      "pushedAt": "2021-08-18T07:43:59Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
