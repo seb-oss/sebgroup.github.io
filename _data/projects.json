@@ -1,6 +1,6 @@
 {
   "closedIssuesThisMonth": 5,
-  "contributors": 85,
+  "contributors": 79,
   "projects": [
     {
       "name": "design-library",
@@ -129,7 +129,7 @@
       "description": "angular material theme",
       "homepageUrl": "https://sebgroup.github.io/seb-angular-material",
       "url": "https://github.com/sebgroup/seb-angular-material",
-      "pushedAt": "2021-08-11T11:10:18Z",
+      "pushedAt": "2021-08-19T11:58:05Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -137,8 +137,7 @@
       "stargazers": 4,
       "forkCount": 1,
       "openIssues": 24,
-      "lastIssueCreatedAt": "2021-08-12T17:28:53Z",
-      "contributors": 6
+      "lastIssueCreatedAt": "2021-08-12T17:28:53Z"
     },
     {
       "name": "seb-pictograms",
@@ -177,7 +176,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2021-08-17T23:32:25Z",
+      "pushedAt": "2021-08-18T23:31:21Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
