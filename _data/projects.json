@@ -1,6 +1,6 @@
 {
-  "closedIssuesThisMonth": 6,
-  "contributors": 83,
+  "closedIssuesThisMonth": 7,
+  "contributors": 85,
   "projects": [
     {
       "name": "design-library",
@@ -177,7 +177,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2021-08-22T23:32:09Z",
+      "pushedAt": "2021-08-23T23:33:01Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -378,15 +378,16 @@
       "description": null,
       "homepageUrl": null,
       "url": "https://github.com/sebgroup/react-wizard",
-      "pushedAt": "2021-08-23T05:41:35Z",
+      "pushedAt": "2021-08-24T07:19:04Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
       },
       "stargazers": 0,
       "forkCount": 0,
-      "openIssues": 2,
-      "lastIssueCreatedAt": "2021-08-16T02:36:03Z"
+      "openIssues": 1,
+      "lastIssueCreatedAt": "2021-08-16T02:36:03Z",
+      "contributors": 2
     }
   ]
 }
