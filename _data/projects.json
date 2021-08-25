@@ -1,6 +1,6 @@
 {
   "closedIssuesThisMonth": 7,
-  "contributors": 85,
+  "contributors": 89,
   "projects": [
     {
       "name": "design-library",
@@ -177,7 +177,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2021-08-23T23:33:01Z",
+      "pushedAt": "2021-08-24T23:32:21Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -185,7 +185,8 @@
       "stargazers": 3,
       "forkCount": 0,
       "openIssues": 0,
-      "lastIssueCreatedAt": "2020-04-01T06:12:32Z"
+      "lastIssueCreatedAt": "2020-04-01T06:12:32Z",
+      "contributors": 4
     },
     {
       "name": "yttringar",
@@ -363,7 +364,7 @@
       "description": "Angular Dynamic form generator",
       "homepageUrl": null,
       "url": "https://github.com/sebgroup/ng-dynamic-form",
-      "pushedAt": "2021-08-18T07:43:59Z",
+      "pushedAt": "2021-08-25T07:31:14Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -385,8 +386,8 @@
       },
       "stargazers": 0,
       "forkCount": 0,
-      "openIssues": 1,
-      "lastIssueCreatedAt": "2021-08-16T02:36:03Z",
+      "openIssues": 2,
+      "lastIssueCreatedAt": "2021-08-25T02:49:50Z",
       "contributors": 2
     }
   ]
