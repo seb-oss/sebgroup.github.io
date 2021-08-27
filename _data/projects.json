@@ -1,6 +1,6 @@
 {
-  "closedIssuesThisMonth": 8,
-  "contributors": 77,
+  "closedIssuesThisMonth": 22,
+  "contributors": 0,
   "projects": [
     {
       "name": "design-library",
@@ -11,9 +11,8 @@
       "primaryLanguage": null,
       "stargazers": 13,
       "forkCount": 1,
-      "openIssues": 78,
-      "lastIssueCreatedAt": "2021-06-16T16:08:15Z",
-      "contributors": 3
+      "openIssues": 64,
+      "lastIssueCreatedAt": "2021-06-16T16:08:15Z"
     },
     {
       "name": "openbanking",
@@ -25,8 +24,7 @@
       "stargazers": 11,
       "forkCount": 10,
       "openIssues": 2,
-      "lastIssueCreatedAt": "2019-12-16T10:08:28Z",
-      "contributors": 2
+      "lastIssueCreatedAt": "2019-12-16T10:08:28Z"
     },
     {
       "name": "ng-components",
@@ -41,8 +39,7 @@
       "stargazers": 9,
       "forkCount": 4,
       "openIssues": 30,
-      "lastIssueCreatedAt": "2021-08-12T17:28:50Z",
-      "contributors": 11
+      "lastIssueCreatedAt": "2021-08-12T17:28:50Z"
     },
     {
       "name": "bootstrap",
@@ -57,8 +54,7 @@
       "stargazers": 8,
       "forkCount": 3,
       "openIssues": 19,
-      "lastIssueCreatedAt": "2021-08-12T17:28:47Z",
-      "contributors": 4
+      "lastIssueCreatedAt": "2021-08-12T17:28:47Z"
     },
     {
       "name": "react-components",
@@ -88,8 +84,7 @@
       "stargazers": 7,
       "forkCount": 10,
       "openIssues": 18,
-      "lastIssueCreatedAt": "2021-08-12T17:28:43Z",
-      "contributors": 9
+      "lastIssueCreatedAt": "2021-08-12T17:28:43Z"
     },
     {
       "name": "repo-operator",
@@ -104,8 +99,7 @@
       "stargazers": 6,
       "forkCount": 2,
       "openIssues": 0,
-      "lastIssueCreatedAt": "2019-11-29T06:49:55Z",
-      "contributors": 1
+      "lastIssueCreatedAt": "2019-11-29T06:49:55Z"
     },
     {
       "name": "magic-iframe",
@@ -120,8 +114,7 @@
       "stargazers": 5,
       "forkCount": 2,
       "openIssues": 0,
-      "lastIssueCreatedAt": "2020-10-01T07:50:15Z",
-      "contributors": 1
+      "lastIssueCreatedAt": "2020-10-01T07:50:15Z"
     },
     {
       "name": "seb-angular-material",
@@ -136,8 +129,7 @@
       "stargazers": 4,
       "forkCount": 1,
       "openIssues": 23,
-      "lastIssueCreatedAt": "2021-08-12T17:28:53Z",
-      "contributors": 6
+      "lastIssueCreatedAt": "2021-08-12T17:28:53Z"
     },
     {
       "name": "seb-pictograms",
@@ -152,15 +144,14 @@
       "stargazers": 3,
       "forkCount": 1,
       "openIssues": 1,
-      "lastIssueCreatedAt": "2021-02-09T15:13:36Z",
-      "contributors": 7
+      "lastIssueCreatedAt": "2021-02-09T15:13:36Z"
     },
     {
       "name": "frontend-tools",
       "description": "A set of frontend tools written in Typescript",
       "homepageUrl": "https://github.com/sebgroup/frontend-tools/wiki",
       "url": "https://github.com/sebgroup/frontend-tools",
-      "pushedAt": "2021-08-11T21:32:35Z",
+      "pushedAt": "2021-08-27T03:24:38Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -168,15 +159,14 @@
       "stargazers": 3,
       "forkCount": 0,
       "openIssues": 2,
-      "lastIssueCreatedAt": "2021-03-16T10:50:59Z",
-      "contributors": 5
+      "lastIssueCreatedAt": "2021-03-16T10:50:59Z"
     },
     {
       "name": "sebgroup.github.io",
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2021-08-25T23:32:18Z",
+      "pushedAt": "2021-08-26T23:32:26Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -199,8 +189,7 @@
       "stargazers": 2,
       "forkCount": 0,
       "openIssues": 8,
-      "lastIssueCreatedAt": "2019-11-28T16:44:38Z",
-      "contributors": 2
+      "lastIssueCreatedAt": "2019-11-28T16:44:38Z"
     },
     {
       "name": "fonts",
@@ -215,8 +204,7 @@
       "stargazers": 1,
       "forkCount": 1,
       "openIssues": 0,
-      "lastIssueCreatedAt": "2021-07-08T09:29:10Z",
-      "contributors": 2
+      "lastIssueCreatedAt": "2021-07-08T09:29:10Z"
     },
     {
       "name": "ng-debug",
@@ -230,8 +218,7 @@
       },
       "stargazers": 1,
       "forkCount": 1,
-      "openIssues": 0,
-      "contributors": 6
+      "openIssues": 0
     },
     {
       "name": "yttringar-oauth",
@@ -246,8 +233,7 @@
       "stargazers": 1,
       "forkCount": 0,
       "openIssues": 1,
-      "lastIssueCreatedAt": "2019-11-28T16:27:35Z",
-      "contributors": 3
+      "lastIssueCreatedAt": "2019-11-28T16:27:35Z"
     },
     {
       "name": "thumbs-up",
@@ -261,8 +247,7 @@
       },
       "stargazers": 1,
       "forkCount": 0,
-      "openIssues": 0,
-      "contributors": 3
+      "openIssues": 0
     },
     {
       "name": "document-write-intervene",
@@ -277,8 +262,7 @@
       "stargazers": 0,
       "forkCount": 0,
       "openIssues": 0,
-      "lastIssueCreatedAt": "2018-10-08T14:23:29Z",
-      "contributors": 2
+      "lastIssueCreatedAt": "2018-10-08T14:23:29Z"
     },
     {
       "name": "ng-wizard",
@@ -293,8 +277,7 @@
       "stargazers": 0,
       "forkCount": 4,
       "openIssues": 3,
-      "lastIssueCreatedAt": "2021-06-04T11:43:42Z",
-      "contributors": 3
+      "lastIssueCreatedAt": "2021-06-04T11:43:42Z"
     },
     {
       "name": "ngx-toastr",
@@ -308,8 +291,7 @@
       },
       "stargazers": 0,
       "forkCount": 0,
-      "openIssues": 0,
-      "contributors": 1
+      "openIssues": 0
     },
     {
       "name": "ng-bootstrap",
@@ -324,8 +306,7 @@
       "stargazers": 0,
       "forkCount": 0,
       "openIssues": 2,
-      "lastIssueCreatedAt": "2020-05-29T07:21:57Z",
-      "contributors": 1
+      "lastIssueCreatedAt": "2020-05-29T07:21:57Z"
     },
     {
       "name": "aci-search",
@@ -339,8 +320,7 @@
       },
       "stargazers": 0,
       "forkCount": 0,
-      "openIssues": 0,
-      "contributors": 1
+      "openIssues": 0
     },
     {
       "name": "react-examples",
@@ -354,8 +334,7 @@
       },
       "stargazers": 0,
       "forkCount": 0,
-      "openIssues": 0,
-      "contributors": 1
+      "openIssues": 0
     },
     {
       "name": "ng-dynamic-form",
@@ -369,15 +348,14 @@
       },
       "stargazers": 0,
       "forkCount": 0,
-      "openIssues": 0,
-      "contributors": 1
+      "openIssues": 0
     },
     {
       "name": "react-wizard",
       "description": null,
       "homepageUrl": null,
       "url": "https://github.com/sebgroup/react-wizard",
-      "pushedAt": "2021-08-24T07:19:04Z",
+      "pushedAt": "2021-08-27T02:26:48Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -385,8 +363,7 @@
       "stargazers": 0,
       "forkCount": 0,
       "openIssues": 2,
-      "lastIssueCreatedAt": "2021-08-25T02:49:50Z",
-      "contributors": 2
+      "lastIssueCreatedAt": "2021-08-25T02:49:50Z"
     }
   ]
 }
