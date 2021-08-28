@@ -1,6 +1,6 @@
 {
   "closedIssuesThisMonth": 22,
-  "contributors": 0,
+  "contributors": 85,
   "projects": [
     {
       "name": "design-library",
@@ -12,7 +12,8 @@
       "stargazers": 13,
       "forkCount": 1,
       "openIssues": 64,
-      "lastIssueCreatedAt": "2021-06-16T16:08:15Z"
+      "lastIssueCreatedAt": "2021-06-16T16:08:15Z",
+      "contributors": 3
     },
     {
       "name": "openbanking",
@@ -24,7 +25,8 @@
       "stargazers": 11,
       "forkCount": 10,
       "openIssues": 2,
-      "lastIssueCreatedAt": "2019-12-16T10:08:28Z"
+      "lastIssueCreatedAt": "2019-12-16T10:08:28Z",
+      "contributors": 2
     },
     {
       "name": "ng-components",
@@ -39,7 +41,8 @@
       "stargazers": 9,
       "forkCount": 4,
       "openIssues": 30,
-      "lastIssueCreatedAt": "2021-08-12T17:28:50Z"
+      "lastIssueCreatedAt": "2021-08-12T17:28:50Z",
+      "contributors": 11
     },
     {
       "name": "bootstrap",
@@ -54,7 +57,8 @@
       "stargazers": 8,
       "forkCount": 3,
       "openIssues": 19,
-      "lastIssueCreatedAt": "2021-08-12T17:28:47Z"
+      "lastIssueCreatedAt": "2021-08-12T17:28:47Z",
+      "contributors": 4
     },
     {
       "name": "react-components",
@@ -69,7 +73,8 @@
       "stargazers": 8,
       "forkCount": 6,
       "openIssues": 35,
-      "lastIssueCreatedAt": "2021-08-20T05:50:01Z"
+      "lastIssueCreatedAt": "2021-08-20T05:50:01Z",
+      "contributors": 8
     },
     {
       "name": "vanilla-pattern-library",
@@ -84,7 +89,8 @@
       "stargazers": 7,
       "forkCount": 10,
       "openIssues": 18,
-      "lastIssueCreatedAt": "2021-08-12T17:28:43Z"
+      "lastIssueCreatedAt": "2021-08-12T17:28:43Z",
+      "contributors": 9
     },
     {
       "name": "repo-operator",
@@ -99,7 +105,8 @@
       "stargazers": 6,
       "forkCount": 2,
       "openIssues": 0,
-      "lastIssueCreatedAt": "2019-11-29T06:49:55Z"
+      "lastIssueCreatedAt": "2019-11-29T06:49:55Z",
+      "contributors": 1
     },
     {
       "name": "magic-iframe",
@@ -114,7 +121,8 @@
       "stargazers": 5,
       "forkCount": 2,
       "openIssues": 0,
-      "lastIssueCreatedAt": "2020-10-01T07:50:15Z"
+      "lastIssueCreatedAt": "2020-10-01T07:50:15Z",
+      "contributors": 1
     },
     {
       "name": "seb-angular-material",
@@ -129,7 +137,8 @@
       "stargazers": 4,
       "forkCount": 1,
       "openIssues": 23,
-      "lastIssueCreatedAt": "2021-08-12T17:28:53Z"
+      "lastIssueCreatedAt": "2021-08-12T17:28:53Z",
+      "contributors": 6
     },
     {
       "name": "seb-pictograms",
@@ -144,7 +153,8 @@
       "stargazers": 3,
       "forkCount": 1,
       "openIssues": 1,
-      "lastIssueCreatedAt": "2021-02-09T15:13:36Z"
+      "lastIssueCreatedAt": "2021-02-09T15:13:36Z",
+      "contributors": 7
     },
     {
       "name": "frontend-tools",
@@ -159,14 +169,15 @@
       "stargazers": 3,
       "forkCount": 0,
       "openIssues": 2,
-      "lastIssueCreatedAt": "2021-03-16T10:50:59Z"
+      "lastIssueCreatedAt": "2021-03-16T10:50:59Z",
+      "contributors": 5
     },
     {
       "name": "sebgroup.github.io",
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2021-08-26T23:32:26Z",
+      "pushedAt": "2021-08-27T23:31:57Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -189,7 +200,8 @@
       "stargazers": 2,
       "forkCount": 0,
       "openIssues": 8,
-      "lastIssueCreatedAt": "2019-11-28T16:44:38Z"
+      "lastIssueCreatedAt": "2019-11-28T16:44:38Z",
+      "contributors": 2
     },
     {
       "name": "fonts",
@@ -204,7 +216,8 @@
       "stargazers": 1,
       "forkCount": 1,
       "openIssues": 0,
-      "lastIssueCreatedAt": "2021-07-08T09:29:10Z"
+      "lastIssueCreatedAt": "2021-07-08T09:29:10Z",
+      "contributors": 2
     },
     {
       "name": "ng-debug",
@@ -218,7 +231,8 @@
       },
       "stargazers": 1,
       "forkCount": 1,
-      "openIssues": 0
+      "openIssues": 0,
+      "contributors": 6
     },
     {
       "name": "yttringar-oauth",
@@ -233,7 +247,8 @@
       "stargazers": 1,
       "forkCount": 0,
       "openIssues": 1,
-      "lastIssueCreatedAt": "2019-11-28T16:27:35Z"
+      "lastIssueCreatedAt": "2019-11-28T16:27:35Z",
+      "contributors": 3
     },
     {
       "name": "thumbs-up",
@@ -247,7 +262,8 @@
       },
       "stargazers": 1,
       "forkCount": 0,
-      "openIssues": 0
+      "openIssues": 0,
+      "contributors": 3
     },
     {
       "name": "document-write-intervene",
@@ -262,7 +278,8 @@
       "stargazers": 0,
       "forkCount": 0,
       "openIssues": 0,
-      "lastIssueCreatedAt": "2018-10-08T14:23:29Z"
+      "lastIssueCreatedAt": "2018-10-08T14:23:29Z",
+      "contributors": 2
     },
     {
       "name": "ng-wizard",
@@ -277,7 +294,8 @@
       "stargazers": 0,
       "forkCount": 4,
       "openIssues": 3,
-      "lastIssueCreatedAt": "2021-06-04T11:43:42Z"
+      "lastIssueCreatedAt": "2021-06-04T11:43:42Z",
+      "contributors": 3
     },
     {
       "name": "ngx-toastr",
@@ -291,7 +309,8 @@
       },
       "stargazers": 0,
       "forkCount": 0,
-      "openIssues": 0
+      "openIssues": 0,
+      "contributors": 1
     },
     {
       "name": "ng-bootstrap",
@@ -306,7 +325,8 @@
       "stargazers": 0,
       "forkCount": 0,
       "openIssues": 2,
-      "lastIssueCreatedAt": "2020-05-29T07:21:57Z"
+      "lastIssueCreatedAt": "2020-05-29T07:21:57Z",
+      "contributors": 1
     },
     {
       "name": "aci-search",
@@ -320,7 +340,8 @@
       },
       "stargazers": 0,
       "forkCount": 0,
-      "openIssues": 0
+      "openIssues": 0,
+      "contributors": 1
     },
     {
       "name": "react-examples",
@@ -334,7 +355,8 @@
       },
       "stargazers": 0,
       "forkCount": 0,
-      "openIssues": 0
+      "openIssues": 0,
+      "contributors": 1
     },
     {
       "name": "ng-dynamic-form",
@@ -348,7 +370,8 @@
       },
       "stargazers": 0,
       "forkCount": 0,
-      "openIssues": 0
+      "openIssues": 0,
+      "contributors": 1
     },
     {
       "name": "react-wizard",
@@ -363,7 +386,8 @@
       "stargazers": 0,
       "forkCount": 0,
       "openIssues": 2,
-      "lastIssueCreatedAt": "2021-08-25T02:49:50Z"
+      "lastIssueCreatedAt": "2021-08-25T02:49:50Z",
+      "contributors": 2
     }
   ]
 }
