@@ -1,6 +1,6 @@
 {
   "closedIssuesThisMonth": 24,
-  "contributors": 77,
+  "contributors": 85,
   "projects": [
     {
       "name": "design-library",
@@ -33,7 +33,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/ng-components",
       "url": "https://github.com/sebgroup/ng-components",
-      "pushedAt": "2021-08-12T03:51:29Z",
+      "pushedAt": "2021-08-31T18:54:49Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -49,7 +49,7 @@
       "description": "A standalone bootstrap theme for SEB",
       "homepageUrl": "https://sebgroup.github.io/bootstrap/",
       "url": "https://github.com/sebgroup/bootstrap",
-      "pushedAt": "2021-08-11T17:56:37Z",
+      "pushedAt": "2021-08-31T18:29:56Z",
       "primaryLanguage": {
         "name": "HTML",
         "color": "#e34c26"
@@ -65,7 +65,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/react-components/",
       "url": "https://github.com/sebgroup/react-components",
-      "pushedAt": "2021-08-30T07:58:47Z",
+      "pushedAt": "2021-08-31T05:11:51Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -73,7 +73,8 @@
       "stargazers": 8,
       "forkCount": 6,
       "openIssues": 33,
-      "lastIssueCreatedAt": "2021-08-20T05:50:01Z"
+      "lastIssueCreatedAt": "2021-08-20T05:50:01Z",
+      "contributors": 8
     },
     {
       "name": "vanilla-pattern-library",
@@ -128,7 +129,7 @@
       "description": "angular material theme",
       "homepageUrl": "https://sebgroup.github.io/seb-angular-material",
       "url": "https://github.com/sebgroup/seb-angular-material",
-      "pushedAt": "2021-08-20T11:19:39Z",
+      "pushedAt": "2021-08-31T18:03:40Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -160,7 +161,7 @@
       "description": "A set of frontend tools written in Typescript",
       "homepageUrl": "https://github.com/sebgroup/frontend-tools/wiki",
       "url": "https://github.com/sebgroup/frontend-tools",
-      "pushedAt": "2021-08-27T03:24:38Z",
+      "pushedAt": "2021-08-31T19:49:56Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -176,7 +177,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2021-08-29T23:32:02Z",
+      "pushedAt": "2021-08-30T23:32:13Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -223,7 +224,7 @@
       "description": null,
       "homepageUrl": null,
       "url": "https://github.com/sebgroup/ng-debug",
-      "pushedAt": "2021-08-12T00:19:28Z",
+      "pushedAt": "2021-08-31T18:44:17Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -285,7 +286,7 @@
       "description": "Wizard component built for angular 12+",
       "homepageUrl": "https://sebgroup.github.io/ng-wizard/",
       "url": "https://github.com/sebgroup/ng-wizard",
-      "pushedAt": "2021-08-03T21:39:44Z",
+      "pushedAt": "2021-08-31T18:26:14Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -316,7 +317,7 @@
       "description": "A SEB themed stylesheet for ng-bootstrap",
       "homepageUrl": "https://sebgroup.github.io/ng-bootstrap/master",
       "url": "https://github.com/sebgroup/ng-bootstrap",
-      "pushedAt": "2021-08-11T17:54:42Z",
+      "pushedAt": "2021-08-31T18:29:41Z",
       "primaryLanguage": {
         "name": "HTML",
         "color": "#e34c26"
