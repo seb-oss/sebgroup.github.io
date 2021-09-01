@@ -1,6 +1,6 @@
 {
-  "closedIssuesThisMonth": 24,
-  "contributors": 85,
+  "closedIssuesThisMonth": 0,
+  "contributors": 77,
   "projects": [
     {
       "name": "design-library",
@@ -65,7 +65,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/react-components/",
       "url": "https://github.com/sebgroup/react-components",
-      "pushedAt": "2021-08-31T05:11:51Z",
+      "pushedAt": "2021-09-01T03:36:58Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -73,8 +73,7 @@
       "stargazers": 8,
       "forkCount": 6,
       "openIssues": 33,
-      "lastIssueCreatedAt": "2021-08-20T05:50:01Z",
-      "contributors": 8
+      "lastIssueCreatedAt": "2021-08-20T05:50:01Z"
     },
     {
       "name": "vanilla-pattern-library",
@@ -177,7 +176,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2021-08-30T23:32:13Z",
+      "pushedAt": "2021-09-01T00:18:25Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -363,7 +362,7 @@
       "description": "Angular Dynamic form generator",
       "homepageUrl": null,
       "url": "https://github.com/sebgroup/ng-dynamic-form",
-      "pushedAt": "2021-08-25T07:31:14Z",
+      "pushedAt": "2021-08-31T23:50:46Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
