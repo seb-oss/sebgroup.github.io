@@ -1,6 +1,6 @@
 {
-  "closedIssuesThisMonth": 4,
-  "contributors": 85,
+  "closedIssuesThisMonth": 5,
+  "contributors": 77,
   "projects": [
     {
       "name": "design-library",
@@ -65,16 +65,15 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/react-components/",
       "url": "https://github.com/sebgroup/react-components",
-      "pushedAt": "2021-09-09T13:30:48Z",
+      "pushedAt": "2021-09-10T14:16:37Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
       },
       "stargazers": 8,
       "forkCount": 6,
-      "openIssues": 29,
-      "lastIssueCreatedAt": "2021-08-20T05:50:01Z",
-      "contributors": 8
+      "openIssues": 28,
+      "lastIssueCreatedAt": "2021-08-20T05:50:01Z"
     },
     {
       "name": "vanilla-pattern-library",
@@ -177,7 +176,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2021-09-08T23:32:34Z",
+      "pushedAt": "2021-09-09T23:32:17Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
