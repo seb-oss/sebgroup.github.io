@@ -1,6 +1,6 @@
 {
   "closedIssuesThisMonth": 5,
-  "contributors": 83,
+  "contributors": 85,
   "projects": [
     {
       "name": "design-library",
@@ -25,7 +25,8 @@
       "stargazers": 11,
       "forkCount": 10,
       "openIssues": 2,
-      "lastIssueCreatedAt": "2019-12-16T10:08:28Z"
+      "lastIssueCreatedAt": "2019-12-16T10:08:28Z",
+      "contributors": 2
     },
     {
       "name": "ng-components",
@@ -176,7 +177,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2021-09-13T23:32:24Z",
+      "pushedAt": "2021-09-14T23:32:15Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
