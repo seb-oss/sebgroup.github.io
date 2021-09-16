@@ -1,6 +1,6 @@
 {
-  "closedIssuesThisMonth": 5,
-  "contributors": 85,
+  "closedIssuesThisMonth": 6,
+  "contributors": 82,
   "projects": [
     {
       "name": "design-library",
@@ -177,7 +177,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2021-09-14T23:32:15Z",
+      "pushedAt": "2021-09-15T23:32:31Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -301,16 +301,15 @@
       "description": "Wizard component built for angular 12+",
       "homepageUrl": "https://sebgroup.github.io/ng-wizard/",
       "url": "https://github.com/sebgroup/ng-wizard",
-      "pushedAt": "2021-08-31T18:26:14Z",
+      "pushedAt": "2021-09-16T07:25:55Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
       },
       "stargazers": 0,
       "forkCount": 4,
-      "openIssues": 3,
-      "lastIssueCreatedAt": "2021-06-04T11:43:42Z",
-      "contributors": 3
+      "openIssues": 2,
+      "lastIssueCreatedAt": "2021-06-04T11:43:42Z"
     },
     {
       "name": "ngx-toastr",
