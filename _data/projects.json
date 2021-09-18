@@ -1,6 +1,6 @@
 {
   "closedIssuesThisMonth": 6,
-  "contributors": 82,
+  "contributors": 85,
   "projects": [
     {
       "name": "design-library",
@@ -177,7 +177,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2021-09-16T23:32:28Z",
+      "pushedAt": "2021-09-17T23:32:37Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -309,7 +309,8 @@
       "stargazers": 0,
       "forkCount": 4,
       "openIssues": 2,
-      "lastIssueCreatedAt": "2021-06-04T11:43:42Z"
+      "lastIssueCreatedAt": "2021-06-04T11:43:42Z",
+      "contributors": 3
     },
     {
       "name": "ngx-toastr",
