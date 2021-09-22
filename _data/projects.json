@@ -1,6 +1,6 @@
 {
   "closedIssuesThisMonth": 15,
-  "contributors": 85,
+  "contributors": 93,
   "projects": [
     {
       "name": "design-library",
@@ -11,8 +11,8 @@
       "primaryLanguage": null,
       "stargazers": 13,
       "forkCount": 1,
-      "openIssues": 64,
-      "lastIssueCreatedAt": "2021-06-16T16:08:15Z",
+      "openIssues": 65,
+      "lastIssueCreatedAt": "2021-09-22T15:27:25Z",
       "contributors": 3
     },
     {
@@ -40,8 +40,8 @@
       },
       "stargazers": 9,
       "forkCount": 6,
-      "openIssues": 28,
-      "lastIssueCreatedAt": "2021-08-20T05:50:01Z",
+      "openIssues": 29,
+      "lastIssueCreatedAt": "2021-09-22T15:35:49Z",
       "contributors": 8
     },
     {
@@ -56,8 +56,8 @@
       },
       "stargazers": 9,
       "forkCount": 5,
-      "openIssues": 30,
-      "lastIssueCreatedAt": "2021-08-12T17:28:50Z",
+      "openIssues": 31,
+      "lastIssueCreatedAt": "2021-09-22T15:35:55Z",
       "contributors": 11
     },
     {
@@ -65,15 +65,15 @@
       "description": "A standalone bootstrap theme for SEB",
       "homepageUrl": "https://sebgroup.github.io/bootstrap/",
       "url": "https://github.com/sebgroup/bootstrap",
-      "pushedAt": "2021-09-20T23:33:10Z",
+      "pushedAt": "2021-09-22T19:29:15Z",
       "primaryLanguage": {
         "name": "HTML",
         "color": "#e34c26"
       },
       "stargazers": 8,
       "forkCount": 3,
-      "openIssues": 19,
-      "lastIssueCreatedAt": "2021-08-12T17:28:47Z",
+      "openIssues": 20,
+      "lastIssueCreatedAt": "2021-09-22T15:35:59Z",
       "contributors": 4
     },
     {
@@ -88,8 +88,8 @@
       },
       "stargazers": 8,
       "forkCount": 10,
-      "openIssues": 18,
-      "lastIssueCreatedAt": "2021-08-12T17:28:43Z",
+      "openIssues": 19,
+      "lastIssueCreatedAt": "2021-09-22T15:36:03Z",
       "contributors": 9
     },
     {
@@ -136,8 +136,8 @@
       },
       "stargazers": 4,
       "forkCount": 1,
-      "openIssues": 23,
-      "lastIssueCreatedAt": "2021-08-12T17:28:53Z",
+      "openIssues": 24,
+      "lastIssueCreatedAt": "2021-09-22T15:35:52Z",
       "contributors": 6
     },
     {
@@ -177,7 +177,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2021-09-20T23:31:37Z",
+      "pushedAt": "2021-09-21T23:33:09Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -185,7 +185,8 @@
       "stargazers": 3,
       "forkCount": 0,
       "openIssues": 0,
-      "lastIssueCreatedAt": "2020-04-01T06:12:32Z"
+      "lastIssueCreatedAt": "2020-04-01T06:12:32Z",
+      "contributors": 4
     },
     {
       "name": "yttringar",
@@ -216,7 +217,8 @@
       "stargazers": 2,
       "forkCount": 0,
       "openIssues": 31,
-      "lastIssueCreatedAt": "2021-09-21T06:53:55Z"
+      "lastIssueCreatedAt": "2021-09-21T06:53:55Z",
+      "contributors": 4
     },
     {
       "name": "fonts",
@@ -285,7 +287,7 @@
       "description": "Angular Dynamic form generator",
       "homepageUrl": null,
       "url": "https://github.com/sebgroup/ng-dynamic-form",
-      "pushedAt": "2021-09-21T02:09:18Z",
+      "pushedAt": "2021-09-22T07:33:22Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
