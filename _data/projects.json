@@ -1,6 +1,6 @@
 {
   "closedIssuesThisMonth": 15,
-  "contributors": 93,
+  "contributors": 80,
   "projects": [
     {
       "name": "design-library",
@@ -81,7 +81,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/vanilla-pattern-library/",
       "url": "https://github.com/sebgroup/vanilla-pattern-library",
-      "pushedAt": "2021-09-08T11:14:21Z",
+      "pushedAt": "2021-09-23T13:18:13Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -89,8 +89,7 @@
       "stargazers": 8,
       "forkCount": 10,
       "openIssues": 19,
-      "lastIssueCreatedAt": "2021-09-22T15:36:03Z",
-      "contributors": 9
+      "lastIssueCreatedAt": "2021-09-22T15:36:03Z"
     },
     {
       "name": "repo-operator",
@@ -177,7 +176,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2021-09-21T23:33:09Z",
+      "pushedAt": "2021-09-22T23:32:45Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -185,8 +184,7 @@
       "stargazers": 3,
       "forkCount": 0,
       "openIssues": 0,
-      "lastIssueCreatedAt": "2020-04-01T06:12:32Z",
-      "contributors": 4
+      "lastIssueCreatedAt": "2020-04-01T06:12:32Z"
     },
     {
       "name": "yttringar",
@@ -209,7 +207,7 @@
       "description": null,
       "homepageUrl": null,
       "url": "https://github.com/sebgroup/green",
-      "pushedAt": "2021-09-21T12:46:30Z",
+      "pushedAt": "2021-09-23T06:40:17Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -365,7 +363,7 @@
       "description": "A SEB themed stylesheet for ng-bootstrap",
       "homepageUrl": "https://sebgroup.github.io/ng-bootstrap/master",
       "url": "https://github.com/sebgroup/ng-bootstrap",
-      "pushedAt": "2021-09-20T23:32:47Z",
+      "pushedAt": "2021-09-23T00:31:58Z",
       "primaryLanguage": {
         "name": "HTML",
         "color": "#e34c26"
