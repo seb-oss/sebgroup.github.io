@@ -1,6 +1,6 @@
 {
   "closedIssuesThisMonth": 0,
-  "contributors": 89,
+  "contributors": 86,
   "projects": [
     {
       "name": "design-library",
@@ -138,7 +138,7 @@
       "forkCount": 1,
       "openIssues": 25,
       "lastIssueCreatedAt": "2021-09-24T14:36:36Z",
-      "contributors": 6
+      "contributors": 5
     },
     {
       "name": "seb-pictograms",
@@ -154,7 +154,7 @@
       "forkCount": 1,
       "openIssues": 1,
       "lastIssueCreatedAt": "2021-02-09T15:13:36Z",
-      "contributors": 7
+      "contributors": 6
     },
     {
       "name": "frontend-tools",
@@ -177,7 +177,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2021-10-02T23:32:19Z",
+      "pushedAt": "2021-10-03T23:32:33Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -248,7 +248,7 @@
       "stargazers": 1,
       "forkCount": 1,
       "openIssues": 0,
-      "contributors": 6
+      "contributors": 5
     },
     {
       "name": "yttringar-oauth",
