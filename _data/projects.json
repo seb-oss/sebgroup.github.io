@@ -1,6 +1,6 @@
 {
   "closedIssuesThisMonth": 0,
-  "contributors": 86,
+  "contributors": 82,
   "projects": [
     {
       "name": "design-library",
@@ -177,7 +177,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2021-10-03T23:32:33Z",
+      "pushedAt": "2021-10-04T23:31:28Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -208,7 +208,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/green/latest/chlorophyll",
       "url": "https://github.com/sebgroup/green",
-      "pushedAt": "2021-09-29T16:48:27Z",
+      "pushedAt": "2021-10-05T11:11:39Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -216,8 +216,7 @@
       "stargazers": 2,
       "forkCount": 0,
       "openIssues": 28,
-      "lastIssueCreatedAt": "2021-09-29T08:57:20Z",
-      "contributors": 4
+      "lastIssueCreatedAt": "2021-09-29T08:57:20Z"
     },
     {
       "name": "fonts",
@@ -301,7 +300,7 @@
       "description": "react wizard component",
       "homepageUrl": null,
       "url": "https://github.com/sebgroup/react-wizard",
-      "pushedAt": "2021-09-09T02:44:36Z",
+      "pushedAt": "2021-10-05T08:10:13Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
