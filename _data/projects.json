@@ -1,6 +1,6 @@
 {
   "closedIssuesThisMonth": 0,
-  "contributors": 82,
+  "contributors": 86,
   "projects": [
     {
       "name": "design-library",
@@ -49,7 +49,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/ng-components",
       "url": "https://github.com/sebgroup/ng-components",
-      "pushedAt": "2021-09-21T13:35:56Z",
+      "pushedAt": "2021-10-06T14:01:54Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -145,7 +145,7 @@
       "description": "SEB Pictograms CSS library",
       "homepageUrl": "https://sebgroup.github.io/seb-pictograms/",
       "url": "https://github.com/sebgroup/seb-pictograms",
-      "pushedAt": "2021-08-12T20:51:05Z",
+      "pushedAt": "2021-10-06T22:08:10Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -177,7 +177,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2021-10-04T23:31:28Z",
+      "pushedAt": "2021-10-05T23:32:50Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -216,7 +216,8 @@
       "stargazers": 2,
       "forkCount": 0,
       "openIssues": 28,
-      "lastIssueCreatedAt": "2021-09-29T08:57:20Z"
+      "lastIssueCreatedAt": "2021-09-29T08:57:20Z",
+      "contributors": 4
     },
     {
       "name": "fonts",
@@ -239,7 +240,7 @@
       "description": null,
       "homepageUrl": null,
       "url": "https://github.com/sebgroup/ng-debug",
-      "pushedAt": "2021-08-31T18:44:17Z",
+      "pushedAt": "2021-10-06T12:00:11Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
