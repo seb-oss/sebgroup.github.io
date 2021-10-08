@@ -1,6 +1,6 @@
 {
   "closedIssuesThisMonth": 1,
-  "contributors": 84,
+  "contributors": 86,
   "projects": [
     {
       "name": "design-library",
@@ -25,7 +25,8 @@
       "stargazers": 11,
       "forkCount": 10,
       "openIssues": 2,
-      "lastIssueCreatedAt": "2019-12-16T10:08:28Z"
+      "lastIssueCreatedAt": "2019-12-16T10:08:28Z",
+      "contributors": 2
     },
     {
       "name": "react-components",
@@ -176,7 +177,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2021-10-06T23:32:38Z",
+      "pushedAt": "2021-10-07T23:32:46Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
