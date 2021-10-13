@@ -1,6 +1,6 @@
 {
-  "closedIssuesThisMonth": 1,
-  "contributors": 86,
+  "closedIssuesThisMonth": 3,
+  "contributors": 82,
   "projects": [
     {
       "name": "design-library",
@@ -177,7 +177,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2021-10-11T23:32:33Z",
+      "pushedAt": "2021-10-12T23:32:47Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -208,16 +208,15 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/green/latest/chlorophyll",
       "url": "https://github.com/sebgroup/green",
-      "pushedAt": "2021-10-07T15:15:21Z",
+      "pushedAt": "2021-10-13T12:38:24Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
       },
       "stargazers": 2,
       "forkCount": 0,
-      "openIssues": 28,
-      "lastIssueCreatedAt": "2021-10-07T08:32:54Z",
-      "contributors": 4
+      "openIssues": 26,
+      "lastIssueCreatedAt": "2021-10-07T08:32:54Z"
     },
     {
       "name": "fonts",
