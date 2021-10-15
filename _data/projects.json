@@ -1,6 +1,6 @@
 {
   "closedIssuesThisMonth": 5,
-  "contributors": 82,
+  "contributors": 87,
   "projects": [
     {
       "name": "design-library",
@@ -49,7 +49,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/ng-components",
       "url": "https://github.com/sebgroup/ng-components",
-      "pushedAt": "2021-10-06T14:01:54Z",
+      "pushedAt": "2021-10-15T05:51:40Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -177,7 +177,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2021-10-13T23:32:40Z",
+      "pushedAt": "2021-10-14T23:32:48Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -216,7 +216,8 @@
       "stargazers": 2,
       "forkCount": 0,
       "openIssues": 26,
-      "lastIssueCreatedAt": "2021-10-14T13:19:59Z"
+      "lastIssueCreatedAt": "2021-10-14T13:19:59Z",
+      "contributors": 5
     },
     {
       "name": "fonts",
