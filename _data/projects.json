@@ -1,5 +1,5 @@
 {
-  "closedIssuesThisMonth": 11,
+  "closedIssuesThisMonth": 12,
   "contributors": 82,
   "projects": [
     {
@@ -33,7 +33,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/react-components/",
       "url": "https://github.com/sebgroup/react-components",
-      "pushedAt": "2021-09-30T02:39:02Z",
+      "pushedAt": "2021-10-27T03:28:48Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -49,7 +49,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/ng-components",
       "url": "https://github.com/sebgroup/ng-components",
-      "pushedAt": "2021-10-26T09:04:48Z",
+      "pushedAt": "2021-10-27T02:24:44Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -177,7 +177,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2021-10-25T23:33:19Z",
+      "pushedAt": "2021-10-26T23:33:04Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -208,14 +208,14 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/green/latest/chlorophyll",
       "url": "https://github.com/sebgroup/green",
-      "pushedAt": "2021-10-26T14:27:41Z",
+      "pushedAt": "2021-10-27T11:52:19Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
       },
       "stargazers": 2,
       "forkCount": 0,
-      "openIssues": 27,
+      "openIssues": 26,
       "lastIssueCreatedAt": "2021-10-26T07:29:42Z"
     },
     {
