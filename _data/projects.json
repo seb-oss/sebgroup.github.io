@@ -1,6 +1,6 @@
 {
-  "closedIssuesThisMonth": 12,
-  "contributors": 82,
+  "closedIssuesThisMonth": 13,
+  "contributors": 87,
   "projects": [
     {
       "name": "design-library",
@@ -177,7 +177,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2021-10-26T23:33:04Z",
+      "pushedAt": "2021-10-27T23:33:23Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -208,15 +208,16 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/green/latest/chlorophyll",
       "url": "https://github.com/sebgroup/green",
-      "pushedAt": "2021-10-27T11:52:19Z",
+      "pushedAt": "2021-10-28T15:52:13Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
       },
       "stargazers": 2,
       "forkCount": 0,
-      "openIssues": 26,
-      "lastIssueCreatedAt": "2021-10-26T07:29:42Z"
+      "openIssues": 40,
+      "lastIssueCreatedAt": "2021-10-28T15:04:43Z",
+      "contributors": 5
     },
     {
       "name": "fonts",
@@ -285,7 +286,7 @@
       "description": "Angular Dynamic form generator",
       "homepageUrl": null,
       "url": "https://github.com/sebgroup/ng-dynamic-form",
-      "pushedAt": "2021-09-22T07:33:22Z",
+      "pushedAt": "2021-10-28T04:01:17Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -300,7 +301,7 @@
       "description": "react wizard component",
       "homepageUrl": null,
       "url": "https://github.com/sebgroup/react-wizard",
-      "pushedAt": "2021-10-05T08:10:13Z",
+      "pushedAt": "2021-10-28T08:42:50Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -340,7 +341,7 @@
       "stargazers": 0,
       "forkCount": 4,
       "openIssues": 4,
-      "lastIssueCreatedAt": "2021-10-11T13:46:57Z",
+      "lastIssueCreatedAt": "2021-10-28T06:17:36Z",
       "contributors": 3
     },
     {
