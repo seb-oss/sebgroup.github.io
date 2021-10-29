@@ -177,7 +177,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2021-10-27T23:33:23Z",
+      "pushedAt": "2021-10-28T23:33:11Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -208,7 +208,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/green/latest/chlorophyll",
       "url": "https://github.com/sebgroup/green",
-      "pushedAt": "2021-10-28T15:52:13Z",
+      "pushedAt": "2021-10-29T07:12:13Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -301,7 +301,7 @@
       "description": "react wizard component",
       "homepageUrl": null,
       "url": "https://github.com/sebgroup/react-wizard",
-      "pushedAt": "2021-10-28T08:42:50Z",
+      "pushedAt": "2021-10-29T09:39:41Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
