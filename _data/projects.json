@@ -93,6 +93,22 @@
       "contributors": 9
     },
     {
+      "name": "magic-iframe",
+      "description": "A magical iframe component ",
+      "homepageUrl": "https://sebgroup.github.io/magic-iframe/",
+      "url": "https://github.com/sebgroup/magic-iframe",
+      "pushedAt": "2021-08-12T04:17:22Z",
+      "primaryLanguage": {
+        "name": "TypeScript",
+        "color": "#2b7489"
+      },
+      "stargazers": 7,
+      "forkCount": 2,
+      "openIssues": 0,
+      "lastIssueCreatedAt": "2020-10-01T07:50:15Z",
+      "contributors": 1
+    },
+    {
       "name": "repo-operator",
       "description": "A kubernetes operator to manage repositories",
       "homepageUrl": null,
@@ -106,22 +122,6 @@
       "forkCount": 2,
       "openIssues": 0,
       "lastIssueCreatedAt": "2019-11-29T06:49:55Z",
-      "contributors": 1
-    },
-    {
-      "name": "magic-iframe",
-      "description": "A magical iframe component ",
-      "homepageUrl": "https://sebgroup.github.io/magic-iframe/",
-      "url": "https://github.com/sebgroup/magic-iframe",
-      "pushedAt": "2021-08-12T04:17:22Z",
-      "primaryLanguage": {
-        "name": "TypeScript",
-        "color": "#2b7489"
-      },
-      "stargazers": 6,
-      "forkCount": 2,
-      "openIssues": 0,
-      "lastIssueCreatedAt": "2020-10-01T07:50:15Z",
       "contributors": 1
     },
     {
@@ -177,7 +177,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2021-10-28T23:33:11Z",
+      "pushedAt": "2021-10-29T23:33:23Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
