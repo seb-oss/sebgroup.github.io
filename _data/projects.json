@@ -1,6 +1,6 @@
 {
-  "closedIssuesThisMonth": 13,
-  "contributors": 87,
+  "closedIssuesThisMonth": 2,
+  "contributors": 81,
   "projects": [
     {
       "name": "design-library",
@@ -177,7 +177,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2021-10-30T23:33:02Z",
+      "pushedAt": "2021-11-01T00:18:34Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -208,16 +208,15 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/green/latest/chlorophyll",
       "url": "https://github.com/sebgroup/green",
-      "pushedAt": "2021-10-29T07:12:13Z",
+      "pushedAt": "2021-11-01T15:31:08Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
       },
       "stargazers": 2,
-      "forkCount": 0,
+      "forkCount": 1,
       "openIssues": 40,
-      "lastIssueCreatedAt": "2021-10-28T15:04:43Z",
-      "contributors": 5
+      "lastIssueCreatedAt": "2021-11-01T13:06:36Z"
     },
     {
       "name": "fonts",
@@ -286,15 +285,14 @@
       "description": "Angular Dynamic form generator",
       "homepageUrl": null,
       "url": "https://github.com/sebgroup/ng-dynamic-form",
-      "pushedAt": "2021-10-28T04:01:17Z",
+      "pushedAt": "2021-11-01T07:14:43Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
       },
       "stargazers": 1,
       "forkCount": 0,
-      "openIssues": 0,
-      "contributors": 1
+      "openIssues": 0
     },
     {
       "name": "react-wizard",
