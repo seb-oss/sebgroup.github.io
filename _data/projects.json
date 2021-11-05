@@ -102,7 +102,7 @@
         "name": "TypeScript",
         "color": "#2b7489"
       },
-      "stargazers": 7,
+      "stargazers": 8,
       "forkCount": 2,
       "openIssues": 0,
       "lastIssueCreatedAt": "2020-10-01T07:50:15Z",
@@ -177,7 +177,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2021-11-03T23:31:50Z",
+      "pushedAt": "2021-11-04T23:33:10Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
