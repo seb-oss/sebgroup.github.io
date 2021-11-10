@@ -3,6 +3,19 @@
   "contributors": 87,
   "projects": [
     {
+      "name": "openbanking",
+      "description": "SEB is banking outside the box! Find additional documentation here that will help you integrate with our APIs.",
+      "homepageUrl": "https://developer.sebgroup.com",
+      "url": "https://github.com/sebgroup/openbanking",
+      "pushedAt": "2021-10-07T20:30:26Z",
+      "primaryLanguage": null,
+      "stargazers": 13,
+      "forkCount": 10,
+      "openIssues": 2,
+      "lastIssueCreatedAt": "2019-12-16T10:08:28Z",
+      "contributors": 2
+    },
+    {
       "name": "design-library",
       "description": "Design Library is a set of individual styles and components, that when combined make delightful, intuitive designs and shape a consistent SEB user experience.",
       "homepageUrl": "http://designlibrary.sebgroup.com",
@@ -14,19 +27,6 @@
       "openIssues": 66,
       "lastIssueCreatedAt": "2021-09-24T14:26:09Z",
       "contributors": 3
-    },
-    {
-      "name": "openbanking",
-      "description": "SEB is banking outside the box! Find additional documentation here that will help you integrate with our APIs.",
-      "homepageUrl": "https://developer.sebgroup.com",
-      "url": "https://github.com/sebgroup/openbanking",
-      "pushedAt": "2021-10-07T20:30:26Z",
-      "primaryLanguage": null,
-      "stargazers": 12,
-      "forkCount": 10,
-      "openIssues": 2,
-      "lastIssueCreatedAt": "2019-12-16T10:08:28Z",
-      "contributors": 2
     },
     {
       "name": "react-components",
@@ -177,7 +177,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2021-11-08T23:33:10Z",
+      "pushedAt": "2021-11-09T23:33:19Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
