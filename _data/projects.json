@@ -1,6 +1,6 @@
 {
   "closedIssuesThisMonth": 7,
-  "contributors": 80,
+  "contributors": 87,
   "projects": [
     {
       "name": "openbanking",
@@ -24,8 +24,8 @@
       "primaryLanguage": null,
       "stargazers": 13,
       "forkCount": 1,
-      "openIssues": 67,
-      "lastIssueCreatedAt": "2021-11-16T17:18:18Z",
+      "openIssues": 68,
+      "lastIssueCreatedAt": "2021-11-17T11:41:09Z",
       "contributors": 3
     },
     {
@@ -40,8 +40,8 @@
       },
       "stargazers": 9,
       "forkCount": 6,
-      "openIssues": 30,
-      "lastIssueCreatedAt": "2021-09-24T14:36:42Z",
+      "openIssues": 31,
+      "lastIssueCreatedAt": "2021-11-17T11:46:10Z",
       "contributors": 8
     },
     {
@@ -56,8 +56,8 @@
       },
       "stargazers": 9,
       "forkCount": 6,
-      "openIssues": 32,
-      "lastIssueCreatedAt": "2021-09-24T14:36:30Z",
+      "openIssues": 33,
+      "lastIssueCreatedAt": "2021-11-17T11:46:04Z",
       "contributors": 11
     },
     {
@@ -88,8 +88,8 @@
       },
       "stargazers": 8,
       "forkCount": 3,
-      "openIssues": 23,
-      "lastIssueCreatedAt": "2021-11-16T17:22:58Z",
+      "openIssues": 24,
+      "lastIssueCreatedAt": "2021-11-17T11:46:01Z",
       "contributors": 4
     },
     {
@@ -104,8 +104,8 @@
       },
       "stargazers": 8,
       "forkCount": 10,
-      "openIssues": 21,
-      "lastIssueCreatedAt": "2021-11-16T17:22:18Z",
+      "openIssues": 22,
+      "lastIssueCreatedAt": "2021-11-17T11:45:58Z",
       "contributors": 9
     },
     {
@@ -136,8 +136,8 @@
       },
       "stargazers": 4,
       "forkCount": 1,
-      "openIssues": 25,
-      "lastIssueCreatedAt": "2021-09-24T14:36:36Z",
+      "openIssues": 26,
+      "lastIssueCreatedAt": "2021-11-17T11:46:07Z",
       "contributors": 5
     },
     {
@@ -177,7 +177,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2021-11-15T23:33:13Z",
+      "pushedAt": "2021-11-16T23:33:08Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -216,7 +216,8 @@
       "stargazers": 2,
       "forkCount": 1,
       "openIssues": 39,
-      "lastIssueCreatedAt": "2021-11-16T08:19:18Z"
+      "lastIssueCreatedAt": "2021-11-16T08:19:18Z",
+      "contributors": 5
     },
     {
       "name": "fonts",
@@ -300,7 +301,7 @@
       "description": "react wizard component",
       "homepageUrl": null,
       "url": "https://github.com/sebgroup/react-wizard",
-      "pushedAt": "2021-11-16T09:43:29Z",
+      "pushedAt": "2021-11-17T05:52:20Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -308,7 +309,8 @@
       "stargazers": 1,
       "forkCount": 0,
       "openIssues": 2,
-      "lastIssueCreatedAt": "2021-08-25T02:49:50Z"
+      "lastIssueCreatedAt": "2021-08-25T02:49:50Z",
+      "contributors": 2
     },
     {
       "name": "document-write-intervene",
