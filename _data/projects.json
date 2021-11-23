@@ -33,7 +33,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/react-components/",
       "url": "https://github.com/sebgroup/react-components",
-      "pushedAt": "2021-11-22T08:41:36Z",
+      "pushedAt": "2021-11-23T01:58:17Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -177,7 +177,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2021-11-21T23:33:00Z",
+      "pushedAt": "2021-11-22T23:33:09Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -208,15 +208,15 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/green/latest/chlorophyll",
       "url": "https://github.com/sebgroup/green",
-      "pushedAt": "2021-11-20T13:34:12Z",
+      "pushedAt": "2021-11-23T12:58:58Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
       },
       "stargazers": 2,
       "forkCount": 1,
-      "openIssues": 39,
-      "lastIssueCreatedAt": "2021-11-16T08:19:18Z",
+      "openIssues": 42,
+      "lastIssueCreatedAt": "2021-11-23T08:46:30Z",
       "contributors": 5
     },
     {
