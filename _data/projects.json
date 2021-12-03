@@ -1,6 +1,6 @@
 {
   "closedIssuesThisMonth": 6,
-  "contributors": 82,
+  "contributors": 79,
   "projects": [
     {
       "name": "openbanking",
@@ -33,7 +33,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/react-components/",
       "url": "https://github.com/sebgroup/react-components",
-      "pushedAt": "2021-12-02T08:26:00Z",
+      "pushedAt": "2021-12-03T01:39:54Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -41,8 +41,7 @@
       "stargazers": 9,
       "forkCount": 6,
       "openIssues": 32,
-      "lastIssueCreatedAt": "2021-11-22T16:43:08Z",
-      "contributors": 8
+      "lastIssueCreatedAt": "2021-11-22T16:43:08Z"
     },
     {
       "name": "ng-components",
@@ -177,7 +176,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2021-12-01T23:33:28Z",
+      "pushedAt": "2021-12-02T23:33:19Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -208,7 +207,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/green/latest/chlorophyll",
       "url": "https://github.com/sebgroup/green",
-      "pushedAt": "2021-12-02T18:35:18Z",
+      "pushedAt": "2021-12-03T15:25:04Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -216,7 +215,8 @@
       "stargazers": 2,
       "forkCount": 1,
       "openIssues": 35,
-      "lastIssueCreatedAt": "2021-11-30T15:37:20Z"
+      "lastIssueCreatedAt": "2021-11-30T15:37:20Z",
+      "contributors": 5
     },
     {
       "name": "fonts",
