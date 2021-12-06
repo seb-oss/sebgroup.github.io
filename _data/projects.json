@@ -33,7 +33,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/react-components/",
       "url": "https://github.com/sebgroup/react-components",
-      "pushedAt": "2021-12-03T01:39:54Z",
+      "pushedAt": "2021-12-06T09:41:13Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -177,7 +177,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2021-12-04T23:33:46Z",
+      "pushedAt": "2021-12-05T23:33:03Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -198,7 +198,7 @@
         "color": "#2b7489"
       },
       "stargazers": 2,
-      "forkCount": 0,
+      "forkCount": 1,
       "openIssues": 8,
       "lastIssueCreatedAt": "2019-11-28T16:44:38Z",
       "contributors": 2
