@@ -1,6 +1,6 @@
 {
   "closedIssuesThisMonth": 10,
-  "contributors": 82,
+  "contributors": 87,
   "projects": [
     {
       "name": "openbanking",
@@ -33,7 +33,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/react-components/",
       "url": "https://github.com/sebgroup/react-components",
-      "pushedAt": "2021-12-09T11:34:39Z",
+      "pushedAt": "2021-12-10T07:19:22Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -177,7 +177,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2021-12-08T23:33:42Z",
+      "pushedAt": "2021-12-09T23:33:25Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -216,7 +216,8 @@
       "stargazers": 2,
       "forkCount": 1,
       "openIssues": 34,
-      "lastIssueCreatedAt": "2021-12-09T09:15:12Z"
+      "lastIssueCreatedAt": "2021-12-09T09:15:12Z",
+      "contributors": 5
     },
     {
       "name": "fonts",
