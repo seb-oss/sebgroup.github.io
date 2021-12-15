@@ -1,6 +1,6 @@
 {
   "closedIssuesThisMonth": 12,
-  "contributors": 73,
+  "contributors": 87,
   "projects": [
     {
       "name": "openbanking",
@@ -57,7 +57,8 @@
       "stargazers": 9,
       "forkCount": 7,
       "openIssues": 34,
-      "lastIssueCreatedAt": "2021-11-22T16:43:15Z"
+      "lastIssueCreatedAt": "2021-11-22T16:43:15Z",
+      "contributors": 11
     },
     {
       "name": "bootstrap",
@@ -176,7 +177,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2021-12-13T23:33:18Z",
+      "pushedAt": "2021-12-14T23:33:31Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -207,7 +208,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/green/latest/chlorophyll",
       "url": "https://github.com/sebgroup/green",
-      "pushedAt": "2021-12-14T10:21:25Z",
+      "pushedAt": "2021-12-15T11:15:51Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -340,7 +341,8 @@
       "stargazers": 0,
       "forkCount": 4,
       "openIssues": 3,
-      "lastIssueCreatedAt": "2021-12-14T09:53:51Z"
+      "lastIssueCreatedAt": "2021-12-14T09:53:51Z",
+      "contributors": 3
     },
     {
       "name": "ngx-toastr",
