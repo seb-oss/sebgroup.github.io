@@ -1,6 +1,6 @@
 {
-  "closedIssuesThisMonth": 12,
-  "contributors": 87,
+  "closedIssuesThisMonth": 13,
+  "contributors": 84,
   "projects": [
     {
       "name": "openbanking",
@@ -33,7 +33,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/react-components/",
       "url": "https://github.com/sebgroup/react-components",
-      "pushedAt": "2021-12-14T09:20:54Z",
+      "pushedAt": "2021-12-16T07:14:14Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -72,8 +72,8 @@
       },
       "stargazers": 8,
       "forkCount": 3,
-      "openIssues": 25,
-      "lastIssueCreatedAt": "2021-11-22T16:43:17Z",
+      "openIssues": 26,
+      "lastIssueCreatedAt": "2021-12-16T10:26:20Z",
       "contributors": 4
     },
     {
@@ -177,7 +177,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2021-12-14T23:33:31Z",
+      "pushedAt": "2021-12-15T23:33:40Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -208,15 +208,15 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/green/latest/chlorophyll",
       "url": "https://github.com/sebgroup/green",
-      "pushedAt": "2021-12-15T11:15:51Z",
+      "pushedAt": "2021-12-16T20:37:08Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
       },
       "stargazers": 2,
       "forkCount": 1,
-      "openIssues": 35,
-      "lastIssueCreatedAt": "2021-12-14T09:04:07Z",
+      "openIssues": 38,
+      "lastIssueCreatedAt": "2021-12-16T13:52:38Z",
       "contributors": 5
     },
     {
@@ -333,7 +333,7 @@
       "description": "Wizard component built for angular 12+",
       "homepageUrl": "https://sebgroup.github.io/ng-wizard/",
       "url": "https://github.com/sebgroup/ng-wizard",
-      "pushedAt": "2021-12-14T10:46:18Z",
+      "pushedAt": "2021-12-16T07:34:28Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -341,8 +341,7 @@
       "stargazers": 0,
       "forkCount": 4,
       "openIssues": 3,
-      "lastIssueCreatedAt": "2021-12-14T09:53:51Z",
-      "contributors": 3
+      "lastIssueCreatedAt": "2021-12-14T09:53:51Z"
     },
     {
       "name": "ngx-toastr",
