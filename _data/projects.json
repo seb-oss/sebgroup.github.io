@@ -1,6 +1,6 @@
 {
   "closedIssuesThisMonth": 15,
-  "contributors": 88,
+  "contributors": 92,
   "projects": [
     {
       "name": "openbanking",
@@ -177,7 +177,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2021-12-24T23:33:51Z",
+      "pushedAt": "2021-12-25T23:33:09Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -185,7 +185,8 @@
       "stargazers": 3,
       "forkCount": 0,
       "openIssues": 0,
-      "lastIssueCreatedAt": "2020-04-01T06:12:32Z"
+      "lastIssueCreatedAt": "2020-04-01T06:12:32Z",
+      "contributors": 4
     },
     {
       "name": "yttringar",
@@ -386,7 +387,7 @@
         "color": "#3572A5"
       },
       "stargazers": 0,
-      "forkCount": 0,
+      "forkCount": 1,
       "openIssues": 0,
       "contributors": 1
     },
