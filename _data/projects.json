@@ -1,6 +1,6 @@
 {
   "closedIssuesThisMonth": 6,
-  "contributors": 82,
+  "contributors": 80,
   "projects": [
     {
       "name": "openbanking",
@@ -29,22 +29,6 @@
       "contributors": 3
     },
     {
-      "name": "react-components",
-      "description": null,
-      "homepageUrl": "https://sebgroup.github.io/react-components/",
-      "url": "https://github.com/sebgroup/react-components",
-      "pushedAt": "2022-01-05T06:41:53Z",
-      "primaryLanguage": {
-        "name": "TypeScript",
-        "color": "#2b7489"
-      },
-      "stargazers": 9,
-      "forkCount": 6,
-      "openIssues": 33,
-      "lastIssueCreatedAt": "2022-01-04T09:08:25Z",
-      "contributors": 8
-    },
-    {
       "name": "ng-components",
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/ng-components",
@@ -54,11 +38,26 @@
         "name": "TypeScript",
         "color": "#2b7489"
       },
-      "stargazers": 9,
+      "stargazers": 10,
       "forkCount": 7,
       "openIssues": 34,
       "lastIssueCreatedAt": "2021-11-22T16:43:15Z",
       "contributors": 11
+    },
+    {
+      "name": "react-components",
+      "description": null,
+      "homepageUrl": "https://sebgroup.github.io/react-components/",
+      "url": "https://github.com/sebgroup/react-components",
+      "pushedAt": "2022-01-06T02:38:29Z",
+      "primaryLanguage": {
+        "name": "TypeScript",
+        "color": "#2b7489"
+      },
+      "stargazers": 9,
+      "forkCount": 6,
+      "openIssues": 33,
+      "lastIssueCreatedAt": "2022-01-04T09:08:25Z"
     },
     {
       "name": "bootstrap",
@@ -177,7 +176,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2022-01-04T23:33:59Z",
+      "pushedAt": "2022-01-05T23:34:06Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -216,7 +215,8 @@
       "stargazers": 2,
       "forkCount": 1,
       "openIssues": 39,
-      "lastIssueCreatedAt": "2022-01-04T09:40:40Z"
+      "lastIssueCreatedAt": "2022-01-04T09:40:40Z",
+      "contributors": 6
     },
     {
       "name": "fonts",
