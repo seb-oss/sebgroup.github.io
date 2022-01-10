@@ -1,19 +1,18 @@
 {
-  "closedIssuesThisMonth": 6,
-  "contributors": 92,
+  "closedIssuesThisMonth": 7,
+  "contributors": 80,
   "projects": [
     {
       "name": "openbanking",
       "description": "SEB is banking outside the box! Find additional documentation here that will help you integrate with our APIs.",
       "homepageUrl": "https://developer.sebgroup.com",
       "url": "https://github.com/sebgroup/openbanking",
-      "pushedAt": "2021-10-07T20:30:26Z",
+      "pushedAt": "2022-01-10T20:16:39Z",
       "primaryLanguage": null,
       "stargazers": 13,
       "forkCount": 10,
       "openIssues": 2,
-      "lastIssueCreatedAt": "2019-12-16T10:08:28Z",
-      "contributors": 2
+      "lastIssueCreatedAt": "2019-12-16T10:08:28Z"
     },
     {
       "name": "design-library",
@@ -49,7 +48,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/react-components/",
       "url": "https://github.com/sebgroup/react-components",
-      "pushedAt": "2022-01-07T06:05:01Z",
+      "pushedAt": "2022-01-10T06:01:49Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -177,7 +176,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2022-01-08T23:33:36Z",
+      "pushedAt": "2022-01-09T23:33:46Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -185,8 +184,22 @@
       "stargazers": 3,
       "forkCount": 0,
       "openIssues": 0,
-      "lastIssueCreatedAt": "2020-04-01T06:12:32Z",
-      "contributors": 4
+      "lastIssueCreatedAt": "2020-04-01T06:12:32Z"
+    },
+    {
+      "name": "green",
+      "description": null,
+      "homepageUrl": "https://sebgroup.github.io/green/latest/chlorophyll",
+      "url": "https://github.com/sebgroup/green",
+      "pushedAt": "2022-01-10T16:34:18Z",
+      "primaryLanguage": {
+        "name": "TypeScript",
+        "color": "#2b7489"
+      },
+      "stargazers": 3,
+      "forkCount": 1,
+      "openIssues": 43,
+      "lastIssueCreatedAt": "2022-01-10T16:33:16Z"
     },
     {
       "name": "yttringar",
@@ -203,22 +216,6 @@
       "openIssues": 8,
       "lastIssueCreatedAt": "2019-11-28T16:44:38Z",
       "contributors": 2
-    },
-    {
-      "name": "green",
-      "description": null,
-      "homepageUrl": "https://sebgroup.github.io/green/latest/chlorophyll",
-      "url": "https://github.com/sebgroup/green",
-      "pushedAt": "2022-01-05T10:41:22Z",
-      "primaryLanguage": {
-        "name": "TypeScript",
-        "color": "#2b7489"
-      },
-      "stargazers": 2,
-      "forkCount": 1,
-      "openIssues": 39,
-      "lastIssueCreatedAt": "2022-01-04T09:40:40Z",
-      "contributors": 6
     },
     {
       "name": "fonts",
