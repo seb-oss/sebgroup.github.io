@@ -1,6 +1,6 @@
 {
-  "closedIssuesThisMonth": 7,
-  "contributors": 80,
+  "closedIssuesThisMonth": 10,
+  "contributors": 82,
   "projects": [
     {
       "name": "openbanking",
@@ -10,9 +10,10 @@
       "pushedAt": "2022-01-10T20:16:39Z",
       "primaryLanguage": null,
       "stargazers": 13,
-      "forkCount": 10,
-      "openIssues": 2,
-      "lastIssueCreatedAt": "2019-12-16T10:08:28Z"
+      "forkCount": 11,
+      "openIssues": 0,
+      "lastIssueCreatedAt": "2019-12-16T10:08:28Z",
+      "contributors": 2
     },
     {
       "name": "design-library",
@@ -48,14 +49,14 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/react-components/",
       "url": "https://github.com/sebgroup/react-components",
-      "pushedAt": "2022-01-10T06:01:49Z",
+      "pushedAt": "2022-01-11T07:29:21Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
       },
       "stargazers": 9,
       "forkCount": 6,
-      "openIssues": 33,
+      "openIssues": 32,
       "lastIssueCreatedAt": "2022-01-04T09:08:25Z",
       "contributors": 8
     },
@@ -176,7 +177,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2022-01-09T23:33:46Z",
+      "pushedAt": "2022-01-10T23:34:51Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -191,15 +192,15 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/green/latest/chlorophyll",
       "url": "https://github.com/sebgroup/green",
-      "pushedAt": "2022-01-10T16:34:18Z",
+      "pushedAt": "2022-01-11T17:04:34Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
       },
       "stargazers": 3,
       "forkCount": 1,
-      "openIssues": 43,
-      "lastIssueCreatedAt": "2022-01-10T16:33:16Z"
+      "openIssues": 45,
+      "lastIssueCreatedAt": "2022-01-11T08:13:53Z"
     },
     {
       "name": "yttringar",
@@ -306,8 +307,8 @@
       },
       "stargazers": 1,
       "forkCount": 0,
-      "openIssues": 2,
-      "lastIssueCreatedAt": "2021-08-25T02:49:50Z",
+      "openIssues": 3,
+      "lastIssueCreatedAt": "2022-01-11T02:34:43Z",
       "contributors": 2
     },
     {
