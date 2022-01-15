@@ -1,6 +1,6 @@
 {
   "closedIssuesThisMonth": 17,
-  "contributors": 73,
+  "contributors": 90,
   "projects": [
     {
       "name": "openbanking",
@@ -89,7 +89,8 @@
       "stargazers": 8,
       "forkCount": 11,
       "openIssues": 24,
-      "lastIssueCreatedAt": "2022-01-14T16:19:59Z"
+      "lastIssueCreatedAt": "2022-01-14T16:19:59Z",
+      "contributors": 10
     },
     {
       "name": "magic-iframe",
@@ -144,7 +145,7 @@
       "description": "SEB Pictograms CSS library",
       "homepageUrl": "https://sebgroup.github.io/seb-pictograms/",
       "url": "https://github.com/sebgroup/seb-pictograms",
-      "pushedAt": "2022-01-14T18:18:48Z",
+      "pushedAt": "2022-01-15T06:53:16Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -176,7 +177,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2022-01-13T23:34:09Z",
+      "pushedAt": "2022-01-14T23:33:59Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -191,7 +192,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/green/latest/chlorophyll",
       "url": "https://github.com/sebgroup/green",
-      "pushedAt": "2022-01-14T15:19:59Z",
+      "pushedAt": "2022-01-15T13:17:48Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -199,7 +200,8 @@
       "stargazers": 3,
       "forkCount": 1,
       "openIssues": 52,
-      "lastIssueCreatedAt": "2022-01-14T16:20:17Z"
+      "lastIssueCreatedAt": "2022-01-14T16:20:17Z",
+      "contributors": 7
     },
     {
       "name": "yttringar",
@@ -284,7 +286,7 @@
       "description": "Angular Dynamic form generator",
       "homepageUrl": null,
       "url": "https://github.com/sebgroup/ng-dynamic-form",
-      "pushedAt": "2021-11-01T07:14:43Z",
+      "pushedAt": "2022-01-15T09:35:37Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
