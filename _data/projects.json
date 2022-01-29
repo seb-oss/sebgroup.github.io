@@ -177,7 +177,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2022-01-27T23:32:31Z",
+      "pushedAt": "2022-01-28T23:32:28Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -192,7 +192,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/green/latest/chlorophyll",
       "url": "https://github.com/sebgroup/green",
-      "pushedAt": "2022-01-28T11:19:13Z",
+      "pushedAt": "2022-01-29T00:09:39Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
