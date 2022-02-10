@@ -97,7 +97,7 @@
       "description": "A magical iframe component ",
       "homepageUrl": "https://sebgroup.github.io/magic-iframe/",
       "url": "https://github.com/sebgroup/magic-iframe",
-      "pushedAt": "2021-08-12T04:17:22Z",
+      "pushedAt": "2022-02-10T21:45:33Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -177,7 +177,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2022-02-08T23:32:41Z",
+      "pushedAt": "2022-02-10T16:28:12Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -192,15 +192,15 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/green/latest/chlorophyll",
       "url": "https://github.com/sebgroup/green",
-      "pushedAt": "2022-02-09T17:06:34Z",
+      "pushedAt": "2022-02-10T16:42:15Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
       },
       "stargazers": 3,
       "forkCount": 1,
-      "openIssues": 55,
-      "lastIssueCreatedAt": "2022-02-08T15:37:20Z",
+      "openIssues": 56,
+      "lastIssueCreatedAt": "2022-02-10T08:21:52Z",
       "contributors": 8
     },
     {
@@ -286,7 +286,7 @@
       "description": "Angular Dynamic form generator",
       "homepageUrl": null,
       "url": "https://github.com/sebgroup/ng-dynamic-form",
-      "pushedAt": "2022-02-09T04:55:14Z",
+      "pushedAt": "2022-02-10T02:13:55Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
