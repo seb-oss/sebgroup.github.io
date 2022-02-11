@@ -1,5 +1,5 @@
 {
-  "closedIssuesThisMonth": 8,
+  "closedIssuesThisMonth": 9,
   "contributors": 90,
   "projects": [
     {
@@ -49,7 +49,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/ng-components",
       "url": "https://github.com/sebgroup/ng-components",
-      "pushedAt": "2022-01-22T02:59:11Z",
+      "pushedAt": "2022-02-11T09:48:48Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -65,7 +65,7 @@
       "description": "A standalone bootstrap theme for SEB",
       "homepageUrl": "https://sebgroup.github.io/bootstrap/",
       "url": "https://github.com/sebgroup/bootstrap",
-      "pushedAt": "2022-01-22T05:39:21Z",
+      "pushedAt": "2022-02-11T08:30:46Z",
       "primaryLanguage": {
         "name": "HTML",
         "color": "#e34c26"
@@ -129,7 +129,7 @@
       "description": "angular material theme",
       "homepageUrl": "https://sebgroup.github.io/seb-angular-material",
       "url": "https://github.com/sebgroup/seb-angular-material",
-      "pushedAt": "2022-01-21T21:24:37Z",
+      "pushedAt": "2022-02-11T07:32:26Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -145,7 +145,7 @@
       "description": "SEB Pictograms CSS library",
       "homepageUrl": "https://sebgroup.github.io/seb-pictograms/",
       "url": "https://github.com/sebgroup/seb-pictograms",
-      "pushedAt": "2022-01-22T13:53:10Z",
+      "pushedAt": "2022-02-11T12:01:37Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -177,7 +177,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2022-02-10T16:28:12Z",
+      "pushedAt": "2022-02-10T23:32:17Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -192,14 +192,14 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/green/latest/chlorophyll",
       "url": "https://github.com/sebgroup/green",
-      "pushedAt": "2022-02-10T16:42:15Z",
+      "pushedAt": "2022-02-11T09:26:04Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
       },
       "stargazers": 3,
       "forkCount": 1,
-      "openIssues": 56,
+      "openIssues": 55,
       "lastIssueCreatedAt": "2022-02-10T08:21:52Z",
       "contributors": 8
     },
@@ -224,7 +224,7 @@
       "description": "SEB Sans Serif",
       "homepageUrl": "https://sebgroup.github.io/fonts/",
       "url": "https://github.com/sebgroup/fonts",
-      "pushedAt": "2021-07-09T08:42:33Z",
+      "pushedAt": "2022-02-10T23:52:38Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -240,7 +240,7 @@
       "description": null,
       "homepageUrl": null,
       "url": "https://github.com/sebgroup/ng-debug",
-      "pushedAt": "2022-01-22T10:37:47Z",
+      "pushedAt": "2022-02-11T09:21:33Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -286,7 +286,7 @@
       "description": "Angular Dynamic form generator",
       "homepageUrl": null,
       "url": "https://github.com/sebgroup/ng-dynamic-form",
-      "pushedAt": "2022-02-10T02:13:55Z",
+      "pushedAt": "2022-02-11T03:47:14Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -332,7 +332,7 @@
       "description": "Wizard component built for angular 12+",
       "homepageUrl": "https://sebgroup.github.io/ng-wizard/",
       "url": "https://github.com/sebgroup/ng-wizard",
-      "pushedAt": "2022-01-22T04:28:44Z",
+      "pushedAt": "2022-02-11T08:10:29Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -348,7 +348,7 @@
       "description": "A SEB themed toaster component for @sebgroup/bootstrap and angular",
       "homepageUrl": "https://sebgroup.github.io/ngx-toastr/",
       "url": "https://github.com/sebgroup/ngx-toastr",
-      "pushedAt": "2022-01-22T09:47:46Z",
+      "pushedAt": "2022-02-11T08:17:37Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -363,7 +363,7 @@
       "description": "A SEB themed stylesheet for ng-bootstrap",
       "homepageUrl": "https://sebgroup.github.io/ng-bootstrap/master",
       "url": "https://github.com/sebgroup/ng-bootstrap",
-      "pushedAt": "2022-01-22T05:39:28Z",
+      "pushedAt": "2022-02-11T08:30:46Z",
       "primaryLanguage": {
         "name": "HTML",
         "color": "#e34c26"
