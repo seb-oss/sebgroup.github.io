@@ -1,6 +1,6 @@
 {
   "closedIssuesThisMonth": 9,
-  "contributors": 90,
+  "contributors": 92,
   "projects": [
     {
       "name": "openbanking",
@@ -65,7 +65,7 @@
       "description": "A standalone bootstrap theme for SEB",
       "homepageUrl": "https://sebgroup.github.io/bootstrap/",
       "url": "https://github.com/sebgroup/bootstrap",
-      "pushedAt": "2022-02-11T08:30:46Z",
+      "pushedAt": "2022-02-12T19:13:40Z",
       "primaryLanguage": {
         "name": "HTML",
         "color": "#e34c26"
@@ -129,7 +129,7 @@
       "description": "angular material theme",
       "homepageUrl": "https://sebgroup.github.io/seb-angular-material",
       "url": "https://github.com/sebgroup/seb-angular-material",
-      "pushedAt": "2022-02-11T07:32:26Z",
+      "pushedAt": "2022-02-12T20:33:07Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -177,7 +177,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2022-02-10T23:32:17Z",
+      "pushedAt": "2022-02-11T23:31:51Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -208,7 +208,7 @@
       "description": null,
       "homepageUrl": null,
       "url": "https://github.com/sebgroup/yttringar",
-      "pushedAt": "2022-01-14T01:34:44Z",
+      "pushedAt": "2022-02-12T19:16:42Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -293,7 +293,8 @@
       },
       "stargazers": 1,
       "forkCount": 1,
-      "openIssues": 0
+      "openIssues": 0,
+      "contributors": 2
     },
     {
       "name": "react-wizard",
