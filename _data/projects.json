@@ -1,5 +1,5 @@
 {
-  "closedIssuesThisMonth": 9,
+  "closedIssuesThisMonth": 16,
   "contributors": 84,
   "projects": [
     {
@@ -41,7 +41,8 @@
       "stargazers": 10,
       "forkCount": 6,
       "openIssues": 34,
-      "lastIssueCreatedAt": "2022-01-28T15:35:10Z"
+      "lastIssueCreatedAt": "2022-01-28T15:35:10Z",
+      "contributors": 8
     },
     {
       "name": "ng-components",
@@ -176,7 +177,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2022-02-13T23:31:37Z",
+      "pushedAt": "2022-02-14T23:32:00Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -191,16 +192,15 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/green/latest/chlorophyll",
       "url": "https://github.com/sebgroup/green",
-      "pushedAt": "2022-02-14T13:43:32Z",
+      "pushedAt": "2022-02-15T19:28:57Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
       },
       "stargazers": 3,
       "forkCount": 1,
-      "openIssues": 57,
-      "lastIssueCreatedAt": "2022-02-14T03:39:36Z",
-      "contributors": 8
+      "openIssues": 50,
+      "lastIssueCreatedAt": "2022-02-14T03:39:36Z"
     },
     {
       "name": "yttringar",
@@ -339,8 +339,8 @@
       },
       "stargazers": 0,
       "forkCount": 4,
-      "openIssues": 4,
-      "lastIssueCreatedAt": "2022-01-25T10:03:18Z",
+      "openIssues": 5,
+      "lastIssueCreatedAt": "2022-02-15T08:39:56Z",
       "contributors": 3
     },
     {
