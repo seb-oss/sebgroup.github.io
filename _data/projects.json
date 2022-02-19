@@ -145,7 +145,7 @@
       "description": "SEB Pictograms CSS library",
       "homepageUrl": "https://sebgroup.github.io/seb-pictograms/",
       "url": "https://github.com/sebgroup/seb-pictograms",
-      "pushedAt": "2022-02-13T19:36:27Z",
+      "pushedAt": "2022-02-19T06:12:24Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -177,7 +177,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2022-02-17T23:31:55Z",
+      "pushedAt": "2022-02-18T23:32:00Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -286,7 +286,7 @@
       "description": "Angular Dynamic form generator",
       "homepageUrl": null,
       "url": "https://github.com/sebgroup/ng-dynamic-form",
-      "pushedAt": "2022-02-11T03:47:14Z",
+      "pushedAt": "2022-02-19T16:46:19Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -301,7 +301,7 @@
       "description": "react wizard component",
       "homepageUrl": null,
       "url": "https://github.com/sebgroup/react-wizard",
-      "pushedAt": "2022-02-14T09:48:28Z",
+      "pushedAt": "2022-02-19T07:38:47Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
