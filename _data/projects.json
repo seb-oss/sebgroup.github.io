@@ -1,6 +1,6 @@
 {
-  "closedIssuesThisMonth": 20,
-  "contributors": 92,
+  "closedIssuesThisMonth": 22,
+  "contributors": 89,
   "projects": [
     {
       "name": "openbanking",
@@ -33,7 +33,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/react-components/",
       "url": "https://github.com/sebgroup/react-components",
-      "pushedAt": "2022-02-23T09:04:34Z",
+      "pushedAt": "2022-02-24T09:53:41Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -193,7 +193,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2022-02-22T23:32:42Z",
+      "pushedAt": "2022-02-23T23:32:53Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -333,16 +333,15 @@
       "description": "Wizard component built for angular 12+",
       "homepageUrl": "https://sebgroup.github.io/ng-wizard/",
       "url": "https://github.com/sebgroup/ng-wizard",
-      "pushedAt": "2022-02-18T13:56:43Z",
+      "pushedAt": "2022-02-24T17:23:17Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
       },
       "stargazers": 0,
       "forkCount": 4,
-      "openIssues": 5,
-      "lastIssueCreatedAt": "2022-02-15T08:39:56Z",
-      "contributors": 3
+      "openIssues": 3,
+      "lastIssueCreatedAt": "2022-02-15T08:39:56Z"
     },
     {
       "name": "ngx-toastr",
