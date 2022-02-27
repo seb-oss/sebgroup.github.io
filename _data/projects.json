@@ -49,7 +49,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/ng-components",
       "url": "https://github.com/sebgroup/ng-components",
-      "pushedAt": "2022-02-26T01:55:24Z",
+      "pushedAt": "2022-02-27T01:27:04Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -161,7 +161,7 @@
       "description": "SEB Pictograms CSS library",
       "homepageUrl": "https://sebgroup.github.io/seb-pictograms/",
       "url": "https://github.com/sebgroup/seb-pictograms",
-      "pushedAt": "2022-02-19T06:12:24Z",
+      "pushedAt": "2022-02-27T09:48:24Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -193,7 +193,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2022-02-25T23:32:39Z",
+      "pushedAt": "2022-02-26T23:33:27Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -240,7 +240,7 @@
       "description": null,
       "homepageUrl": null,
       "url": "https://github.com/sebgroup/ng-debug",
-      "pushedAt": "2022-02-18T20:12:47Z",
+      "pushedAt": "2022-02-26T23:36:53Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -301,7 +301,7 @@
       "description": "react wizard component",
       "homepageUrl": null,
       "url": "https://github.com/sebgroup/react-wizard",
-      "pushedAt": "2022-02-19T07:38:47Z",
+      "pushedAt": "2022-02-27T15:36:28Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
