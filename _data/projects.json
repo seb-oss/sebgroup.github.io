@@ -1,5 +1,5 @@
 {
-  "closedIssuesThisMonth": 22,
+  "closedIssuesThisMonth": 23,
   "contributors": 92,
   "projects": [
     {
@@ -145,15 +145,15 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/green/latest/chlorophyll",
       "url": "https://github.com/sebgroup/green",
-      "pushedAt": "2022-02-26T02:12:33Z",
+      "pushedAt": "2022-02-28T08:16:33Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
       },
       "stargazers": 4,
       "forkCount": 1,
-      "openIssues": 50,
-      "lastIssueCreatedAt": "2022-02-21T14:24:43Z",
+      "openIssues": 51,
+      "lastIssueCreatedAt": "2022-02-28T07:24:34Z",
       "contributors": 8
     },
     {
@@ -193,7 +193,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2022-02-26T23:33:27Z",
+      "pushedAt": "2022-02-27T23:32:08Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -286,7 +286,7 @@
       "description": "Angular Dynamic form generator",
       "homepageUrl": null,
       "url": "https://github.com/sebgroup/ng-dynamic-form",
-      "pushedAt": "2022-02-19T16:46:19Z",
+      "pushedAt": "2022-02-28T03:30:07Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
