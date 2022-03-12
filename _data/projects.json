@@ -1,6 +1,6 @@
 {
   "closedIssuesThisMonth": 8,
-  "contributors": 82,
+  "contributors": 92,
   "projects": [
     {
       "name": "openbanking",
@@ -89,7 +89,8 @@
       "stargazers": 8,
       "forkCount": 11,
       "openIssues": 26,
-      "lastIssueCreatedAt": "2022-03-08T14:16:45Z"
+      "lastIssueCreatedAt": "2022-03-08T14:16:45Z",
+      "contributors": 10
     },
     {
       "name": "magic-iframe",
@@ -192,7 +193,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2022-03-10T23:32:59Z",
+      "pushedAt": "2022-03-11T23:32:29Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
