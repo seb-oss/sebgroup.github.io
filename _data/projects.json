@@ -1,6 +1,6 @@
 {
   "closedIssuesThisMonth": 8,
-  "contributors": 92,
+  "contributors": 87,
   "projects": [
     {
       "name": "openbanking",
@@ -40,8 +40,8 @@
       },
       "stargazers": 10,
       "forkCount": 6,
-      "openIssues": 34,
-      "lastIssueCreatedAt": "2022-01-28T15:35:10Z",
+      "openIssues": 35,
+      "lastIssueCreatedAt": "2022-03-14T15:02:08Z",
       "contributors": 8
     },
     {
@@ -56,8 +56,8 @@
       },
       "stargazers": 10,
       "forkCount": 6,
-      "openIssues": 36,
-      "lastIssueCreatedAt": "2022-01-28T15:35:16Z",
+      "openIssues": 37,
+      "lastIssueCreatedAt": "2022-03-14T15:02:14Z",
       "contributors": 11
     },
     {
@@ -136,8 +136,8 @@
       },
       "stargazers": 4,
       "forkCount": 1,
-      "openIssues": 29,
-      "lastIssueCreatedAt": "2022-01-28T15:35:14Z",
+      "openIssues": 30,
+      "lastIssueCreatedAt": "2022-03-14T15:02:11Z",
       "contributors": 5
     },
     {
@@ -193,7 +193,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2022-03-12T23:33:28Z",
+      "pushedAt": "2022-03-13T23:32:55Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -240,15 +240,14 @@
       "description": null,
       "homepageUrl": null,
       "url": "https://github.com/sebgroup/ng-debug",
-      "pushedAt": "2022-03-02T07:21:34Z",
+      "pushedAt": "2022-03-14T14:37:05Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
       },
       "stargazers": 1,
       "forkCount": 1,
-      "openIssues": 0,
-      "contributors": 5
+      "openIssues": 0
     },
     {
       "name": "yttringar-oauth",
