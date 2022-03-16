@@ -72,8 +72,8 @@
       },
       "stargazers": 8,
       "forkCount": 4,
-      "openIssues": 25,
-      "lastIssueCreatedAt": "2022-03-08T14:17:38Z",
+      "openIssues": 26,
+      "lastIssueCreatedAt": "2022-03-16T08:30:29Z",
       "contributors": 4
     },
     {
@@ -129,7 +129,7 @@
       "description": "angular material theme",
       "homepageUrl": "https://sebgroup.github.io/seb-angular-material",
       "url": "https://github.com/sebgroup/seb-angular-material",
-      "pushedAt": "2022-03-02T05:30:58Z",
+      "pushedAt": "2022-03-16T14:35:34Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -137,8 +137,7 @@
       "stargazers": 4,
       "forkCount": 1,
       "openIssues": 30,
-      "lastIssueCreatedAt": "2022-03-14T15:02:11Z",
-      "contributors": 5
+      "lastIssueCreatedAt": "2022-03-14T15:02:11Z"
     },
     {
       "name": "green",
@@ -193,7 +192,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2022-03-14T23:33:12Z",
+      "pushedAt": "2022-03-15T23:32:54Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -247,7 +246,8 @@
       },
       "stargazers": 1,
       "forkCount": 2,
-      "openIssues": 0
+      "openIssues": 0,
+      "contributors": 5
     },
     {
       "name": "yttringar-oauth",
