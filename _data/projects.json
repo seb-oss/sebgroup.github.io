@@ -1,5 +1,5 @@
 {
-  "closedIssuesThisMonth": 8,
+  "closedIssuesThisMonth": 10,
   "contributors": 87,
   "projects": [
     {
@@ -38,7 +38,7 @@
         "name": "TypeScript",
         "color": "#2b7489"
       },
-      "stargazers": 10,
+      "stargazers": 11,
       "forkCount": 6,
       "openIssues": 35,
       "lastIssueCreatedAt": "2022-03-14T15:02:08Z",
@@ -137,21 +137,22 @@
       "stargazers": 4,
       "forkCount": 1,
       "openIssues": 30,
-      "lastIssueCreatedAt": "2022-03-14T15:02:11Z"
+      "lastIssueCreatedAt": "2022-03-14T15:02:11Z",
+      "contributors": 5
     },
     {
       "name": "green",
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/green/latest/chlorophyll",
       "url": "https://github.com/sebgroup/green",
-      "pushedAt": "2022-03-15T10:23:16Z",
+      "pushedAt": "2022-03-17T17:54:58Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
       },
       "stargazers": 4,
       "forkCount": 1,
-      "openIssues": 48,
+      "openIssues": 46,
       "lastIssueCreatedAt": "2022-03-15T06:51:49Z",
       "contributors": 8
     },
@@ -192,7 +193,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2022-03-15T23:32:54Z",
+      "pushedAt": "2022-03-16T23:32:54Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -239,15 +240,14 @@
       "description": null,
       "homepageUrl": null,
       "url": "https://github.com/sebgroup/ng-debug",
-      "pushedAt": "2022-03-15T08:38:10Z",
+      "pushedAt": "2022-03-17T14:53:47Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
       },
       "stargazers": 1,
       "forkCount": 2,
-      "openIssues": 0,
-      "contributors": 5
+      "openIssues": 0
     },
     {
       "name": "yttringar-oauth",
