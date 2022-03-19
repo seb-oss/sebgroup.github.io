@@ -1,6 +1,6 @@
 {
   "closedIssuesThisMonth": 10,
-  "contributors": 87,
+  "contributors": 92,
   "projects": [
     {
       "name": "openbanking",
@@ -193,7 +193,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2022-03-17T23:32:37Z",
+      "pushedAt": "2022-03-18T23:32:50Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -247,7 +247,8 @@
       },
       "stargazers": 1,
       "forkCount": 2,
-      "openIssues": 0
+      "openIssues": 0,
+      "contributors": 5
     },
     {
       "name": "yttringar-oauth",
