@@ -1,6 +1,6 @@
 {
   "closedIssuesThisMonth": 10,
-  "contributors": 84,
+  "contributors": 87,
   "projects": [
     {
       "name": "openbanking",
@@ -33,7 +33,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/react-components/",
       "url": "https://github.com/sebgroup/react-components",
-      "pushedAt": "2022-03-21T09:57:56Z",
+      "pushedAt": "2022-03-22T06:09:58Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -41,7 +41,8 @@
       "stargazers": 11,
       "forkCount": 6,
       "openIssues": 35,
-      "lastIssueCreatedAt": "2022-03-14T15:02:08Z"
+      "lastIssueCreatedAt": "2022-03-14T15:02:08Z",
+      "contributors": 8
     },
     {
       "name": "ng-components",
@@ -144,7 +145,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/green/latest/chlorophyll",
       "url": "https://github.com/sebgroup/green",
-      "pushedAt": "2022-03-21T09:48:39Z",
+      "pushedAt": "2022-03-22T18:22:52Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -192,7 +193,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2022-03-20T23:32:20Z",
+      "pushedAt": "2022-03-21T23:32:59Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -239,7 +240,7 @@
       "description": null,
       "homepageUrl": null,
       "url": "https://github.com/sebgroup/ng-debug",
-      "pushedAt": "2022-03-21T14:29:16Z",
+      "pushedAt": "2022-03-22T14:21:48Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -247,8 +248,7 @@
       "stargazers": 1,
       "forkCount": 2,
       "openIssues": 1,
-      "lastIssueCreatedAt": "2022-03-21T10:14:33Z",
-      "contributors": 5
+      "lastIssueCreatedAt": "2022-03-21T10:14:33Z"
     },
     {
       "name": "yttringar-oauth",
