@@ -1,19 +1,18 @@
 {
   "closedIssuesThisMonth": 1,
-  "contributors": 93,
+  "contributors": 85,
   "projects": [
     {
       "name": "openbanking",
       "description": "SEB is banking outside the box! Find additional documentation here that will help you integrate with our APIs.",
       "homepageUrl": "https://developer.sebgroup.com",
       "url": "https://github.com/sebgroup/openbanking",
-      "pushedAt": "2022-01-10T20:16:39Z",
+      "pushedAt": "2022-04-07T18:49:53Z",
       "primaryLanguage": null,
       "stargazers": 14,
       "forkCount": 12,
       "openIssues": 0,
-      "lastIssueCreatedAt": "2019-12-16T10:08:28Z",
-      "contributors": 2
+      "lastIssueCreatedAt": "2019-12-16T10:08:28Z"
     },
     {
       "name": "design-library",
@@ -129,7 +128,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/green/latest/chlorophyll",
       "url": "https://github.com/sebgroup/green",
-      "pushedAt": "2022-04-05T15:17:58Z",
+      "pushedAt": "2022-04-07T20:20:36Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -137,8 +136,7 @@
       "stargazers": 5,
       "forkCount": 1,
       "openIssues": 46,
-      "lastIssueCreatedAt": "2022-03-31T14:39:31Z",
-      "contributors": 8
+      "lastIssueCreatedAt": "2022-03-31T14:39:31Z"
     },
     {
       "name": "seb-angular-material",
@@ -161,7 +159,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2022-04-05T23:33:34Z",
+      "pushedAt": "2022-04-06T23:33:32Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -310,7 +308,8 @@
       "stargazers": 1,
       "forkCount": 0,
       "openIssues": 4,
-      "lastIssueCreatedAt": "2022-01-13T03:05:03Z"
+      "lastIssueCreatedAt": "2022-01-13T03:05:03Z",
+      "contributors": 2
     },
     {
       "name": "document-write-intervene",
