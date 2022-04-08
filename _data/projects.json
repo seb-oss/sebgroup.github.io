@@ -1,6 +1,6 @@
 {
   "closedIssuesThisMonth": 1,
-  "contributors": 85,
+  "contributors": 95,
   "projects": [
     {
       "name": "openbanking",
@@ -12,7 +12,8 @@
       "stargazers": 14,
       "forkCount": 12,
       "openIssues": 0,
-      "lastIssueCreatedAt": "2019-12-16T10:08:28Z"
+      "lastIssueCreatedAt": "2019-12-16T10:08:28Z",
+      "contributors": 2
     },
     {
       "name": "design-library",
@@ -136,7 +137,8 @@
       "stargazers": 5,
       "forkCount": 1,
       "openIssues": 46,
-      "lastIssueCreatedAt": "2022-03-31T14:39:31Z"
+      "lastIssueCreatedAt": "2022-03-31T14:39:31Z",
+      "contributors": 8
     },
     {
       "name": "seb-angular-material",
@@ -159,7 +161,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2022-04-06T23:33:32Z",
+      "pushedAt": "2022-04-07T23:33:35Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -307,8 +309,8 @@
       },
       "stargazers": 1,
       "forkCount": 0,
-      "openIssues": 4,
-      "lastIssueCreatedAt": "2022-01-13T03:05:03Z",
+      "openIssues": 5,
+      "lastIssueCreatedAt": "2022-04-08T06:23:01Z",
       "contributors": 2
     },
     {
