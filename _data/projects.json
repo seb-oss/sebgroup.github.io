@@ -1,19 +1,18 @@
 {
   "closedIssuesThisMonth": 2,
-  "contributors": 87,
+  "contributors": 93,
   "projects": [
     {
       "name": "openbanking",
       "description": "SEB is banking outside the box! Find additional documentation here that will help you integrate with our APIs.",
       "homepageUrl": "https://developer.sebgroup.com",
       "url": "https://github.com/sebgroup/openbanking",
-      "pushedAt": "2022-04-07T18:49:53Z",
+      "pushedAt": "2022-04-13T08:05:25Z",
       "primaryLanguage": null,
       "stargazers": 14,
       "forkCount": 12,
       "openIssues": 0,
-      "lastIssueCreatedAt": "2019-12-16T10:08:28Z",
-      "contributors": 2
+      "lastIssueCreatedAt": "2019-12-16T10:08:28Z"
     },
     {
       "name": "design-library",
@@ -22,7 +21,7 @@
       "url": "https://github.com/sebgroup/design-library",
       "pushedAt": "2019-06-13T13:04:29Z",
       "primaryLanguage": null,
-      "stargazers": 13,
+      "stargazers": 14,
       "forkCount": 1,
       "openIssues": 71,
       "lastIssueCreatedAt": "2022-03-08T13:45:46Z",
@@ -129,15 +128,16 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/green/latest/chlorophyll",
       "url": "https://github.com/sebgroup/green",
-      "pushedAt": "2022-04-12T14:39:54Z",
+      "pushedAt": "2022-04-13T06:52:46Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
       },
       "stargazers": 5,
       "forkCount": 1,
-      "openIssues": 49,
-      "lastIssueCreatedAt": "2022-04-12T14:09:36Z"
+      "openIssues": 50,
+      "lastIssueCreatedAt": "2022-04-13T06:54:01Z",
+      "contributors": 8
     },
     {
       "name": "seb-angular-material",
@@ -160,7 +160,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2022-04-11T23:34:15Z",
+      "pushedAt": "2022-04-12T23:33:33Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
