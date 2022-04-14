@@ -1,6 +1,6 @@
 {
-  "closedIssuesThisMonth": 2,
-  "contributors": 93,
+  "closedIssuesThisMonth": 3,
+  "contributors": 87,
   "projects": [
     {
       "name": "openbanking",
@@ -12,7 +12,8 @@
       "stargazers": 14,
       "forkCount": 12,
       "openIssues": 0,
-      "lastIssueCreatedAt": "2019-12-16T10:08:28Z"
+      "lastIssueCreatedAt": "2019-12-16T10:08:28Z",
+      "contributors": 2
     },
     {
       "name": "design-library",
@@ -60,6 +61,22 @@
       "contributors": 11
     },
     {
+      "name": "magic-iframe",
+      "description": "A magical iframe component ",
+      "homepageUrl": "https://sebgroup.github.io/magic-iframe/",
+      "url": "https://github.com/sebgroup/magic-iframe",
+      "pushedAt": "2022-03-21T17:21:59Z",
+      "primaryLanguage": {
+        "name": "TypeScript",
+        "color": "#2b7489"
+      },
+      "stargazers": 9,
+      "forkCount": 3,
+      "openIssues": 0,
+      "lastIssueCreatedAt": "2020-10-01T07:50:15Z",
+      "contributors": 1
+    },
+    {
       "name": "bootstrap",
       "description": "A standalone bootstrap theme for SEB",
       "homepageUrl": "https://sebgroup.github.io/bootstrap/",
@@ -92,22 +109,6 @@
       "contributors": 10
     },
     {
-      "name": "magic-iframe",
-      "description": "A magical iframe component ",
-      "homepageUrl": "https://sebgroup.github.io/magic-iframe/",
-      "url": "https://github.com/sebgroup/magic-iframe",
-      "pushedAt": "2022-03-21T17:21:59Z",
-      "primaryLanguage": {
-        "name": "TypeScript",
-        "color": "#2b7489"
-      },
-      "stargazers": 8,
-      "forkCount": 2,
-      "openIssues": 0,
-      "lastIssueCreatedAt": "2020-10-01T07:50:15Z",
-      "contributors": 1
-    },
-    {
       "name": "repo-operator",
       "description": "A kubernetes operator to manage repositories",
       "homepageUrl": null,
@@ -128,16 +129,15 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/green/latest/chlorophyll",
       "url": "https://github.com/sebgroup/green",
-      "pushedAt": "2022-04-13T06:52:46Z",
+      "pushedAt": "2022-04-14T16:56:04Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
       },
       "stargazers": 5,
       "forkCount": 1,
-      "openIssues": 50,
-      "lastIssueCreatedAt": "2022-04-13T06:54:01Z",
-      "contributors": 8
+      "openIssues": 51,
+      "lastIssueCreatedAt": "2022-04-14T16:23:54Z"
     },
     {
       "name": "seb-angular-material",
@@ -160,7 +160,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2022-04-12T23:33:33Z",
+      "pushedAt": "2022-04-13T23:33:16Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
