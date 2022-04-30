@@ -1,6 +1,6 @@
 {
   "closedIssuesThisMonth": 35,
-  "contributors": 95,
+  "contributors": 90,
   "projects": [
     {
       "name": "openbanking",
@@ -26,7 +26,7 @@
       "forkCount": 1,
       "openIssues": 71,
       "lastIssueCreatedAt": "2022-03-08T13:45:46Z",
-      "contributors": 3
+      "contributors": 2
     },
     {
       "name": "react-components",
@@ -90,7 +90,7 @@
       "forkCount": 4,
       "openIssues": 2,
       "lastIssueCreatedAt": "2022-03-16T08:30:29Z",
-      "contributors": 4
+      "contributors": 3
     },
     {
       "name": "vanilla-pattern-library",
@@ -161,7 +161,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2022-04-28T23:34:11Z",
+      "pushedAt": "2022-04-29T23:34:03Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -217,7 +217,7 @@
       "forkCount": 1,
       "openIssues": 8,
       "lastIssueCreatedAt": "2019-11-28T16:44:38Z",
-      "contributors": 2
+      "contributors": 1
     },
     {
       "name": "fonts",
@@ -265,7 +265,7 @@
       "forkCount": 0,
       "openIssues": 1,
       "lastIssueCreatedAt": "2019-11-28T16:27:35Z",
-      "contributors": 3
+      "contributors": 2
     },
     {
       "name": "thumbs-up",
@@ -280,7 +280,7 @@
       "stargazers": 1,
       "forkCount": 0,
       "openIssues": 0,
-      "contributors": 3
+      "contributors": 2
     },
     {
       "name": "ng-dynamic-form",
