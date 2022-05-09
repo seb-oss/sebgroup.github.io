@@ -129,15 +129,15 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/green/latest/chlorophyll",
       "url": "https://github.com/sebgroup/green",
-      "pushedAt": "2022-05-06T01:30:37Z",
+      "pushedAt": "2022-05-09T15:32:36Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
       },
       "stargazers": 5,
       "forkCount": 2,
-      "openIssues": 53,
-      "lastIssueCreatedAt": "2022-04-29T06:07:54Z",
+      "openIssues": 54,
+      "lastIssueCreatedAt": "2022-05-09T14:23:14Z",
       "contributors": 9
     },
     {
@@ -161,7 +161,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2022-05-07T23:33:37Z",
+      "pushedAt": "2022-05-08T23:34:44Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -334,13 +334,13 @@
       "description": "Wizard component built for angular 12+",
       "homepageUrl": "https://sebgroup.github.io/ng-wizard/",
       "url": "https://github.com/sebgroup/ng-wizard",
-      "pushedAt": "2022-04-29T02:01:31Z",
+      "pushedAt": "2022-05-09T09:42:52Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
       },
       "stargazers": 0,
-      "forkCount": 4,
+      "forkCount": 5,
       "openIssues": 5,
       "lastIssueCreatedAt": "2022-04-25T10:58:08Z",
       "contributors": 3
