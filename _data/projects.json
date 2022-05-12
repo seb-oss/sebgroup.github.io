@@ -1,6 +1,6 @@
 {
   "closedIssuesThisMonth": 5,
-  "contributors": 83,
+  "contributors": 91,
   "projects": [
     {
       "name": "openbanking",
@@ -24,8 +24,8 @@
       "primaryLanguage": null,
       "stargazers": 14,
       "forkCount": 1,
-      "openIssues": 71,
-      "lastIssueCreatedAt": "2022-03-08T13:45:46Z",
+      "openIssues": 74,
+      "lastIssueCreatedAt": "2022-05-12T07:37:49Z",
       "contributors": 2
     },
     {
@@ -33,7 +33,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/react-components/",
       "url": "https://github.com/sebgroup/react-components",
-      "pushedAt": "2022-05-11T07:57:23Z",
+      "pushedAt": "2022-05-12T10:31:26Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -41,7 +41,8 @@
       "stargazers": 11,
       "forkCount": 6,
       "openIssues": 35,
-      "lastIssueCreatedAt": "2022-03-14T15:02:08Z"
+      "lastIssueCreatedAt": "2022-03-14T15:02:08Z",
+      "contributors": 8
     },
     {
       "name": "ng-components",
@@ -135,8 +136,8 @@
       },
       "stargazers": 6,
       "forkCount": 2,
-      "openIssues": 54,
-      "lastIssueCreatedAt": "2022-05-09T14:23:14Z",
+      "openIssues": 55,
+      "lastIssueCreatedAt": "2022-05-12T07:12:15Z",
       "contributors": 9
     },
     {
@@ -160,7 +161,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2022-05-10T23:35:07Z",
+      "pushedAt": "2022-05-11T23:35:23Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
