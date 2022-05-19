@@ -1,6 +1,6 @@
 {
-  "closedIssuesThisMonth": 8,
-  "contributors": 90,
+  "closedIssuesThisMonth": 9,
+  "contributors": 100,
   "projects": [
     {
       "name": "openbanking",
@@ -33,7 +33,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/react-components/",
       "url": "https://github.com/sebgroup/react-components",
-      "pushedAt": "2022-05-18T03:01:08Z",
+      "pushedAt": "2022-05-19T05:32:56Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -42,7 +42,7 @@
       "forkCount": 6,
       "openIssues": 35,
       "lastIssueCreatedAt": "2022-03-14T15:02:08Z",
-      "contributors": 8
+      "contributors": 10
     },
     {
       "name": "ng-components",
@@ -58,7 +58,7 @@
       "forkCount": 5,
       "openIssues": 37,
       "lastIssueCreatedAt": "2022-03-14T15:02:14Z",
-      "contributors": 11
+      "contributors": 13
     },
     {
       "name": "magic-iframe",
@@ -74,7 +74,7 @@
       "forkCount": 4,
       "openIssues": 0,
       "lastIssueCreatedAt": "2020-10-01T07:50:15Z",
-      "contributors": 1
+      "contributors": 2
     },
     {
       "name": "bootstrap",
@@ -90,7 +90,7 @@
       "forkCount": 4,
       "openIssues": 2,
       "lastIssueCreatedAt": "2022-03-16T08:30:29Z",
-      "contributors": 3
+      "contributors": 5
     },
     {
       "name": "vanilla-pattern-library",
@@ -106,7 +106,7 @@
       "forkCount": 11,
       "openIssues": 26,
       "lastIssueCreatedAt": "2022-03-08T14:16:45Z",
-      "contributors": 10
+      "contributors": 11
     },
     {
       "name": "repo-operator",
@@ -129,7 +129,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/green/latest/chlorophyll",
       "url": "https://github.com/sebgroup/green",
-      "pushedAt": "2022-05-16T17:47:23Z",
+      "pushedAt": "2022-05-19T11:49:52Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -137,8 +137,7 @@
       "stargazers": 6,
       "forkCount": 3,
       "openIssues": 52,
-      "lastIssueCreatedAt": "2022-05-12T07:12:15Z",
-      "contributors": 9
+      "lastIssueCreatedAt": "2022-05-19T08:11:21Z"
     },
     {
       "name": "seb-angular-material",
@@ -154,14 +153,14 @@
       "forkCount": 1,
       "openIssues": 30,
       "lastIssueCreatedAt": "2022-03-14T15:02:11Z",
-      "contributors": 6
+      "contributors": 7
     },
     {
       "name": "sebgroup.github.io",
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2022-05-17T23:34:11Z",
+      "pushedAt": "2022-05-18T23:34:19Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -201,7 +200,7 @@
       "forkCount": 0,
       "openIssues": 2,
       "lastIssueCreatedAt": "2021-03-16T10:50:59Z",
-      "contributors": 5
+      "contributors": 7
     },
     {
       "name": "yttringar",
@@ -217,7 +216,7 @@
       "forkCount": 1,
       "openIssues": 8,
       "lastIssueCreatedAt": "2019-11-28T16:44:38Z",
-      "contributors": 1
+      "contributors": 2
     },
     {
       "name": "fonts",
@@ -265,7 +264,7 @@
       "forkCount": 1,
       "openIssues": 1,
       "lastIssueCreatedAt": "2019-11-28T16:27:35Z",
-      "contributors": 2
+      "contributors": 3
     },
     {
       "name": "thumbs-up",
@@ -295,7 +294,7 @@
       "stargazers": 1,
       "forkCount": 1,
       "openIssues": 0,
-      "contributors": 2
+      "contributors": 3
     },
     {
       "name": "react-wizard",
@@ -311,7 +310,7 @@
       "forkCount": 0,
       "openIssues": 5,
       "lastIssueCreatedAt": "2022-04-08T06:23:01Z",
-      "contributors": 2
+      "contributors": 3
     },
     {
       "name": "document-write-intervene",
@@ -343,7 +342,7 @@
       "forkCount": 5,
       "openIssues": 5,
       "lastIssueCreatedAt": "2022-04-25T10:58:08Z",
-      "contributors": 3
+      "contributors": 4
     },
     {
       "name": "ngx-toastr",
@@ -358,7 +357,7 @@
       "stargazers": 0,
       "forkCount": 0,
       "openIssues": 0,
-      "contributors": 1
+      "contributors": 3
     },
     {
       "name": "ng-bootstrap",
@@ -374,7 +373,7 @@
       "forkCount": 0,
       "openIssues": 2,
       "lastIssueCreatedAt": "2020-05-29T07:21:57Z",
-      "contributors": 1
+      "contributors": 2
     },
     {
       "name": "aci-search",
