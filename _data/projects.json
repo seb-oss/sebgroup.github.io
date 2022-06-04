@@ -1,6 +1,6 @@
 {
   "closedIssuesThisMonth": 0,
-  "contributors": 111,
+  "contributors": 116,
   "projects": [
     {
       "name": "openbanking",
@@ -129,7 +129,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/green/latest/chlorophyll",
       "url": "https://github.com/sebgroup/green",
-      "pushedAt": "2022-06-02T16:24:34Z",
+      "pushedAt": "2022-06-03T23:49:34Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -161,7 +161,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2022-06-02T23:33:14Z",
+      "pushedAt": "2022-06-03T23:32:48Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -169,14 +169,15 @@
       "stargazers": 4,
       "forkCount": 0,
       "openIssues": 0,
-      "lastIssueCreatedAt": "2020-04-01T06:12:32Z"
+      "lastIssueCreatedAt": "2020-04-01T06:12:32Z",
+      "contributors": 5
     },
     {
       "name": "seb-pictograms",
       "description": "SEB Pictograms CSS library",
       "homepageUrl": "https://sebgroup.github.io/seb-pictograms/",
       "url": "https://github.com/sebgroup/seb-pictograms",
-      "pushedAt": "2022-03-24T14:45:09Z",
+      "pushedAt": "2022-06-04T00:05:00Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -240,7 +241,7 @@
       "description": null,
       "homepageUrl": null,
       "url": "https://github.com/sebgroup/ng-debug",
-      "pushedAt": "2022-06-02T15:59:38Z",
+      "pushedAt": "2022-06-04T00:05:06Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -287,7 +288,7 @@
       "description": "Angular Dynamic form generator",
       "homepageUrl": null,
       "url": "https://github.com/sebgroup/ng-dynamic-form",
-      "pushedAt": "2022-06-01T21:38:57Z",
+      "pushedAt": "2022-06-04T00:05:34Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
@@ -302,7 +303,7 @@
       "description": "react wizard component",
       "homepageUrl": null,
       "url": "https://github.com/sebgroup/react-wizard",
-      "pushedAt": "2022-06-01T21:29:40Z",
+      "pushedAt": "2022-06-03T23:54:12Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#2b7489"
