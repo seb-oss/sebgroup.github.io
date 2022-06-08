@@ -1,6 +1,6 @@
 {
   "closedIssuesThisMonth": 1,
-  "contributors": 100,
+  "contributors": 111,
   "projects": [
     {
       "name": "openbanking",
@@ -137,7 +137,8 @@
       "stargazers": 6,
       "forkCount": 3,
       "openIssues": 53,
-      "lastIssueCreatedAt": "2022-05-31T05:56:54Z"
+      "lastIssueCreatedAt": "2022-05-31T05:56:54Z",
+      "contributors": 11
     },
     {
       "name": "seb-angular-material",
@@ -160,7 +161,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2022-06-06T23:33:30Z",
+      "pushedAt": "2022-06-07T23:33:05Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
