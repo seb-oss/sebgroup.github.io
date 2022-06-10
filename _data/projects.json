@@ -33,10 +33,10 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/react-components/",
       "url": "https://github.com/sebgroup/react-components",
-      "pushedAt": "2022-06-03T22:57:33Z",
+      "pushedAt": "2022-06-10T01:05:31Z",
       "primaryLanguage": {
         "name": "TypeScript",
-        "color": "#2b7489"
+        "color": "#3178c6"
       },
       "stargazers": 11,
       "forkCount": 6,
@@ -49,15 +49,15 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/ng-components",
       "url": "https://github.com/sebgroup/ng-components",
-      "pushedAt": "2022-06-03T23:26:39Z",
+      "pushedAt": "2022-06-10T00:47:53Z",
       "primaryLanguage": {
         "name": "TypeScript",
-        "color": "#2b7489"
+        "color": "#3178c6"
       },
       "stargazers": 10,
       "forkCount": 5,
-      "openIssues": 37,
-      "lastIssueCreatedAt": "2022-03-14T15:02:14Z",
+      "openIssues": 39,
+      "lastIssueCreatedAt": "2022-06-10T09:37:09Z",
       "contributors": 13
     },
     {
@@ -65,7 +65,7 @@
       "description": "A standalone bootstrap theme for SEB",
       "homepageUrl": "https://sebgroup.github.io/bootstrap/",
       "url": "https://github.com/sebgroup/bootstrap",
-      "pushedAt": "2022-06-03T23:20:21Z",
+      "pushedAt": "2022-06-10T00:45:15Z",
       "primaryLanguage": {
         "name": "HTML",
         "color": "#e34c26"
@@ -81,10 +81,10 @@
       "description": "A magical iframe component ",
       "homepageUrl": "https://sebgroup.github.io/magic-iframe/",
       "url": "https://github.com/sebgroup/magic-iframe",
-      "pushedAt": "2022-05-16T20:20:11Z",
+      "pushedAt": "2022-06-10T00:46:20Z",
       "primaryLanguage": {
         "name": "TypeScript",
-        "color": "#2b7489"
+        "color": "#3178c6"
       },
       "stargazers": 9,
       "forkCount": 4,
@@ -97,7 +97,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/vanilla-pattern-library/",
       "url": "https://github.com/sebgroup/vanilla-pattern-library",
-      "pushedAt": "2022-04-09T04:26:41Z",
+      "pushedAt": "2022-06-10T00:45:29Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -132,7 +132,7 @@
       "pushedAt": "2022-06-09T15:02:03Z",
       "primaryLanguage": {
         "name": "TypeScript",
-        "color": "#2b7489"
+        "color": "#3178c6"
       },
       "stargazers": 6,
       "forkCount": 3,
@@ -148,7 +148,7 @@
       "pushedAt": "2022-04-29T00:27:31Z",
       "primaryLanguage": {
         "name": "TypeScript",
-        "color": "#2b7489"
+        "color": "#3178c6"
       },
       "stargazers": 4,
       "forkCount": 1,
@@ -161,7 +161,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2022-06-08T23:33:16Z",
+      "pushedAt": "2022-06-09T23:32:59Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -176,10 +176,10 @@
       "description": "SEB Pictograms CSS library",
       "homepageUrl": "https://sebgroup.github.io/seb-pictograms/",
       "url": "https://github.com/sebgroup/seb-pictograms",
-      "pushedAt": "2022-06-04T00:05:00Z",
+      "pushedAt": "2022-06-10T01:04:09Z",
       "primaryLanguage": {
         "name": "TypeScript",
-        "color": "#2b7489"
+        "color": "#3178c6"
       },
       "stargazers": 3,
       "forkCount": 1,
@@ -192,10 +192,10 @@
       "description": "A set of frontend tools written in Typescript",
       "homepageUrl": "https://github.com/sebgroup/frontend-tools/wiki",
       "url": "https://github.com/sebgroup/frontend-tools",
-      "pushedAt": "2022-06-03T23:19:01Z",
+      "pushedAt": "2022-06-10T00:45:01Z",
       "primaryLanguage": {
         "name": "TypeScript",
-        "color": "#2b7489"
+        "color": "#3178c6"
       },
       "stargazers": 3,
       "forkCount": 0,
@@ -211,7 +211,7 @@
       "pushedAt": "2022-04-29T02:55:11Z",
       "primaryLanguage": {
         "name": "TypeScript",
-        "color": "#2b7489"
+        "color": "#3178c6"
       },
       "stargazers": 2,
       "forkCount": 1,
@@ -240,10 +240,10 @@
       "description": null,
       "homepageUrl": null,
       "url": "https://github.com/sebgroup/ng-debug",
-      "pushedAt": "2022-06-04T00:05:06Z",
+      "pushedAt": "2022-06-10T01:03:18Z",
       "primaryLanguage": {
         "name": "TypeScript",
-        "color": "#2b7489"
+        "color": "#3178c6"
       },
       "stargazers": 1,
       "forkCount": 2,
@@ -259,7 +259,7 @@
       "pushedAt": "2021-08-11T18:00:25Z",
       "primaryLanguage": {
         "name": "TypeScript",
-        "color": "#2b7489"
+        "color": "#3178c6"
       },
       "stargazers": 1,
       "forkCount": 1,
@@ -287,10 +287,10 @@
       "description": "Angular Dynamic form generator",
       "homepageUrl": null,
       "url": "https://github.com/sebgroup/ng-dynamic-form",
-      "pushedAt": "2022-06-04T00:05:34Z",
+      "pushedAt": "2022-06-10T00:54:53Z",
       "primaryLanguage": {
         "name": "TypeScript",
-        "color": "#2b7489"
+        "color": "#3178c6"
       },
       "stargazers": 1,
       "forkCount": 1,
@@ -302,10 +302,10 @@
       "description": "react wizard component",
       "homepageUrl": null,
       "url": "https://github.com/sebgroup/react-wizard",
-      "pushedAt": "2022-06-03T23:54:12Z",
+      "pushedAt": "2022-06-10T00:55:31Z",
       "primaryLanguage": {
         "name": "TypeScript",
-        "color": "#2b7489"
+        "color": "#3178c6"
       },
       "stargazers": 1,
       "forkCount": 0,
@@ -334,10 +334,10 @@
       "description": "Wizard component built for angular 12+",
       "homepageUrl": "https://sebgroup.github.io/ng-wizard/",
       "url": "https://github.com/sebgroup/ng-wizard",
-      "pushedAt": "2022-06-03T23:15:13Z",
+      "pushedAt": "2022-06-10T00:43:55Z",
       "primaryLanguage": {
         "name": "TypeScript",
-        "color": "#2b7489"
+        "color": "#3178c6"
       },
       "stargazers": 0,
       "forkCount": 5,
@@ -353,7 +353,7 @@
       "pushedAt": "2022-06-03T00:29:41Z",
       "primaryLanguage": {
         "name": "TypeScript",
-        "color": "#2b7489"
+        "color": "#3178c6"
       },
       "stargazers": 0,
       "forkCount": 0,
@@ -365,7 +365,7 @@
       "description": "A SEB themed stylesheet for ng-bootstrap",
       "homepageUrl": "https://sebgroup.github.io/ng-bootstrap/master",
       "url": "https://github.com/sebgroup/ng-bootstrap",
-      "pushedAt": "2022-06-03T23:18:03Z",
+      "pushedAt": "2022-06-10T00:45:04Z",
       "primaryLanguage": {
         "name": "HTML",
         "color": "#e34c26"
@@ -399,7 +399,7 @@
       "pushedAt": "2021-04-28T08:57:26Z",
       "primaryLanguage": {
         "name": "TypeScript",
-        "color": "#2b7489"
+        "color": "#3178c6"
       },
       "stargazers": 0,
       "forkCount": 0,
