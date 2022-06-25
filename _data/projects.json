@@ -129,7 +129,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/green/latest/chlorophyll",
       "url": "https://github.com/sebgroup/green",
-      "pushedAt": "2022-06-23T12:32:12Z",
+      "pushedAt": "2022-06-25T08:08:36Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#3178c6"
@@ -161,7 +161,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2022-06-23T23:33:26Z",
+      "pushedAt": "2022-06-25T10:39:37Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -365,7 +365,7 @@
       "description": "A SEB themed stylesheet for ng-bootstrap",
       "homepageUrl": "https://sebgroup.github.io/ng-bootstrap/master",
       "url": "https://github.com/sebgroup/ng-bootstrap",
-      "pushedAt": "2022-06-10T00:45:04Z",
+      "pushedAt": "2022-06-25T09:12:46Z",
       "primaryLanguage": {
         "name": "HTML",
         "color": "#e34c26"
