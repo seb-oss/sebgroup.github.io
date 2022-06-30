@@ -1,19 +1,18 @@
 {
   "closedIssuesThisMonth": 7,
-  "contributors": 98,
+  "contributors": 109,
   "projects": [
     {
       "name": "openbanking",
       "description": "SEB is banking outside the box! Find additional documentation here that will help you integrate with our APIs.",
       "homepageUrl": "https://developer.sebgroup.com",
       "url": "https://github.com/sebgroup/openbanking",
-      "pushedAt": "2022-04-13T08:05:25Z",
+      "pushedAt": "2022-06-30T16:47:23Z",
       "primaryLanguage": null,
       "stargazers": 14,
-      "forkCount": 13,
+      "forkCount": 14,
       "openIssues": 0,
-      "lastIssueCreatedAt": "2022-04-26T18:16:06Z",
-      "contributors": 2
+      "lastIssueCreatedAt": "2022-04-26T18:16:06Z"
     },
     {
       "name": "design-library",
@@ -57,7 +56,8 @@
       "stargazers": 11,
       "forkCount": 6,
       "openIssues": 40,
-      "lastIssueCreatedAt": "2022-06-27T08:14:04Z"
+      "lastIssueCreatedAt": "2022-06-27T08:14:04Z",
+      "contributors": 13
     },
     {
       "name": "magic-iframe",
@@ -80,7 +80,7 @@
       "description": "A standalone bootstrap theme for SEB",
       "homepageUrl": "https://sebgroup.github.io/bootstrap/",
       "url": "https://github.com/sebgroup/bootstrap",
-      "pushedAt": "2022-06-17T02:01:01Z",
+      "pushedAt": "2022-06-30T11:00:21Z",
       "primaryLanguage": {
         "name": "HTML",
         "color": "#e34c26"
@@ -128,7 +128,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/green/latest/chlorophyll",
       "url": "https://github.com/sebgroup/green",
-      "pushedAt": "2022-06-29T11:12:42Z",
+      "pushedAt": "2022-06-30T14:46:50Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#3178c6"
@@ -160,7 +160,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2022-06-28T23:33:19Z",
+      "pushedAt": "2022-06-29T23:33:50Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
