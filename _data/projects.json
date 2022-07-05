@@ -1,6 +1,6 @@
 {
-  "closedIssuesThisMonth": 0,
-  "contributors": 106,
+  "closedIssuesThisMonth": 2,
+  "contributors": 112,
   "projects": [
     {
       "name": "openbanking",
@@ -81,14 +81,14 @@
       "description": "A standalone bootstrap theme for SEB",
       "homepageUrl": "https://sebgroup.github.io/bootstrap/",
       "url": "https://github.com/sebgroup/bootstrap",
-      "pushedAt": "2022-06-30T11:00:21Z",
+      "pushedAt": "2022-07-05T06:29:30Z",
       "primaryLanguage": {
-        "name": "HTML",
-        "color": "#e34c26"
+        "name": "SCSS",
+        "color": "#c6538c"
       },
       "stargazers": 9,
       "forkCount": 4,
-      "openIssues": 2,
+      "openIssues": 0,
       "lastIssueCreatedAt": "2022-03-16T08:30:29Z",
       "contributors": 5
     },
@@ -136,8 +136,9 @@
       },
       "stargazers": 6,
       "forkCount": 3,
-      "openIssues": 52,
-      "lastIssueCreatedAt": "2022-06-29T10:13:20Z"
+      "openIssues": 55,
+      "lastIssueCreatedAt": "2022-07-05T07:56:36Z",
+      "contributors": 11
     },
     {
       "name": "seb-angular-material",
@@ -160,7 +161,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2022-07-03T23:33:16Z",
+      "pushedAt": "2022-07-04T23:33:28Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -168,8 +169,7 @@
       "stargazers": 4,
       "forkCount": 0,
       "openIssues": 0,
-      "lastIssueCreatedAt": "2020-04-01T06:12:32Z",
-      "contributors": 5
+      "lastIssueCreatedAt": "2020-04-01T06:12:32Z"
     },
     {
       "name": "seb-pictograms",
