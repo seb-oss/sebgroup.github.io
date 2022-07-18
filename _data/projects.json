@@ -1,5 +1,5 @@
 {
-  "closedIssuesThisMonth": 4,
+  "closedIssuesThisMonth": 5,
   "contributors": 113,
   "projects": [
     {
@@ -129,14 +129,14 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/green/latest/chlorophyll",
       "url": "https://github.com/sebgroup/green",
-      "pushedAt": "2022-07-16T07:40:41Z",
+      "pushedAt": "2022-07-18T20:18:33Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#3178c6"
       },
       "stargazers": 6,
       "forkCount": 4,
-      "openIssues": 56,
+      "openIssues": 55,
       "lastIssueCreatedAt": "2022-07-12T09:52:48Z",
       "contributors": 12
     },
@@ -161,7 +161,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2022-07-16T23:32:59Z",
+      "pushedAt": "2022-07-17T23:33:12Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
