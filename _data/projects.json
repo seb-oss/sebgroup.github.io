@@ -1,5 +1,5 @@
 {
-  "closedIssuesThisMonth": 5,
+  "closedIssuesThisMonth": 6,
   "contributors": 113,
   "projects": [
     {
@@ -97,7 +97,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/vanilla-pattern-library/",
       "url": "https://github.com/sebgroup/vanilla-pattern-library",
-      "pushedAt": "2022-07-07T14:16:19Z",
+      "pushedAt": "2022-07-20T01:40:34Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -134,7 +134,7 @@
         "name": "TypeScript",
         "color": "#3178c6"
       },
-      "stargazers": 6,
+      "stargazers": 7,
       "forkCount": 4,
       "openIssues": 55,
       "lastIssueCreatedAt": "2022-07-12T09:52:48Z",
@@ -150,7 +150,7 @@
         "name": "TypeScript",
         "color": "#3178c6"
       },
-      "stargazers": 4,
+      "stargazers": 5,
       "forkCount": 1,
       "openIssues": 30,
       "lastIssueCreatedAt": "2022-03-14T15:02:11Z",
@@ -161,7 +161,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2022-07-18T23:33:41Z",
+      "pushedAt": "2022-07-19T23:34:25Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -192,14 +192,14 @@
       "description": "A set of frontend tools written in Typescript",
       "homepageUrl": "https://github.com/sebgroup/frontend-tools/wiki",
       "url": "https://github.com/sebgroup/frontend-tools",
-      "pushedAt": "2022-06-15T06:12:30Z",
+      "pushedAt": "2022-07-20T04:53:57Z",
       "primaryLanguage": {
-        "name": "TypeScript",
-        "color": "#3178c6"
+        "name": "HTML",
+        "color": "#e34c26"
       },
       "stargazers": 3,
       "forkCount": 1,
-      "openIssues": 2,
+      "openIssues": 1,
       "lastIssueCreatedAt": "2021-03-16T10:50:59Z",
       "contributors": 7
     },
@@ -287,7 +287,7 @@
       "description": "Angular Dynamic form generator",
       "homepageUrl": null,
       "url": "https://github.com/sebgroup/ng-dynamic-form",
-      "pushedAt": "2022-06-10T00:54:53Z",
+      "pushedAt": "2022-07-20T19:01:22Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#3178c6"
