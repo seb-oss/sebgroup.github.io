@@ -161,7 +161,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2022-07-23T23:33:43Z",
+      "pushedAt": "2022-07-24T23:33:50Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -302,7 +302,7 @@
       "description": "react wizard component",
       "homepageUrl": null,
       "url": "https://github.com/sebgroup/react-wizard",
-      "pushedAt": "2022-07-21T01:32:05Z",
+      "pushedAt": "2022-07-25T10:09:05Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#3178c6"
