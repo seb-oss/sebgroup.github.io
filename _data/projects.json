@@ -1,5 +1,5 @@
 {
-  "closedIssuesThisMonth": 6,
+  "closedIssuesThisMonth": 0,
   "contributors": 114,
   "projects": [
     {
@@ -33,7 +33,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/react-components/",
       "url": "https://github.com/sebgroup/react-components",
-      "pushedAt": "2022-07-23T04:20:35Z",
+      "pushedAt": "2022-08-01T08:43:05Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#3178c6"
@@ -161,7 +161,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2022-07-30T23:33:11Z",
+      "pushedAt": "2022-08-01T00:33:13Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
