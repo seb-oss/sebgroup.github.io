@@ -1,6 +1,6 @@
 {
   "closedIssuesThisMonth": 1,
-  "contributors": 115,
+  "contributors": 105,
   "projects": [
     {
       "name": "openbanking",
@@ -33,7 +33,7 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/react-components/",
       "url": "https://github.com/sebgroup/react-components",
-      "pushedAt": "2022-08-05T08:56:35Z",
+      "pushedAt": "2022-08-08T02:54:39Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#3178c6"
@@ -41,8 +41,7 @@
       "stargazers": 11,
       "forkCount": 6,
       "openIssues": 35,
-      "lastIssueCreatedAt": "2022-08-02T05:04:03Z",
-      "contributors": 10
+      "lastIssueCreatedAt": "2022-08-02T05:04:03Z"
     },
     {
       "name": "ng-components",
@@ -161,7 +160,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2022-08-06T23:33:27Z",
+      "pushedAt": "2022-08-07T23:33:10Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -302,7 +301,7 @@
       "description": "react wizard component",
       "homepageUrl": null,
       "url": "https://github.com/sebgroup/react-wizard",
-      "pushedAt": "2022-08-05T09:22:51Z",
+      "pushedAt": "2022-08-08T02:56:27Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#3178c6"
