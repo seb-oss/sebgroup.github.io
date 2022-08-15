@@ -1,5 +1,5 @@
 {
-  "closedIssuesThisMonth": 3,
+  "closedIssuesThisMonth": 7,
   "contributors": 115,
   "projects": [
     {
@@ -129,14 +129,14 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/green/latest/chlorophyll",
       "url": "https://github.com/sebgroup/green",
-      "pushedAt": "2022-08-12T13:38:51Z",
+      "pushedAt": "2022-08-15T11:40:33Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#3178c6"
       },
       "stargazers": 7,
       "forkCount": 4,
-      "openIssues": 57,
+      "openIssues": 53,
       "lastIssueCreatedAt": "2022-08-11T08:28:17Z",
       "contributors": 12
     },
@@ -161,7 +161,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2022-08-13T23:33:16Z",
+      "pushedAt": "2022-08-14T23:33:25Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -302,7 +302,7 @@
       "description": "react wizard component",
       "homepageUrl": null,
       "url": "https://github.com/sebgroup/react-wizard",
-      "pushedAt": "2022-08-11T01:53:11Z",
+      "pushedAt": "2022-08-15T06:59:54Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#3178c6"
