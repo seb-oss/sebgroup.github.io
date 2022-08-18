@@ -1,6 +1,6 @@
 {
   "closedIssuesThisMonth": 7,
-  "contributors": 115,
+  "contributors": 111,
   "projects": [
     {
       "name": "openbanking",
@@ -129,15 +129,15 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/green/latest/chlorophyll",
       "url": "https://github.com/sebgroup/green",
-      "pushedAt": "2022-08-17T13:17:41Z",
+      "pushedAt": "2022-08-18T08:52:30Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#3178c6"
       },
       "stargazers": 7,
       "forkCount": 4,
-      "openIssues": 55,
-      "lastIssueCreatedAt": "2022-08-17T12:55:00Z",
+      "openIssues": 56,
+      "lastIssueCreatedAt": "2022-08-18T11:42:09Z",
       "contributors": 12
     },
     {
@@ -161,7 +161,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2022-08-16T23:33:28Z",
+      "pushedAt": "2022-08-17T23:33:39Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -302,7 +302,7 @@
       "description": "react wizard component",
       "homepageUrl": null,
       "url": "https://github.com/sebgroup/react-wizard",
-      "pushedAt": "2022-08-15T06:59:54Z",
+      "pushedAt": "2022-08-18T06:15:37Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#3178c6"
@@ -310,8 +310,7 @@
       "stargazers": 1,
       "forkCount": 1,
       "openIssues": 5,
-      "lastIssueCreatedAt": "2022-08-05T04:17:21Z",
-      "contributors": 4
+      "lastIssueCreatedAt": "2022-08-05T04:17:21Z"
     },
     {
       "name": "document-write-intervene",
