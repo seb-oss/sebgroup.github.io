@@ -136,8 +136,8 @@
       },
       "stargazers": 7,
       "forkCount": 4,
-      "openIssues": 58,
-      "lastIssueCreatedAt": "2022-08-29T12:39:29Z",
+      "openIssues": 60,
+      "lastIssueCreatedAt": "2022-09-05T08:42:29Z",
       "contributors": 13
     },
     {
@@ -161,7 +161,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2022-09-03T23:34:03Z",
+      "pushedAt": "2022-09-04T23:34:20Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
@@ -287,7 +287,7 @@
       "description": "Angular Dynamic form generator",
       "homepageUrl": null,
       "url": "https://github.com/sebgroup/ng-dynamic-form",
-      "pushedAt": "2022-07-20T19:01:22Z",
+      "pushedAt": "2022-09-05T11:43:47Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#3178c6"
