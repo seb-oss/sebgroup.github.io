@@ -112,7 +112,7 @@
         "color": "#00ADD8"
       },
       "stargazers": 8,
-      "forkCount": 2,
+      "forkCount": 3,
       "openIssues": 0,
       "lastIssueCreatedAt": "2019-11-29T06:49:55Z"
     },
@@ -151,7 +151,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2022-09-07T23:37:24Z",
+      "pushedAt": "2022-09-08T23:36:11Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
