@@ -121,15 +121,15 @@
       "description": null,
       "homepageUrl": "https://sebgroup.github.io/green/latest/chlorophyll",
       "url": "https://github.com/sebgroup/green",
-      "pushedAt": "2022-09-13T13:35:41Z",
+      "pushedAt": "2022-09-14T07:20:56Z",
       "primaryLanguage": {
         "name": "TypeScript",
         "color": "#3178c6"
       },
       "stargazers": 7,
       "forkCount": 4,
-      "openIssues": 63,
-      "lastIssueCreatedAt": "2022-09-13T11:24:52Z"
+      "openIssues": 64,
+      "lastIssueCreatedAt": "2022-09-14T10:29:09Z"
     },
     {
       "name": "seb-angular-material",
@@ -151,7 +151,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2022-09-12T23:36:25Z",
+      "pushedAt": "2022-09-13T23:36:24Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
