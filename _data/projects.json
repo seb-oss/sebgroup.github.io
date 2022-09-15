@@ -128,8 +128,8 @@
       },
       "stargazers": 7,
       "forkCount": 4,
-      "openIssues": 64,
-      "lastIssueCreatedAt": "2022-09-14T10:29:09Z"
+      "openIssues": 65,
+      "lastIssueCreatedAt": "2022-09-15T09:52:52Z"
     },
     {
       "name": "seb-angular-material",
@@ -151,7 +151,7 @@
       "description": "A website for SEBs open source repositories",
       "homepageUrl": "https://sebgroup.github.io/",
       "url": "https://github.com/sebgroup/sebgroup.github.io",
-      "pushedAt": "2022-09-13T23:36:24Z",
+      "pushedAt": "2022-09-14T23:35:52Z",
       "primaryLanguage": {
         "name": "SCSS",
         "color": "#c6538c"
